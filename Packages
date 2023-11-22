@@ -4,6 +4,7 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
 Conflicts: com.jakeashacks.realcc
 Description: Bật/tắt Wi-Fi và Bluetooth từ Trung tâm điều khiển (iOS 11+).
 Maintainer: BVN
+Filename: ./debs/com.bvn.cconandoff_1.1.0_iphoneos-arm64e.deb
 Author: PoomSmart
 Section: Tweaks
 MD5sum: 3f1d1f2c8414fefa20bb5d720deec885
