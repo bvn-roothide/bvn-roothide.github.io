@@ -42,6 +42,48 @@ Depiction: http://support-jailbreak.github.io/infodeb/AIM/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/aimpro.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.batterypercent
+Architecture: iphoneos-arm64e
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 104
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate
+Filename: ./debs/com.BIENVANNHAT.batterypercent_1.1.2_iphoneos-arm64e.deb
+Size: 13836
+MD5sum: 675100832b785c42c62082cb593b431a
+SHA1: b888c882360dabc1271c84030edbf9ca12f9b89f
+SHA256: f49056497e00ada1cb682e3fec07c92a43855b6e7db15e0ae5e7ff536a1b5170
+SHA512: 989273437aed18873d6cb03bb49287d2bfb8513ad777b1184f9005e7174d7f2e54e8579478efb65db43d998f1c061587d0be06ac784ed63d70e288cd19cab942
+Description: Hiển thị phần trăm pin iOS 16 cho thiết bị đã bẻ khóa!
+Name: BatteryPercent iOS16 (Roothide)
+Author: nqt1195
+Depiction: http://bvnsupport.github.io/infodeb/BatteryPercent/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BatteryPercent.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.betterccxi
+Architecture: iphoneos-arm64e
+Version: 1.6.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 640
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debs/com.BIENVANNHAT.betterccxi_1.6.0_iphoneos-arm64e.deb
+Size: 86044
+MD5sum: 21b5af4566b0c365baa38a8c4157fd88
+SHA1: 5ea68c84ed1674228208a8baa96081a1d2a198ce
+SHA256: f4714cb396dffa0db17ebd08063aa56b9fe4e3b2c16d7b1a315205c1927d5b70
+SHA512: ef3a0c4d63ce7cb8ae698ffc7fd4c3767e68871513ee5124830f1d9fc7f7747a353a8875ea6c1092698226969adf964489c9b1044311b34889ef33e3c3d1c99c
+Description: Tăng cường trung tâm điều khiển của bạn trên iOS 11 và iOS 12
+Name: BetterCCXI VH(Roothide)
+Author: ATWiiks
+Depiction: http://support-jailbreak.github.io/infodeb/BetterCCXI/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/BetterCCXI.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.facebooknoads
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -169,6 +211,28 @@ Depiction: http://bvnsupport.github.io/infodeb/Crane/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Crane.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.REPOBVN.enekoalt
+Architecture: iphoneos-arm64e
+Version: 1.2-rootless
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 464
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.5.3), preferenceloader, com.mrgcgamer.libgcuniversal (>= 1.6.3)
+Conflicts: love.litten.eneko, dev.traurige.eneko, net.limneos.voicechangerx-rootless
+Filename: ./debs/com.REPOBVN.enekoalt_1.2-rootless_iphoneos-arm64e.deb
+Size: 36460
+MD5sum: a083de893cc93f2dc46c9793020b081d
+SHA1: c91bf4c58de1f37cbc101d54d633f47845fd1771
+SHA256: c1856499256dc0552df105c9383ee270f99a843e655727e90b14e266b693c262
+SHA512: 2232dc43ddbfd83444b6a8d350256dc83be701633b537be3961dffe20f0c7199f709cd75656f3c9d8cadc7f45184738514fd7b085856ebf2990dd90aa8f8c70e
+Description: Hình nền video cho iOS. Tinh chỉnh ban đầu đã được sửa đổi để hỗ trợ rootless.
+Name: Eneko VH(Roothide)
+Depiction: http://support-jailbreak.github.io/infodeb/Eneko/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Eneko.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Traurige <hello@traurige.dev>
+
 Package: com.REPOBVN.laetus
 Architecture: iphoneos-arm64e
 Version: 3.5.1-roothide
@@ -209,6 +273,50 @@ Name: SneakyCam VH(Roothide)
 Author: SparkDev
 Depiction: http://support-jailbreak.github.io/infodeb/SneakyCam/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SneakyCam.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.Repobvn.audiorecorderxs-rootless
+Architecture: iphoneos-arm64e
+Version: 5.0-5
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 5960
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-roothide, firmware(>=12.0), com.bvn.limneos
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./debs/com.Repobvn.audiorecorderxs-rootless_5.0-5_iphoneos-arm64e.deb
+Size: 1190980
+MD5sum: 0b204fe0e150f4727fc46ae643bcd1ca
+SHA1: 71fd561ced47b8f6923c7e7b8e9ece852b0d4320
+SHA256: 3490608e674338bc163d39ef55ce7f136e0edcdf16a03e27fecb0423c83cf669
+SHA512: d6cab9581f6c565ceb9133b1d7e68fd920b64bb0729a36ddc731cb791c057098bdd8c07c14a55ffa4258d3a9cff221f344b306a89361abadc458ddc9bbe770ca
+Description: Trình ghi âm cuộc gọi iOS tốt nhất hiện nay.
+Name: AudioRecorder XS (rootless) (iOS 12 to 16)
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+MainLibMD5: 2bd89895e747af47790b0eb2f6bac296
+
+Package: com.Repobvn.carbridge13-roothide
+Architecture: iphoneos-arm64e
+Version: 2.0.12-2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 7344
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs/com.Repobvn.carbridge13-roothide_2.0.12-2_iphoneos-arm64e.deb
+Size: 455500
+MD5sum: 06a68baecfd6e82c820e52b778c330d8
+SHA1: 4891c24c617b9677461274615e581a27ea8aabe3
+SHA256: af24c81563f72288155b86b51ceaf671ef20914a5d93e7ba6f5d7fb8332e8628
+SHA512: 95296ea6733049e89a07afb231fed1d9fe3fd8c335d02c593e8be9c7f9073a0b18fed1d4a9e4be4d99ca2f1c6153cddf04a13def0b0ef03090b0a629053d3b6f
+Description: Mở bất kỳ ứng dụng nào trong CarPlay!
+Name: CarBridge VH (Roothide)
+Author: leftyfl1p <carbridge@havoc.app>
+Depiction: https://support-jailbreak.github.io/depictions/CarBridge.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/CarBridge.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.Repobvn.powerselector11-rootless
@@ -442,6 +550,27 @@ Description: Crack for Limneos tweaks
 Name: Limneos CRK
 Author: Anna
 
+Package: com.bvn.plampycc
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 2768
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.plampycc_1.0.1_iphoneos-arm64e.deb
+Size: 865936
+MD5sum: f03f7dbeeb0f4d95fd63e12131d51e3e
+SHA1: bbaac9d3a020545e826aa22a42ea4e6a9719188f
+SHA256: 08ef1fea32b4816bef9d8b17ba03fa5f0e5293ce0642eecca5d7667bc999b3ef
+SHA512: cf66fbd863ec704c95bdb143f19a5e16c84825622ffd35b0b71e0f067b32bb3f1f6e1fc4330293e0ce2b3b768e0255c188a07f0bd00a527a226b8067ef0d4778
+Description: PlampyCC by YangJiiii on Jailbroken devices for iOS15 & 16.
+Name: PlampyCC VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/PlampyCC/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyCC.json
+Author: sugiuta
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.ytx
 Architecture: iphoneos-arm64e
 Version: 1.4.2
@@ -484,6 +613,26 @@ Name: iCleaner Pro (Roothide)
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
+
+Package: com.mrgcgamer.libgcuniversal
+Architecture: iphoneos-arm64e
+Version: 1.6.4
+Section: Development
+Maintainer: MrGcGamer
+Installed-Size: 296
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Filename: ./debs/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm64e.deb
+Size: 195182
+MD5sum: ec9b88b909730d6104e15eacd8513495
+SHA1: 948e489f46ffa16db7b95590551956fb03c1d781
+SHA256: dd4c46358ccb5f2e50e5ef6aefa7255cd387d1f599ec13146a72f1e4c3525a0d
+SHA512: f8d7c7c010f78a7279b21e307dd4135f2bc9ec9c296e01f667b4bc74d17a0086c586254cfaa6487d46d9a9b065eb817fe7596aee1ecdb4c4b04ead69f94b01f3
+Description: An awesome library of some sort!!
+Tag: role::developer
+Name: LibGcUniversal (Roothide)
+Author: MrGcGamer
 
 Package: com.opa334.ccsupport
 Architecture: iphoneos-arm
@@ -530,6 +679,27 @@ Name: YTABGoodies (Roothide)
 Author: PoomSmart
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.reoobvn.shuffle-roothide
+Architecture: iphoneos-arm64e
+Version: 1.6.2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences
+Filename: ./debs/com.reoobvn.shuffle-roothide_1.6.2_iphoneos-arm64e.deb
+Size: 256280
+MD5sum: 323ad0054818732f4a05e638c9a24c0f
+SHA1: ca61d2b69e94c52ecb2ef14cb6851e56e6837e36
+SHA256: d810f94647c9047df888f24a43f9a5d20c0e0afefa62554d0771be001c367d63
+SHA512: 43df22f5816e5ce46369a3e50ee40e6253eb6b024d9105d4d50f07dac67414bb057974992b15529d41269ebd351bf83476607b4262610a16550f7113e8bf2490
+Description: Shuffle
+Name: Shuffle VH (Roothide)
+Author: CreatureSurvive
+Depiction: https://support-jailbreak.github.io/depictions/Shuffle1.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Shuffle1.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repobvn.GoodWifi-roothide
 Architecture: iphoneos-arm64e
 Version: 0.1
@@ -549,6 +719,27 @@ Name: GoodWifi (Roothide)
 Author: Julioverne
 Depiction: https://support-jailbreak.github.io/depictions/GoodWifi.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/GoodWifi.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.a-font-roothide
+Architecture: iphoneos-arm64e
+Version: 1.10
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 2444
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.repobvn.a-font-roothide_1.10_iphoneos-arm64e.deb
+Size: 498996
+MD5sum: e73310ca65c15f9a8affb51ec7db949b
+SHA1: 5b3e41377c4e535c1793c9d0f4cd7afec7d0308f
+SHA256: 9506c55c4b5886c8b9e38a99a3cd0b6eb20d6d185ad7e6de30b5001815b7c0c0
+SHA512: 95f15d0dfc91fec32b70d54ed7a7b2b42c105e5854944be52f1c5e35678f4d7584fee3c7ebf3dacfb18faf7d778a46c96b78df86de19663ab5ad9cd7c53c3902
+Description: Thay đổi phông chữ của bạn!
+Name: A-Font VH(Roothide)
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: https://bvnsupport.github.io/depictions/A-Font.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/A-Font.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.atriaroothide
@@ -683,6 +874,46 @@ Depiction: https://bvnsupport.github.io/depictions/youpip.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.spark.libsparkcolourpicker
+Architecture: iphoneos-arm64e
+Version: 1.0.3-rootless
+Section: System
+Maintainer: Spark
+Installed-Size: 424
+Pre-Depends: rootless-compat(>= 0.1)
+Depends:
+Filename: ./debs/com.spark.libsparkcolourpicker_1.0.3-rootless_iphoneos-arm64e.deb
+Size: 282306
+MD5sum: 0c406e9b55854bac8d14bad0e754cd04
+SHA1: 9e668a109e66d980211552c88372d66311d45813
+SHA256: 0ed5bf341500bcf734a3dadea7e9e1567b7b83a0c88253b6dfdabd110cb5372e
+SHA512: a5f4dceb08733af63dd3bb887a1488c2eb9d5737b4a0c1524487b821d1a0009590784c88bc5399a7b90efc57a0477732fa6023c1a32db47ab3521bea789aa490
+Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
+Tag: role::developer
+Name: libsparkcolourpicker (Roothide)
+Author: Spark
+
+Package: emt.paisseon.xinamine
+Architecture: iphoneos-arm64e
+Version: 0.0.5
+Section: System
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 564
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
+Filename: ./debs/emt.paisseon.xinamine_0.0.5_iphoneos-arm64e.deb
+Size: 72212
+MD5sum: 5a88af2d99fa2d0f74c0fb24f049cad4
+SHA1: 22bf3eba3d38beab455a945d64d7d95f77d1c8b3
+SHA256: 5b8e94e955895697554789740b534b6a06c483b77362140309a17600c1e8b5c9
+SHA512: 6041ac573f3f97f601c6b1eccd9b0cdc85e5326ef433f2d010c59030e6a56054e1dad7674f5967910c1445780b6934dcee99fea347cc3b075c85ae95a6e0d44c
+Description: Thêm khả năng tương thích tinh chỉnh Xina với Dopamine
+Name: Xinamine (Roothide)
+Author: Sudo + Paisseon
+SileoDepiction: https://paisseon.github.io/depictions/Xinamine.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+
 Package: me.nepeta.axon-roothide
 Architecture: iphoneos-arm64e
 Version: 1.4
@@ -746,4 +977,26 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://limneos.net/bioprotectxs
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 4f1110aadbd864aa76fe9e6be32ac34d
+
+Package: net.repobvn.voicechangerx-rootless
+Architecture: iphoneos-arm64e
+Version: 2.4-3
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 1420
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader, com.bvn.limneos
+Conflicts:  com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/net.repobvn.voicechangerx-rootless_2.4-3_iphoneos-arm64e.deb
+Size: 235840
+MD5sum: 440c8c31ca4871834723dd90689ef37a
+SHA1: 7785ad4587d2d705af17ca94eb2776a509dc9651
+SHA256: e76bd9ce3159ac6814558117b4ebe73830ea71210421df78c651b273d39fdefa
+SHA512: 14982d2e4580f86bcb32edd188e5609f46c7c0c3ad937f8c38582c1d681bcc5fe235f719df8756530bc82f2ca365f013b994adda30ebc0dca569c129efcb0c84
+Description: Thay đổi giọng nói của bạn trong khi gọi!
+Name: VoiceChanger XS (Roothide) (iOS 11 to 16)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechangerx
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 8131809d9825837c841f8f54015f50b4
 
