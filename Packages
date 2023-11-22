@@ -146,6 +146,26 @@ Author: CP Digital Darkroom
 Depiction: http://support-jailbreak.github.io/infodeb/Barmoji/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Barmoji.json
 
+Package: com.BIENVANNHAT.safeccmodules
+Architecture: iphoneos-arm64e
+Version: 1.5-2
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.BIENVANNHAT.safeccmodules_1.5-2_iphoneos-arm64e.deb
+Size: 1179716
+MD5sum: 34f5ebd33de55aa23feff4675f2c1233
+SHA1: ee06d66ae2eae426e2a5a1595179135e18dcb034
+SHA256: 255f442765a71f3862b862a3550f4ea11a76cbf124074341e040c36da5acc0d2
+SHA512: a99138bb21baa0c4a0739dadfb99bd0cc51fcb6558958b1915eec70d0efc11e409980976676ca42ca159d3f47dc9e4cfa157627150632c8975256bde8a3b3564
+Description: Control center modules for iOS 11/12/13/15. New in v1.5-1: Fix for Tiny Volume and Silent Mode modules causing issues.
+Author: jailbreak365
+Name: CCModules (Roothide)
+dev: jailbreak365
+Depiction: http://support-jailbreak.github.io/infodeb/CCModules/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/CCModules.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.tiktokpro
 Architecture: iphoneos-arm64e
 Version: 3.2+Roothide
