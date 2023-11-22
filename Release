@@ -1,9 +1,11 @@
-Origin: BVN-Roothide Repo
-Label: iPhone/iPad-Jailbreak
+Origin: BVN Roothide Repo 
+Label: Repo Roothide
 Suite: stable
 Version: 1.1
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Architecture: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: BVN Repository
-MD5sum: 
+Description: Apple-Support
+MD5Sum:
+ b891516f1f0c7d142123236f513ab661 29378 Packages
+ b40f415e917a42f3e5a9ca58fcaaf6a3 9466 Packages.bz2
