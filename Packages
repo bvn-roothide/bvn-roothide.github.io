@@ -1,3 +1,25 @@
+Package: com.BIENVANNHAT.SearchDots
+Architecture: iphoneos-arm64e
+Version: 1.1.5
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 506
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.BIENVANNHAT.SearchDots_1.1.5_iphoneos-arm64e.deb
+Size: 109728
+MD5sum: c9264d83c08c7cbdeeaa0968bceaee73
+SHA1: 9755ea6ace3ef250db88f4afbb56fb8d04f8bc82
+SHA256: 0d04a95b865a8b91f37479fb12d550e668b493aea15bdc5129ad2fbed74a4978
+SHA512: e47f7cfcbdbf3817749d670ba6a571084e39bba37957d089d8d6352f0ddb79d22c06549b8f6739e036cb0468dcb63d8e5c6c30a6009ccbf4891c030a51b12e4e
+Description: Mang phong cách tìm kiếm trên iOS 16 xuống iOS 15
+Tag: compatible_min::ios14.0
+Author: Nightwind <nightwinddev@gmail.com>
+Name: SearchDots VH(Roothide)
+Depiction: http://support-jailbreak.github.io/infodeb/SearchDots/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SearchDots.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.aimprorooess
 Architecture: iphoneos-arm64e
 Version: 1.0.5
@@ -19,6 +41,68 @@ Author: alimaulana
 Depiction: http://support-jailbreak.github.io/infodeb/AIM/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/aimpro.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.facebooknoads
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN <bienvannhat97@gmail.com>
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate
+Filename: ./debs/com.BIENVANNHAT.facebooknoads_1.0.1_iphoneos-arm64e.deb
+Size: 7312
+MD5sum: 65b06addb1f365c5bd45dda65c0ce17c
+SHA1: 113d9a4b2dd9705e0f4122200fd6bac47ee5de3c
+SHA256: d86ef34b61135961fcc911eca2ae7ea73d37d8ee7fcb62e9e611d9f146583faf
+SHA512: 220d3dde3e9bb95bb767ac097c8ab6f1d8aba9b5da5fb2a886563565ba132ec72c21dc29c07eb54f3e877dac471872a798c6ea8db7879b352d982939ff71c0d6
+Description: Tạm biệt quảng cáo Facebook!
+Name: Facebook No ADS (Roothide)
+Author: CydiaGeek,Fix by BVN <lucaluca86@aol.com>
+Depiction: http://bvnsupport.github.io/infodeb/facebooknoads/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/facebooknoads.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.gravitation-rootless
+Architecture: iphoneos-arm64e
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1264
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.BIENVANNHAT.gravitation-rootless_0.1.1_iphoneos-arm64e.deb
+Size: 100344
+MD5sum: 3304cd9813e9f6023d660f1feace2a3e
+SHA1: c3322ddd0548d370ee2c832c270d41a8142aad22
+SHA256: 1045e20cdb4392bb5ae8e69e2db7f618e44563fd93e116ebfffbefb7b6e376f7
+SHA512: a57db2f3ffaef4261e342c7479d27af547bec663092e1cd5dab90463827ba153cb26155d3f97fe152c5ae630f3acf8e1513a23afd60f762c69311ba635258f78
+Description: Lắc điện thoại của bạn để icon rơi lả tả rất hay
+Name: Gravitation VH(Roothide)
+Depiction: https://support-jailbreak.github.io/depictions/Gravitation.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Gravitation.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Kritanta
+
+Package: com.BIENVANNHAT.roothide-barmoji
+Architecture: iphoneos-arm64e
+Version: 2023.3.3
+Section: Tweaks
+Maintainer: CP Digital Darkroom
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji
+Filename: ./debs/com.BIENVANNHAT.roothide-barmoji_2023.3.3_iphoneos-arm64e.deb
+Size: 47008
+MD5sum: ea8afe7d97248809d03e08fb31302cca
+SHA1: 972fd034dba5bfd9a31028aef60cbbf000b8f8b4
+SHA256: 69caefdddfe888f4bcaf52202ca8a1defe473b6fbbb35a2c83dd5fb8d5b58b75
+SHA512: 7a3f974798eb1031a9dcbc95ded758507a45243c70d65677a91ca737784e7e7081be3d7c260859906cc6803481512967c6fb321bde36bce3c7479fd13a9538bc
+Description: Dựa trên Barmoji 82 phiên bản 20323.3, bản sửa lỗi Netskao hỗ trợ Fugu15.
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Barmoji VH(Rootless)
+Author: CP Digital Darkroom
+Depiction: http://support-jailbreak.github.io/infodeb/Barmoji/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Barmoji.json
 
 Package: com.BIENVANNHAT.tiktokpro
 Architecture: iphoneos-arm64e
@@ -320,6 +404,27 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
 
+Package: com.bvn.jaderhd
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 1245
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.jaderhd_1.0_iphoneos-arm64e.deb
+Size: 283616
+MD5sum: 6abc5d1456772d0c9a5b8261741027d2
+SHA1: 6e52e03bcf807ea0a75fcf2f05d2c00a696bf7ef
+SHA256: 183444b2e869b446d94ce1e69e9b691b0ac28e6e6b9687258a003e13b4d54da5
+SHA512: 9ad906b1355814b3e5dfa6d1eeb901d7f298f1376be561f86eb427334e0540b6576e99e5437770d06caa1c9f4979c5b6f5feaa2298edca44f681e7d4a7cf385c
+Description: Tuỳ chỉnh trung tâm điều khiển.
+Name: Jade VH(Roothide)
+Author: Nightwind and thetimeloop
+Depiction: http://bvnsupport.github.io/infodeb/jade/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/jade.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.limneos
 Architecture: iphoneos-arm64e
 Version: 3.0
@@ -576,6 +681,28 @@ Name: YouPiP (Roothide)
 Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/youpip.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: me.nepeta.axon-roothide
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: Tweaks
+Maintainer: Baw Appie
+Installed-Size: 584
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.nepeta.axon-roothide_1.4_iphoneos-arm64e.deb
+Size: 144896
+MD5sum: 58298b1d7be31bbd42b08d9e764725d4
+SHA1: 77266958e5ceb8d2541a047d3252cba155a86927
+SHA256: 206270b4ca7bcbcb1325622b93e1a1ad5c8a5f5cadf59c54c6fc66f4b99a00e1
+SHA512: 1d97dd30f8efd5f16ec9e16353824d4f82fded4af63ba56e8725b04368837af3fe8a54a092229ec851fc05db95717177bcf80e035cd2ab5d729e5b2b16d89061
+Description: Priority Hub for iOS 15
+Name: Axon VH (Roothide)
+Author: Nepeta & Baw Appie
+Depiction: http://support-jailbreak.github.io/infodeb/Axon2/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Axon2.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: net.limneos.simpleactivationactions-roothide
