@@ -679,6 +679,27 @@ Name: YTABGoodies (Roothide)
 Author: PoomSmart
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.reoobvn.satella-roothide
+Architecture: iphoneos-arm64e
+Version: 1.8.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 488
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.reoobvn.satella-roothide_1.8.1_iphoneos-arm64e.deb
+Size: 98004
+MD5sum: 796515f149eba8a2d546524479eea3ac
+SHA1: e5285893df05bb07aa7af3c6ca13b67dd75ccd7d
+SHA256: 1275b400cf795e6ee82be60252885a48dc6cbb888dca5871c4b043077c5915dd
+SHA512: 92e31028537e9a163675553768078108e06801cd54d5773d8b5ce0b6cbed6cb2aab40e695bfb8e837ad9c40100b0d09b2c06dd15c8cc5edeeadcc557cae722a1
+Description: Trình bẻ khóa mua hàng trong ứng dụng hiện đại
+Name: Satella (Roothide)
+Author: Lilliana
+Depiction: http://support-jailbreak.github.io/infodeb/Satella/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Satella.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.reoobvn.shuffle-roothide
 Architecture: iphoneos-arm64e
 Version: 1.6.2
@@ -935,6 +956,28 @@ Author: Nepeta & Baw Appie
 Depiction: http://support-jailbreak.github.io/infodeb/Axon2/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Axon2.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: net.BIENVANNHAT.dynamicpeninsula-roothide
+Architecture: iphoneos-arm64e
+Version: 0.6-19k
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1668
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), com.bvn.limneos
+Filename: ./debs/net.BIENVANNHAT.dynamicpeninsula-roothide_0.6-19k_iphoneos-arm64e.deb
+Size: 302256
+MD5sum: 74e7a5fbc00ba0deefacdfe8271a3ab4
+SHA1: 0429388efdee71298c83157a5c01b008ab6b9f5c
+SHA256: a66a4cce6ea19cd4749e91f1027039d44884c0b8d33bbeb3f287eaf49f32061a
+SHA512: 1e0922fec65f4a6675f1a5d4b745697f1a81960d8368b42a826398807f72aba15e199150e41cdb8aaab67739a5f58cb46cd3a181b8ad10b46b83fecf424e7bed
+Description: Dynamic Island trên notch của bạn
+Name: DynamicPeninsula VH (Roothide)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/DynamicPeninsula1/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DynamicPeninsula1.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+MainLibMD5: 921b926fd501306429310a4e8659f913
 
 Package: net.limneos.simpleactivationactions-roothide
 Architecture: iphoneos-arm64e
