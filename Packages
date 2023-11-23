@@ -125,6 +125,22 @@ SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Gravitation.
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Kritanta
 
+Package: com.BIENVANNHAT.modern6-roothide
+Architecture: iphoneos-arm64e
+Version: 2.1.1
+Section: Themes Roothide
+Maintainer: BIỆN VĂN NHẬT
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.BIENVANNHAT.modern6-roothide_2.1.1_iphoneos-arm64e.deb
+Size: 36250888
+MD5sum: c02f5c4fecfa9bb402ce3790e6eb0297
+SHA1: 5e71a0261e5e1d3465c6dfa5a645c9badb57968e
+SHA256: 527b58218fd1eb90af4a93d091cdfc072c01045de22abee11f01f4217ac75302
+SHA512: bb3d077b2ee001b7cdfdb70d3da173d96a32c9644118cfa63145544f3e615fabb7f57171864584478be8c5b036acb37adb837c69dab90ac23b300947847d537e
+Description: Chủ đề iOS 6 sắc nét.
+Name: Modern 6 (Roothide)
+Author: IceCool Tech
+
 Package: com.BIENVANNHAT.roothide-barmoji
 Architecture: iphoneos-arm64e
 Version: 2023.3.3
@@ -209,6 +225,44 @@ Author: Ravand
 Depiction: http://support-jailbreak.github.io/infodeb/Truecaller/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Truecaller.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.BVNREPO.AEFloatingroothide
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Themes Roothide
+Maintainer: BIỆN VĂN NHẬT
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.BVNREPO.AEFloatingroothide_1.0_iphoneos-arm64e.deb
+Size: 361536
+MD5sum: 46a8124f5f977f31888948aaa783e468
+SHA1: 27e65fbb32dc7e89d5d648f13ad741c3bc58f96c
+SHA256: 1c521015f3bbe5dbb684fcba49bc408131e175bd41c8dcffb6a8fe0d50fcf0b2
+SHA512: 94cc25545cc6b2bb1c9d22aa41b2c8edfcd12f1e7ca98ef4f7314eed527eb622b116ec16592e4e6386d7fd832ba611ea79e0d11c1462220268a5690b9b7189d2
+Description: Gói AE nổi cho Theme
+Name: AE Floating(Roothide)
+Author: theprestigext
+Depiction: http://support-jailbreak.github.io/infodeb/AEFloating/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/AEFloating.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
+Package: com.BVNREPO.OnyxRoothide
+Architecture: iphoneos-arm64e
+Version: 1.6
+Section: Themes Roothide
+Maintainer: BIỆN VĂN NHẬT
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.BVNREPO.OnyxRoothide_1.6_iphoneos-arm64e.deb
+Size: 48688276
+MD5sum: 0962476c13d584edc5acd8db7b31140a
+SHA1: 14081bcd9a8551e048a49eccab113ff3116cb960
+SHA256: 734ed309298111c5ed1955b1418b3866b6bcc78d2a341eea5fbd9493cee215a6
+SHA512: b86f054c1b5b759294d964af050d896c9abba59254356d1d7545705ad3a3bb32299adb4f38adfa7f56d448ded6e5eb59b9b957ee4958d2c24a9ddcdc47c6d09f
+Description: Chủ để Onyx
+Name: Onyx (Roothide)
+Author: theprestigext
+Depiction: http://support-jailbreak.github.io/infodeb/Onyx/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Onyx/?p=info
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
 Package: com.REPOBVN.crane-rootless
 Architecture: iphoneos-arm64e
@@ -649,6 +703,25 @@ Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/ytx.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvnsupport.RedWhite
+Architecture: iphoneos-arm64e
+Version: 108
+Section: Themes Roothide
+Maintainer: Biện Văn Nhật
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.bvnsupport.RedWhite_108_iphoneos-arm64e.deb
+Size: 8894780
+MD5sum: dd199a9fcbb9fb3a26621b8bf22550d2
+SHA1: b0d3afd977bc5a498fe6a9131df79b11166e9180
+SHA256: 7b796ae96ad3ba1656b2f67b4285c3ef7348777e09c9faaffeed8f1216b133a5
+SHA512: 003348ff6cf63004f6a55932dc3a1a131d231fe929dd7bce242a51d0257e724a5830a831ffa5d8f28aa3848b9acdd42ed6a59f16612868464cf10a74e4b0abad
+Description: Chủ đề Red White dành cho bạn
+Name: Red White (Roothide)
+Author: Khoảng Lặng
+Depiction: http://support-jailbreak.github.io/infodeb/RedWhite/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/RedWhite.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64e
