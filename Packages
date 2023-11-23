@@ -532,6 +532,44 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
 
+Package: com.bvn.fontquicksand14
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Fonts
+Maintainer: BVN Repo
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.bvn.fontquicksand14_1.0_iphoneos-arm64e.deb
+Size: 20573840
+MD5sum: 41ee87166aef93a6dc36af029c9b96ff
+SHA1: d836937a5bddf927518a04bb9b644e1205a8ec7c
+SHA256: 14aa0c5184debcc091fb908147bc3d2abd9a299ab4816e7377f3a677d7342fa6
+SHA512: 3018f60d03c276ff93dbfccd7e816837ce99720c1c661ea420b13d9c232637a8a997c8fc87b2e02febe59a152925891db8bcc1fa0b553b05e40ca3233d127a0e
+Description: Rounded sans serif. 100% size. For iOS14-16.
+Name: Quicksand (iOS14+)
+Depiction: http://bvnsupport.github.io/infodeb/Quicksand/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Quicksand.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: Alex (@Alexman1979)
+
+Package: com.bvn.fontquicksand8514
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Fonts
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.bvn.fontquicksand8514_1.0_iphoneos-arm64e.deb
+Size: 21709232
+MD5sum: 971c1dd4cff76fde4c0e8c5ce29e2ed6
+SHA1: 878c729330038cb9f676a62c9697bc9770619fa6
+SHA256: 2a7ce282fb1f9e1e8bfd20c65e1d9d4a705a16c9126048a6b8450a784639da6d
+SHA512: 600f92efccf505085c4f44524776cf34af4b62636c7a5723e6560e94358e04144918b3251276701ebb251a80e77a46888537f90b5d63d6b9f0b0ef8b2ee7cf13
+Description: Rounded sans serif. 85% size. For iOS14-16.
+Name: Quicksand_85% (iOS14+)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Quicksand85.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Quicksand85.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: Alex (@Alexman1979)
+
 Package: com.bvn.jaderhd
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -891,6 +929,30 @@ Name: SettingsRevamp VH(Roothide)
 Author: SOPPPra
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.snowboard-roothide
+Architecture: iphoneos-arm64e
+Version: 1.6.4-Beta3-rootless
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 3188
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader,com.spark.snowboardapplication, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.presetextension, com.spark.snowboard.settingsicons, com.spark.snowboard.statusbar, com.spark.snowboard.ui
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.repobvn.snowboard-roothide_1.6.4-Beta3-rootless_iphoneos-arm64e.deb
+Size: 1127240
+MD5sum: e486542ca27396be82fe79237fa71310
+SHA1: 1a87984903903dad984d1e6094a57ecc0c20bff8
+SHA256: 8aae4bbfb45af34f0df2d9bb1045a4fa2b3823f2dc543225a1eba742aceed625
+SHA512: 9f6b96c23633dedd0bddf7ad0769f460fef016eb6e41d4abb34eac7c90963fda8b5bb7201783afdc18be74f5fea912e82e5c71046ccdec0bbe6c648388e11164
+Description: Snowboard theming engine
+Name: SnowBoard VH(Roothide)
+Depiction: https://support-jailbreak.github.io/depictions/SnowBoard.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SnowBoard.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Spark & Dennis D. Bednarz
+
 Package: com.repobvn.youpip
 Architecture: iphoneos-arm64e
 Version: 1.7.21
@@ -933,6 +995,199 @@ Description: Simple to implement, simple to use colour picker library. Built by 
 Tag: role::developer
 Name: libsparkcolourpicker (Roothide)
 Author: Spark
+
+Package: com.spark.snowboard.dock
+Architecture: iphoneos-arm64e
+Version: 1.1.3~Beta4-roothide
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 440
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, com.repobvn.snowboard-roothide (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.dock_1.1.3~Beta4-roothide_iphoneos-arm64e.deb
+Size: 34140
+MD5sum: 2c169d202223d0ccb5fe94bb87beb13d
+SHA1: 77e50abacbbc9fea60cf1405267fae3e04bdf00a
+SHA256: 6f4703a8c9609aa9134ce6b5b2a28fc615cddf3a3b488a06b3b5e6eccf8e57ea
+SHA512: 51216ecbaece5e7102b7b498a0d0a42257ec483a57e55cbdb948a54d4168a63abfbfdacef66a719ae6584c7b90b08e9d5a8d683a12940598ad50117d1bb982f4
+Description: Dock for SnowBoard
+Name: SnowBoard Dock Extension
+Author: Spark
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
+Package: com.spark.snowboard.effects
+Architecture: iphoneos-arm64e
+Version: 1.2.2-Beta2-roothide
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 412
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, com.repobvn.snowboard-roothide (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.effects_1.2.2-Beta2-roothide_iphoneos-arm64e.deb
+Size: 34944
+MD5sum: bebd8597c8882ee6dcd0cae019973e9c
+SHA1: 2d78035ae1357c4b72c3ec5b366432cf76610776
+SHA256: 733e36b9626fba8c7ce2a2e040657d18e22c1d1e533cb91dc4607b3df3748005
+SHA512: 41f367fdb30ecb475cfdbe27d95ba2213dce92047e0b6b1f192a943b0e9d640e562323b835516e7e290c0aa7f327d342441f97ca2d56f6c1ab3f67d4187f2e52
+Description: Icon Effects for SnowBoard
+Name: SnowBoard Icon Effects Extension
+Author: Spark
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
+Package: com.spark.snowboard.fonts
+Architecture: iphoneos-arm64e
+Version: 1.1.0~Beta4-roothide
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 392
+Provides: com.ipr.bytafont, com.bytafont.bytafont3
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, com.repobvn.snowboard-roothide (>= 1.2.100)
+Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
+Replaces: com.ipr.bytafont, com.bytafont.bytafont3
+Filename: ./debs/com.spark.snowboard.fonts_1.1.0~Beta4-roothide_iphoneos-arm64e.deb
+Size: 22464
+MD5sum: 23eb170ebb7caa8f752a992a752e6f12
+SHA1: f1c065d0cd3b59b9e34220704c09887021dfc3db
+SHA256: 7d0e8a668f4dba508e7d9863bd8fdc408984b6db36b283e0e937fbca15477533
+SHA512: 7591474dd208561bf9b5b5434b3661bd12399d90063cf2b76d7b37f038913a1bc6671e5354258c2cca3187c7330ce3479a770e8f7d94ebb1351579b5b19b95f6
+Description: Fonts for SnowBoard
+Name: SnowBoard Fonts Extension
+Author: Spark
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
+Package: com.spark.snowboard.labels
+Architecture: iphoneos-arm64e
+Version: 1.1.1~Beta4-roothide
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 432
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, com.repobvn.snowboard-roothide (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.labels_1.1.1~Beta4-roothide_iphoneos-arm64e.deb
+Size: 27424
+MD5sum: e94508dd39552bdcbe2563558747c826
+SHA1: e3e81999566ffdc99bbe778badc8ad9820130742
+SHA256: 9f5179e4628f3d655255ceaae03008c0992a45a879af5e3663249c23484915cc
+SHA512: 4ed6db4fe49529626dbf9e3b350c44803507495b4beeca9e254032df4a3f1c6d43442336bef10a3c0f1b54264ef8f0aa77b40f79ecf95f9a720acbf852bc9783
+Description: Labels for SnowBoard
+Name: SnowBoard Labels Extension
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+Author: Spark
+
+Package: com.spark.snowboard.masks
+Architecture: iphoneos-arm64e
+Version: 1.2.2-Beta2-roothide
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 340
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, com.repobvn.snowboard-roothide (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.masks_1.2.2-Beta2-roothide_iphoneos-arm64e.deb
+Size: 20556
+MD5sum: e858b794b2b91704d4fadac856c10781
+SHA1: fecc63f253f72ba92b1eeece7a913c9eb25b124e
+SHA256: 69fa7949e080df3bb2dff1a99ae737f6f4e35602b00f908c540cf50736c54233
+SHA512: fbf97a070fae7b41a2ba0c8d0b40149862542499b43a8fc12b4744a70a3f0b5af031f7387791e22e14eb903150d48454f5017179628ac839251c83cf71441381
+Description: Icon masks for SnowBoard
+Name: SnowBoard Icon Masks Extension
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+Author: Spark
+
+Package: com.spark.snowboard.presetextension
+Architecture: iphoneos-arm64e
+Version: 1.1.0~Beta4-roothide
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 488
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, com.repobvn.snowboard-roothide (>> 1.2.22)
+Filename: ./debs/com.spark.snowboard.presetextension_1.1.0~Beta4-roothide_iphoneos-arm64e.deb
+Size: 45344
+MD5sum: 1dcaabdd2e336f48b2fa9378af1f7bbf
+SHA1: 0bb9ed74005497ac2a3a61c8b4b57766663f3da1
+SHA256: 0fd9b78b483fd47a567149257e80b48b7fbc48037915f27a0239fb0f95ff951a
+SHA512: a6b5e8586c2a6de5c42b1419b5e395c921fe969dd561a826297e55414d1a32a98573ff0d6c5f96bb8d714cf595bf40a2f6415b1330c6687a6649c063378aaf31
+Description: SnowBoard Presets Extension
+Name: SnowBoard Preset Extension
+Author: Spark
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
+Package: com.spark.snowboard.settingsicons
+Architecture: iphoneos-arm64e
+Version: 1.0.26~Beta3-roothide
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 340
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, com.repobvn.snowboard-roothide (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.settingsicons_1.0.26~Beta3-roothide_iphoneos-arm64e.deb
+Size: 19376
+MD5sum: 1037bda16a8b6695d8ce10b343758ba0
+SHA1: 1a2269628482caf0943f08b3829f6bc26fbdbd20
+SHA256: 176f5f31aa047980646b0bf51cd9d6076d39af9a6170bb1e0b618fe197bb0ba3
+SHA512: 39c2f3a6ccc2312dfa949c892054be17d10341b6b57ed6912407c15625ed498d950a19bf139a2388880e47f455c25e276452ec045865fe92d5719100e8babff1
+Description: Settings Icons for SnowBoard
+Name: SnowBoard Settings Icons Extension
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+Author: Spark
+
+Package: com.spark.snowboard.statusbar
+Architecture: iphoneos-arm64e
+Version: 1.1.0-Beta4-roothide
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 364
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, com.repobvn.snowboard-roothide (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.statusbar_1.1.0-Beta4-roothide_iphoneos-arm64e.deb
+Size: 28824
+MD5sum: ccf150ae592e35d14c61ea379d471c9e
+SHA1: a36d1501c20f777438039d387dd2535f3d14a5c8
+SHA256: b13416613e66b3dff0900ba8fa05103080153ca7ae8595bb83f956fb7a737988
+SHA512: 166ec77517770d8cb2109fc6c2528ba5505208a3c379aee9753e6c95e66e14db1436eed7d7d951c49bed3d14e28f19adf36974d65b7455624602dc9a538b4376
+Description: StatusBar for SnowBoard
+Name: SnowBoard StatusBar Extension
+Author: Spark
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
+Package: com.spark.snowboard.ui
+Architecture: iphoneos-arm64e
+Version: 1.3.0~Beta2-roothide
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 476
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, com.repobvn.snowboard-roothide (>> 1.2.22)
+Filename: ./debs/com.spark.snowboard.ui_1.3.0~Beta2-roothide_iphoneos-arm64e.deb
+Size: 67704
+MD5sum: e1c1433a861dcf075746bc6b3ecfdfc0
+SHA1: 7f3f61e1f18b7f709ee8b3d29cd106d4020b3052
+SHA256: 30ceac39850e30d3d9392f2e33d76ea30e057e02ad38f005fe2dcd0ce26a4c5d
+SHA512: 9e4476ace4cee20073f0d96202b4a701a655449824abd4ab9ff4c8ab34133898564bf3951055b15db2138887fe46618d5084dc895ec14414e85b0828a5e7a8ba
+Description: UI Extension for SnowBoard
+Name: SnowBoard UI Extension
+Author: Spark
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
+Package: com.spark.snowboardapplication
+Architecture: iphoneos-arm64e
+Version: 1.1.0~Beta4-roothide
+Section: Utilities
+Maintainer: Spark
+Installed-Size: 992
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: com.repobvn.snowboard-roothide
+Filename: ./debs/com.spark.snowboardapplication_1.1.0~Beta4-roothide_iphoneos-arm64e.deb
+Size: 613304
+MD5sum: 0ed483257eacad79c24aa4f9ca330b2e
+SHA1: f541eb1a7edc56fc7b8d4344c7ce4de022ba10c5
+SHA256: 50ad042ef873a4a4269a9794adad6d8e8bdcdd2096bfd682fa0fcc4d89f7d538
+SHA512: 78c56392196f46813468091e8faf0574bd4e92a9d35bade8d82dd4b5ca9f85edda4c184e7fe0e2eec82adf310d9cb04fd6a8cb4dd3294d25f519df9e3fc55b3c
+Description: An awesome application!
+Name: SnowBoard Application
+Author: Spark
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
 Package: emt.paisseon.xinamine
 Architecture: iphoneos-arm64e
