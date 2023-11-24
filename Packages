@@ -683,6 +683,28 @@ Description: Crack for Limneos tweaks
 Name: Limneos CRK
 Author: Anna
 
+Package: com.bvn.lunartime-roothide
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 160
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.lunartime-roothide_1.0_iphoneos-arm64e.deb
+Size: 19592
+MD5sum: 0c2b9abfb68963c3c905f28a918b0337
+SHA1: b6e13d6993e83c705a231343539ff3294dea8929
+SHA256: 7122c52b4712edf42965638a5900dbaabbdc3c71dce55f67d7127e5a394e2828
+SHA512: ac4f108532205096cd7a3bbded31a7bf1864accc82ce5e0e39a20690a6450ba9e69b63c38089dff3225bea687fca9ee191eda36c91c53f96ec2c817e09c7424e
+Description: Thêm ngày âm Lịch vào góc màn hình trái của bạn
+Tag: purpose::extension
+Name: LunarTime X (Roothide)
+Author: NQT1195
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Lunartime/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lunartime.json
+
 Package: com.bvn.plampycc
 Architecture: iphoneos-arm64e
 Version: 1.0.1
