@@ -649,6 +649,38 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
 
+Package: com.bvn.customizecc
+Architecture: iphoneos-arm64e
+Version: 1.4.3
+Section: Tweaks
+Maintainer: Miguelaka95 <miguelaka95@gmail.com>
+Installed-Size: 880
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15)
+Filename: ./debs/com.bvn.customizecc_1.4.3_iphoneos-arm64e.deb
+Size: 136248
+MD5sum: ea3238cd958acb506876799b33712cae
+SHA1: f1da4fbedada180c4b85ac7ce2e18b45ee19564e
+SHA256: 10e55e4eecac51cd46ea4bcd1fb8857db27a7952f9c5ee409283d3f4e1819f82
+SHA512: a55063fdda0801542d4ad056074a7fbff5fa84f6afbad6ede0f372f59f070ae2fb8b2f927de4404cda74ad09d7ec7f3e10ac6628210c9a37ded7c651a32c013c
+Description: Tùy chỉnh Trung tâm điều khiển của bạn!
+ - Tùy chỉnh Trung tâm điều khiển của bạn!
+ - Màu Glyph.
+ - Thay đổi màu Mô-đun.
+ - Thay đổi màu Độ sáng và Âm lượng.
+ - Thay đổi màu của Chuyển đổi và trình khởi chạy.
+ - Ẩn nền .
+ - Ẩn lớp phủ cho tất cả các Toggles.
+ - Bật Đường viền cho tất cả Mô-đun, Chuyển đổi và trình khởi chạy.
+ - Thay đổi màu viền.
+ - Bật hiệu ứng Glow cho tất cả Mô-đun, Chuyển đổi và trình khởi chạy.
+ - Thay đổi màu hiệu ứng Glow.
+Name: CustomizeCC VH(Roothide)
+Author: Miguelaka95 <miguelaka95@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/CustomizeCC/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CustomizeCC.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.fontquicksand14
 Architecture: iphoneos-arm64e
 Version: 1.0
