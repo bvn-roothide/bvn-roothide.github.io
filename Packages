@@ -545,6 +545,27 @@ Name: Spotilife Premium
 Author: julioverne
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/spotilife.png
 
+Package: com.bvn.3dappversionspoofer
+Architecture: iphoneos-arm64e
+Version: 1.3.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 424
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: com.opa334.altlist
+Filename: ./debs/com.bvn.3dappversionspoofer_1.3.1_iphoneos-arm64e.deb
+Size: 56480
+MD5sum: 4d15cc4aea5a0a82d9ac0015f6ac33d9
+SHA1: 288c8606a72b0905805bc97ca5cf333dddcb497b
+SHA256: a6a702d1f87b31bb224dd3c2bfd4e73bbf762b15fd524a8e3ff95a383ae556ab
+SHA512: 7916773fe8749cc33c1d0c067964b813ce0352a4ef7427791f47d90c736c7d8ffadeeae861b7cb9d24424f6b3cf648cba9c93d27d4155a83ab3655d7e2ad64b1
+Description: Một tinh chỉnh để thêm khả năng giả mạo ứng dụng ngay từ menu 3D và các cài đặt trước của bạn
+Name: 3DAppVersionSpoofer VH(Roothide)
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppVersion.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.RingTonesManager
 Architecture: iphoneos-arm64e
 Version: 1.1-4
