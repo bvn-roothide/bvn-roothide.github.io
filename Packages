@@ -1164,6 +1164,29 @@ SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SnowBoard.js
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Spark & Dennis D. Bednarz
 
+Package: com.repobvn.uyou-roothide
+Architecture: iphoneos-arm64e
+Version: 3.0.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 31200
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>=13.0), mobilesubstrate, com.bvnrepo.uyouimport
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Filename: ./debs/com.repobvn.uyou-roothide_3.0.1_iphoneos-arm64e.deb
+Size: 21779688
+MD5sum: 05aeb6a5231dc477d9fabb94d8302541
+SHA1: c663f5718f30e4a0b118b81c1ffffdb869d8dbe3
+SHA256: 548d34d9ce9646bd00a24cc4a9c832db28a26712c6734a17b6ecc8e6670b7f7d
+SHA512: 1d9136e0a4566060939eac5aab3db349479a985935c7ba39e61da3e7229afdf40a1a791ab66271967ce4136646885bf5fb994ba0de5c7654d849fc8fb7378ca8
+Description: Tinh chỉnh tốt nhất cho ứng dụng YouTube
+Tag: purpose::extension, compatible_min::ios13
+Name: uYou (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Uyou/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Uyou.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: MiRO <tweaks_support@miro92.com>
+
 Package: com.repobvn.velvet2-roothide
 Architecture: iphoneos-arm64e
 Version: 2.1.2
