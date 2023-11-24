@@ -566,6 +566,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Netskao
 Tags: compatible_min::ios15
 
+Package: com.bvn.albummanager
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: bvn repo
+Installed-Size: 690
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>=15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.libsandy, com.opa334.ccsupport
+Filename: ./debs/com.bvn.albummanager_1.0.2_iphoneos-arm64e.deb
+Size: 58820
+MD5sum: c0aff9ba1092cad74df10034beb695f7
+SHA1: 8760af257d1e5e222156e4d86f4fc2ffe25aed87
+SHA256: 2dbc3b993650aeaa8aa3c4eafd87acb6f25cf510db3038d66a47dbd7a0440bfe
+SHA512: 7ae73c878864d20cdf2fb58ff6193a7261a1aacba9df49333d71cea07923a3814d54e1a193aa2c775b32f75d7efc792eea215482aa5bf38aa146dbf38380489d
+Description: Sắp xếp và bảo vệ album ảnh của bạn
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: NoisyFlake <support@noisyflake.com>
+Name: AlbumManager (Roothide)
+Icon: https://img.chariz.cloud/icon/albummanager/icon@3x.png
+Depiction: https://chariz.com/buy/albummanager
+
 Package: com.bvn.cconandoff
 Architecture: iphoneos-arm64e
 Version: 1.1.0
@@ -744,6 +765,27 @@ Name: iCleaner Pro (Roothide)
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
+
+Package: com.ichitaso.otadisabler
+Architecture: iphoneos-arm64e
+Version: 0.4
+Section: System
+Maintainer: REPO BVN
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Filename: ./debs/com.ichitaso.otadisabler_0.4_iphoneos-arm64e.deb
+Size: 42276
+MD5sum: fa145fa344e450f9bb58e518148f99c0
+SHA1: 3f8674063fb845c91158d2496d1c67bd44e1edd8
+SHA256: aaef50b16f1f996ebeeb04ff012b8a1e08f30004ad9ecb528446c3b89b7ee09f
+SHA512: 2886263fa51b667ea89bcb8306f62e32638021457178e9e0101513358757f39b90d9d2c0a6c12d6b2c97ad2183d9003440c38d31ebd9d50dc8625a44d8ef6a37
+Description: Chặn cập nhật phần mềm
+Name: OTADisabler (Roothide)
+Depiction: http://support-jailbreak.github.io/infodeb/OTADisabler/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/OTADisabler.json
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+Author: ichitaso
 
 Package: com.mrgcgamer.libgcuniversal
 Architecture: iphoneos-arm64e
@@ -1025,6 +1067,28 @@ Depiction: https://support-jailbreak.github.io/depictions/SnowBoard.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SnowBoard.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Spark & Dennis D. Bednarz
+
+Package: com.repobvn.velvet2-roothide
+Architecture: iphoneos-arm64e
+Version: 2.1.2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet
+Filename: ./debs/com.repobvn.velvet2-roothide_2.1.2_iphoneos-arm64e.deb
+Size: 103076
+MD5sum: be4c7cfe1d1ecc18a1d86370e75eec32
+SHA1: 81f67e9d1eb0ab6f0e63be484edd86b9176a7ef9
+SHA256: 542950357140cec01a62106d4ea075f798a9a5351ec8199c35cec445f2b401fa
+SHA512: 37ddaa5b85940550e2116ae319e5b0b288c7f8307d16d2d2b9654a55113ec2a01715c3ce558dcb199500da376a4611899a6d9c37a2f022a5a44cdcd0fa7cf426
+Description: Tuỳ chỉnh thông báo của bạn.Hỗ trợ iOS 15-16.3
+Name: Velvet 2 VH (Roothide)
+Author: NoisyFlake <support@noisyflake.com>
+Depiction: https://support-jailbreak.github.io/depictions/Velvet.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Velvet.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.youpip
 Architecture: iphoneos-arm64e
