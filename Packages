@@ -608,6 +608,27 @@ Name: AlbumManager (Roothide)
 Icon: https://img.chariz.cloud/icon/albummanager/icon@3x.png
 Depiction: https://chariz.com/buy/albummanager
 
+Package: com.bvn.alpine-roothide
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 1108
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.alpine-roothide_1.2_iphoneos-arm64e.deb
+Size: 598288
+MD5sum: 11ed3c3cc9e4c2304738cd48ec820d51
+SHA1: ab8f7c42fc80f4b79459a5422c514bea05997a29
+SHA256: 8295e9e647f6aa60ee290a0a38bc70816b968634f86f9e326ac0cbd6cc14191d
+SHA512: 391ba2ca78b46daab15f77e7ba5a2d54ad3114b7c0fec4d45fced9e265b64c4f501cbeeb5ef4b036fc50021162bc85af8e043f8e2d69cf551f151a6f16bfb8c6
+Description: tvOS alerts for iOS
+Depiction: http://bvnsupport.github.io/infodeb/Alpine/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Alpine.json
+Name: Alpine (Roothide)
+Author: MTAC
+Icon: https://media.havoc.app/64ae21880d54f9113bc13a59
+
 Package: com.bvn.cconandoff
 Architecture: iphoneos-arm64e
 Version: 1.1.0
