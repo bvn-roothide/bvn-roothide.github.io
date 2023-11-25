@@ -881,6 +881,24 @@ Depiction: http://support-jailbreak.github.io/infodeb/RedWhite/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/RedWhite.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
+Package: com.creaturecoding.libcspreferences
+Architecture: iphoneos-arm64e
+Version: 1.5.8
+Section: System
+Maintainer: Repo BVN
+Installed-Size: 596
+Pre-Depends: rootless-compat(>= 0.1), firmware (>=15.0), com.ex.libsubstitute | mobilesubstrate
+Filename: ./debs/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64em.deb
+Size: 336352
+MD5sum: 2cd5cd6390cc5c7bf28d4a6fe25dd018
+SHA1: 7844068ab5e7067cbf3bf48ff3d774a20e40193a
+SHA256: 104c2ef8b1462dbec60b56e7118bf357e265e1e883660a332d8c6a180f1b2a1d
+SHA512: 60757125b797688619ad23dd29aba17fa7fa5f7520c184cc3312a5e742511069ed78624379b2cfb3c42f035eede7e64aadf2ae346e1d3572b256efe6ff0a716a
+Description: A preferences library that doesn't suck
+Name: libCSPreferences (Roothide)
+Author: CreatureSurvive
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64e
 Version: 7.10.0
