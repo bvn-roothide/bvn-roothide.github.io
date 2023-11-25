@@ -1288,19 +1288,19 @@ Author: Spark & Dennis D. Bednarz
 
 Package: com.repobvn.uyou-roothide
 Architecture: iphoneos-arm64e
-Version: 3.0.1
+Version: 3.0.2
 Section: Tweaks
 Maintainer: Biện Văn Nhật
 Installed-Size: 31200
 Pre-Depends: rootless-compat(>= 0.1)
 Depends: firmware (>=13.0), mobilesubstrate, com.bvnrepo.uyouimport-roothide
 Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
-Filename: ./debs/com.repobvn.uyou-roothide_3.0.1_iphoneos-arm64e.deb
-Size: 29317628
-MD5sum: 504ce4624088ee0a60b42d4ac296856b
-SHA1: 198311182fba1e52686f7233c8e812aa2cf4ed1d
-SHA256: 76e34761bf93c99060f34200494b94e476e3f35e61639c03fec6e94e08046f33
-SHA512: e878782cc052704139788167e329af8e52435cdd48ca8ae0f3b08b921871895a8eea5fce00c82f9ff843dd17f576b38e368635fd2208ef44dac559a86c97368e
+Filename: ./debs/com.repobvn.uyou-roothide_3.0.2_iphoneos-arm64e.deb
+Size: 29317670
+MD5sum: f5293fd4df1973c7bee65f7939aef046
+SHA1: 61b2a58e3710039b57dde7e83d5eadabeb8b3202
+SHA256: 65e7ae34e7cddb1b42b4b697b6ae8c536ed61a50f94c14a8970bd9086320a4cc
+SHA512: 2716cb25000a4ed64c732abee29d7e40ef7612a0e2c055cb8eb5283c5d04373d2e988c4718d1022bacca80c469c29e2482021b0c15fc25887e03447d6bb511c9
 Description: Tinh chỉnh tốt nhất cho ứng dụng YouTube
 Tag: purpose::extension, compatible_min::ios13
 Name: uYou (Roothide)
