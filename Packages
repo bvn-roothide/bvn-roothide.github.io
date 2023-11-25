@@ -1588,6 +1588,28 @@ SileoDepiction: https://paisseon.github.io/depictions/Xinamine.json
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
 Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 
+Package: jp.r-plus.slidecut-roothide
+Architecture: iphoneos-arm64e
+Version: 0.9
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 174
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./debs/jp.r-plus.slidecut-roothide_0.9_iphoneos-arm64e.deb
+Size: 10904
+MD5sum: 1479ec6eb3d31034f25401259452a8c5
+SHA1: 7c855c4a8884c3462c3ed91edb0dec38107f25c9
+SHA256: 27ff1a98e460a22a555ea451039939c6a8acea27fb6b63753ee99db726c14951
+SHA512: 0adde1b68b3ede464b0a38bd0531ae3cacea0ed75423308319cb52f4835155039fe866570d6dc7afd95737b4e8f03858fc6e5d8ed870c73b4f97e7a98d504e87
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=slidecutDp
+Description: Slide shortcut via space key.
+Tag: purpose::extension
+Name: SlideCut (Roothide)
+Author: r_plus <anasthasia.r+aa@gmail.com>
+dev: rplus
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=slidecutDp
+
 Package: me.nepeta.axon-roothide
 Architecture: iphoneos-arm64e
 Version: 1.4
