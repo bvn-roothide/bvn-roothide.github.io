@@ -821,6 +821,26 @@ Depiction: https://bvnsupport.github.io/depictions/ytx.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvnrepo.Starfall
+Architecture: iphoneos-arm64e
+Version: 0.1
+Section: Laetus Themes
+Maintainer: Repo BVN
+Installed-Size: 7344
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.bvnrepo.Starfall_0.1_iphoneos-arm64e.deb
+Size: 33038224
+MD5sum: eca18303d747b6ade90b8e38a2ad6d15
+SHA1: b8e0188f8f1d49aa4fe464b0476d6e9fed2c095a
+SHA256: 4acf87d3b833af5aadfa6a4011727697c08d57bd799d4cc7485a680fda228fe0
+SHA512: ca4f16150d5363aa64d70327ec8302a5f8bde5cfd4d92317fcf152f0ae15e93b872c3a8f182e673054e3d62e03ff05b8049b5cc50eccd83dd8db378d7fb69366
+Description: Chủ đề bàn phím cho Laetus
+Name: Starfall (Roothide)
+Author: Starfall
+Depiction: http://support-jailbreak.github.io/infodeb/Starfall/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Starfall.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
 Package: com.bvnsupport.RedWhite
 Architecture: iphoneos-arm64e
 Version: 108
@@ -989,6 +1009,69 @@ Author: CreatureSurvive
 Depiction: https://support-jailbreak.github.io/depictions/Shuffle1.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Shuffle1.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.Coolwcat
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: Laetus Themes
+Maintainer: Repo BVN
+Installed-Size: 7344
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>=15.0)
+Filename: ./debs/com.repobvn.Coolwcat_1.4_iphoneos-arm64e.deb
+Size: 841228
+MD5sum: b955f07b226a5690ce34aa59f663f5e3
+SHA1: 3463250795cc91ee1165c4517c5ad2b6ce9c6acd
+SHA256: 72e32a2070fa0b12a255259748ab6def3a81efa4f3382ea41e447c7dec3b365d
+SHA512: 0f2194fc93e0f9421a56e2e5b354af4d2bedee87a1e1da47a1dd9dae58ddfa9f27e2b4d2794e5f64e6e10e6a787c8143d0360d2cba846c99e433380083a478d9
+Description: Chủ đề bàn phím cho Laetus
+Name: Coolwcat (Roothide)
+Author: Coolwcat
+Tags: compatible_min::ios15.0, compatible_max::ios16.4.1
+
+Package: com.repobvn.DepthsL-Roothide
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Laetus Themes
+Maintainer: Repo BVN
+Installed-Size: 7344
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>=15.0)
+Filename: ./debs/com.repobvn.DepthsL-Roothide_1.0.0_iphoneos-arm64e.deb
+Size: 14443412
+MD5sum: fc7b213bfb796cdb15f2c44e327418a9
+SHA1: f3b02baf68cd2d764f3f406366464e1cf0617050
+SHA256: 4c387daba3754d7bdaca4cae3b1288a5f7b184a98cac374139d2d8e97cf3947b
+SHA512: 486aa3e9dc39ec5f143aab14dd8b7c22976f984e1f8e5f770c16270022e3728e7824e0cd1e2d655721ef1749d6622ab6d069fb1e7e64a654395c09d5b86e75a5
+Description: Chủ đề bàn phím cho Laetus
+Name: DepthsL (Roothide)
+Author: Polyphian
+Depiction: http://support-jailbreak.github.io/infodeb/DepthsL/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/DepthsL.json
+Tags: compatible_min::ios15.0, compatible_max::ios16.4.1
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
+Package: com.repobvn.DustryBlue-Roothide
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Laetus Themes
+Maintainer: Repo BVN
+Installed-Size: 7344
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>=15.0)
+Filename: ./debs/com.repobvn.DustryBlue-Roothide_1.0.0_iphoneos-arm64e.deb
+Size: 4433436
+MD5sum: fbc323809b0decf89a31a80b265f0554
+SHA1: 698b98d816022e6e5dea78c70277a08b93ac6732
+SHA256: e58aef39ac4890b768c8e7043c7fcddf0a06d453d8be7125dff6f0595367c190
+SHA512: aa63980aa99c7705d8ad9cb18b5301963d3f7cf98a8f5fc6636b1a676a39574205c2a369f801f246c0cc54bfcceeeb902786017724d505d6468b7f9028c6dde7
+Description: Chủ đề bàn phím cho Laetus
+Name: Dustry Blue (Roothide)
+Author: Polyphian
+Depiction: http://support-jailbreak.github.io/infodeb/Dustry/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Dustry.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+Tags: compatible_min::ios15.0, compatible_max::ios16.4.1
 
 Package: com.repobvn.GoodWifi-roothide
 Architecture: iphoneos-arm64e
