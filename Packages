@@ -841,6 +841,27 @@ Depiction: http://support-jailbreak.github.io/infodeb/Starfall/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Starfall.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
+Package: com.bvnrepo.uyouimport
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Repo BVN <bienvannhat97@gmail.com>
+Installed-Size: 444
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debs/com.bvnrepo.uyouimport_1.0_iphoneos-arm64e.deb
+Size: 82976
+MD5sum: 1316ce504e6c7003e85affb4b6ef2c6a
+SHA1: 5163294155bbcfd6911e70483dcab94bcd7acaf5
+SHA256: ae4efc1d90990a9f8c560a3a5bf5bfd314e8842e1bcea6dcb80a1d4a93892949
+SHA512: 78371efd17aba30c88b7e577ef2b02d5151341e862d876df7324622829415896667117557e274e4d0a72cf3b7b0cb9d1f98d87cf4582d3986cfe51b6917b1c06
+Description: Thư viện để nhập bài hát/video vào ứng dụng Âm nhạc.
+Tag: purpose::extension, compatible_min::ios13
+Name: uYouImport (Roothide)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
+Author: MiRO <tweaks_support@miro92.com>
+
 Package: com.bvnsupport.RedWhite
 Architecture: iphoneos-arm64e
 Version: 108
