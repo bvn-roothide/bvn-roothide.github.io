@@ -1,3 +1,21 @@
+Package: bvn.hideallbar-roothide
+Architecture: iphoneos-arm64e
+Version: 2.1-1
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/bvn.hideallbar-roothide_2.1-1_iphoneos-arm64e.deb
+Size: 5200
+MD5sum: 8039c34919bed286793ab76425ef00e6
+SHA1: 31ec446705696cc6d0cd3ac8208e801ed8b2882c
+SHA256: af11c5bd960dad92f36f8418d196d0ffd592f2e030b1bc78a6aee4b68b2472b4
+SHA512: b9800aed071e5a72529f01ad4251fcfd44b9aacb8e168ca69b4dd1fec9bb587fb7a017482927213e0ff74fd7d1dec1f1f1ba9eb8ba56df5dc8e74774d58e1370
+Description: hide All Bar
+Name: HideAllBar (Roothide)
+Author: Netskao
+
 Package: com.BIENVANNHAT.SearchDots
 Architecture: iphoneos-arm64e
 Version: 1.1.5
