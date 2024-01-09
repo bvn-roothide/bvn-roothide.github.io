@@ -817,6 +817,25 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Quicksand85.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: Alex (@Alexman1979)
 
+Package: com.bvn.futura-roothide
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Fonts
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.bvn.futura-roothide_1.0_iphoneos-arm64e.deb
+Size: 356592
+MD5sum: 948b681c353fc2ed770e5e570ae264c7
+SHA1: 5a1abf0c2aba5bac65343cb43a5f8f7186102041
+SHA256: 3144fb6b5d56447fa621a19cdba7f0b1af99cc4d456cb51ea28a0bab3614d7db
+SHA512: c8f091add41e7be44a4ccb5cb2da3b0ed1350e39cf2b98c9a2e079041d2b5e05abb525fe69d95a88f6e25291d1d719b01a3acaaf344bc901fa216355115782bc
+Description: kích thước 85%. Dành cho iOS15-16.
+Name: Futura_100% (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/futura.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/futura.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: unclear
+
 Package: com.bvn.homebarsizer
 Architecture: iphoneos-arm64e
 Version: 1.1.1
@@ -879,6 +898,24 @@ Author: Netskao
 
 Package: com.bvn.limneos
 Architecture: iphoneos-arm64e
+Version: 3.0.1
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.bvn.limneos_3.0.1_iphoneos-arm64e.deb
+Size: 32856
+MD5sum: e1cf70de88f516a39aea959721c93190
+SHA1: 8c01731204ebb45eb0807c4a3967e33762c4557c
+SHA256: 1ac9feba11a7414047619f3f49342fcda3ed8ad315a4aea9bdf3fd9000e1942e
+SHA512: 0d0f867b5a63157b458bcff45807817df2020aa3b8b09a3bb1e8b9a4a6d450982e1613edbcd167a8528a75a561bc0907d3fd811a0c970775a1bbb0b50c3863ba
+Description: Crack Tweak Limneos
+Name: Limneos Crack(Roothide)
+Author: Netskao
+
+Package: com.bvn.limneos
+Architecture: iphoneos-arm64e
 Version: 3.0
 Section: Tweaks
 Maintainer: BVN Repo
@@ -915,6 +952,26 @@ Author: NQT1195
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/Lunartime/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lunartime.json
+
+Package: com.bvn.lynxroothide
+Architecture: iphoneos-arm64e
+Version: 2.4.4
+Section: Tweaks
+Maintainer: BVN
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.lynxroothide_2.4.4_iphoneos-arm64e.deb
+Size: 521348
+MD5sum: dd2c47fd689d7d1c13c8a2f61c546cdf
+SHA1: 59eaf32c5f83759df771a23f0f68e7b0aceac5d6
+SHA256: 3004c1baedc8ef25faa3f52572e652e8fe1bec62328d93fa62127a4f4664fb47
+SHA512: 8a5d968ef14cf22087a7a5eb902d451e682119a0a29b11d9343c13429597a17dfdf9188b1de0dda49ee3f67a879b519aa6d3c0f003c7f28b290ff08e083cca6f
+Description: Tùy chỉnh iDevice tối ưu cho iOS 14+
+Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
+Name: Lynx 2 VH(Roothide)
+Author: MTAC
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.plampycc
 Architecture: iphoneos-arm64e
@@ -1466,6 +1523,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/eSim+.json
 Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
+Package: com.repobvn.snapper2-roothide
+Architecture: iphoneos-arm64e
+Version: 2.7.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>= 12.1)
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: ./debs/com.repobvn.snapper2-roothide_2.7.0_iphoneos-arm64e.deb
+Size: 602460
+MD5sum: 1b29e03d446073bf4ba6e658177e44e5
+SHA1: 0e3601f18b67f4131c3e6da8c7c69b5a30816d95
+SHA256: 986b8c56ebf8984244e65c7dcb494d5b88d4064f5e9227ddb14c0c9265bf9c6f
+SHA512: 051012f5afc9e2081c6d9683c0feb42ff18b44475034531fbd47718a1737f335dcef0c222d6c3abb4ce49cb300dcea118b761c1c7a490394b24d7de50c3bd99a
+Description: Ghim ảnh chụp màn hình trên màn hình.
+Name: Snapper 2 VH(Roothide)
+Author: Jonathan Winger-lang
+Depiction: http://support-jailbreak.github.io/infodeb/Snapper/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Snapper.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.snowboard-roothide
 Architecture: iphoneos-arm64e
