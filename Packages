@@ -1923,3 +1923,24 @@ Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechang
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 8131809d9825837c841f8f54015f50b4
 
+Package: org.mr.libiarraysrl
+Architecture: iphoneos-arm64e
+Version: 1.0.16-beta-12k
+Section: Development
+Maintainer: Bvn repo
+Installed-Size: 640
+Pre-Depends: rootless-compat(>= 0.1), firmware (>=9.0)
+Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays, com.iarrays.libiarrays.roothide
+Filename: ./debs/org.mr.libiarraysrl_1.0.16-beta-12k_iphoneos-arm64e.deb
+Size: 123032
+MD5sum: 8eef63f71359c5460c8c9e22abca6359
+SHA1: e5ce1fe7c919953332df116fe0fc03fc0af0ab01
+SHA256: cc64460198de146ec83e724b2b6040dc78c231e56a72f4bf4acd8857ea61a874
+SHA512: a96c8392f0a0766d59a4e5438c5f900ede9ba75478a4c124cf803f93cae0c3e6b18007e3dda53b984193eb4f35ff0d42c5d427345e626424165bccaa46a4bf56
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Name: libiarrays (Roothide)
+Author: IArrays <support@iarrays.com>
+Depiction: https://mrepo.org/depiction/5581
+SileoDepiction: https://mrepo.org/sileo/5581
+Icon: https://mrepo.org/CydiaIcon.png
+
