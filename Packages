@@ -1,3 +1,23 @@
+Package: bvn.cylinderremade-roothidr
+Architecture: iphoneos-arm64e
+Version: 0.0.3-beta
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 488
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, cy+cpu.arm64e
+Conflicts: com.ryannair05.cylinder
+Filename: ./debs/bvn.cylinderremade-roothidr_0.0.3-beta_iphoneos-arm64e.deb
+Size: 102708
+MD5sum: 95471237b456738ff9211aff2a3c204b
+SHA1: 3b023033df3c9b643c4c92b120816222efc41448
+SHA256: cee5686e7556609865e7e959e168d5903aa4f750a4ab15e3aa737df58c5a02db
+SHA512: bd5f7239dea5effd2098d56e9ff86dcabc98081b37cc3d89d38388fdf77b7c51c9a7986290b2272cea1a17c5f0e6cab5a23e7df400dcc1aa1f73933813af6fa8
+Description: Hiệu ứng cuộn trang màn hình chính như Barrel.Hỗ trợ từ Ios 15.0 tới ios 16.x
+Name: Cylinder Remade (Roothide)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Ryan Nair
+
 Package: bvn.filzacrack-roothide
 Architecture: iphoneos-arm64e
 Version: 1.1-8
@@ -53,6 +73,28 @@ Depiction: http://bvnsupport.github.io/infodeb/PicsArt/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/PicsArt.json
 Name: Picsart gold (Roothide)
 Author: CyPwn
+
+Package: bvn.repo.designer-roothide
+Architecture: iphoneos-arm64e
+Version: 1.2.9
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 12736
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer-roothide_1.2.9_iphoneos-arm64e.deb
+Size: 8990456
+MD5sum: 1edf9e09011395d515de1246a93d2a94
+SHA1: fb13faef543d2958a80d4253f3f813024c4f4a03
+SHA256: 96ffad8cce19f77dc8802ec67a435009f957767ada400ed3d88be299c5640f25
+SHA512: 942ce7315bd1312b5501d14573cbde85454f9b247bd7106a62c69a338b3bb50dda9956ee414c6d32e253a1e8d14aa981109e80c5398ba738fb6e8a86263b11bc
+Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Name: Designer VH(Roothide)
+Author: JunesiPhone <junesgraphics@gmail.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.SearchDots
 Architecture: iphoneos-arm64e
@@ -775,6 +817,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Quicksand85.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: Alex (@Alexman1979)
 
+Package: com.bvn.homebarsizer
+Architecture: iphoneos-arm64e
+Version: 1.1.1
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 404
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.homebarsizer_1.1.1_iphoneos-arm64e.deb
+Size: 26840
+MD5sum: 502fa3c8c8461a8776c0d6dba2464799
+SHA1: 987981c45b6d811cb24752feb3a91b84b83a0c73
+SHA256: 2fd1cc91f4a15279300332df52b48e1f1e8e731d423ce5e6606a4bf7e3bbc266
+SHA512: da209d65d0077cd6cbd6513321d87ca02d651a65bdaa8da4694e0b9119e740f82136cc704bd6cc3989b633cf4afadb1b6057492c1b0e9511e5c21ef348f77eab
+Description: Tuỳ chỉnh kích thước Thanh Home của bạn!
+Name: HomeBarSizer VH(Roothide)
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/HomeBarSizer/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/HomeBarSizer.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.jaderhd
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -795,6 +858,24 @@ Author: Nightwind and thetimeloop
 Depiction: http://bvnsupport.github.io/infodeb/jade/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/jade.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.limneos
+Architecture: iphoneos-arm64e
+Version: 3.0.1
+Section: BVN Repo
+Maintainer: Nets
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.bvn.limneos_3.0.1_iphoneos-arm64e 2.deb
+Size: 11668
+MD5sum: 17051ae47ad0d28408df0f2bfb1feef7
+SHA1: 42b86055f6e5e83028bd3e03159c595ddfce4215
+SHA256: f30df4cf219d8abb3e87dae106e4a2acb658d3ca6b05e79d25e03fd53a9e9520
+SHA512: 8b88a0c25f4341beda7a65ff9c3971651aef0eca1a7384188dc038b9f02c0043a52c59e1c379b9e9d2c7433630a7684e15c3f2d6b462275bd7eec9a2ec30fe8f
+Description: Crack Tweak Limneos
+Name: Limneos Crack-Roothide
+Author: Netskao
 
 Package: com.bvn.limneos
 Architecture: iphoneos-arm64e
@@ -896,6 +977,27 @@ Author: Starfall
 Depiction: http://support-jailbreak.github.io/infodeb/Starfall/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Starfall.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
+Package: com.bvnrepo.amber-roothide
+Architecture: iphoneos-arm64e
+Version: 1.2.0
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 368
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
+Filename: ./debs/com.bvnrepo.amber-roothide_1.2.0_iphoneos-arm64e.deb
+Size: 11536
+MD5sum: b8d704117e0998c60fc7d21872e59c1a
+SHA1: 4f5bc9e6e62056c7c1086a04534970bde0c0d7c4
+SHA256: 7840b39eeefdf2427bdc2495bd6de00194a7989bc0cd3f2d67a648e7af29de9d
+SHA512: e16e99a8134786d1e2f54af78b880d836802a1f07300200b35f21dce7882f29f4480e00a5d8163c9fd06d9ad49f238cb0b98c1ff6c3a8529fad6abc53cd65622
+Description: Công tắc chuyển đổi CC / Flipswitch để cho phép cài đặt đèn LED thành màu vàng ánh hoặc cả đèn LED màu trắng và màu vàng ánh
+Name: Amber (Roothide)
+Author: PoomSmart
+Depiction: https://support-jailbreak.github.io/depictions/amber.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/amber.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvnrepo.tweaksettings
 Architecture: iphoneos-arm64e
