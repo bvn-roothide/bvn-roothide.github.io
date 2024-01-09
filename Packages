@@ -118,6 +118,26 @@ Depiction: http://support-jailbreak.github.io/infodeb/SearchDots/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SearchDots.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.YangJiiiExodar-roothide
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: AIM Fonts (Roothide)
+Maintainer: REPO CYDIA BVN
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.BIENVANNHAT.YangJiiiExodar-roothide_1.0_iphoneos-arm64e.deb
+Size: 12400
+MD5sum: ca02f754ef999243a25c321a965332a7
+SHA1: 8239b63d0af56a4349c527b9233c8bc3811c0c3f
+SHA256: 9fdaca770e05e9229e89516f2b76076998733be37f957781cfc7611c7a2a725a
+SHA512: 34c6ed2da33463054fec106ff401e02ac0dd7566e009ade0073e3320c95dce98d5bb4284723a5934521493ec72c53d6a55a14bcb851ccf1e15911b96c71a0290
+Description: Phông chữ cho AIM
+Name: YangJiii_Exodar(Rootless)
+Author: legionfonts
+Depiction: http://support-jailbreak.github.io/infodeb/Font8/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Font8.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
 Package: com.BIENVANNHAT.aimprorooess
 Architecture: iphoneos-arm64e
 Version: 1.0.5
@@ -222,6 +242,26 @@ Depiction: https://support-jailbreak.github.io/depictions/Gravitation.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Gravitation.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Kritanta
+
+Package: com.BIENVANNHAT.gwyneth23-roothide
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: AIM Fonts (Roothide)
+Maintainer: REPO CYDIA BVN
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.BIENVANNHAT.gwyneth23-roothide_1.0_iphoneos-arm64e.deb
+Size: 14680
+MD5sum: 7bbd267c509044c4a9cb397cde26c0d2
+SHA1: a4bd24cbc866aba45316938fbf833161fd4f92ad
+SHA256: afaaabf0a8a54f17b8d5d1254ca385062c87da650428b42ca2aac9dbaa8682ad
+SHA512: b7b75f2706a1722c9e413d5fcda9c73c06c40f012642468c36946734ea1fa302741da3c89deb46d428e2b7e8303174475e7cb00e715bf6a77725e8a747cbe5ef
+Description: Phông chữ cho AIM
+Name: Gwyneth23(Rootless)
+Author: YangJiii
+Depiction: http://support-jailbreak.github.io/infodeb/Font2/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Font2.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
 Package: com.BIENVANNHAT.modern6-roothide
 Architecture: iphoneos-arm64e
@@ -727,6 +767,24 @@ Name: Alpine (Roothide)
 Author: MTAC
 Icon: https://media.havoc.app/64ae21880d54f9113bc13a59
 
+Package: com.bvn.ccmusicartwork
+Architecture: iphoneos-arm64e
+Version: 2.4.0-rootless
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 656
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.ccmusicartwork_2.4.0-rootless_iphoneos-arm64e.deb
+Size: 256796
+MD5sum: 1686cf0d27ba3a6f6b72dc913cd36fa6
+SHA1: c203644092dd3a03967c4e23d3b7b4075e12af62
+SHA256: b52369a647fc11d643966db9bc1d39afd7a2baa1515a2f21fc91672c4b4b3825
+SHA512: a812375b20dbecec3ed7d3cc07024a8ae38146526374ea25ecaeaee886b04d29ae178678f4bece95db313259fb5f1179fc23d0577862f60828a4d09d2d010563
+Description: Hiển thị ảnh bìa album đằng sau mô-đun âm nhạc trong trung tâm điều khiển iOS 11-13
+Name: CCMusicArtwork (Roothide)
+Author: Spark
+
 Package: com.bvn.cconandoff
 Architecture: iphoneos-arm64e
 Version: 1.1.0
@@ -994,6 +1052,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyCC.json
 Author: sugiuta
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.sugarcane-roothide
+Architecture: iphoneos-arm64e
+Version: 1.2.4.2
+Section: Tweaks
+Maintainer: BVN Trpo
+Installed-Size: 156
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate,firmware (>= 15.0)
+Filename: ./debs/com.bvn.sugarcane-roothide_1.2.4.2_iphoneos-arm64e.deb
+Size: 9364
+MD5sum: 203af755cfa9fd656ace867cec5fca07
+SHA1: a91098ca7934d1b652f7e28a5ef07afc97d3970a
+SHA256: 78edfeb6d07560a4ebd7fb0868faddb2fecdca17817d4a306b81616bc1ad0aa0
+SHA512: 6c6c52d5a91b66ccbc1e05d2196697a3fc028f35fb7663b767986c5c38de52250bd505001dd6a63e88f05fe72c7bcece342affc1a171621f81715a4c1f470327
+Description: Hiển thị phần trăm trong thanh trượt độ sáng và Âm lương
+Name: SugarCane VH(Roothide)
+Author: iOS Creatix, kasiimh1, p2kdev
+Depiction: http://bvnsupport.github.io/infodeb/Html/SugarCane.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SugarCane.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.ytx
 Architecture: iphoneos-arm64e
 Version: 1.4.2
@@ -1159,6 +1238,26 @@ Name: iCleaner Pro (Roothide)
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
+
+Package: com.foxfort.translomatic
+Architecture: iphoneos-arm64e
+Version: 2.18.15
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 4432
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.4.8), com.opa334.altlist
+Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic, me.sa3odka.translomatic, com.cydiabc.translomaticzh, x7mii.vip.translomatic, com.bo7ios.translomatic, ru.rj.translomatichack, com.hk.translomatic.cn.rl
+Filename: ./debs/com.foxfort.translomatic_2.18.15_iphoneos-arm64e.deb
+Size: 1049576
+MD5sum: 0acaec51676dabbe8f9a36195270f9f9
+SHA1: 738752e9baacc5be74376f7ee39348ce0406ad98
+SHA256: 7cf0d1159b903809f2df9169d53e73d5d814fa559b3642fa1c6fe426bbf4d363
+SHA512: a4c9dc47687af158beb692a1b0e35c12c9967958cbe254aba4db97e51570ef4df8d0c9df7319338a250c747f9c787393dcc0f3dd4b226820794234551d9c31bb
+Description: Quickly translate any text
+Name: Translomatic (Roothide)
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
 
 Package: com.ichitaso.otadisabler
 Architecture: iphoneos-arm64e
@@ -1893,6 +1992,25 @@ Author: r_plus <anasthasia.r+aa@gmail.com>
 dev: rplus
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=slidecutDp
 
+Package: me.ahmedbafkir.dleasy
+Architecture: iphoneos-arm64e
+Version: 2.14.3-Roothide
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Installed-Size: 15520
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/me.ahmedbafkir.dleasy_2.14.3-Roothide_iphoneos-arm64e.deb
+Size: 10968884
+MD5sum: 94232f1e3db82dfa2a94b8437c400ed3
+SHA1: abff3b8ed11c7038a041409522759dbdd15edd7a
+SHA256: f313eca16b3076fa40ad5f04572eb47166432a2e06e6646a51477e730c44c525
+SHA512: 42731379dc78e710471841871512ff2baec6d00318802f89bdbf175579f4d156462b8074f473f3e319a5594e51ae2b0c0f021917e14071dc95c70b25fda48b4c
+Description: Download/Share images & videos from social apps easily!
+Name: DLEasy (Roothide)
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
 Package: me.nepeta.axon-roothide
 Architecture: iphoneos-arm64e
 Version: 1.4
@@ -1914,6 +2032,24 @@ Author: Nepeta & Baw Appie
 Depiction: http://support-jailbreak.github.io/infodeb/Axon2/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Axon2.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: me.tomt000.copylog
+Architecture: iphoneos-arm64e
+Version: 1.5.6-roothide
+Section: Tweaks
+Maintainer: TomT000
+Installed-Size: 4252
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/me.tomt000.copylog_1.5.6-roothide_iphoneos-arm64e.deb
+Size: 1528632
+MD5sum: 5984483e800d2d97510ee400388376db
+SHA1: f4899ba5dbf881b85b7fb4218e551bb37a6a6003
+SHA256: a57f5b16b61f50b081f82638a26ab1d982ef983ad597ea3e8fa2ac558f817a84
+SHA512: bdb55cf6b1c9b714321fd72ea1845b2c8a009ad4e1c06034b6773d7d43e08832760061163a0e0aa50c384389b11acbf937a2bf7987a2e4b0e53a1917619bf51b
+Description: Clipboard history manager for iOS!
+Name: CopyLog (Roothide)
+Author: TomT000
 
 Package: net.BIENVANNHAT.dynamicpeninsula-roothide
 Architecture: iphoneos-arm64e
