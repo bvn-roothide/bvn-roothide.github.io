@@ -1276,6 +1276,46 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
 
+Package: com.foxfort.foxforttools
+Architecture: iphoneos-arm64e
+Version: 1.4.8-roothide
+Section: Development
+Maintainer: FoxfortMobile
+Installed-Size: 1792
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.4.5)
+Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.foxforttools
+Filename: ./debs/com.foxfort.foxforttools_1.4.8-roothide_iphoneos-arm64e.deb
+Size: 421744
+MD5sum: deabae3620d9f2587f9f6e645b08257f
+SHA1: a7136bd762b7c45183d5f5549c7fc2a5ffcd3f6c
+SHA256: 2fc2d70ff89291f19c92d757d2d47cbc902b05edea843218d4d8c2a66d228386
+SHA512: 426084a6435922237baca7379f122d8106504fb265c7326a244eeb2425d12bba2de3873f0f47f6a3151e721be5c6cccab65e6e22123d34aee3757968c777ad75
+Description: Helper tools for Foxfort tweaks
+Tag: role::developer
+Name: FoxFort Tools
+Author: FoxfortMobile
+
+Package: com.foxfort.libfoxfortutils
+Architecture: iphoneos-arm64e
+Version: 1.4.5-roothide
+Section: Development
+Maintainer: FoxfortMobile
+Installed-Size: 1128
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 11.0), com.opa334.libsandy
+Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.libfoxfortutils
+Filename: ./debs/com.foxfort.libfoxfortutils_1.4.5-roothide_iphoneos-arm64e.deb
+Size: 256624
+MD5sum: e477f3b5684e2481ebfe1e00d76e6ee8
+SHA1: df124dd318cce766161797698405a02da3745899
+SHA256: 994c97865d2567be6bc63035a9ac8e3fe5a7e4c19256161ac2aefb377b116065
+SHA512: 2806bba79f3212dc9f22a38c908f8024141762378450739c20c5127439e9bd2f982d0a6cac6d701363df3dad734320176be7c6dbe033762c99b11ec106be12f0
+Description: library for Foxfort tweaks
+Tag: role::developer
+Name: libfoxfortutils
+Author: FoxfortMobile
+
 Package: com.foxfort.translomatic
 Architecture: iphoneos-arm64e
 Version: 2.18.15
