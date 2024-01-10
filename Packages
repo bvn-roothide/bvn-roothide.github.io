@@ -704,6 +704,25 @@ Depiction: http://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppVersion.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.ITCBauhausR
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Fonts
+Maintainer: BVN Repo
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.bvn.ITCBauhausR_1.0_iphoneos-arm64e.deb
+Size: 821176
+MD5sum: be6cdf3a68d7a6119628c3e0d73f1a9b
+SHA1: 548c646814d6a31e89041abc4cb511bfd5b76fd1
+SHA256: 2c6d08e822f46d6a3ce262a9b6f0de399e2493daed2b00b68a2538ea699c2aa8
+SHA512: 3e35f510a684371bdab583b4c27710cb46d45d70b15dac2cb66a9ed7775535dc1097de37d4051160934d83bec76d9213fdf31a1548245f2d418114d8f7eb0657
+Description: Dành cho iOS14-17.
+Name: ITCBauhausR (iOS14-17)
+Depiction: http://bvnsupport.github.io/infodeb/Html/ITCBauhausR.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ITCBauhausR.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: unknown
+
 Package: com.bvn.RingTonesManager
 Architecture: iphoneos-arm64e
 Version: 1.1-4
