@@ -1831,6 +1831,27 @@ Depiction: https://bvnsupport.github.io/depictions/youpip.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.zetsu-roothide
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 2448
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader
+Filename: ./debs/com.repobvn.zetsu-roothide_1.2_iphoneos-arm64e.deb
+Size: 3831498
+MD5sum: 407ccca156a1d7c1770480174f778036
+SHA1: 80aae230c5e7a886cc224fcce428e6c0b6625d6c
+SHA256: 262dfe63918c287a3e21c6f5f7bebd343b6732d72404e2b9cefb36e50bf2dff1
+SHA512: 2fd3cb656d995d31ed5cf0ee0a4492a7da94e0fed406be93fa93d5b7f6b561313103d3cc2c7541f1d4ddb25ae6ad571a50b9eb5ffed88281b613451f179e1402
+Description: Đa nhiệm trên iOS15 & 16.Lưu ý đây là bản thử nghiệm trên ios 15 và 16.4 .iOs cao hơn nếu cài gặp lỗi vui lòng xoá Tweaks
+Name: Zetsu VH(Roothide)
+Author: Dcsyhi
+Depiction: http://support-jailbreak.github.io/infodeb/Zetsu/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Zetsu.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.spark.libsparkcolourpicker
 Architecture: iphoneos-arm64e
 Version: 1.0.3-rootless
