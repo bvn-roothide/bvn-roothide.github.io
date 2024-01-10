@@ -1168,6 +1168,24 @@ Depiction: https://bvnsupport.github.io/depictions/ytx.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.zetsuroothide
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: Dcsyhi
+Installed-Size: 2448
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader
+Conflicts: com.repobvn.zetsu-roothide
+Filename: ./debs/com.bvn.zetsuroothide_1.1_iphoneos-arm64e.deb
+Size: 1822372
+MD5sum: 0177ac401439f72384ceed7d843ddc9f
+SHA1: 57c95d409c7296f9620aaa120185b7380d78cd11
+SHA256: 8201a0c5775f53ce02e389675134fdee5d384e79634f8d1e8198166df517fed5
+SHA512: 1352e0d941e39de493a33f41ca62610f2bb72262cb86ca989136a3ce2eba2586f8771ab76fe3d8c18c38093d00bc75e3cbc4a64b0508260eb7b6f94c5c2f6935
+Description: Đa nhiệm trên iOS 16 (Roothide).
+Name: Zetsu VH iOS16(Roothide)
+Author: Dcsyhi
+
 Package: com.bvnrepo.Starfall
 Architecture: iphoneos-arm64e
 Version: 0.1
@@ -1583,6 +1601,27 @@ Name: GoodWifi (Roothide)
 Author: Julioverne
 Depiction: https://support-jailbreak.github.io/depictions/GoodWifi.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/GoodWifi.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.LetMeKnow-roothide
+Architecture: iphoneos-arm64e
+Version: 1.4.2-roothide
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.repobvn.LetMeKnow-roothide_1.4.2-roothide_iphoneos-arm64e.deb
+Size: 26524
+MD5sum: 48f7083b3c53bb35331f61179323848c
+SHA1: 70646d0e0d1df4fb00ef10228e67f040ef5ea2d6
+SHA256: 3e196cf785fe469877bc0d742dd728b00c911ec3bdc20d0fb7e4776f49d0283d
+SHA512: 3642e7f6766b2af3344a13a699f2763f83fa4377af73f76977f1c9733ba8bf19dc57657238b5cd3ec286dd8e8197925029bf1e68a5b14f39f349560c376e3301
+Description: Rung khi kết nối hoặc ngắt cuộc gọi.
+Name: LetMeKnow VH (Roothide)
+Author: P2KDev
+Depiction: https://support-jailbreak.github.io/depictions/LetMeKnow.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/LetMeKnow.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.a-font-roothide
