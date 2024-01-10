@@ -1052,6 +1052,24 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyCC.json
 Author: sugiuta
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.removeconfidential
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.removeconfidential_1.0.2_iphoneos-arm64e.deb
+Size: 9180
+MD5sum: f570f4b4a2c02cd6451bb7f755d50d4d
+SHA1: 7579bb62d7f89d81d97bc2a0368918e000db24bc
+SHA256: c94b5c29d72e83ac8112b268183b981f6a465637b52e73d88ab97b6251b2cfb0
+SHA512: a5c2d7ab0426125f83a91ecbeb64f8bedddb1e527792d9125d67bf3826526d2d9701476ca2259dc568565fb3e599a4f1354057fd67f4c33c2443376cf90bee51
+Description: Xoá dòng chữ "Confidential and Proprietary" trên màn hình khoá.
+Name: Remove Confidential
+Author: Flame
+
 Package: com.bvn.sugarcane-roothide
 Architecture: iphoneos-arm64e
 Version: 1.2.4.2
