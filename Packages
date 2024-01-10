@@ -824,6 +824,30 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
 
+Package: com.bvn.copic2.roothide
+Architecture: iphoneos-arm64e
+Version: 1.15.0-beta-5
+Section: Utilities
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 3392
+Pre-Depends: rootless-compat(>= 0.1), firmware (>=15.0)
+Depends: mobilesubstrate, preferenceloader, org.mr.libiarraysrl (>= 1.0.16)
+Conflicts: com.iarrays.copic10, com.iarrays.copic, com.iarrays.copic2.roothide
+Filename: ./debs/com.bvn.copic2.roothide_1.15.0-beta-5_iphoneos-arm64e.deb
+Size: 705264
+MD5sum: d5531efca7fa784c6e7dfcaacedbcfe4
+SHA1: 127caa331b9ce7753ff3784d771c620419a7e45c
+SHA256: 73e6379daa2428ac740a1a3465fff2329d7c33a285f78920e2d3eefb5cc9f8dc
+SHA512: 5acf443433429be526627d6a7ecffc986b282445d500a4ad57c0f98c979c21bacdd80277b18b1ad0a2d1175bc3b8565bed0d4a0a0a7afb1b05a6ea9b6f44a1c7
+Homepage: https://iarrays.com/
+Description: Copic 2 mới được thiết kế lại, tối ưu hóa và xây dựng lại hoàn toàn từ đầu. Giờ đây mang đến khả năng hiển thị ảnh Liên hệ ở mọi nơi trên iPhone của bạn. Tích hợp liền mạch với các ứng dụng Danh bạ, FaceTime, Thư, Tin nhắn và Điện thoại có sẵn. Nó tích hợp với màn hình khóa và Trung tâm thông báo, đồng thời hiển thị hình ảnh liên lạc cho các cuộc gọi nhỡ và tin nhắn. Mang lại khả năng bật hoặc tắt chữ lồng hoặc hiển thị hình ảnh tròn hoặc hình chữ nhật và nhiều tính năng khác.
+Name: Copic 2 VH(Roothide iOS15/16)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Copic.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Copic.json
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
 Package: com.bvn.customizecc
 Architecture: iphoneos-arm64e
 Version: 1.4.3
@@ -1518,6 +1542,27 @@ Author: CreatureSurvive
 Depiction: https://support-jailbreak.github.io/depictions/Shuffle1.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Shuffle1.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repo.appdata-roothide
+Architecture: iphoneos-arm64e
+Version: 1.4.1-Roothide
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 23032
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.repo.appdata-roothide_1.4.1-Roothide_iphoneos-arm64e.deb
+Size: 10122444
+MD5sum: b5861a47a60e8d0eab693b3567210af9
+SHA1: a327dea748af7d6b1b779621376e4fc972327c92
+SHA256: 975e9b15c0d64994dc34765ae7014a6eb984b7c697a8cb719e7abe6f8a989f1d
+SHA512: a823558125a032337f7e6308ce6c5943110e4c1e35f3bf436da8fcb30e0c48fd51ed8219f903f540ce95ceea5a852459159d09316949a210b15797bd9e93de22
+Description: Xem và truy cập dữ liệu ứng dụng của bạn bằng cách vuốt lên trên biểu tượng hoặc dùng cảm ứng lực
+Name: AppData (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/AppData/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppData.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Fouad Raheb
 
 Package: com.repobvn.Coolwcat
 Architecture: iphoneos-arm64e
