@@ -1089,6 +1089,23 @@ Description: Xoá dòng chữ "Confidential and Proprietary" trên màn hình kh
 Name: Remove Confidential
 Author: Flame
 
+Package: com.bvn.snowboardfix
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.snowboardfix_1.0.0_iphoneos-arm64e.deb
+Size: 3516
+MD5sum: 73d63aff3b4224d334005cbf5aa9b782
+SHA1: 934558f8f47636aef63167d36c88d3ce926d4e72
+SHA256: 8ebecef26475aadbf8c776498ba335e8fa5b9d2904488f4284e006de90d62c8b
+SHA512: a2a36146d8bb4a5de95a66e5dde5f12462d56033fd279310b1aaf04d2782a8be2746d366999b70efa3aadb06230dd533cf86c7b91a7ea0555b7c4d67f6629d9b
+Description: Sửa lỗi SnowBoard bị treo trên iOS 16
+Name: SnowBoardFix
+Author: MTAC
+
 Package: com.bvn.sugarcane-roothide
 Architecture: iphoneos-arm64e
 Version: 1.2.4.2
