@@ -1844,21 +1844,21 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.snowboard-roothide
 Architecture: iphoneos-arm64e
-Version: 1.6.4-Beta3-rootless
+Version: 1.6.4-Beta4-Roothide
 Section: Tweaks
 Maintainer: Repo BVN
 Installed-Size: 3188
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, preferenceloader,com.spark.snowboardapplication, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.presetextension, com.spark.snowboard.settingsicons, com.spark.snowboard.statusbar, com.spark.snowboard.ui
+Depends: mobilesubstrate, preferenceloader, com.spark.snowboardapplication, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.presetextension, com.spark.snowboard.settingsicons, com.spark.snowboard.statusbar, com.spark.snowboard.ui
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/com.repobvn.snowboard-roothide_1.6.4-Beta3-rootless_iphoneos-arm64e.deb
-Size: 2814266
-MD5sum: 4d826f490b3b1ca43595f1eb15a994e4
-SHA1: a536e870bca8926a1ad57cbc03d38244324ae7f5
-SHA256: f48696c9895a149476afe122e4ae14e3de5ada7c880e403040332e6479ee0d51
-SHA512: f885bfade07b9722c65708c91a8205e4cd586582e0742c06c75eae8a409db3f3fb5075b68199e3d4f6ae831e770d36b64aa17d2ae6634f419fad7a9886a26f0d
+Filename: ./debs/com.repobvn.snowboard-roothide_1.6.4-Beta4-Roothide_iphoneos-arm64e.deb
+Size: 2814264
+MD5sum: 182efa3d0b5aec6ed8cd9fc223bd3ea8
+SHA1: 05cfa2ebcb21c0f062b6b9f19af8da79d95df7f4
+SHA256: ff258d3f6a995e9255e1402c5e165011a634e843749ec6edec46c8fc717771db
+SHA512: 94e2ab6ba88195183b4cde1ac43a5fe72ce64aae9a6d92ad4d815c7484750f16d986ad0fb59cd6649132ba2d7e59523bba2a8fcd1c88e6cf79c49071d8f15512
 Description: Snowboard theming engine
 Name: SnowBoard VH(Roothide)
 Depiction: https://support-jailbreak.github.io/depictions/SnowBoard.html
