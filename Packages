@@ -2377,6 +2377,26 @@ Depiction: https://mrepo.org/depiction/5581
 SileoDepiction: https://mrepo.org/sileo/5581
 Icon: https://mrepo.org/CydiaIcon.png
 
+Package: vn.bvnrepo.ding-roothide
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Repo BVN
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/vn.bvnrepo.ding-roothide_1.1.0_iphoneos-arm64e.deb
+Size: 28276
+MD5sum: 4921259f09ac953d71e09debf58d68ad
+SHA1: a9f3669042e7147f4bb155f77ae2ea2e5b0d2d9c
+SHA256: a5344abc2e0ae4947a9c40a47efc511c2bf8a9516ce0e6f8317895eb864441b0
+SHA512: 3caa3ad2584fb5b1b0d2c86a7dc3f9716a3e4079681f520b7546d8bab7e9dc1a1aa5df0f63b9f13b8f4e548c9f1a434e25e2ad58a7c8c543eadfe2434ab6c31e
+Description: Tuỳ chỉnh cần gạt rung của bạn!
+Author: Nebula
+Name: Ding VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Ding/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Ding.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: vn.bvnrepo.taptapslumber
 Architecture: iphoneos-arm64e
 Version: 0.0.3
