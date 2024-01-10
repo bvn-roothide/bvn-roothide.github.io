@@ -1071,6 +1071,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyCC.json
 Author: sugiuta
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.plampycc
+Architecture: iphoneos-arm64e
+Version: 1.0.2-Roothide
+Section: Tweaks
+Maintainer: BVN
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.plampycc_1.0.2-Roothide_iphoneos-arm64e.deb
+Size: 1586600
+MD5sum: 43cc14665287078980f6482849f16711
+SHA1: 8bdda1f3d15dfdcc26e244e0267d2e21d09967d3
+SHA256: 3225fa1cee9145e707c72ea8b386e503832043ef6919b0bfec5193c7379b9559
+SHA512: 1452c8325ecc023cf5d8a54a3d645157ddbe3ec70fb63c48e78300dcc9538a1f508bdedb603805a878c3c25e01685900b0a260807380b42bb8e9a88f326d2493
+Description: Tùy chỉnh CC trên iOS15 & 16 với các biểu tượng hoạt hình .caml và hơn thế nữa
+Depiction: http://bvnsupport.github.io/infodeb/PlampyCC/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PlampyCC.json
+Name: PlampyCC VH(Roothide)
+Author: sugiuta
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.removeconfidential
 Architecture: iphoneos-arm64e
 Version: 1.0.2
