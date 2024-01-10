@@ -1522,6 +1522,27 @@ Depiction: http://support-jailbreak.github.io/infodeb/Satella/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Satella.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.reoobvn.satella-roothide
+Architecture: iphoneos-arm64e
+Version: 1.9.0
+Section: Tweaks (Piracy)
+Maintainer: Bvn repo
+Installed-Size: 456
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 13.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.reoobvn.satella-roothide_1.9.0_iphoneos-arm64e.deb
+Size: 71740
+MD5sum: d050562a542716cce0a93e2a42babd49
+SHA1: 2a2a6e9e5f88bfd287c1f0360c19b452279ef1b3
+SHA256: 30685cdb79c05582b99501620ce7b1e66a35eb974cd65c6a1a0f8c723c61030a
+SHA512: 8c5a8fc616c588a8d6b8ec286cfef36e79d52a246e4670f651fc59060c35136da6bed11bd84fec4e3463597b48ade407620d9c4e625214eb881b5f08ac15d5aa
+Description: Cracker mua hàng trong ứng dụng hiện đại
+Depiction: http://bvnsupport.github.io/infodeb/Satella/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Satella.json
+Name: Satella (Roothide)
+Author: Paisseon
+Icon: https://paisseon.github.io/icons/Satella.png
+
 Package: com.reoobvn.shuffle-roothide
 Architecture: iphoneos-arm64e
 Version: 1.6.2
