@@ -2293,3 +2293,26 @@ Depiction: https://mrepo.org/depiction/5581
 SileoDepiction: https://mrepo.org/sileo/5581
 Icon: https://mrepo.org/CydiaIcon.png
 
+Package: vn.bvnrepo.taptapslumber
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: Tweaks
+Maintainer: iGerman <igerman@igerman.cc>
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>=15.0)
+Filename: ./debs/vn.bvnrepo.taptapslumber_0.0.3_iphoneos-arm64e.deb
+Size: 25452
+MD5sum: f9f2fa392160e7d58668580febe4ffff
+SHA1: 8b34fbdb644e606551cd33f6630dbf36bb81fde3
+SHA256: 30359d05a9c811519435512224790b1958eb6289b6e50f3dd6c02056b90bee3f
+SHA512: a04f7691d55d6869b8ad081cd76d6f1d6dbae71916c59d557ce341269ce04bc4c010822af629eb168270aeedde22220090513d691fb9f1298ae0b5916862380a
+Homepage: https://shuga.co/
+Description: Nhấn đúp vào màn hình khóa, màn hình chính hoặc thanh trạng thái để khóa thiết bị của bạn.
+Name: TapTapSlumber (Roothide)
+Depiction: https://repo.igerman.cc/depiction/web/cc.igerman.taptapslumber.html
+SileoDepiction: https://repo.igerman.cc/depiction/native/cc.igerman.taptapslumber.json
+ModernDepiction: https://repo.igerman.cc/depiction/native/cc.igerman.taptapslumber.json
+Icon: https://repo.igerman.cc/assets/cc.igerman.taptapslumber/icon.png
+Tags: compatible_min::ios15.0, compatible_max::ios15.4.1
+Author: iGerman <igerman@igerman.cc>
+
