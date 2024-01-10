@@ -1850,15 +1850,15 @@ Maintainer: Repo BVN
 Installed-Size: 3188
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, preferenceloader,com.spark.snowboardapplication, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.presetextension, com.spark.snowboard.settingsicons, com.spark.snowboard.statusbar, com.spark.snowboard.ui
+Depends: mobilesubstrate, preferenceloader,com.spark.snowboardapplication, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.presetextension, com.spark.snowboard.settingsicons, com.spark.snowboard.statusbar, com.spark.snowboard.ui
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: ./debs/com.repobvn.snowboard-roothide_1.6.4-Beta3-rootless_iphoneos-arm64e.deb
-Size: 1127240
-MD5sum: e486542ca27396be82fe79237fa71310
-SHA1: 1a87984903903dad984d1e6094a57ecc0c20bff8
-SHA256: 8aae4bbfb45af34f0df2d9bb1045a4fa2b3823f2dc543225a1eba742aceed625
-SHA512: 9f6b96c23633dedd0bddf7ad0769f460fef016eb6e41d4abb34eac7c90963fda8b5bb7201783afdc18be74f5fea912e82e5c71046ccdec0bbe6c648388e11164
+Size: 2814266
+MD5sum: 4d826f490b3b1ca43595f1eb15a994e4
+SHA1: a536e870bca8926a1ad57cbc03d38244324ae7f5
+SHA256: f48696c9895a149476afe122e4ae14e3de5ada7c880e403040332e6479ee0d51
+SHA512: f885bfade07b9722c65708c91a8205e4cd586582e0742c06c75eae8a409db3f3fb5075b68199e3d4f6ae831e770d36b64aa17d2ae6634f419fad7a9886a26f0d
 Description: Snowboard theming engine
 Name: SnowBoard VH(Roothide)
 Depiction: https://support-jailbreak.github.io/depictions/SnowBoard.html
@@ -1982,13 +1982,13 @@ Section: SnowBoard Extensions
 Maintainer: Spark
 Installed-Size: 440
 Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, com.repobvn.snowboard-roothide (>= 1.2.100)
+Depends: mobilesubstrate
 Filename: ./debs/com.spark.snowboard.dock_1.1.3~Beta4-roothide_iphoneos-arm64e.deb
-Size: 34140
-MD5sum: 2c169d202223d0ccb5fe94bb87beb13d
-SHA1: 77e50abacbbc9fea60cf1405267fae3e04bdf00a
-SHA256: 6f4703a8c9609aa9134ce6b5b2a28fc615cddf3a3b488a06b3b5e6eccf8e57ea
-SHA512: 51216ecbaece5e7102b7b498a0d0a42257ec483a57e55cbdb948a54d4168a63abfbfdacef66a719ae6584c7b90b08e9d5a8d683a12940598ad50117d1bb982f4
+Size: 114822
+MD5sum: 60729eabeac63136deca49cfd678f197
+SHA1: 632729e579f8625bf964008f5cbf69dc18292f0e
+SHA256: 0085def8cf661e77c5b589e5916f73a456874e49a1c71effad20b8eb16d304cf
+SHA512: a722237e630cf60498de5e1397b9c983bdf8d10b5e33d0cc9bd07747677dcbbf740468ebc6467d071be81cd25f225977ad426b8d6cae0155ef2b9040c04ab1a9
 Description: Dock for SnowBoard
 Name: SnowBoard Dock Extension
 Author: Spark
