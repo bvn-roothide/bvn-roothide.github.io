@@ -2422,6 +2422,22 @@ Depiction: https://mrepo.org/depiction/5581
 SileoDepiction: https://mrepo.org/sileo/5581
 Icon: https://mrepo.org/CydiaIcon.png
 
+Package: vietnam.bvnrepo.masktet
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Themes Roothide
+Maintainer: BIỆN VĂN NHẬT
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/vietnam.bvnrepo.masktet_1.0_iphoneos-arm64e.deb
+Size: 21298
+MD5sum: 57027c867610462fec4d080d272706b5
+SHA1: 4615281eeac9baae8c400559ffca39fcff69a0fc
+SHA256: 56f8e097684633ccbd9c812c426f12889a18636a4f9b1b6f44f90976f324dcd4
+SHA512: c4626f3791aab3e58da71c63ab45c70a93b200b6f49dcf94753add0316faa940c38143f938db3eae31bdc785b022da580f8414b13450da0149c13081c1b79571
+Description: Gói Mask tết .Kích Hoạt qua Snowboard
+Name: Mask Tết(Roothide)
+Author: Vũ Qunag
+
 Package: vn.bvnrepo.a-font
 Architecture: iphoneos-arm64e
 Version: 1.10-Roothide
