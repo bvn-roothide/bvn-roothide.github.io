@@ -2398,6 +2398,26 @@ Depiction: https://mrepo.org/depiction/5581
 SileoDepiction: https://mrepo.org/sileo/5581
 Icon: https://mrepo.org/CydiaIcon.png
 
+Package: vn.bvnrepo.a-font
+Architecture: iphoneos-arm64e
+Version: 1.10-Roothide
+Section: Tweaks
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 2476
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
+Filename: ./debs/vn.bvnrepo.a-font_1.10-Roothide_iphoneos-arm64e.deb
+Size: 1691380
+MD5sum: 38df6a0767cb505ced7b0b9dc7fa4a80
+SHA1: 17fc1b219a6c527b41b7021acd395f9f10034100
+SHA256: 60a8c90e968226944df86526e78411afe0997f74499259a69794cc659de291da
+SHA512: 91902edd5ad0eba41ed9ad4ac3ce6c0a772e77d1dcced90d1d5952b2c7d057961918275ba68c5945a01c6e90a76cec6a1f6e7b7a2c38a95cc62e8df9c480cfa9
+Description: Change your font!
+Name: A-Font VH iOS16(Roothide)
+Depiction: https://bvnsupport.github.io/depictions/A-Font.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/A-Font.json
+Author: Baw Appie <pp121324@gmail.com>
+
 Package: vn.bvnrepo.ding-roothide
 Architecture: iphoneos-arm64e
 Version: 1.1.0
