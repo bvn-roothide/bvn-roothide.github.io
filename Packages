@@ -1141,11 +1141,11 @@ Maintainer: Bvn Repo
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.bvn.snowboardfix_1.0.0_iphoneos-arm64e.deb
-Size: 3516
-MD5sum: 73d63aff3b4224d334005cbf5aa9b782
-SHA1: 934558f8f47636aef63167d36c88d3ce926d4e72
-SHA256: 8ebecef26475aadbf8c776498ba335e8fa5b9d2904488f4284e006de90d62c8b
-SHA512: a2a36146d8bb4a5de95a66e5dde5f12462d56033fd279310b1aaf04d2782a8be2746d366999b70efa3aadb06230dd533cf86c7b91a7ea0555b7c4d67f6629d9b
+Size: 5418
+MD5sum: b265f0fc100dc286df1575a3ae1caa58
+SHA1: 9c3b452f55499623be26fa5b6cb1a346137b5c0b
+SHA256: 0edf3bb1dec4d7685a0bce781ea209fe7894d336ad4726e596316ec62e8cc91a
+SHA512: 196f269ce1899967aa9e730d1df767f6c037ae4cd00ea7866b6e0de56bbf58eaf4765ec6da5722520ab53f6f016c8cffdde7fd8ff212dde9879764ff23cbaf06
 Description: Sửa lỗi SnowBoard bị treo trên iOS 16
 Name: SnowBoardFix
 Author: MTAC
@@ -1887,6 +1887,30 @@ SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SnowBoard.js
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Spark & Dennis D. Bednarz
 
+Package: com.repobvn.snowboard-roothide
+Architecture: iphoneos-arm64e
+Version: 1.6.4-Beta5-Roothide
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 3188
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader, com.spark.snowboardapplication, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.presetextension, com.spark.snowboard.settingsicons, com.spark.snowboard.statusbar, com.spark.snowboard.ui
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.repobvn.snowboard-roothide_1.6.4-Beta5-Roothide_iphoneos-arm64e.deb
+Size: 2809168
+MD5sum: af80e38b4928a3f22d6f41c666e60eb6
+SHA1: 493360b81e99d659a4a91a25d76017850b8b6763
+SHA256: 0f5a2f11c163f635988b09ad6a4569d6a7f69ff7ed38e2a665d2ee516ba187f6
+SHA512: 607d84f57ad0befa33ffd4ce4c89b218cded51f2c139dd5a6b1698d868a86966c5d6b660902328dd68a67af23d9e734f0950c9ba6a3be46434ac4c26d4a07c7a
+Description: Snowboard theming engine
+Name: SnowBoard VH(Roothide)
+Depiction: https://bvnsupport.github.io/depictions/SnowBoard.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SnowBoard.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Spark & Dennis D. Bednarz
+
 Package: com.repobvn.uyou-roothide
 Architecture: iphoneos-arm64e
 Version: 3.0.2
@@ -2005,11 +2029,11 @@ Installed-Size: 440
 Pre-Depends: rootless-compat(>= 0.1)
 Depends: mobilesubstrate
 Filename: ./debs/com.spark.snowboard.dock_1.1.3~Beta4-roothide_iphoneos-arm64e.deb
-Size: 114822
-MD5sum: 60729eabeac63136deca49cfd678f197
-SHA1: 632729e579f8625bf964008f5cbf69dc18292f0e
-SHA256: 0085def8cf661e77c5b589e5916f73a456874e49a1c71effad20b8eb16d304cf
-SHA512: a722237e630cf60498de5e1397b9c983bdf8d10b5e33d0cc9bd07747677dcbbf740468ebc6467d071be81cd25f225977ad426b8d6cae0155ef2b9040c04ab1a9
+Size: 114826
+MD5sum: 8a0007c967d6d191c753bedfc8b28edd
+SHA1: 48cb9f10f882f86e711b94197a90087e0aec552f
+SHA256: 4a7ccc08b86884184749b9d20106818a2201a3f0cfbda1f36d3d9c307b15b28a
+SHA512: 5bacda62f36e42ab589821fce801aa48668903d9e1fab399cf5d65912d6a4d47ff7ba9c245722128f68564fa51965407e2718dd73f807f279f56423fd1dcf165
 Description: Dock for SnowBoard
 Name: SnowBoard Dock Extension
 Author: Spark
