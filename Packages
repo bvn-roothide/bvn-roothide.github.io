@@ -2429,11 +2429,11 @@ Section: Themes Roothide
 Maintainer: BIỆN VĂN NHẬT
 Pre-Depends: rootless-compat(>= 0.1)
 Filename: ./debs/vietnam.bvnrepo.masktet_1.0_iphoneos-arm64e.deb
-Size: 21298
-MD5sum: 57027c867610462fec4d080d272706b5
-SHA1: 4615281eeac9baae8c400559ffca39fcff69a0fc
-SHA256: 56f8e097684633ccbd9c812c426f12889a18636a4f9b1b6f44f90976f324dcd4
-SHA512: c4626f3791aab3e58da71c63ab45c70a93b200b6f49dcf94753add0316faa940c38143f938db3eae31bdc785b022da580f8414b13450da0149c13081c1b79571
+Size: 21244
+MD5sum: cb571c90e3fa4fd7f1ac2dd1457d0bd3
+SHA1: 2376e5bccdea5296d732ec4bd33da5ba63262eef
+SHA256: cbcc2e4264abb1d586d7f76a5174121260b7a6397216b473710f930facd95610
+SHA512: 57de28c0c90834c1dfc814101e3484a07856efa1ceb804467d8f09c2349539a7ed59b7377c9050853686674e60ed21010358a9bc5d9540150cdd0b116db433f5
 Description: Gói Mask tết .Kích Hoạt qua Snowboard
 Name: Mask Tết(Roothide)
 Author: Vũ Qunag
