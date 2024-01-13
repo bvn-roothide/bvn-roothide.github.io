@@ -1283,6 +1283,27 @@ Depiction: https://support-jailbreak.github.io/depictions/amber.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/amber.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvnrepo.dodo-roothide
+Architecture: iphoneos-arm64e
+Version: 4.2.2
+Section: Tweaks
+Maintainer: Ginsu
+Installed-Size: 7592
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: dev.theos.orion14, firmware (>= 14.0), preferenceloader, com.ginsu.comet, com.ginsu.gscore, com.ginsu.gsweather
+Filename: ./debs/com.bvnrepo.dodo-roothide_4.2.2_iphoneos-arm64e.deb
+Size: 961256
+MD5sum: 38b496c84bb4ab11045926dbadeab531
+SHA1: 048509f39bb30bd25d2c4b6aa38333fb75e0bbc6
+SHA256: a4b8399587d39d16556f986e88cf0cba4c4cbc4dc9f01d05d64382ae15411d09
+SHA512: 0bf3c3eb3580f3ea03326916a6df4745e731b1026f4981554d1460f13d6cde7e2023926b61dc6cd6b0de30af5fcac9312160f26adabc41c2aa00e14c1684a6a5
+Description: The perfect Lock Screen redesign.
+Name: Dodo (Roothide)
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.dodo
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.dodo/icon.png
+SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.dodo.json
+
 Package: com.bvnrepo.tweaksettings
 Architecture: iphoneos-arm64e
 Version: 1.0.8
@@ -1446,6 +1467,48 @@ Description: Quickly translate any text
 Name: Translomatic (Roothide)
 Author: FoxfortMobile
 Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+
+Package: com.ginsu.gscore
+Architecture: iphoneos-arm64e
+Version: 1.0.4-roothide
+Section: Tweaks
+Maintainer: Ginsu
+Installed-Size: 4272
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: dev.theos.orion14, firmware (>= 14.0)
+Filename: ./debs/com.ginsu.gscore_1.0.4-roothide_iphoneos-arm64e.deb
+Size: 440668
+MD5sum: 20eba0f8ec1abe3b0bbeded9c97d3c9a
+SHA1: 7172762fbcec5eb981b723d3b65710359c110e6d
+SHA256: b04847a1db4b01c45200f2134a3bba88fe8d4b711792631bd731e6c58c6e6b5f
+SHA512: 455f21cd3f23418815f39cc1c0d3900ff81449ca44ef0fdac141337621bbccb4cee11b6e4f172fd9130145dc123fc30ffe0de87944ebe1c824d6e12f74c11c58
+Description: Environment and communication between my tweaks
+Name: GSCore (Roothide)
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.gscore
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gscore/icon.png
+SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gscore.json
+
+Package: com.ginsu.gsweather
+Architecture: iphoneos-arm64e
+Version: 1.1.1-roothide
+Section: Tweaks
+Maintainer: Ginsu
+Installed-Size: 1216
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: dev.theos.orion14, firmware (>= 14.0)
+Filename: ./debs/com.ginsu.gsweather_1.1.1-roothide_iphoneos-arm64e.deb
+Size: 122620
+MD5sum: 87d838019c28fcae55db76d00ec4bfa4
+SHA1: c6add96ab778a5f434c129a47cce8e5b95292bf4
+SHA256: f3ce3f3a0a57122c0be41817dd886cec3eb1ca8f65e313add4886e0d85817caa
+SHA512: 92ae8388d28c3c01a8f3ee9f8ad4c2b9434b2bf29ac807fc2bf958f4408780f502ad22953021d9ea40e662aef5bb30550350494addc382b76eaddf5f9a396ffd
+Description: A Weather fetching framework
+Name: GSWeather (Roothide)
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.gsweather
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gsweather/icon.png
+SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gsweather.json
 
 Package: com.ichitaso.otadisabler
 Architecture: iphoneos-arm64e
