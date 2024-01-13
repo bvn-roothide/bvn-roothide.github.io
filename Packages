@@ -704,6 +704,22 @@ Depiction: http://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppVersion.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.Floatingtet
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Theme Roothide
+Maintainer: Biện Văn Nhật
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.bvn.Floatingtet_1.0_iphoneos-arm64e-2.deb
+Size: 23692
+MD5sum: 089ab14682d26939d0952570617438d9
+SHA1: 47bd753d72eabec9b459cc7eae75af4dbc935981
+SHA256: debd9dda053a91603d86ea306b7ae837faa34d4096a9d7a23a0f70bb30bcc96e
+SHA512: a6e6e8d891924a4e8c692cfd2e45f049175558ae5a43c0d519d9079ce86acb692fd79a286e98a72f7fa060093941b260cf86d646ff665c6a0fd6dd753b0d5b32
+Description: Gói AE Floating Tết.Kích hoạt qua Snowboard
+Name: AE Floating Tết
+Author: unclear
+
 Package: com.bvn.ITCBauhausR
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -743,6 +759,22 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/RingTonesManager.js
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Netskao
 Tags: compatible_min::ios15
+
+Package: com.bvn.Whiteblue
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Theme Roothide
+Maintainer: Biện Văn Nhật
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.bvn.Whiteblue_1.0_iphoneos-arm64e.deb
+Size: 4474084
+MD5sum: 6fe6441fe5fe767c23afb192110d6620
+SHA1: e7c188e52637ee2dde33ece6f3354d4105ff1a29
+SHA256: 2271e90b5702b0766bf8f44894cdf499cc5afd2f5d5ab4fb10b814e3ba5ba9ce
+SHA512: efb90c1629dc4ca9fc6971b78f0714bd407c438f050e2d2af508e25f0fec5ff3bbc7738cb36d3d9447b33a7ee0aa38ceaf1c433d04fa9d3475ed2c6241b7f35d
+Description: Gói chủ đề Whiteblue .Kích hoạt qua Snowboard
+Name: Whiteblue
+Author: unclear
 
 Package: com.bvn.albummanager
 Architecture: iphoneos-arm64e
