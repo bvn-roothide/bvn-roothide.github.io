@@ -96,6 +96,28 @@ Name: Designer VH(Roothide)
 Author: JunesiPhone <junesgraphics@gmail.com>
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: bvn.repo.designer-roothide
+Architecture: iphoneos-arm64e
+Version: 1.3.1
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 16292
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer-roothide_1.3.1_iphoneos-arm64e.deb
+Size: 21992180
+MD5sum: 31fb2f52dbc7ad12673efa9b8214ee93
+SHA1: e5f30353c5639de1c6d6a96b8d5096f3c51b1cdd
+SHA256: 655044862c81350b43bf51e86578a409b5d37eaaa1cada393ff711eb09f2d97d
+SHA512: 51dff63402dcac76eacf44c720644a70aa18340f48fc2282b9aa3d752a35dacdd619ef754843b4088283898f01133b318cfacbab6636d17c520d8c2c7a97c453
+Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Designer VH (Roothide)
+Author: JunesiPhone <junesgraphics@gmail.com>
+
 Package: com.BIENVANNHAT.SearchDots
 Architecture: iphoneos-arm64e
 Version: 1.1.5
@@ -1106,6 +1128,27 @@ Name: Lynx 2 VH(Roothide)
 Author: MTAC
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.lynxroothide
+Architecture: iphoneos-arm64e
+Version: 2.4.6
+Section: Tweaks
+Maintainer: BVN Repo
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Conflicts: com.mtac.lynxtwo
+Filename: ./debs/com.bvn.lynxroothide_2.4.6_iphoneos-arm64e.deb
+Size: 550716
+MD5sum: 405a01f8429be49a97e56de8973a369c
+SHA1: 4c246c1d143d8198f4028e3c88e0c26e65efeaf5
+SHA256: 98a8c7262b74d1ac268dcc3831a6b2a1d6575e6f3221de9e5b12d9260a53d76b
+SHA512: 642de8e4478738e8f1065aa5b27e32c33db4e171b19965c32109b46d92fb34be27ceffc52449a924f50b69e958d8a689ff053aae0cb835ae9a489167b34b1ecc
+Description: Ultimate Device Customization for iOS 14, 15 & 16.
+Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: MTAC
+Name: Lynx 2VH(Rootless)
+
 Package: com.bvn.plampycc
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -1164,6 +1207,27 @@ SHA512: a5c2d7ab0426125f83a91ecbeb64f8bedddb1e527792d9125d67bf3826526d2d9701476c
 Description: Xoá dòng chữ "Confidential and Proprietary" trên màn hình khoá.
 Name: Remove Confidential
 Author: Flame
+
+Package: com.bvn.senri
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 1740
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 1.17), mobilesubstrate
+Filename: ./debs/com.bvn.senri_1.1_iphoneos-arm64e.deb
+Size: 208388
+MD5sum: 66cf1c2596d854e76cb2e0384dd62514
+SHA1: 0632d0ea6111f73f113c1ec5480e9cd96223ae85
+SHA256: ecf3b0ec5e82211bf1b97e98518ebb9f841a786ba27e203de2d0ebfbd1570a1a
+SHA512: ca72b45a4e46b93fcb8daa2d89cdad8a41fa6bf6a79c82f912adf611446c5ea007f07431293beaa9d9d1571417b3cc23743023b90382e2f271e5b96645a74257
+Description: Không bao giờ mất Thông báo của bạn nữa.
+Depiction: http://bvnsupport.github.io/infodeb/Html/Senri.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Senri.json
+Author: Antoine <hanzikashi@gmail.com>
+Name: Senri VH(Roothide)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.snowboardfix
 Architecture: iphoneos-arm64e
@@ -2474,6 +2538,27 @@ Depiction: http://limneos.net/bioprotectxs
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 4f1110aadbd864aa76fe9e6be32ac34d
 
+Package: net.repobvn.bioprotectxs-roothide
+Architecture: iphoneos-arm64e
+Version: 4.6-31+debug
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 3148
+Depends: mobilesubstrate, preferenceloader, com.bvn.limneos
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/net.repobvn.bioprotectxs-roothide_4.6-31+debug_iphoneos-arm64e.deb
+Size: 669088
+MD5sum: b260bd74b4faf9fc97cffddfcdc15a55
+SHA1: cd29e9d52155aa460b74bb4b7c63298ea1d5291f
+SHA256: b4d063a94ec8a714eecd496c33a8a241ea8f83610b6197f4558f8279a7db9f2e
+SHA512: 7f1c5ba8833782bf570d1a37bb2e2eff3662b5943be623a786fae743e785b08ba315265f012535ce38cb1454ed9bd4fe6368b939e6a65bcbac1be4713374e3c1
+Description: Protect your apps with Touch/Face ID!
+Name: BioProtect VH(iOS 14 to 17) (Roothide)
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+Depiction: http://limneos.net/bioprotectxs
+SileoDepiction: https://limneos.net/cydia/sileo-depiction.php?package=net.limneos.bioprotectxs
+Author: Elias Limneos <limneoselias@gmail.com>
+
 Package: net.repobvn.voicechangerx-rootless
 Architecture: iphoneos-arm64e
 Version: 2.4-3
@@ -2595,4 +2680,49 @@ ModernDepiction: https://repo.igerman.cc/depiction/native/cc.igerman.taptapslumb
 Icon: https://repo.igerman.cc/assets/cc.igerman.taptapslumber/icon.png
 Tags: compatible_min::ios15.0, compatible_max::ios15.4.1
 Author: iGerman <igerman@igerman.cc>
+
+Package: vn.repobvm.youtubereborn-roothide
+Architecture: iphoneos-arm64e
+Version: 4.1.2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 24784
+Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx
+Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Filename: ./debs/vn.repobvm.youtubereborn-roothide_4.1.2_iphoneos-arm64e.deb
+Size: 17953840
+MD5sum: 29001f897810ef84eec2259c63a52f08
+SHA1: 3daf5c0778714bfbf16b3dbfc82bd0599990b893
+SHA256: 791c9ad041c41559426782a67e6ebf66183f804d26397e937aa404e8689c0ab3
+SHA512: 87c7629b5f94202202498588280016d26b2740f4a91b2dc4e501ca73b5fc4896da3c6170c6d3e2d2aad4f928e35d360b6ea74c34d7df0d6eecb3835a856df7d3
+Description: YouTube Customizer
+Name: YouTube Reborn (Roothide)
+Author: Lillie
+Depiction: http://bvnsupport.github.io/infodeb/Html/ytbreborn.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytbreborn.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: vn.repobvn.floatingdockxvi
+Architecture: iphoneos-arm64e
+Version: 1.9
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 812
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: preferenceloader
+Filename: ./debs/vn.repobvn.floatingdockxvi_1.9_iphoneos-arm64e.deb
+Size: 399216
+MD5sum: 809d79f96aad784e63c8671ffabea7de
+SHA1: 0e27998bbd1e2047ccea77d7eacb421ad34f8c3f
+SHA256: a12e8cbcc98be291f2b37c2cd895e9964181bc4929a153b8240d404cc0c71445
+SHA512: f4e7ba5feb16768587fe1f4032a8d059644950e21b0a23c93e824cbcf92a5800df2d1936adf2abf9a47ecfd9495c0b2f51772f452f4b4a94fdfc4c5252cb3828
+Description: Floating Dock on iOS 16
+Name: FloatingDockXVI VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/FloatingDockXVI.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/FloatingDockXVI.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Ethan Whited
 
