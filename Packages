@@ -840,6 +840,29 @@ Name: Alpine (Roothide)
 Author: MTAC
 Icon: https://media.havoc.app/64ae21880d54f9113bc13a59
 
+Package: com.bvn.calllogpro.roothide
+Architecture: iphoneos-arm64e
+Version: 15.0-beta-3
+Section: Utilities
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 7716
+Pre-Depends: firmware (>=15.0)
+Depends: mobilesubstrate, org.mr.libiarraysrl (>= 1.0.16)
+Conflicts: com.iarrays.CallLogPro10, com.iarrays.CallLogPro81, com.iarrays.CallLogPro8, com.iarrays.calllogpro.rootless
+Filename: ./debs/com.bvn.calllogpro.roothide_15.0-beta-3_iphoneos-arm64e.deb
+Size: 2407672
+MD5sum: 2c5274a519c5674dcb964041df9c7f88
+SHA1: 67ac672f41f0c21d44cbb711d6899e287c0ca61b
+SHA256: 9afa64751d25ef00bd9b9a4a88736836c6ccc028e67c412997b62c3e06148d86
+SHA512: a1c6e70b33c1ea6c1f34f6cb304b3bba6cd00a0895c1b38febc6a8eec71459e3458f07712d428c76970218c96daea5971e84f065caf87722c0d2b201f1e7832c
+Description: Bây giờ với sự hỗ trợ iOS 16.x. CallLogPro cho phép quản lý lịch sử cuộc gọi của bạn và xóa từng bản ghi cuộc gọi một hoặc tất cả.
+Name: CallLogPro VH(RootHide iOS 16 to 15)
+Depiction: http://bvnsupport.github.io/infodeb/CallLogPro+/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CallLogPro+.json
+Author: IArrays <contact@iarrays.com>
+Sponsor: IArrays
+Icon: https://iarrays.com/sileo-depiction/calllogpro/icon.png
+
 Package: com.bvn.ccmusicartwork
 Architecture: iphoneos-arm64e
 Version: 2.4.0-rootless
