@@ -1098,6 +1098,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Latchkey.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Latchkey.json
 Author: Maxwell Dausch <max.dausch@gmail.com>
 
+Package: com.bvn.latchkey
+Architecture: iphoneos-arm64e
+Version: 2.3.3
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 13476
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.bvn.latchkey_2.3.3_iphoneos-arm64e.deb
+Size: 20035276
+MD5sum: 605a96599e0adb0f4a32c9aebd321888
+SHA1: 896a2eea5d99a1356e0f97b822b07689a07f9d8e
+SHA256: 6c729f2e872459e85af8fe0391183ea2ed4e903f0aa80a6f8afc3a391b3e30c9
+SHA512: 213008c3c5746bcc532897500bf3b941a9ffbac935859f10a3973c819d653d07d8fd72200f3de5678d26a925e487d648992d76ff3c4560030148d58c29192044
+Description: Tùy chỉnh biểu tượng và vị trí khóa. Di chuyển và tạo chủ đề cho biểu tượng khóa Face-ID
+Name: Latchkey VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Latchkey.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Latchkey.json
+Author: Maxwell Dausch <max.dausch@gmail.com>
+
 Package: com.bvn.limneos
 Architecture: iphoneos-arm64e
 Version: 3.0.1
