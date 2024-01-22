@@ -1311,6 +1311,24 @@ Description: Sửa lỗi SnowBoard bị treo trên iOS 16
 Name: SnowBoardFix
 Author: MTAC
 
+Package: com.bvn.speedyads
+Architecture: iphoneos-arm64e
+Version: 1.0-roothide
+Section: Tweaks
+Maintainer: Bvn Repo
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.speedyads_1.0-roothide_iphoneos-arm64e-1.deb
+Size: 5624
+MD5sum: e27562d0a89b1e0e5d48c9203d11227e
+SHA1: accd9498ff4e51358053b690e5360aa25cb097f2
+SHA256: 2cc16f3bc560a8892ad4155aeb9f83548df0104f36f4a37bc4f54968150172ca
+SHA512: bdbb729f63c9789cb53e396884b48a341509c37c8f2d35b891504846b86d82c8219ee12e82dd46fd652e16251a4a4ab9d00ff15f5d28157ba8a5003c3362aac7
+Description: Tăng tốc thời gian chờ quảng cáo để lấy phần thưởng trong các trò chơi, ứng dụng.
+Tag: purpose::extension
+Name: Speedy Ads (Roothide)
+Author: Dabee Cao <contact@dabeecao.org>
+
 Package: com.bvn.sugarcane-roothide
 Architecture: iphoneos-arm64e
 Version: 1.2.4.2
