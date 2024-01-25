@@ -118,6 +118,28 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Designer VH (Roothide)
 Author: JunesiPhone <junesgraphics@gmail.com>
 
+Package: bvn.repo.designer-roothide
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: Tweaks
+Maintainer: Bvn Repository
+Installed-Size: 16600
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer-roothide_1.4_iphoneos-arm64e.deb
+Size: 22175988
+MD5sum: 40604152f2ad2e15df6d267469a863f8
+SHA1: 83b28b1c9a4970f814cd20537bb9cbaa49772f6b
+SHA256: 162a2b649bd237fc63fc378f0d4308d97e2f944bac6b8ca6c43f76cbdaa23c39
+SHA512: f31e33ebe7b2626b9303a6c9bbae5523d184f58910a9a8a32c221b4f4a3023a2f957e3b84b1648fec7d9cf36c3776ce0c0387130a1fd917f699e319b01823415
+Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Designer VH(Roothide)
+Author: JunesiPhone <junesgraphics@gmail.com>
+
 Package: com.BIENVANNHAT.SearchDots
 Architecture: iphoneos-arm64e
 Version: 1.1.5
