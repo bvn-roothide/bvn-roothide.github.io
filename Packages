@@ -2038,6 +2038,26 @@ Name: AudioRecorder VH(roothide iOS 15 to 17)
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 2bd89895e747af47790b0eb2f6bac296
 
+Package: com.repobvn.audiorecorderxs-rootless
+Architecture: iphoneos-arm64e
+Version: 5.1-4
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 6136
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-roothide, com.bvn.limneos, firmware(>=15.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./debs/com.repobvn.audiorecorderxs-rootless_5.1-4_iphoneos-arm64e.deb
+Size: 1190680
+MD5sum: 21fc8c52757d1d07881f0955b4521d0b
+SHA1: 2a3218f2edc24e5c71849030055896bec92760ff
+SHA256: 817307a5526eb1ac36050ece6f956e0ec7915d962356c8edd9891f20534e1471
+SHA512: 9d305532230a9b31473da5e3f827e0375a6cea76db66dd4e1dd7611129b13e18150e1fc2c129b4293199a91042eb2848061c0669127c0b9d68635c2bda8ba90f
+Description: Ghi âm cuộc gọi iOS tiên tiến nhất từ ​​trước đến nay!
+Name: AudioRecorder VH(Roothide iOS 15 to 17)
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 2bd89895e747af47790b0eb2f6bac296
+
 Package: com.repobvn.autounlockx
 Architecture: iphoneos-arm64e
 Version: 1.1.0-rootless
