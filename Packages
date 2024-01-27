@@ -2018,6 +2018,26 @@ Depiction: http://support-jailbreak.github.io/infodeb/atria2/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/atria.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.audiorecorderxs-rootless
+Architecture: iphoneos-arm64e
+Version: 5.1-3
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 6136
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-roothide, firmware(>=15.0), com.bvn.limneos
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./debs/com.repobvn.audiorecorderxs-rootless_5.1-3_iphoneos-arm64e.deb
+Size: 1191308
+MD5sum: 4193245b919fffcdbf0aed2c1e767a41
+SHA1: 4d8d9d733f3386090561d2f7f59e0e6c71a92dff
+SHA256: 3923aff83a08237c3f2d95284feccf6d504e2e8d6ff679ad7b4d1f99a5b0edc1
+SHA512: 5272c78cda349d2a6e7e3449c914e9583a11be2afb2a59b95b9cdf117e6a56d0c21c3cf9db47970e726ef897299caf16cd32df89a6b223312e60c7ae6ad7e564
+Description: Ghi âm cuộc gọi iOS tiên tiến nhất từ ​​trước đến nay!
+Name: AudioRecorder VH(roothide iOS 15 to 17)
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 2bd89895e747af47790b0eb2f6bac296
+
 Package: com.repobvn.autounlockx
 Architecture: iphoneos-arm64e
 Version: 1.1.0-rootless
@@ -2627,19 +2647,17 @@ Version: 0.1-1
 Section: Tweaks
 Maintainer: Elias Limneos <limneoselias@gmail.com>
 Installed-Size: 152
-Pre-Depends: rootless-compat(>= 0.1)
 Depends: mobilesubstrate
-Filename: ./debs/net.limneos.simpleactivationactions-roothide_0.1-1_iphoneos-arm64e.deb
-Size: 8432
-MD5sum: a0ad2500abac25fcfff3a1eeaa3f85b7
-SHA1: a7c9512dddaeb545e792c9bb78dadb1b34e5eca5
-SHA256: cd387b58fce46b09db10b6318e9f8db3f0624a73cea5e9f94253a1c63d285133
-SHA512: d57ba0ddcee02b68ba30a6c6105772ca60f64e6c88c734458054976a09a413087d7e75c6418498572f36ee4930458c7c38cfef55bc39f1a839b2cb327e654912
+Filename: ./debs/net.limneos.simpleactivationactions-roothide_0.1-1_iphoneos-arm64e-2.deb
+Size: 7214
+MD5sum: 254db6e8f8f06b6cedf7218a4b743e34
+SHA1: 879351d68c98ab5d25f9f94dca0600f8e27bf073
+SHA256: bb6c3a0e63a074310921c8acd101b5ce46af433ff8279c6417f0ff8f0923825d
+SHA512: ffe79d396c91d01bdf23dd6a7742817701ec024d37ffe64a0a2c5ab183bd38f9192881569720f745bb55e0db20363eae76eb9e098dc2249dd7e15a63969bf2ab
 Description: Simple Activation Actions
  Handles StatusBar actions for simple activation events
 Name: SimpleActivationActions (roothide)
 Author: Elias Limneos <limneoselias@gmail.com>
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: net.repobvn.bioprotectxs-roothide
 Architecture: iphoneos-arm64e
