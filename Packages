@@ -2850,16 +2850,16 @@ Maintainer: BVN
 Pre-Depends: rootless-compat(>= 0.1)
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/vn.bvn.rocket-ig-roothide_3.8.21_iphoneos-arm64e.deb
-Size: 1454844
-MD5sum: 184d27b38172b0904cc7ffee49c4af69
-SHA1: 5b14b308719586355a21763b11e1140940f032a8
-SHA256: bce4d50c06e804d13086e4a56407409dbe742e62165a2b4877157d7122e94415
-SHA512: 60338fd5d6e68fdf32682a4fdd1ce0a42dbb4e836d816dc1999c25b7249f87b1df850e9b0f4058b09519852ba48f8acf095036bbac67cb1affcaa690c1f42d7f
+Size: 4545038
+MD5sum: 84822b385236122a1240a2fe2681509e
+SHA1: aa09249683d06fb6554eb16020ba2a1edd5606a8
+SHA256: 7450ffc25af54dbf969176c5e2600a37b6b27326a29628ee0eafd89a7c4255fb
+SHA512: 6fadc075655d88b3e0707ea2b35fe7649b0b12cc604cbb6b01e62970cc32822d65212982c7081b7e627ed3e48a9eae2809e5f6b0ebce6a0d2739446150a9351d
 Description: Lưu bài đăng và xem câu chuyện ẩn danh và làm được nhiều hơn thế
 Depiction: http://bvnsupport.github.io/infodeb/Html/rocket.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/rocket.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Name: Rocket For Instagram
+Name: Rocket For Instagram(Roothide)
 Author: Majd Alfhaily
 
 Package: vn.bvnrepo.a-font
