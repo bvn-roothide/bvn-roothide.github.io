@@ -2842,6 +2842,26 @@ Description: Gói Mask tết .Kích Hoạt qua Snowboard
 Name: Mask Tết(Roothide)
 Author: Vũ Qunag
 
+Package: vn.bvn.rocket-ig-roothide
+Architecture: iphoneos-arm64e
+Version: 3.8.21
+Section: Tweaks
+Maintainer: BVN
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/vn.bvn.rocket-ig-roothide_3.8.21_iphoneos-arm64e.deb
+Size: 1454844
+MD5sum: 184d27b38172b0904cc7ffee49c4af69
+SHA1: 5b14b308719586355a21763b11e1140940f032a8
+SHA256: bce4d50c06e804d13086e4a56407409dbe742e62165a2b4877157d7122e94415
+SHA512: 60338fd5d6e68fdf32682a4fdd1ce0a42dbb4e836d816dc1999c25b7249f87b1df850e9b0f4058b09519852ba48f8acf095036bbac67cb1affcaa690c1f42d7f
+Description: Lưu bài đăng và xem câu chuyện ẩn danh và làm được nhiều hơn thế
+Depiction: http://bvnsupport.github.io/infodeb/Html/rocket.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/rocket.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Rocket For Instagram
+Author: Majd Alfhaily
+
 Package: vn.bvnrepo.a-font
 Architecture: iphoneos-arm64e
 Version: 1.10-Roothide
