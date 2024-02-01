@@ -1453,6 +1453,28 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/SugarCane.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SugarCane.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.whoozit.roothide
+Architecture: iphoneos-arm64e
+Version: 2.15.0-beta-6
+Section: Utilities
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 3352
+Pre-Depends: firmware (>=9.0)
+Depends: mobilesubstrate, preferenceloader, org.mr.libiarraysrl (>= 1.0.16)
+Conflicts: com.iarrays.whoozit, com.iarrays.whoozit.rootless
+Filename: ./debs/com.bvn.whoozit.roothide_2.15.0-beta-6_iphoneos-arm64e-1.deb
+Size: 786556
+MD5sum: 37786469cacf9814937c440bff621dc4
+SHA1: 333fac99984db518a99898a47b5ee1d403837e06
+SHA256: c7fb133f472d496400e980786ce3ceb18b5ec125d239cb4ecd0c4810eb1ac24d
+SHA512: 38cd0b99e9a6ef7868ae7f25443a205716cfeae68e5602fec292bf42f99ee02ade4f4923fd2e20b0482889a2522492b6eadfc2936610c77e54e8d2d98d1dd62a
+Homepage: http://iarrays.com/
+Description: Không biết ai đang gọi cho bạn và không biết bạn đã bỏ lỡ ai? Đừng lo lắng, giờ đây giải pháp ID người gọi hoàn hảo này sẽ giúp cuộc sống của bạn trở nên đơn giản hơn. Chỉ cần cài đặt cái này và TrueCaller hoặc NumBuster! hoặc ShowCaller trên thiết bị của bạn và chỉ cần bắt đầu tìm kiếm các cuộc gọi từ các ứng dụng xếp chồng như Điện thoại, Tin nhắn & Trung tâm thông báo và thậm chí từ CallLogPro.
+Name: WhoozItPro (RootHide iOS 16 to 15)
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: https://iarrays.com/sileo-depiction/whoiscalling/icon.png
+
 Package: com.bvn.ytx
 Architecture: iphoneos-arm64e
 Version: 1.4.2
