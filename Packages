@@ -2103,6 +2103,28 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.audiorecorderxs-rootless
 Architecture: iphoneos-arm64e
+Version: 5.1-12
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 6136
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-roothide, com.bvn.limneos, firmware(>=15.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./debs/com.repobvn.audiorecorderxs-rootless_5.1-12_iphoneos-arm64e.deb
+Size: 1870602
+MD5sum: de35662a06bf1d88d50df3d570e05dca
+SHA1: 5c169dc048f64c80640c2dc604a24af6ec201674
+SHA256: 276bd90efda7d9848f179b1a06acdb096c2a7152c9a7b3119e357e0d17b65843
+SHA512: d7168b90149fe31f80cbb68853f8763804c5ba6d3dbbee368e28eb3ed1dc0912e1f97b30d77c57a59c5398662be9b671de3e8dd96b79ad4c36a95e7265581113
+Description: Most Advanced iOS Call Recorder Ever!
+Name: AudioRecorder VH(Roothide iOS 15 to 17)
+Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.audiorecorderxs
+SileoDepiction: https://limneos.net/cydia/sileo-depiction.php?package=net.limneos.audiorecorderxs
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 2bd89895e747af47790b0eb2f6bac296
+
+Package: com.repobvn.audiorecorderxs-rootless
+Architecture: iphoneos-arm64e
 Version: 5.1-3
 Section: Tweaks
 Maintainer: Bvn Repo
