@@ -120,6 +120,28 @@ Author: JunesiPhone <junesgraphics@gmail.com>
 
 Package: bvn.repo.designer-roothide
 Architecture: iphoneos-arm64e
+Version: 1.4.1
+Section: Addons (Tweaks)
+Maintainer: June <junesgraphics@gmail.com>
+Installed-Size: 17288
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer-roothide_1.4.1_iphoneos-arm64e.deb
+Size: 22713236
+MD5sum: ba3d672173c7b723b107d14c0224ca83
+SHA1: 96be6ab27e02a236903230dba8e6c1dbbed2260b
+SHA256: 051fd3ec348dafd3a3e36074d87c29a323882b6085ac70b048b60e700f09972b
+SHA512: 803730f5e9a147aa57203d0a3d4f7f70f423e1c38ddfa64048a8579235964db44fad792477d60be66062073e4e52da41f2883acd78fa42d47996a3cafb51a0e8
+Description: Design layouts for lockscreen and homescreen
+Name: Designer VH(Roothide)
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: bvn.repo.designer-roothide
+Architecture: iphoneos-arm64e
 Version: 1.4
 Section: Tweaks
 Maintainer: Bvn Repository
