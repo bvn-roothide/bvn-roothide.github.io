@@ -2901,15 +2901,16 @@ Installed-Size: 15520
 Pre-Depends: rootless-compat(>= 0.1)
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Filename: ./debs/ru.rejail.dleasy_2.14.3_iphoneos-arm64e.deb
-Size: 10975920
-MD5sum: 20e0905bb16ee7f250d04a6932574a51
-SHA1: a406a10973da44a660c6be2a4d6fa79a0c9b6ec6
-SHA256: 53cb144960fc970f887fe45cacda8a265041966222aadc6b571d9611a8793100
-SHA512: a68fd32584c86b3c22085a1b473b648759912d384238f6b092efe0ff5f9a259976d2c08d60fc62143dda34e8ecebb82b5ba7874a46e757a9ec024760976f37fd
+Size: 14616490
+MD5sum: 6663ccc0824d5874fee92bfff6ccdf65
+SHA1: 90037e137b049280bc1c349af9d9c880146a4541
+SHA256: 5b339d84a6e1dea7ff0d49e3bc1df7316fb3b6aa5abaf41592b4e85d21b56396
+SHA512: 9c41b6f51f8284672c071986e8b772c68865938089f4c2c30879d019e02603ec6ea4db9b87729c78320846152f108f62c508648b74c1b313233d58c44b4fe798
 Description: Tải xuống/Chia sẻ hình ảnh và video từ các ứng dụng xã hội một cách dễ dàng!
 Name: DLEasy CRK(Roothide)
 Author: AhmedBafkir <prooxy0@gmail.com>
-Depiction:
+Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
 Package: vietnam.bvnrepo.masktet
