@@ -933,14 +933,14 @@ Section: Utilities
 Maintainer: IArrays <support@iarrays.com>
 Installed-Size: 7716
 Pre-Depends: firmware (>=15.0)
-Depends: mobilesubstrate, org.mr.libiarraysrl (>= 1.0.16)
+Depends: mobilesubstrate, com.iarrays.libiarrays.roothide (>= 1.0.16), vn.bvn.iarrayshack
 Conflicts: com.iarrays.CallLogPro10, com.iarrays.CallLogPro81, com.iarrays.CallLogPro8, com.iarrays.calllogpro.rootless
 Filename: ./debs/com.bvn.calllogpro.roothide_15.0-beta-3_iphoneos-arm64e.deb
-Size: 2407672
-MD5sum: 2c5274a519c5674dcb964041df9c7f88
-SHA1: 67ac672f41f0c21d44cbb711d6899e287c0ca61b
-SHA256: 9afa64751d25ef00bd9b9a4a88736836c6ccc028e67c412997b62c3e06148d86
-SHA512: a1c6e70b33c1ea6c1f34f6cb304b3bba6cd00a0895c1b38febc6a8eec71459e3458f07712d428c76970218c96daea5971e84f065caf87722c0d2b201f1e7832c
+Size: 3117064
+MD5sum: 138ffb4859ee852b1fd6f4bb7ec8afd8
+SHA1: 00b18b365155cee302d6178d9d1eb4f59c98b3ad
+SHA256: aaed69d781a57b972802fd918b2edff5c562d7b308144cfc545298ae8d6f7eb3
+SHA512: 15c52410aa19100acccbedcff95819f306c08e39c71b29083225845ebbfd0e367e7125fca9ba86aefcec8b36b1dc8552f31fcc5f40a8228a08fe3aff52784a39
 Description: Bây giờ với sự hỗ trợ iOS 16.x. CallLogPro cho phép quản lý lịch sử cuộc gọi của bạn và xóa từng bản ghi cuộc gọi một hoặc tất cả.
 Name: CallLogPro VH(RootHide iOS 16 to 15)
 Depiction: http://bvnsupport.github.io/infodeb/CallLogPro+/?p=info
@@ -994,14 +994,14 @@ Section: Utilities
 Maintainer: IArrays <support@iarrays.com>
 Installed-Size: 3392
 Pre-Depends: rootless-compat(>= 0.1), firmware (>=15.0)
-Depends: mobilesubstrate, preferenceloader, org.mr.libiarraysrl (>= 1.0.16)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays.roothide (>= 1.0.16), vn.bvn.iarrayshack
 Conflicts: com.iarrays.copic10, com.iarrays.copic, com.iarrays.copic2.roothide
 Filename: ./debs/com.bvn.copic2.roothide_1.15.0-beta-5_iphoneos-arm64e.deb
-Size: 705264
-MD5sum: d5531efca7fa784c6e7dfcaacedbcfe4
-SHA1: 127caa331b9ce7753ff3784d771c620419a7e45c
-SHA256: 73e6379daa2428ac740a1a3465fff2329d7c33a285f78920e2d3eefb5cc9f8dc
-SHA512: 5acf443433429be526627d6a7ecffc986b282445d500a4ad57c0f98c979c21bacdd80277b18b1ad0a2d1175bc3b8565bed0d4a0a0a7afb1b05a6ea9b6f44a1c7
+Size: 1944042
+MD5sum: 3748600004364f2d68281258a720f494
+SHA1: 268e373c3a20a06a12de1145775b11b5fde634ae
+SHA256: ab241b4f54a3650cb166df7fa2be3379d22e57b94e48d15df896f0559bcc6aca
+SHA512: 573fa3c405af95166ed3d2c94d976b1e7f0608474e040280a5dfe324495d0f72aab54f2254756cc537546fbf3fc8b8efc138261a61771602e3a77a9265c975a7
 Homepage: https://iarrays.com/
 Description: Copic 2 mới được thiết kế lại, tối ưu hóa và xây dựng lại hoàn toàn từ đầu. Giờ đây mang đến khả năng hiển thị ảnh Liên hệ ở mọi nơi trên iPhone của bạn. Tích hợp liền mạch với các ứng dụng Danh bạ, FaceTime, Thư, Tin nhắn và Điện thoại có sẵn. Nó tích hợp với màn hình khóa và Trung tâm thông báo, đồng thời hiển thị hình ảnh liên lạc cho các cuộc gọi nhỡ và tin nhắn. Mang lại khả năng bật hoặc tắt chữ lồng hoặc hiển thị hình ảnh tròn hoặc hình chữ nhật và nhiều tính năng khác.
 Name: Copic 2 VH(Roothide iOS15/16)
@@ -1482,14 +1482,14 @@ Section: Utilities
 Maintainer: IArrays <support@iarrays.com>
 Installed-Size: 3352
 Pre-Depends: firmware (>=9.0)
-Depends: mobilesubstrate, preferenceloader, org.mr.libiarraysrl (>= 1.0.16)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays.roothide (>= 1.0.16), vn.bvn.iarrayshack
 Conflicts: com.iarrays.whoozit, com.iarrays.whoozit.rootless
-Filename: ./debs/com.bvn.whoozit.roothide_2.15.0-beta-6_iphoneos-arm64e-1.deb
-Size: 786556
-MD5sum: 37786469cacf9814937c440bff621dc4
-SHA1: 333fac99984db518a99898a47b5ee1d403837e06
-SHA256: c7fb133f472d496400e980786ce3ceb18b5ec125d239cb4ecd0c4810eb1ac24d
-SHA512: 38cd0b99e9a6ef7868ae7f25443a205716cfeae68e5602fec292bf42f99ee02ade4f4923fd2e20b0482889a2522492b6eadfc2936610c77e54e8d2d98d1dd62a
+Filename: ./debs/com.bvn.whoozit.roothide_2.15.0-beta-6_iphoneos-arm64e.deb
+Size: 1081262
+MD5sum: 0c32136d36696f93d1a17caaccc300da
+SHA1: b4a91a3c375089ee9a4cbabfcaed70c3fdf4a767
+SHA256: e66955b5124e988d5cf59987102a695d009a5698723ecd3ddff49cab19f47d40
+SHA512: 3fc30896a46dc8ffcf1b91cac46ccbb24001ccac136ba43057fbd85faf79b38571681ec247fdf57bcf781afaeff1680be7665e0fad9c324ad4b50656ab4ac504
 Homepage: http://iarrays.com/
 Description: Không biết ai đang gọi cho bạn và không biết bạn đã bỏ lỡ ai? Đừng lo lắng, giờ đây giải pháp ID người gọi hoàn hảo này sẽ giúp cuộc sống của bạn trở nên đơn giản hơn. Chỉ cần cài đặt cái này và TrueCaller hoặc NumBuster! hoặc ShowCaller trên thiết bị của bạn và chỉ cần bắt đầu tìm kiếm các cuộc gọi từ các ứng dụng xếp chồng như Điện thoại, Tin nhắn & Trung tâm thông báo và thậm chí từ CallLogPro.
 Name: WhoozItPro (RootHide iOS 16 to 15)
@@ -1803,6 +1803,26 @@ Author: Ginsu
 Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.gsweather
 Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gsweather/icon.png
 SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gsweather.json
+
+Package: com.iarrays.libiarrays.roothide
+Architecture: iphoneos-arm64e
+Version: 1.0.16-beta-14
+Section: Development
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 656
+Pre-Depends: firmware (>=9.0)
+Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays, com.iarrays.libiarrays.rootless
+Filename: ./debs/com.iarrays.libiarrays.roothide_1.0.16-beta-14_iphoneos-arm.deb
+Size: 121054
+MD5sum: 5aeee84d51ac032eb5c732d99df0e00d
+SHA1: 8e3e746fecffe6455222c7c6189b25c280e2d3eb
+SHA256: 510c8956ed7d159e3408f663f8c5d204e11207b7b50e32835c5a462523f988ec
+SHA512: 40954382971ea36d99ff65ef5616582d8e82c993d5e27d3e8829ad3a1b335014c935986c7c2ba994c5414e02e2060ced040af28eadf78f1910aea0d50a514bc3
+Homepage: http://iarrays.com/
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Name: libiarrays (RootHide)
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
 
 Package: com.ichitaso.otadisabler
 Architecture: iphoneos-arm64e
@@ -2269,6 +2289,29 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/SettingsRevamp.json
 Name: SettingsRevamp VH(Roothide)
 Author: SOPPPra
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.simplus.roothide
+Architecture: iphoneos-arm64e
+Version: 1.15-beta-4
+Section: Utilities
+Maintainer: BVN Repo
+Installed-Size: 1196
+Pre-Depends: firmware (>=12.0)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays.roothide (>= 1.0.16), vn.bvn.iarrayshack, com.opa334.ccsupport
+Conflicts: com.iarrays.simplus.rootless, org.mr.libiarraysrl
+Filename: ./debs/com.repobvn.simplus.roothide_1.15-beta-4_iphoneos-arm64e.deb
+Size: 715466
+MD5sum: 6c5d57c4ad8062feab9428965e1c527f
+SHA1: 0e33e82e75ccb56e259a6c3091f8a0ad80834d21
+SHA256: 334e3410acc1db0accfb3c9f131622e6f4f7befa26adf59accbba828adb89918
+SHA512: 28a448465c63c08681d4db832592ac8de8b3c161ef9608eff04f4323713f455ea234f740bffb0d94ff69b4f992dfe471f9255046d572e3027347d4eef2b3e009
+Description: Cách mà lẽ ra Apple phải làm, nhưng đừng lo lắng. Chúng tôi đã làm điều đó cho bạn. Chọn cách gọi điện hoặc nhắn tin khi sử dụng eSim/iPhone hai sim.
+Name: eSim+ VH(RootHide iOS 16 to 15)
+Depiction: http://bvnsupport.github.io/infodeb/eSim+/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/eSim+.json
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: https://iarrays.com/sileo-depiction/simplus/icon.png
 
 Package: com.repobvn.simplus.roothide
 Architecture: iphoneos-arm64e
@@ -2871,27 +2914,6 @@ Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechang
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 8131809d9825837c841f8f54015f50b4
 
-Package: org.mr.libiarraysrl
-Architecture: iphoneos-arm64e
-Version: 1.0.16-beta-12k
-Section: Development
-Maintainer: Bvn repo
-Installed-Size: 640
-Pre-Depends: rootless-compat(>= 0.1), firmware (>=9.0)
-Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays, com.iarrays.libiarrays.roothide
-Filename: ./debs/org.mr.libiarraysrl_1.0.16-beta-12k_iphoneos-arm64e.deb
-Size: 123032
-MD5sum: 8eef63f71359c5460c8c9e22abca6359
-SHA1: e5ce1fe7c919953332df116fe0fc03fc0af0ab01
-SHA256: cc64460198de146ec83e724b2b6040dc78c231e56a72f4bf4acd8857ea61a874
-SHA512: a96c8392f0a0766d59a4e5438c5f900ede9ba75478a4c124cf803f93cae0c3e6b18007e3dda53b984193eb4f35ff0d42c5d427345e626424165bccaa46a4bf56
-Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
-Name: libiarrays (Roothide)
-Author: IArrays <support@iarrays.com>
-Depiction: https://mrepo.org/depiction/5581
-SileoDepiction: https://mrepo.org/sileo/5581
-Icon: https://mrepo.org/CydiaIcon.png
-
 Package: ru.rejail.dleasy
 Architecture: iphoneos-arm64e
 Version: 2.14.3
@@ -2928,6 +2950,25 @@ SHA512: 57de28c0c90834c1dfc814101e3484a07856efa1ceb804467d8f09c2349539a7ed59b737
 Description: Gói Mask tết .Kích Hoạt qua Snowboard
 Name: Mask Tết(Roothide)
 Author: Vũ Qunag
+
+Package: vn.bvn.iarrayshack
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Development
+Maintainer: BVN
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>=15.0)
+Filename: ./debs/vn.bvn.iarrayshack_1.0_iphoneos-arm64e.deb
+Size: 15130
+MD5sum: 6cd5519c83f68030d8dede228d056ecd
+SHA1: d9a2b2e6ad756ca96ca320c77057b17422e9dbe7
+SHA256: 295e996d6c9b8a1d212ea06fddbbd672bf394cb43d22f8d5a59f4a6c02b09b1a
+SHA512: 9a718c966da6c0252d8d6e75b39de67fbce78f2ce768954e4f7254de4c771ea4b75134997a8520ea764dfc563c3525e6fbc215b578e63840494d2edbea174565
+Description: Kích hoạt các tinh chỉnh iArrays 
+ - iArrays Crack. Install alongside original iArrays packages. Click Activate on each tweak.
+Name: iArrays Crack
+Author: Artem Kasper,Fix By BVN Repo
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/iarrays.png
 
 Package: vn.bvn.rocket-ig-roothide
 Architecture: iphoneos-arm64e
