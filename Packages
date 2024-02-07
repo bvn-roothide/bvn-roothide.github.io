@@ -2936,16 +2936,15 @@ Maintainer: BVN
 Pre-Depends: rootless-compat(>= 0.1)
 Depends: firmware (>=15.0)
 Filename: ./debs/vn.bvn.iarrayshack_1.0_iphoneos-arm64e.deb
-Size: 15130
-MD5sum: 6cd5519c83f68030d8dede228d056ecd
-SHA1: d9a2b2e6ad756ca96ca320c77057b17422e9dbe7
-SHA256: 295e996d6c9b8a1d212ea06fddbbd672bf394cb43d22f8d5a59f4a6c02b09b1a
-SHA512: 9a718c966da6c0252d8d6e75b39de67fbce78f2ce768954e4f7254de4c771ea4b75134997a8520ea764dfc563c3525e6fbc215b578e63840494d2edbea174565
+Size: 15096
+MD5sum: 6ee4823e1b4627fcd191d87a9f11f36c
+SHA1: 6e553812fcd1bc6ed8a679c7bef46199b6555153
+SHA256: a915f54886bb9f662fd854904bdd22ba90c49ca0b073d5d9dff9e90892dda21e
+SHA512: 43d382850b59a830c432a9f26a8aa6b99fc8b5cce3c4e017914edd45ed72afe57979fde475110dad2aabb348bb866067628729bc326fb1b9ee386a9fefb85ef7
 Description: Kích hoạt các tinh chỉnh iArrays 
  - iArrays Crack. Install alongside original iArrays packages. Click Activate on each tweak.
-Name: iArrays Crack
-Author: Artem Kasper,Fix By BVN Repo
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/iarrays.png
+Name: iArrays Crack(Roothide)
+Author: Kasper,Fix By BVN Repo
 
 Package: vn.bvn.rocket-ig-roothide
 Architecture: iphoneos-arm64e
