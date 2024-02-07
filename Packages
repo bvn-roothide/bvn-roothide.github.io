@@ -2313,29 +2313,6 @@ Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: https://iarrays.com/sileo-depiction/simplus/icon.png
 
-Package: com.repobvn.simplus.roothide
-Architecture: iphoneos-arm64e
-Version: 1.16-CRk
-Section: Utilities
-Maintainer: BVN Repo
-Installed-Size: 1196
-Pre-Depends: rootless-compat(>= 0.1), firmware (>=12.0)
-Depends: mobilesubstrate, preferenceloader, org.mr.libiarraysrl (>= 1.0.16), com.opa334.ccsupport
-Conflicts: com.iarrays.simplus.roothide
-Filename: ./debs/com.repobvn.simplus.roothide_1.16-CRk_iphoneos-arm64e.deb
-Size: 634228
-MD5sum: 21693ac8cce8543e5762a6f067b7a81a
-SHA1: 5ec28b7b408abb9cba433a232d99bd9d2543ae76
-SHA256: fac22b7670e006d045824cc4bdd7f069f938efc18a932b9e892f97fe7424e6f2
-SHA512: 1eae7589cacd92e20a6f45dc123745cd2bf9a347ff7752d180e092f32fbe286d152454db85e333e25b84dc8ec861b0cf290a2a450a9f309f33a8474a21a85924
-Description: Cách mà lẽ ra Apple phải làm, nhưng đừng lo lắng. Chúng tôi đã làm điều đó cho bạn. Chọn cách gọi điện hoặc nhắn tin khi sử dụng eSim/iPhone hai sim.
-Name: eSim+ VH(Roothide iOS15/16)
-Depiction: http://bvnsupport.github.io/infodeb/eSim+/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/eSim+.json
-Author: IArrays <support@iarrays.com>
-Sponsor: IArrays
-Icon: file:///var/jb/Library/IconRepo/tienichh1.png
-
 Package: com.repobvn.snapper2-roothide
 Architecture: iphoneos-arm64e
 Version: 2.7.0
