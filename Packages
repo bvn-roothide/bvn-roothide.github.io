@@ -1381,6 +1381,25 @@ Name: PlampyCC VH(Roothide)
 Author: sugiuta
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.redblue-roothide
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Theme Rootless
+Maintainer: Bvn Repo
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.bvn.redblue-roothide_1.0_iphoneos-arm64e.deb
+Size: 33774448
+MD5sum: 716743b3e4ed651b6d1bd6d528df8c6f
+SHA1: 1f8273cac2aabbc56058741dde763aaa3d867768
+SHA256: a9b9d76a30e54671bb0b48739d98a42470226404578509067c60c543cb4abd67
+SHA512: 26b4aab0f2b042a28167c4f330c8145101378b6f8a7a2a09b11628b6de8907655a9290c60a45f9b588a83b299754442103059b443c5268004ac66ad692b81608
+Description: Gói Theme cho Snowboard
+Name: Red Blue(Roothide)
+Author: Đức Anh
+Depiction: http://bvnsupport.github.io/infodeb/Html/redblue.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/redblue.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
 Package: com.bvn.removeconfidential
 Architecture: iphoneos-arm64e
 Version: 1.0.2
