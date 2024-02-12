@@ -2725,6 +2725,50 @@ Name: SnowBoard Application
 Author: Spark
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
+Package: dev.bvn.liddell-roothide
+Architecture: iphoneos-arm64e
+Version: 1.4.3
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 672
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, dev.traurige.libkitten (>= 1.3.3), com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.liddell
+Filename: ./debs/dev.bvn.liddell-roothide_1.4.3_iphoneos-arm64e.deb
+Size: 96800
+MD5sum: d316e19ad789cee3e16e6c9b0795d9e3
+SHA1: 5be9d7e4d9e90a000432ac2552ada3a4e6088a6d
+SHA256: 9e9847b6445513848149f229ac42452899bf44d52f9c135d512fdd2fc7627447
+SHA512: c7b313b56ea440780b4ff57a8c55afefb2eb6e520249e7e86160922c17d713f166e7217f366f9edfa72b574f9113f89d549dec8bbbc0455d198745006f7a74ae
+Description: Biểu ngữ thông báo nhỏ và đầy màu sắc
+Name: Liddell VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Liddellrl.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Liddell.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Traurige <hello@traurige.dev>
+
+Package: dev.traurige.libkitten
+Architecture: iphoneos-arm64e
+Version: 1.4.1
+Section: System
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 152
+Provides: love.litten.libkitten (=1.3.3)
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 12.0)
+Conflicts: love.litten.libkitten
+Filename: ./debs/dev.traurige.libkitten_1.4.1_iphoneos-arm64e.deb
+Size: 8984
+MD5sum: d7c854aa54352aa94e8ed76ac2713eb9
+SHA1: fec9d933f071fe2f9a28731008f6e2e654c5376e
+SHA256: 93ceb7dc86e02d10d14bada213b418c6de759d8ee71944428c6842fd806baace
+SHA512: 04d50616443d9bb1832b6018b81c5c34ba7ae9a113c357a2911f1e7a46fbb29f619519afca06d9c10c9b2f5c7c2b5ad6a3732e74eec099d33d761b2de6990b03
+Description: Collection of image and color calculations
+Tag: role::developer
+Name: libKitten (Roothide)
+Author: Traurige <hello@traurige.dev>
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+
 Package: emt.paisseon.xinamine
 Architecture: iphoneos-arm64e
 Version: 0.0.5
