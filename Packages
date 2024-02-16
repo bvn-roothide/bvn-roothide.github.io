@@ -2853,6 +2853,26 @@ Depiction: http://support-jailbreak.github.io/infodeb/Axon2/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Axon2.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: me.nepeta.axon-roothide
+Architecture: iphoneos-arm64e
+Version: 1.5
+Section: Tweaks
+Maintainer: BVN Repo
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/me.nepeta.axon-roothide_1.5_iphoneos-arm64e.deb
+Size: 144568
+MD5sum: 835ba938bafc03e4379f1d8e644605bc
+SHA1: e9978ce60d99290abf57ef233946e8ac2ad60f37
+SHA256: a01d500c59a59be9a35c08a3c9a1e9e1adbb826cb1ee20f873022ca03501b2f2
+SHA512: ca6542e1d0821ac4451d592caaaf63d55fbf7f0e225677435e07d079b994470da928184ab3e153a00c8f852ea553ae2bcf525b364cf1e43e7faadcac9b2a7339
+Description: Priority Hub for iOS 15 - 16
+Depiction: http://bvnsupport.github.io/infodeb/Axon2/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Axon2.json
+Name: Axon VH(Roothide)
+Author: Nepeta & Baw Appie
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: me.tomt000.copylog
 Architecture: iphoneos-arm64e
 Version: 1.5.6-roothide
