@@ -142,6 +142,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: bvn.repo.designer-roothide
 Architecture: iphoneos-arm64e
+Version: 1.4.3
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 17340
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/bvn.repo.designer-roothide_1.4.3_iphoneos-arm64e.deb
+Size: 33720048
+MD5sum: 75c31b7fdfe09c9890f25fc0bdce5165
+SHA1: 7fcc188f6db9c1ba44968b4f6d1cea38f1bcc0fd
+SHA256: 9202e381135cc6881b1a9ef3cb3db721d241859de99ff6bc95f09ec858feca39
+SHA512: 052464c91a7a32500d036cc59362e562a7a8ae61cb1dbf23133d13c3fb3edba164d5a9d84ab26beb6d9ff90bc885d233127987b8c4c027b0b071096b308525e8
+Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Designer VH(Roothide)
+Author: JunesiPhone
+
+Package: bvn.repo.designer-roothide
+Architecture: iphoneos-arm64e
 Version: 1.4
 Section: Tweaks
 Maintainer: Bvn Repository
@@ -429,6 +450,27 @@ Author: Ravand
 Depiction: http://support-jailbreak.github.io/infodeb/Truecaller/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Truecaller.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.truecallergold
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate
+Filename: ./debs/com.BIENVANNHAT.truecallergold_1.0.1_iphoneos-arm64e.deb
+Size: 8964
+MD5sum: bc648e8b741554eadc6b2971779391df
+SHA1: 900b3e16fcf255b08fec9f96a647166e2894aee7
+SHA256: e2f62fb2d8dac0167b5f6770f647646ab696625b4f1c20a0d3e6df335ebe8fd9
+SHA512: 2b785380b73331589d6e9d26f0297a4b061de942d4fd95801717fda7fb1c417f3121ae10924735a4dfa68227583c2d1b38df2c0e8be7e2f263ad79ad4bc1acaf
+Description: Truecaller Gold Crack By Lãng Khách
+Author: LK
+Depiction: http://bvnsupport.github.io/infodeb/Truecaller/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Truecaller.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Truecaller Gold (Roothide)
 
 Package: com.BVNREPO.AEFloatingroothide
 Architecture: iphoneos-arm64e
@@ -926,6 +968,27 @@ Name: Alpine (Roothide)
 Author: MTAC
 Icon: https://media.havoc.app/64ae21880d54f9113bc13a59
 
+Package: com.bvn.bhtiktok-Roothide
+Architecture: iphoneos-arm64e
+Version: 2.3
+Section: Tweaks
+Maintainer: bvn repo
+Installed-Size: 1480
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.bhtiktok-Roothide_2.3_iphoneos-arm64e.deb
+Size: 485108
+MD5sum: bd0f965fbb9053a1891bf3372c62b49f
+SHA1: f00fd6d4a1fef4c9d072b0280910df4f134d08d3
+SHA256: 3a99851386a223bf9200a414a593c713e80babbfc6aafa362217a0be1b6a3399
+SHA512: d9974641fb6502cfadca979573fae8d8b452fca51fb1ddee3a6bff9b5de226d4c8dc1ef297d95b01e613ce80a269ef2ad600e8072f6d8f6b6ad5fb662b2b6c8a
+Description: Một tinh chỉnh tuyệt vời cho TikTok!
+Name: BHTikTok Plus (Roothide)
+Author: dvntm
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/BHTikTok/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BHTikTok.json
+
 Package: com.bvn.calllogpro.roothide
 Architecture: iphoneos-arm64e
 Version: 15.0-beta-3
@@ -1340,6 +1403,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Lynx 2 VH(Roothide)
 Author: MTAC
 
+Package: com.bvn.nct-roothide
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.nct-roothide_1.0.0_iphoneos-arm64e.deb
+Size: 6424
+MD5sum: ead9f6d11a8a2d179107250b6410dd34
+SHA1: ef67b53ab5a6ae80fca2b06b4ba15c68034f7159
+SHA256: a6a9ccbaf63626e757b9f9a7dc8fd29c99e29bf224bac51898b53c6ec25a7666
+SHA512: a49515d5ff0320e69cc8c14e8093a8ceca2d6feb9a6e5a5915569dd0a5e2c3a8251dbc10cc761e90c87f426d9f8007e5e66061fd4c02df38ebe2f683db80b455
+Description: Nhạc của tui ViP By Lãng Khách
+Author: LK
+Name: NCT ViP (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/NCT.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/nct.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.plampycc
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -1417,6 +1501,26 @@ SHA512: a5c2d7ab0426125f83a91ecbeb64f8bedddb1e527792d9125d67bf3826526d2d9701476c
 Description: Xoá dòng chữ "Confidential and Proprietary" trên màn hình khoá.
 Name: Remove Confidential
 Author: Flame
+
+Package: com.bvn.safarix-roothide
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 424
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, com.opa334.altlist
+Filename: ./debs/com.bvn.safarix-roothide_1.0.2_iphoneos-arm64e.deb
+Size: 270184
+MD5sum: be2863323a90a540ca8188590eaf65af
+SHA1: fc713f5b94090ee9fa64f4ff428f811ef302d57e
+SHA256: 0f1ed4742dc4348e0e790f4a99f6245444b9f08522d48ca4cb5d6598b92abd99
+SHA512: 77d085114d68f823a4749622f4d7da59fd7d81741d6441c72ff578e76aa19f49349a71f8ac34351e631e62e6591fa0ea1757a697968309b7a2e8516e87eae415
+Description: Thêm 1 số tiện ích cho Safari
+ - Yêu cầu bật Safari trong Bootstraps
+Name: SafariX(Roothide)
+Author: 0xkuj
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.senri
 Architecture: iphoneos-arm64e
@@ -2490,6 +2594,27 @@ Name: YouPiP (Roothide)
 Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/youpip.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.ytx
+Architecture: iphoneos-arm64e
+Version: 1.4.3
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.repobvn.ytx_1.4.3_iphoneos-arm64e.deb
+Size: 5200
+MD5sum: 781ed9165f4a78d4b23a471fea1e8673
+SHA1: ebd43d69434da093ddbb4d843405832339864a75
+SHA256: 21e7317e925403b90197e7712dbe7067e2cf36ed0afdd51320378006380f3ad5
+SHA512: 8b412e03f9a45e9f7e6f36b8e7a87d6f107bc6ddc9fd0d104b89e416d5715b569d71c12b67a5715b8688bc4a7b79233f19a8192dd01a481ec4aafa1a7f102a04
+Description: A lightweight YouTube improvement tweak.
+Name: YouTube X(Roothide)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.zetsu-roothide
