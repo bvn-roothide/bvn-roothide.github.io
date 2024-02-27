@@ -1370,16 +1370,16 @@ Maintainer: Bvn Repo
 Pre-Depends: rootless-compat(>= 0.1)
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
 Filename: ./debs/com.bvn.lynxroothide_2.4.10_iphoneos-arm64e.deb
-Size: 595836
-MD5sum: afc435dfcdfc4c45fe066b14f20e5009
-SHA1: cf75ed7c2f979659ac973a9d0b7dad80a03a1a22
-SHA256: ccc8b26ab00aec721366af00afbe877e465754ca5d469402ec58bbc019b8310d
-SHA512: d6a13879b958ea066aa35649dc670a98b5db591a4f087d6f4c34761c926713192f8e07c2b067bc919445d7cfc9f0f74471b1fc59bcb6b3c9338b9384af37a6ef
+Size: 1641914
+MD5sum: 30aa4d851f42cdd639a25796f333bb6d
+SHA1: f8226354ec10e26068592f2f08b8cb4ef1575c78
+SHA256: 0e7d5813a41454cd77ab6906c90e37c07c0178c623ebaf64f7666b1e583d9e8f
+SHA512: d9689db4387f00a3af0ae8a3ba9f1a1750516eaa63a02ce670722b8fe1db18402de2cafde56ddd1c33e39ddcfc02512fedecfeaa7a895105d8c5ed25cd32a27f
 Description: Ultimate iDevice Customization for iOS 14, 15, 16
 Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Name: Lynx 2 VH(Rootless)
+Name: Lynx 2 VH(Roothide)
 Author: MTAC
 
 Package: com.bvn.lynxroothide
