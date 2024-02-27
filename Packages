@@ -149,16 +149,16 @@ Installed-Size: 17340
 Pre-Depends: rootless-compat(>= 0.1)
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/bvn.repo.designer-roothide_1.4.3_iphoneos-arm64e.deb
-Size: 33720048
-MD5sum: 75c31b7fdfe09c9890f25fc0bdce5165
-SHA1: 7fcc188f6db9c1ba44968b4f6d1cea38f1bcc0fd
-SHA256: 9202e381135cc6881b1a9ef3cb3db721d241859de99ff6bc95f09ec858feca39
-SHA512: 052464c91a7a32500d036cc59362e562a7a8ae61cb1dbf23133d13c3fb3edba164d5a9d84ab26beb6d9ff90bc885d233127987b8c4c027b0b071096b308525e8
+Size: 33720560
+MD5sum: ba3f6eb8f91cdd2e66a0446ab8c0d3ef
+SHA1: ffc1c60991ff8f1d0b5b8881cccc98385a7ab14a
+SHA256: 1d7e1b246344577ce766f8685a672ed1baab8bdfded37da83678d70efb5dc1a9
+SHA512: 2adeb18b41f963a66ccfb99970868c8d6d19648ac136272cd4e9523f846fdfa3ad4788886a1f93a3d1328e8165212ab03db047dee6a383edbbddf53e6b37cd48
 Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
 Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Name: Designer VH(Roothide)
+Name: Designer VH(Rootless)
 Author: JunesiPhone
 
 Package: bvn.repo.designer-roothide
@@ -1267,6 +1267,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Latchkey.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Latchkey.json
 Author: Maxwell Dausch <max.dausch@gmail.com>
 
+Package: com.bvn.latchkey
+Architecture: iphoneos-arm64e
+Version: 2.3.4
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 13476
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.bvn.latchkey_2.3.4_iphoneos-arm64e.deb
+Size: 26574712
+MD5sum: d48cd444eb098fa173d3732db968c8e7
+SHA1: 5d1284dbb33095f742588b50596746c040893b38
+SHA256: cf0ac24c8ec62197762097477bb34401fd63278399f742e6a01dde41bac80e17
+SHA512: ecfe71c9afe2c9945b440a4fd89cd2c49a40892b47ac0e305f861b53826650d1dc2561032737d0dedb4b84efaabed5b9efbfe989bcb2e502602066ba56d96f64
+Description: Tùy chỉnh biểu tượng và vị trí khóa. Di chuyển và tạo chủ đề cho biểu tượng khóa Face-ID
+Name: Latchkey VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Latchkey.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Latchkey.json
+Author: Maxwell Dausch <max.dausch@gmail.com>
+
 Package: com.bvn.limneos
 Architecture: iphoneos-arm64e
 Version: 3.0.1
@@ -1341,6 +1361,26 @@ Author: NQT1195
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/Lunartime/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lunartime.json
+
+Package: com.bvn.lynxroothide
+Architecture: iphoneos-arm64e
+Version: 2.4.10
+Section: Tweaks
+Maintainer: Bvn Repo
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.lynxroothide_2.4.10_iphoneos-arm64e.deb
+Size: 595836
+MD5sum: afc435dfcdfc4c45fe066b14f20e5009
+SHA1: cf75ed7c2f979659ac973a9d0b7dad80a03a1a22
+SHA256: ccc8b26ab00aec721366af00afbe877e465754ca5d469402ec58bbc019b8310d
+SHA512: d6a13879b958ea066aa35649dc670a98b5db591a4f087d6f4c34761c926713192f8e07c2b067bc919445d7cfc9f0f74471b1fc59bcb6b3c9338b9384af37a6ef
+Description: Ultimate iDevice Customization for iOS 14, 15, 16
+Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Lynx 2 VH(Rootless)
+Author: MTAC
 
 Package: com.bvn.lynxroothide
 Architecture: iphoneos-arm64e
@@ -1542,6 +1582,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Senri.json
 Author: Antoine <hanzikashi@gmail.com>
 Name: Senri VH(Roothide)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.settingswidgets-roothide
+Architecture: iphoneos-arm64e
+Version: 1.2.3
+Section: Tweaks
+Maintainer: shepgoba
+Installed-Size: 512
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.bvn.settingswidgets-roothide_1.2.3_iphoneos-arm64e.deb
+Size: 193552
+MD5sum: a037b3376a179b2229549c201b12df75
+SHA1: f2bfb763fdba8e6f330a7a9769a0f8512e7f59b5
+SHA256: 1436bbc426d750ef0c724a365592a8bc9c60a09a4c983808cf1874dc71387805
+SHA512: cfb9da15e3129c3c95ac0fdedc1fea161559ff6929231778373f82a3e06726708c3a9a50ead2e538e21378d56ce7413e17fc6b59dc85009a988fbc9aaea5082d
+Description: Bring good looking widgets to the front page of settings!
+Name: SettingsWidgets VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/SettingsWidgets/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SettingsWidgets.json
+Author: shepgoba
 
 Package: com.bvn.snowboardfix
 Architecture: iphoneos-arm64e
