@@ -3256,6 +3256,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Rocket For Instagram(Roothide)
 Author: Majd Alfhaily
 
+Package: vn.bvn.tinge-roothide
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.p2kdev.tinge, byg.iosios.net.tinge.rootless
+Filename: ./debs/vn.bvn.tinge-roothide_1.0_iphoneos-arm64e.deb
+Size: 21700
+MD5sum: f43c17dac1a5346d76f4fd110f9fd53b
+SHA1: e6d0695ea54558c2107a2c3d0a4501eedb8d071c
+SHA256: 2d597a9b6093ab02700bb6513f32e67ef94cad1daf5ec52a779f26e658a23ffe
+SHA512: 14eebd821daa82dbd504bd0550436a092971899785f16403ff1328dbd22015ab4daa8b7f968ac0e011111086c5169150290901efdb94ce127061a3deea7c9427
+Description: Thay đổi màu sắc của biểu tượng thông báo theo màu sắc của ứng dụng
+Name: Tinge VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Tinge.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Tinge.json
+Author: P2KDev
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: vn.bvnrepo.a-font
 Architecture: iphoneos-arm64e
 Version: 1.10-Roothide
