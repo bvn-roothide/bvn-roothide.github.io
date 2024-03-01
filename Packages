@@ -2115,6 +2115,28 @@ Name: YTABGoodies (Roothide)
 Author: PoomSmart
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.reoobvn.pullover-roothide
+Architecture: iphoneos-arm64e
+Version: 2.1.5-2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 3376
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro, cn.Bswbw.fixset
+Filename: ./debs/com.reoobvn.pullover-roothide_2.1.5-2_iphoneos-arm64e.deb
+Size: 688088
+MD5sum: d591e50ce2a27ef004178b719ddf717c
+SHA1: 3e3a94c2b142762f5d145a4612da3500543cf6f0
+SHA256: 9f19e8b3440eba8ef12526d1f7b0699817df82826ea1ef0452301c6f7970ab41
+SHA512: e7424b8c071070e20c5c61d19d583d710e5cb4156328ac23036b71e4aa53f3b727a8092e27aab311545623f54e2482f147beaea1318477bb31bcdc3a022b3f32
+Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ sửa lỗi cho iOS15+
+Name: PullOver Pro VH(Roothide iOS 15/16)
+Author: c1d3r
+Depiction: https://bvnsupport.github.io/depictions/PullOver.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.reoobvn.satella-roothide
 Architecture: iphoneos-arm64e
 Version: 1.8.1
