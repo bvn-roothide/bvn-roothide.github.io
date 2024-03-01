@@ -814,6 +814,25 @@ Name: BatteryHealth (Roothide)
 Author: PoomSmart
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bienvannhat.batteryhealthenabler
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
+Filename: ./debs/com.bienvannhat.batteryhealthenabler_1.0.2_iphoneos-arm64e.deb
+Size: 16888
+MD5sum: d1d05e5696096fbdb6687ea096f3725e
+SHA1: 9609b97c432e2ce2dd4f48578420853715b6ca15
+SHA256: 5410c47fe9d82dca3da29f04074393d676680a84c0ad97b3a95c0546648d6dc2
+SHA512: 4631e905c53f1e76ea0307b0980a111650a609d3021709bd5cd5a4e1c6d849ba8efd84c3c9859834e399a9ddb35d28bf079f6cd0ba8832008d632f2d650c7d53
+Description: Bật Tình trạng pin trên các thiết bị không được hỗ trợ.
+Name: BatteryHealth (Roothide)
+Author: PoomSmart
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bienvannhat.spotilife
 Architecture: iphoneos-arm64e
 Version: 1.8
@@ -2125,17 +2144,16 @@ Pre-Depends: rootless-compat(>= 0.1)
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.c1d3r.pulloverpro, cn.Bswbw.fixset
 Filename: ./debs/com.reoobvn.pullover-roothide_2.1.5-2_iphoneos-arm64e.deb
-Size: 688088
-MD5sum: d591e50ce2a27ef004178b719ddf717c
-SHA1: 3e3a94c2b142762f5d145a4612da3500543cf6f0
-SHA256: 9f19e8b3440eba8ef12526d1f7b0699817df82826ea1ef0452301c6f7970ab41
-SHA512: e7424b8c071070e20c5c61d19d583d710e5cb4156328ac23036b71e4aa53f3b727a8092e27aab311545623f54e2482f147beaea1318477bb31bcdc3a022b3f32
+Size: 1875092
+MD5sum: a7bcf261465e3e241c91fc906104e791
+SHA1: 790627edbe7543835295e7b88692a72a3965429b
+SHA256: cc509255ee9531cadae12222bd9299289da41629e550c1628bfd36dd722b9e3b
+SHA512: 3fef8e060ff4473f4c081351e105ba1f3c9af39140cb91c40a9e27d305123004abc0d79c424c262a0f73a6d6b10e74f82397e7143aebcea77f6bc079ecdbc4cb
 Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ sửa lỗi cho iOS15+
 Name: PullOver Pro VH(Roothide iOS 15/16)
 Author: c1d3r
 Depiction: https://bvnsupport.github.io/depictions/PullOver.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.reoobvn.satella-roothide
 Architecture: iphoneos-arm64e
