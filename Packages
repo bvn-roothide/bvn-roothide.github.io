@@ -1361,6 +1361,28 @@ Author: Anna
 
 Package: com.bvn.lunartime-roothide
 Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 160
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.lunartime-roothide_1.0.1_iphoneos-arm64e.deb
+Size: 23462
+MD5sum: 53f75f1930bdb91c140e4fad1cc3ade9
+SHA1: e6b312217759be0e9f72b25c0af0a6e14dc1e6e1
+SHA256: e0757ce09f736c46d517962542c3c0a40c5f2b287ec566d94ac661724ebf8b56
+SHA512: 25695a58d1cfc9ccda118af0d0a195e49414c8bc006f81aff3b3f07d0b415ae3f4f646016218575daaf301a34f9f470e1bd9d1fc55c5ad26859f7eefcc8fbe10
+Description: Thêm ngày âm Lịch vào góc màn hình trái của bạn
+Tag: purpose::extension
+Name: LunarTime X (Roothide)
+Author: NQT1195
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Lunartime/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lunartime.json
+
+Package: com.bvn.lunartime-roothide
+Architecture: iphoneos-arm64e
 Version: 1.0
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
