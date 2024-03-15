@@ -1381,6 +1381,27 @@ Description: Crack for Limneos tweaks
 Name: Limneos CRK
 Author: Anna
 
+Package: com.bvn.locketpatch-roothide
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 17340
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debs/com.bvn.locketpatch-roothide_0.0.1_iphoneos-arm64e-1.deb
+Size: 932852
+MD5sum: 98af8de00882901f9af6ee1fff223d91
+SHA1: 66ac3cdc9048715f7de39733617d3bed22d06e94
+SHA256: e99e0a4244ab548798a65c76fe023e9cb9f0b87568fd1cb6da40cd4b03ab1e0e
+SHA512: e297256c4f9a8118182e2c8fdff7fba1d189dd69902a286fe0e190237261601beccd56b960948c5e773ba2daeaa1b3569d6a22b2833aca428baa99bc32dfdf1f
+Description: Locket Gold
+Depiction: http://bvnsupport.github.io/infodeb/Html/Locket.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Locket.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Locket Gold (Roothide)
+Author: Dell <dvq273665536@gmail.com>
+
 Package: com.bvn.lunartime-roothide
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -1586,6 +1607,27 @@ Author: Đức Anh
 Depiction: http://bvnsupport.github.io/infodeb/Html/redblue.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/redblue.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
+Package: com.bvn.remini-roothide
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.remini-roothide_0.0.1_iphoneos-arm64e.deb
+Size: 11460
+MD5sum: 50ee71b1a1c3165a948f953c51d10067
+SHA1: b5f6e9d285447415e6a11f43b1c0a5a486e12fe0
+SHA256: 5b163f12ed55cdbb9c9b68c6d8b1fbaee76f9c8c1c18373dba853c211b5932f4
+SHA512: 3e402f0e8a5840e68880395eaac8ad0a3f9eb232de068453029976d34a94e30f8b0d26a6fc9fa098400e4b32f53b1c06e9d1573da5aa40e0880c705a7cb46dd4
+Description: Remini Pro
+Author: Lãng Khách
+Depiction: http://bvnsupport.github.io/infodeb/Html/Remini.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Remini.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Remini Pro(Roothide)
 
 Package: com.bvn.removeconfidential
 Architecture: iphoneos-arm64e
