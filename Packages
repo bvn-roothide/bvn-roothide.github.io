@@ -346,6 +346,25 @@ Description: Chủ đề iOS 6 sắc nét.
 Name: Modern 6 (Roothide)
 Author: IceCool Tech
 
+Package: com.BIENVANNHAT.modern6-roothide
+Architecture: iphoneos-arm64e
+Version: 2.1.2
+Section: Theme Rootless
+Maintainer: BIỆN VĂN NHẬT
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.BIENVANNHAT.modern6-roothide_2.1.2_iphoneos-arm64e-1.deb
+Size: 16358984
+MD5sum: 7701dd85d451f0561dd3ef3699d8160d
+SHA1: 425b0fc2cdbfded629fa83a76550a7a65ee2105c
+SHA256: 965a9b33b78e9ccc8c152f26e74148255ec14dbe7e9b5b5ef7e7a4b95452f4ad
+SHA512: 4b341f4d4ece6b6a5feba69b08e4194ff20b274b94508f68155e09091aa72846f39212f5c97c09cf8cc0b174ad6899bc4da0b456a869b4aa286f0505c1e0ae52
+Description: Chủ đề iOS 6 sắc nét nhất thế giới.
+Name: Modern 6 (Roothide)
+Author: IceCool Tech
+Depiction: http://bvnsupport.github.io/infodeb/Html/ios6.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ios6.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
 Package: com.BIENVANNHAT.roothide-barmoji
 Architecture: iphoneos-arm64e
 Version: 2023.3.3
