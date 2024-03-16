@@ -3634,6 +3634,30 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/ytbreborn.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytbreborn.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: vn.repobvm.youtubereborn-roothide
+Architecture: iphoneos-arm64e
+Version: 4.2.6
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 24892
+Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx, com.repobvn.ytx, com.repobvn.uyou
+Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Filename: ./debs/vn.repobvm.youtubereborn-roothide_4.2.6_iphoneos-arm64e-1.deb
+Size: 18095624
+MD5sum: 502b5858db9b17e8706f5447ab443afd
+SHA1: 3ab9f2f500b6aebea19bc2fe96cee8fc83ee4129
+SHA256: c3c2acf13107b6908a358ea3e9b6a86eb45b732218a5bbbf97b4e856d2dbcdd6
+SHA512: 73c968593412827b3c410df621156c51296b9313e05ab4283fd2cddb2064f6800721e6eecbc55fce20f06e6b272d095184751ddcfdfd54a0e1c0b2429249dcf2
+Description: YouTube Customizer
+Name: YouTube Reborn (Roothide)
+Author: Lillie
+Depiction: http://bvnsupport.github.io/infodeb/Html/ytbreborn.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytbreborn.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: vn.repobvn.floatingdockxvi
 Architecture: iphoneos-arm64e
 Version: 1.9
