@@ -2604,6 +2604,24 @@ Tags: compatible_min::ios13.0, compatible_max::ios16.4
 Author: ETHN <ethanwhited2208@gmail.com>
 SomeOtherEntryToControl: True
 
+Package: com.repobvn.iapstorefugu-roothide
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Repo Bvn
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader, com.bvn.fixset-roothide, firmware (>= 15.0)
+Filename: ./debs/com.repobvn.iapstorefugu-roothide_0.0.1_iphoneos-arm64e-1.deb
+Size: 41328
+MD5sum: 990e4c4830736685666c0daf75940f02
+SHA1: 77f8135998f4537f1213b4037543770790d55ccd
+SHA256: c96459cb5a350ad8dffd163f1178c3d0ff3e585f6519291348015a02621ba314
+SHA512: 7f76d314b708104e1172a0bb1836edf22d793936cc3a6c173ac0ab45d07b63a597d6b7eed3eaf2656fddeb060498b929091c8569f6f342f9b1aafd8d14b76479
+Description: Hiện vật mua hàng trong ứng dụng Fugu15, nhấp vào thanh toán bật lên để hủy.
+Name: IAPStore (Roothide)
+Author: lenglengyu
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repobvn.latesttranslate
 Architecture: iphoneos-arm64e
 Version: 4.0.0
