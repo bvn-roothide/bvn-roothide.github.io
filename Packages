@@ -1788,6 +1788,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/SugarCane.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SugarCane.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.watched
+Architecture: iphoneos-arm64e
+Version: 1.1-10+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Conflicts: byg.iosios.net.watched, com.34306.watched
+Filename: ./debs/com.bvn.watched_1.1-10+debug_iphoneos-arm64e.deb
+Size: 8982
+MD5sum: 967e102ac3f6013e9306e82734ca3b5e
+SHA1: 9347adaa410ef0edc2ce485c510e38c2d8721968
+SHA256: 2d90e150e559f9acfb85f9a6257c12969200d856eedfee1cbfcafe4e85537447
+SHA512: ff23fa684876808b9c2071e02e76895d339c0bdbf617cfeedcd679f03491a3a7c4536f99632430ce7b58c532d1ae20e1f3eb9730bff98e31209dce63c6b98c86
+Description: Hỗ trợ kết nối iPhone phiên bản iOS cũ với Apple Watch phiên bản mới
+Name: Watched (Roothide)
+Author: 34306 "Huy Nguyen"
+Depiction: http://bvnsupport.github.io/infodeb/Html/Watched.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Watched.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.whoozit.roothide
 Architecture: iphoneos-arm64e
 Version: 2.15.0-beta-6
