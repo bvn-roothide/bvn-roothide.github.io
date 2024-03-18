@@ -1247,6 +1247,29 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/futura.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: unclear
 
+Package: com.bvn.hidestatusbaritemsx-roothide
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Reo BVN
+Installed-Size: 600
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate
+Conflicts: com.junesiphone.hidestatusbaritems
+Filename: ./debs/com.bvn.hidestatusbaritemsx-roothide_1.0_iphoneos-arm64e-1.deb
+Size: 45388
+MD5sum: 65e50d24314872991f9cb25e198bfddd
+SHA1: 25d66c91625e55d7213ddbdb0727fb9e70ede563
+SHA256: 8388bdc95c94c3ff2d577c5d3569fd2f8ba6de6572977d9e87927c49beb39c60
+SHA512: e6d2d075c28a0bea10aa922e0e7f78b6f01b84b27c38f58e4e408291cb27963cf0a6060287efb1707d4059e81b284626bdad9070af4ef698ee7127a7bf3eac28
+Description: Cho phép bạn ẩn một số mục trên Thanh trạng thái
+Tag: cydia::paid
+Name: Hide Statusbar Items X(Roothide)
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/Statusbar.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Statusbar.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.homebarsizer
 Architecture: iphoneos-arm64e
 Version: 1.1.1
