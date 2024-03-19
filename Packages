@@ -1610,6 +1610,26 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Lynx 2 VH(Roothide)
 Author: MTAC
 
+Package: com.bvn.messnoads
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 136
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate
+Conflicts: com.34306.messedrl
+Filename: ./debs/com.bvn.messnoads_2.0_iphoneos-arm64e.deb
+Size: 6644
+MD5sum: 50c34cbaa86b04b0651c0ac361acbeb1
+SHA1: 95e865e700debc540ca2144891a38899f95bdbc9
+SHA256: 7b88a28def705c2101f4af3fcd29f613033285cf070543e1261db40a7a3b02f5
+SHA512: bd689a37acdb057d490c29f414a3b96fa11e648d02e139d7e7fab59dadf2a0ee2e866acbfcd866f9eb3b211dfbd18007f6b3d650dea4306fe2f88712fcb47b57
+Description: Chặn quảng cáo & Tắt đã xem tin nhắn cho ứng dụng Messnger.
+ - A simple tweak that disable seen in Messenger, disable Ads and StoryView.
+Name: Messed (Roothide)
+Author: 34306
+
 Package: com.bvn.nct-roothide
 Architecture: iphoneos-arm64e
 Version: 1.0.0
