@@ -1150,6 +1150,25 @@ Depiction: http://bvnsupport.github.io/infodeb/CustomizeCC/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CustomizeCC.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.facebooknoads
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.facebooknoads_1.2_iphoneos-arm64e-1.deb
+Size: 5928
+MD5sum: 8966f3bf0bb19227ee4b1d848e49fb67
+SHA1: b92bf2c741415c1d26ae1351af496f533317fd2f
+SHA256: 3f19db9c2a7fe8f5c9241d81de561e1641d3c09c354ab1948e4f6f51847a2224
+SHA512: 7c565ae7762c5031a7c3e1c02ede29fc65f9a8e738255a6aeae2a90d4f88c61f8e39c89ab5f9328aaa3213ec283d2e3903ecf44c3a35c6ce8fa68343af5f3b2c
+Description: Chặn Quảng cáo cho Ứng dụng Facebook.
+ - No Ads in the Facebook App!
+Name: Facebook No Ads (Roothide)
+Author: P2KDev <p2kdev@gmail.com>
+
 Package: com.bvn.fixset-roothide
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -3267,27 +3286,6 @@ Description: Collection of image and color calculations
 Tag: role::developer
 Name: libKitten (Roothide)
 Author: Traurige <hello@traurige.dev>
-Icon: file:///var/jb/Library/IconRepo/hethongg1.png
-
-Package: emt.paisseon.xinamine
-Architecture: iphoneos-arm64e
-Version: 0.0.5
-Section: System
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 564
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
-Filename: ./debs/emt.paisseon.xinamine_0.0.5_iphoneos-arm64e.deb
-Size: 72212
-MD5sum: 5a88af2d99fa2d0f74c0fb24f049cad4
-SHA1: 22bf3eba3d38beab455a945d64d7d95f77d1c8b3
-SHA256: 5b8e94e955895697554789740b534b6a06c483b77362140309a17600c1e8b5c9
-SHA512: 6041ac573f3f97f601c6b1eccd9b0cdc85e5326ef433f2d010c59030e6a56054e1dad7674f5967910c1445780b6934dcee99fea347cc3b075c85ae95a6e0d44c
-Description: Thêm khả năng tương thích tinh chỉnh Xina với Dopamine
-Name: Xinamine (Roothide)
-Author: Sudo + Paisseon
-SileoDepiction: https://paisseon.github.io/depictions/Xinamine.json
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
 Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 
 Package: jp.r-plus.slidecut-roothide
