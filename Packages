@@ -1471,13 +1471,13 @@ Section: Tweaks
 Maintainer: BVN Repo
 Installed-Size: 17340
 Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debs/com.bvn.locketpatch-roothide_0.0.1_iphoneos-arm64e-1.deb
-Size: 932852
-MD5sum: 98af8de00882901f9af6ee1fff223d91
-SHA1: 66ac3cdc9048715f7de39733617d3bed22d06e94
-SHA256: e99e0a4244ab548798a65c76fe023e9cb9f0b87568fd1cb6da40cd4b03ab1e0e
-SHA512: e297256c4f9a8118182e2c8fdff7fba1d189dd69902a286fe0e190237261601beccd56b960948c5e773ba2daeaa1b3569d6a22b2833aca428baa99bc32dfdf1f
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.locketpatch-roothide_0.0.1_iphoneos-arm64e.deb
+Size: 5396912
+MD5sum: 8c7862fb24284f78e32fddcba2be2574
+SHA1: ea4f3df6079eb1cae0fb02b91efcd75a2fd5565f
+SHA256: 74ac4c316ee8df4f3e8d45abcf9908a9f877e29459ac7c364115ea891e85da70
+SHA512: 70d28d7106c302ca76d0b16ac14517ffb38461491db29921c26340555a906bd90e5c59505d31a32a26712c333c4292a0ed189a8ab1cc3d697c6b4611d14fc57c
 Description: Locket Gold
 Depiction: http://bvnsupport.github.io/infodeb/Html/Locket.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Locket.json
