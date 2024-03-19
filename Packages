@@ -3330,25 +3330,6 @@ Author: r_plus <anasthasia.r+aa@gmail.com>
 dev: rplus
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=slidecutDp
 
-Package: me.ahmedbafkir.dleasy
-Architecture: iphoneos-arm64e
-Version: 2.14.3-Roothide
-Section: Tweaks
-Maintainer: AhmedBafkir <prooxy0@gmail.com>
-Installed-Size: 15520
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/me.ahmedbafkir.dleasy_2.14.3-Roothide_iphoneos-arm64e.deb
-Size: 10968884
-MD5sum: 94232f1e3db82dfa2a94b8437c400ed3
-SHA1: abff3b8ed11c7038a041409522759dbdd15edd7a
-SHA256: f313eca16b3076fa40ad5f04572eb47166432a2e06e6646a51477e730c44c525
-SHA512: 42731379dc78e710471841871512ff2baec6d00318802f89bdbf175579f4d156462b8074f473f3e319a5594e51ae2b0c0f021917e14071dc95c70b25fda48b4c
-Description: Download/Share images & videos from social apps easily!
-Name: DLEasy (Roothide)
-Author: AhmedBafkir <prooxy0@gmail.com>
-Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
-
 Package: me.nepeta.axon-roothide
 Architecture: iphoneos-arm64e
 Version: 1.4
@@ -3543,15 +3524,15 @@ Maintainer: Bvn Repository
 Pre-Depends: rootless-compat(>= 0.1)
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Filename: ./debs/ru.rejail.dleasy_2.14.4K_iphoneos-arm64e.deb
-Size: 10980828
-MD5sum: 11686832de63cae958db8ef1a588d7d7
-SHA1: ca6960ffe1deff78d2205ca39e8fda177eda5793
-SHA256: 7ed0bbea39a2dbf30a538e628856d32a111b7a27834655c625d7582887bfe573
-SHA512: 8d3b639875ee70e61d127318ea13d4c31077a3dfaba979250284029c40cad69c0749d7ea62f40cd7fc4972a9a921fba585773debcea4a7dda6ddd47242148649
+Size: 14614214
+MD5sum: e8230711cea5a08f5ec8b5128ba68cc7
+SHA1: 2a36f5b07e6ff400c797aee10fb3d69b73292520
+SHA256: 7cb5a44acb785f3ef87f9a1e07967276853a25959de6f1f843ecf6d8cab691c5
+SHA512: 2076adc55856b54021fa4c2ff5022354171a73a66ae0bf6790bbdf345d5241db24aec0fbe0086d6e456a9fda09bcfa9f855a1a5ce261bac711be0602367bd6f8
 Description: Tải xuống hình ảnh và video trên mạng xã hội.
 Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
-Name: DLEasy (Roothide)
+Name: DLEasy CRK(Roothide)
 Author: AhmedBafkir
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
