@@ -1869,6 +1869,26 @@ Description: Sửa lỗi SnowBoard bị treo trên iOS 16
 Name: SnowBoardFix
 Author: MTAC
 
+Package: com.bvn.splitviewpro-roothide
+Architecture: iphoneos-arm64e
+Version: 0.0.3-1-19
+Section: Tweaks
+Maintainer: BVN Repo
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.splitviewpro-roothide_0.0.3-1-19_iphoneos-arm64e.deb
+Size: 123156
+MD5sum: a8a37e2fa6fdf786f9af9be3cb4f8139
+SHA1: 64f2162fd774f67b62882b829a6caf1ecea216fe
+SHA256: 24110a68aa323b9a6c929c21ea93b1ccb2d3dd42be37b5ab0f2d7c26a55ca68c
+SHA512: bf06321ec4823ecd10e9f5ae58131158141d49861a3bc23e52603c0185da44d648d21ef7582d385950ad19de2f91857c9dea370264f76664f6a5d696e2026715
+Description: Một tinh chỉnh chia đôi màn hình miễn phí hiện đang được phát triển bởi sunshinesong. Hãy kiên nhẫn chờ đợi những cải tiến.
+Depiction: http://bvnsupport.github.io/infodeb/Html/split.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/split.json
+Name: Split View Pro VH(Roothide)
+Author: sunshinesong
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.sugarcane-roothide
 Architecture: iphoneos-arm64e
 Version: 1.2.4.2
