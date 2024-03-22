@@ -1651,6 +1651,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/NCT.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/nct.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.nobetaalert-roothide
+Architecture: iphoneos-arm64e
+Version: 4.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.nobetaalert-roothide_4.0_iphoneos-arm64e.deb
+Size: 3976
+MD5sum: 553933f7bdccdf958e492f8ab411b875
+SHA1: 2c51000a99a8c252551c39358580f54cf488c2e4
+SHA256: 690aa86586774f29f041f5b8dd2685ba249f3ccf6a5e42160da0ecc19b6f5436
+SHA512: 53b628cf0c5346b024d11c442c1225a83a6a81e3ff6be8ebbd03a9a57d9801ed0a34c11ca96dd808bac2db78903e11a15e06ca761b4775474fbdc0e50908e891
+Description: Xoá bản thông báo cập nhật Beta iOS
+ - Removes Beta Expired Alerts
+Name: NoBetaAlert (Roothide)
+Author: Hitori
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.plampycc
 Architecture: iphoneos-arm64e
 Version: 1.0.1
