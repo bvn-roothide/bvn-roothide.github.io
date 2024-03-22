@@ -58,21 +58,25 @@ Author: Netskao
 Package: bvn.picsartcrack
 Architecture: iphoneos-arm64e
 Version: 1.0
-Section: Cracks
-Maintainer: Bvn repo
-Pre-Depends: rootless-compat(>= 0.1)
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 940
 Depends: mobilesubstrate
 Filename: ./debs/bvn.picsartcrack_1.0_iphoneos-arm64e.deb
-Size: 10384
-MD5sum: adb67d0a1bde7e4da48fb7f24f53f36c
-SHA1: dbfed8710fb86f6a739c2f584e578ba8e9df067f
-SHA256: bc4d33062b75c7acce4ffdcaa0828e8b1c90b0a08c0c2dd95995e94eabf4ea30
-SHA512: e24157479cd0d307073568edd3cf66077ed5e3db82eea9ac83e1cb10d8e51213ea7a478d5b15a4f7f2e12e1606974ed15d223593233588b6720c1a00927f4382
-Description: Picsart Gold for free
-Depiction: http://bvnsupport.github.io/infodeb/PicsArt/?p=info
+Size: 14250
+MD5sum: 3f28117212e8738c86b3cad293c08bdf
+SHA1: 42a8764208a55538e702369acf3c47bc5fade0db
+SHA256: 7f86fb6b821793c36e8637fafc6f98110d4ea3b27ec898812958fa7c69e76b9d
+SHA512: bcfb9bae78b1bb0970a21d2123d3a11b0a13f5c12145d66688a3bf33e3110ac780546bdf84b022c4b75125592d357710ae4544fe96818f9439262a8f1ab6f2e2
+Description: 
+  • Mở khóa tất cả các tính năng
+  • Xóa Quảng cáo & Biểu ngữ
+  • Gói cao cấp & VIP
+Name: PicsArt® Gold (Roothide)
+Author: Lãng Khách
+Depiction: http://bvnsupport.github.io/infodeb/Picsart/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/PicsArt.json
-Name: Picsart gold (Roothide)
-Author: CyPwn
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: bvn.repo.designer-roothide
 Architecture: iphoneos-arm64e
