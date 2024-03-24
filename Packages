@@ -1335,6 +1335,28 @@ Depiction: http://bvnsupport.github.io/infodeb/jade/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/jade.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.kayoko-roothide
+Architecture: iphoneos-arm64e
+Version: 2.0.1-1
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 1012
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, xyz.cypwn.kayoko, byg.iosios.net.kayoko, com.skypain.kayoko
+Filename: ./debs/com.bvn.kayoko-roothide_2.0.1-1_iphoneos-arm64e.deb
+Size: 115356
+MD5sum: 62262cd06d59eb81c6e8d41da843b1e1
+SHA1: 3b1a4a49149889810ce7e0f5fe733038a9ea70b9
+SHA256: be0a8227c6aea6e9d0c72e3b57fdbdf946b9f35181165df70a2bbe9900c0898e
+SHA512: 63d38a6bf8f0d3ba912eab4e23951a6baeba3dbe9492a88d17b4795302b6f80f7974486ae4343067cbba96cbf5f5bfe2f0b0e358b9e6ee2bfa49b3b81b19c797
+Description: kayoko Modified, dựa trên các dự án nguồn mở của Traurige và Lessica, hỗ trợ Rootless và Roothide.
+Name: Kayoko VH (Roothide)
+Author: Traurige&Lessica
+Depiction: http://bvnsupport.github.io/infodeb/Html/Kayoko.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Kayoko.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.latchkey
 Architecture: iphoneos-arm64e
 Version: 2.3.2
