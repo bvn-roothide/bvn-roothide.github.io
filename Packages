@@ -1817,6 +1817,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Reo.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Mystery
 
+Package: com.bvn.replaced
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.34306.replaced
+Filename: ./debs/com.bvn.replaced_1.0_iphoneos-arm64e-1.deb
+Size: 4614
+MD5sum: ea3d26e88a2c987a8cc50b70f9172b5a
+SHA1: 7e676191cfe08c810c3e33274c95cf8487bbbb0c
+SHA256: 5fbf5be65eb46ac05683508f5a5ab0fb0ce199df872d988566581b66b4319852
+SHA512: 6d9f91e170c401e3d2b884b936b27fcab20479e8639580ef3d674247618dc151d525f6697ff1b2b2e3403b728505d7aa064736185e13af7746ad754441ae761a
+Description: Xoá thông báo linh kiện không xác định và linh kiện chính hãng trong mục giới thiệu của iPhone.
+Name: replaced (Roothide)
+Author: 34306
+Depiction: http://bvnsupport.github.io/infodeb/Html/replaced.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/replaced.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.safarix-roothide
 Architecture: iphoneos-arm64e
 Version: 1.0.2
