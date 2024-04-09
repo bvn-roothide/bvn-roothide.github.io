@@ -1626,6 +1626,24 @@ Description: Crack for Limneos tweaks
 Name: Limneos CRK
 Author: Anna
 
+Package: com.bvn.liveactivities
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 1144
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 14)
+Filename: ./debs/com.bvn.liveactivities_1.0.4_iphoneos-arm64e-1.deb
+Size: 281004
+MD5sum: 3b84af6255c55d8bd833b7ee969fb198
+SHA1: 8539eb649235abfe2d284c02c04409b0d8620e46
+SHA256: 551eab6c8c087cd328c341eee4d18a3c5a0b6d11beabd888fa47f81f1d562bbf
+SHA512: 6baf04c2240ae08cabc41a9d140b2a05ee853ad381e9fa7ccf959588e37c4b5d8a990b1048fd5f7f7bf04eec6b2706d39f29d2258350869d91409a99e2e417a1
+Description: Tweak inspired by iOS 16 with live activity timers on your lockscreen
+Name: Live Activities (Roothide)
+Author: 0xkuj
+
 Package: com.bvn.locketpatch-roothide
 Architecture: iphoneos-arm64e
 Version: 0.0.1
