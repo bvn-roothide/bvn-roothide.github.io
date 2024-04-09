@@ -1081,6 +1081,24 @@ Author: IArrays <contact@iarrays.com>
 Sponsor: IArrays
 Icon: https://iarrays.com/sileo-depiction/calllogpro/icon.png
 
+Package: com.bvn.ccadsbegone.rootless
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: 0xkuj <0xkujz@gmail.com>
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: com.opa334.ccsupport, com.ps.letmeblock
+Conflicts: com.0xkuj.ccadsbegone
+Filename: ./debs/com.bvn.ccadsbegone.rootless_1.1_iphoneos-arm64e.deb
+Size: 119556
+MD5sum: 0f251a8bf4e5724bfe0b0aa34ec0462d
+SHA1: acba435f811b829ebc1ce66ee0d6f2652e82d109
+SHA256: 6bc076aee943a7dbe4e8167f750c1aa6376c7aee4f9ba1dd32a0aee9353f3725
+SHA512: a00986541aa5b4ed4516c33345b0b1e3a34b4db62cbc76426448b858dc95fd8670a7e5ce253ac67dc3e738fa0eaae5b296e49932c0d44730123599c05d5fe502
+Description: CC Toggle to block ads on demand!
+Name: CCAdsBeGone (Roothide)
+Author: 0xkuj <0xkujz@gmail.com>
+
 Package: com.bvn.ccmusicartwork
 Architecture: iphoneos-arm64e
 Version: 2.4.0-rootless
