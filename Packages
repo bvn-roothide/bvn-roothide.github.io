@@ -2277,6 +2277,26 @@ Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: https://iarrays.com/sileo-depiction/whoiscalling/icon.png
 
+Package: com.bvn.wolf-roothide
+Architecture: iphoneos-arm64e
+Version: 2.1-2
+Section: Tweaks
+Maintainer: Bvn Repo
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, com.bvn.facebooknoads
+Filename: ./debs/com.bvn.wolf-roothide_2.1-2_iphoneos-arm64e.deb
+Size: 7801726
+MD5sum: 426b1118d014ffb9479a487cbaecc167
+SHA1: f7daa89ed1068bcfb6047ff21e4955cd4f2d8da9
+SHA256: c623c5a47f3739cd1d9741f7b0ded65a7c63c7f3f1f1cb869b1d1724d90d99e7
+SHA512: 6fd6f5242489a6f25a38188243cd418947302230185c629c37acde2bacd9089d6a91d92e3fd464bcee8f910d2726b9310c1fdfd7442b49c8a2cabfc710507a11
+Description: Tinh chỉnh tốt nhất cho Facebook!
+Depiction: http://bvnsupport.github.io/infodeb/Wolf/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Wolf.json
+Name: Facebook Wolf (Roothide)
+Author: Michael Lema <samewhitetee@gmail.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.ytx
 Architecture: iphoneos-arm64e
 Version: 1.4.2
