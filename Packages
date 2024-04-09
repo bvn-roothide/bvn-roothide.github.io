@@ -230,6 +230,28 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Designer VH(Roothide)
 Author: JunesiPhone <junesgraphics@gmail.com>
 
+Package: bvn.vn.onesettings-roothide
+Architecture: iphoneos-arm64e
+Version: 2.1.1
+Section: Tweaks
+Maintainer: BvN Repo
+Installed-Size: 1117
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
+Filename: ./debs/bvn.vn.onesettings-roothide_2.1.1_iphoneos-arm64e.deb
+Size: 727196
+MD5sum: b5de7853450a1e29054eb74bd4b8a653
+SHA1: 85b4fd19a60fd36a3f6bea020c985d036f6cc2be
+SHA256: e4f808e1a284a691c403dda8a05bfcad6b08e2a2f5f5a8c6b2d641cacfb3f45a
+SHA512: b6572512bf9c77671772255f636fdda0b92497658212c89fd17dd5cafdebac11d99763c7323a18d4382148edf2b8c0f1efb254dd2c216f69d0b830c0b50d9155
+Description: Một cải tiến tuyệt vời cho Ứng dụng Cài đặt của bạn!
+Name: OneSettings VH(Roothide)
+Author: Nightwind
+Depiction: https://bvnsupport.github.io/depictions/OneSettings.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/OneSettings.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.SearchDots
 Architecture: iphoneos-arm64e
 Version: 1.1.5
