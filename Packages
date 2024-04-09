@@ -189,6 +189,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: bvn.repo.designer-roothide
 Architecture: iphoneos-arm64e
+Version: 1.4.6
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 18316
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/bvn.repo.designer-roothide_1.4.6_iphoneos-arm64e.deb
+Size: 38259722
+MD5sum: dc77f62d8b3a9e21d992475b85149933
+SHA1: 4a257858bb37c1433967706feaa1605cd2a5b478
+SHA256: ca766d67e2fdd4a2bad7816d258b724abf5eed4218c6413c97bfe5399499fd8d
+SHA512: a01b9701d31ecfc83fde867265c68b1f38cb78907de418c94bdc99486950aa8b5dc1a139c025c00ec6b4c4a710f528035315104ca78e9a2c2ac6004cd0b544c1
+Description: Design layouts for lockscreen and homescreen
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Designer VH(Roothide)
+
+Package: bvn.repo.designer-roothide
+Architecture: iphoneos-arm64e
 Version: 1.4
 Section: Tweaks
 Maintainer: Bvn Repository
@@ -1060,6 +1081,24 @@ Author: IArrays <contact@iarrays.com>
 Sponsor: IArrays
 Icon: https://iarrays.com/sileo-depiction/calllogpro/icon.png
 
+Package: com.bvn.ccadsbegone.rootless
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: 0xkuj <0xkujz@gmail.com>
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: com.opa334.ccsupport, com.ps.letmeblock
+Conflicts: com.0xkuj.ccadsbegone
+Filename: ./debs/com.bvn.ccadsbegone.rootless_1.1_iphoneos-arm64e.deb
+Size: 119556
+MD5sum: 0f251a8bf4e5724bfe0b0aa34ec0462d
+SHA1: acba435f811b829ebc1ce66ee0d6f2652e82d109
+SHA256: 6bc076aee943a7dbe4e8167f750c1aa6376c7aee4f9ba1dd32a0aee9353f3725
+SHA512: a00986541aa5b4ed4516c33345b0b1e3a34b4db62cbc76426448b858dc95fd8670a7e5ce253ac67dc3e738fa0eaae5b296e49932c0d44730123599c05d5fe502
+Description: CC Toggle to block ads on demand!
+Name: CCAdsBeGone (Roothide)
+Author: 0xkuj <0xkujz@gmail.com>
+
 Package: com.bvn.ccmusicartwork
 Architecture: iphoneos-arm64e
 Version: 2.4.0-rootless
@@ -1097,6 +1136,25 @@ Name: CC On & Off
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
+
+Package: com.bvn.contactsextended
+Architecture: iphoneos-arm64e
+Version: 1.9.2
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 520
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 14)
+Conflicts: com.packetfahrer.swipetodeletecontact, org.thebigboss.elite
+Filename: ./debs/com.bvn.contactsextended_1.9.2_iphoneos-arm64e.deb
+Size: 225856
+MD5sum: a98a0dd73e44baa7c590a9adb91c8646
+SHA1: 8e99690e2b166a34bf2008b0424576aa34ef72cf
+SHA256: 7986234e751d6f39151dbc4790a5491a82be618121528d0eef8c986e410d76d0
+SHA512: 937e52434568e5bfe1ae3299d46384570f8455a981ac81253adf836b7e16141ccf8b8bf5cbc14e52303c5508b36307ff771174ac16e3ee660e94cdf2eee40a7f
+Description: Your contacts - with more options!
+Name: Contacts Extended (Roothide)
+Author: 0xkuj
 
 Package: com.bvn.copic2.roothide
 Architecture: iphoneos-arm64e
@@ -1172,6 +1230,46 @@ Description: Chặn Quảng cáo cho Ứng dụng Facebook.
  - No Ads in the Facebook App!
 Name: Facebook No Ads (Roothide)
 Author: P2KDev <p2kdev@gmail.com>
+
+Package: com.bvn.facebooknoads
+Architecture: iphoneos-arm64e
+Version: 1.3
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.facebooknoads_1.3_iphoneos-arm64e.deb
+Size: 16812
+MD5sum: 3a278a618e56840e9f071e2445a96575
+SHA1: cadbd6744616f0cf17ead9bd500755d64d1ed2ae
+SHA256: 5f0b1589b21b4813943baff055f4c43574e0e2ef9126f47ec6b498064e6297bc
+SHA512: cdf31d6b72ae5741fc5a40eb51d99067f2e27b7358b919f1447062cda4f50c31817b9e3f9953cb6b6356f85cc0f2fe9df989be7051f62b2e16a78ea68a71f9c5
+Description: Chặn Quảng cáo cho Ứng dụng Facebook.
+ - No Ads in the Facebook App!
+Name: Facebook No Ads (Roothide)
+Author: P2KDev <p2kdev@gmail.com>
+
+Package: com.bvn.fiona-roothide
+Architecture: iphoneos-arm64e
+Version: 1.0.6R
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 576
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, firmware(>= 14.0), com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.bvn.fiona-roothide_1.0.6R_iphoneos-arm64e.deb
+Size: 319542
+MD5sum: bdf51f9575a5a6c97b104d6218e31c04
+SHA1: 42b48d82810e7fd37baabd8e8603d7261561098e
+SHA256: 765a99bcd00763f145b2af62d6be0b9643fdf54c973bd2ac8ddd037198963844
+SHA512: 92b1ff0d0425dd0c061ad62e446cb6120b9cfb494fced957e40cbc6318d9e2a0c285c31416c7357397fc787c50a06786ba771b4fd9900579305617483e116d4c
+Description: Thanh Tab nổi cho thiết bị iOS.
+Name: Fiona VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Fiona.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Fiona.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: yan
 
 Package: com.bvn.fixset-roothide
 Architecture: iphoneos-arm64e
@@ -1314,6 +1412,23 @@ Depiction: http://bvnsupport.github.io/infodeb/HomeBarSizer/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/HomeBarSizer.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.instantalbum
+Architecture: iphoneos-arm64e
+Version: 1.5
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 1276
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.bvn.instantalbum_1.5_iphoneos-arm64e.deb
+Size: 702812
+MD5sum: f6fc7dff8fab119928ca66a16a407aec
+SHA1: 46812f5c694dd081c94401244ed276ce11eeff07
+SHA256: b7bd475d4dfe6c450a7c54f8026fcc5668a83a11ff2b7b988e4dc2f253eac218
+SHA512: 50a806a0d657a302db610cc5b0b41b98010b38964de22276fed809dac66a3aada6794ba127d17d7d809b2f5becf9f209b492a16a21c33a9dfd716cbff300c692
+Description: Your documents in one place
+Name: Docbox (Roothide)
+Author: 0xkuj
+
 Package: com.bvn.jaderhd
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -1436,6 +1551,27 @@ Name: Latchkey VH(Roothide)
 Depiction: http://bvnsupport.github.io/infodeb/Html/Latchkey.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Latchkey.json
 Author: Maxwell Dausch <max.dausch@gmail.com>
+
+Package: com.bvn.letmedecline
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.letmedecline_1.1_iphoneos-arm64e-2.deb
+Size: 7384
+MD5sum: 32780f0a5f985d7029fe19923e3b873c
+SHA1: 6f2cb2c74aa321cb1a79213a133e316be3eab7dd
+SHA256: 1246dca273173b70fae444f3018d8d2268b57255d414f72155f3347209e21317
+SHA512: 32bedb7c967333e5a576637ff85339e69b4686c1cbd2cd68d3aaa5784b7077776080de14b262b312aff26f24602403870affb80d6dfe47e99337198a1d965128
+Description: Tinh chỉnh này sẽ hiển thị nút Chấp nhận/Từ chối khi điện thoại bị khóa!
+Name: LetMeDecline (Roothide)
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.letmedecline
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.letmedecline/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.letmedecline.json
 
 Package: com.bvn.limneos
 Architecture: iphoneos-arm64e
@@ -1636,6 +1772,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Lynx 2 VH(Roothide)
 Author: MTAC
 
+Package: com.bvn.lynxroothide
+Architecture: iphoneos-arm64e
+Version: 2.5.1
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 2604
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.lynxroothide_2.5.1_iphoneos-arm64e-1.deb
+Size: 670360
+MD5sum: b19f790c2be6b2df2ef2d82e424be90d
+SHA1: 6364065817e7685b16dec0755a702d6c1db5da5f
+SHA256: 0fda7806828231bc324cb805e47babf9c97e8ed58404a715b7baed19e6342b21
+SHA512: 4bdee266860a16771b33911b59b63e0db1f93a667d8fe2da8e085142aa99447a09344132d27810363415989dde94f690fe2ff5257e653f21aa502d6bd9cd05bf
+Description: Ultimate iDevice Customization for iOS 14, 15 & 16
+Name: Lynx 2 VH(Roothide)
+Author: MTAC
+Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.messnoads
 Architecture: iphoneos-arm64e
 Version: 2.0
@@ -1738,6 +1895,24 @@ Name: PlampyCC VH(Roothide)
 Author: sugiuta
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.primedeck
+Architecture: iphoneos-arm64e
+Version: 1.3.0
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 1000
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: com.opa334.altlist, preferenceloader
+Filename: ./debs/com.bvn.primedeck_1.3.0_iphoneos-arm64e.deb
+Size: 1173652
+MD5sum: caa1872709e8cfdd01f8deeeaf977d73
+SHA1: 03ff05fad1f011263a895636fc9693a80baf03ea
+SHA256: 57fbf937ce2c4838474d7b8d867385efcc65398718ddb6fa6a4b64faaf19f325
+SHA512: 0cdff9f7ef826bc2ef463b97e76a739366147f92ac1ad25f5326b74e3239043c59a6eb7d8333bc9f538c20734a9243d3e6a452d1af87543056e1a68e98b48e33
+Description: Control your appswitcher
+Name: PrimeDeck (Roothide)
+Author: 0xkuj
+
 Package: com.bvn.redblue-roothide
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -1837,6 +2012,27 @@ Author: 34306
 Depiction: http://bvnsupport.github.io/infodeb/Html/replaced.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/replaced.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.safariblocker-roothide
+Architecture: iphoneos-arm64e
+Version: 1.3.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 424
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.safariblocker-roothide_1.3.1_iphoneos-arm64e-1.deb
+Size: 40920
+MD5sum: fb5f7398d72ea0ef0a68b04606b02ed8
+SHA1: 1cd4b1fd88ca5d2d22293e29a21c1f4ae372e2dc
+SHA256: edd1af74e9fa1d968daeb3ebf17659296e1cf0d9f9522ef7a600086982a7f446
+SHA512: e2b3f0c80a3e887d207e48469c2ec74e1a3264a9f2458a9a0e7f1bdbcea46a54a12c8707e9995c69d5522ae7c72344c7392f842ca7acc5c9f9a58410df8cbd6f
+Description: Chặn các tab mới bằng các tùy chọn!
+Name: SafariBlocker VH(Roothide)
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/SafariBlocker.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariBlocker.json
 
 Package: com.bvn.safarix-roothide
 Architecture: iphoneos-arm64e
@@ -2433,6 +2629,26 @@ Name: CCSupport
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: opa334
+
+Package: com.ps.letmeblock
+Architecture: iphoneos-arm64e
+Version: 1.2.1
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 140
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), com.opa334.libsandy
+Filename: ./debs/com.ps.letmeblock_1.2.1_iphoneos-arm64e.deb
+Size: 16624
+MD5sum: aa21444975f627c42e8fb525aac32d9c
+SHA1: 912afc7f614a6fc58231fc39cca3b7b7ab426093
+SHA256: acc77b68fb393ed483dab96f2907bd3baf8b09a8fc362d64a74c983d8919d99b
+SHA512: 04096582bb85df31820bffacf7e4c4f6ed5cab21f089464cb39d6b77d9b3766115874dab265ea0a2e40172afc3af17f92d082225437cf2a412fe557a0b966f6d
+Description: Make mDNSResponder care more about /etc/hosts
+Name: LetMeBlock (Roothide)
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/letmeblock.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/letmeblock.json
 
 Package: com.ps.ytabgoodies
 Architecture: iphoneos-arm64e
