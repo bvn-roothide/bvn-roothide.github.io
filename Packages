@@ -2062,13 +2062,13 @@ Installed-Size: 900
 Pre-Depends: rootless-compat(>= 0.1)
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17.0), firmware (>= 14.0)
 Filename: ./debs/com.bvn.reo-roothide_2.6.0_iphoneos-arm64e.deb
-Size: 291012
-MD5sum: e03aca2a3aed6300920d467fb4a54a0c
-SHA1: b589ef6e3625d75ecf82bea3f353d032d321ba06
-SHA256: c98d367404c7ccaaa85c37848124457e2b1c68f70fa53a0be178983130510506
-SHA512: 6178698e07817373274fcc12f640a6ae590e292b59cd31c23c05968cb7ed463d88286a38f871895f7565d0e0a785374fb5186653bb27e665e0ef726c2b875a9a
+Size: 710328
+MD5sum: 35f357c609f914c2a15c5f52f58e990e
+SHA1: ae3a51e3058d1f58b10936dbca2cb0233b88dd9e
+SHA256: 9fa354c3235894b61b9be9120be573270713855b883402ea9a0c5a72dde246a6
+SHA512: 4dafc0cfa91a6282b9fb1d6095dbaa6e0640468e0e4fdd2998768643cc7fb6f5c0ce1e9b8d784180cf6e9a7e8cbc22fa1893015412e705cf75daf5e1bd0d725a
 Description: Classic Music player for LS
-Name: Reo VH(Rootless)
+Name: Reo VH(Roothide)
 Author: Mystery
 Depiction: http://bvnsupport.github.io/infodeb/Html/Reo.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Reo.json
