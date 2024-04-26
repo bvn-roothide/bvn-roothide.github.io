@@ -1202,6 +1202,27 @@ Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
+Package: com.bvn.copylogfix16-roothidr
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 16.0)
+Conflicts: com.0xkuj.copylogfix16
+Filename: ./debs/com.bvn.copylogfix16-roothidr_1.0.0_iphoneos-arm64e.deb
+Size: 6744
+MD5sum: ecd2ee26a873092403b0a2928cf8b975
+SHA1: 3c5d4bfd9c96e4f77ec6bcdd02e0597b8d0bf1c4
+SHA256: 04d7135ba3d68559ccd4d9365c507d75114d6b09e9459640bd8cbe7a329f8a3b
+SHA512: 9ce93acb882f6ebea51ab1f6210fd2b7a96ab17b17e356de8b74e8b8b484a17438046093b65578a88651a650bb1737cbd58f2ed09b1c0f41b46ac4316a299fcb
+Description: Sửa lỗi copylog không hoạt động trên iOS16
+ * Fix copylog not working on iOS16
+Name: CopyLogFix16
+Author: 0xkuj
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.customizecc
 Architecture: iphoneos-arm64e
 Version: 1.4.3
@@ -2032,6 +2053,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Reo.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Mystery
 
+Package: com.bvn.reo-roothide
+Architecture: iphoneos-arm64e
+Version: 2.6.0
+Section: Tweaks
+Maintainer: Mystery
+Installed-Size: 900
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17.0), firmware (>= 14.0)
+Filename: ./debs/com.bvn.reo-roothide_2.6.0_iphoneos-arm64e.deb
+Size: 291012
+MD5sum: e03aca2a3aed6300920d467fb4a54a0c
+SHA1: b589ef6e3625d75ecf82bea3f353d032d321ba06
+SHA256: c98d367404c7ccaaa85c37848124457e2b1c68f70fa53a0be178983130510506
+SHA512: 6178698e07817373274fcc12f640a6ae590e292b59cd31c23c05968cb7ed463d88286a38f871895f7565d0e0a785374fb5186653bb27e665e0ef726c2b875a9a
+Description: Classic Music player for LS
+Name: Reo VH(Rootless)
+Author: Mystery
+Depiction: http://bvnsupport.github.io/infodeb/Html/Reo.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Reo.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.replaced
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -2771,6 +2813,28 @@ Name: PullOver Pro VH(Roothide iOS 15/16)
 Author: c1d3r
 Depiction: https://bvnsupport.github.io/depictions/PullOver.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
+
+Package: com.reoobvn.pullover-roothide
+Architecture: iphoneos-arm64e
+Version: 2.1.6+Roothide
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 2440
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debs/com.reoobvn.pullover-roothide_2.1.6+Roothide_iphoneos-arm64e.deb
+Size: 700912
+MD5sum: 29d6c279403af36794861cf5cee6ddc4
+SHA1: b2c04840e9347fa8b42f26de207a9494dabad30f
+SHA256: b78fe1abf811e98050e178d2237a4785713defce53e45f804384f4beb1f666e0
+SHA512: c07a52d4b1538a40ffcfa6df87b4595cc43fc4859eff0010f61d29e42160996267c33b4f4283dcc34f2b4984ab9211952cc12d021e739c7d7f8481ad12b3b633
+Description: A better way to multitask! Fix support for iOS15+
+Name: PullOver Pro VH(Roothide iOS 15/16)
+Author: c1d3r
+Depiction: https://bvnsupport.github.io/depictions/PullOver.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PullOver.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.reoobvn.satella-roothide
 Architecture: iphoneos-arm64e
