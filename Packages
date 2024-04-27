@@ -2646,27 +2646,6 @@ Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.gswe
 Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gsweather/icon.png
 SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gsweather.json
 
-Package: com.hitori.misaki
-Architecture: iphoneos-arm64e
-Version: 2.0.4k
-Section: Tweaks
-Maintainer: Hitori <mikasa-san@outlook.jp>
-Installed-Size: 906
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debs/com.hitori.misaki_2.0.4k_iphoneos-arm64e-1.deb
-Size: 267028
-MD5sum: f92c954dd670476c08b01fc122513807
-SHA1: 6098e26537485a6ff96d0d5f3955d65dda55fec5
-SHA256: 9190a3fe78f115107d05e4cbbdfc9c9d43d1c65a7e2d7be468a1495a07bf9332
-SHA512: ac3288c2474bd1bd7c95194d6a5f0adacd463fab8d0dafb75a4cc5e05ce8a85be15374ccf82acbc6aa78fe4a74d5a74b8478ee1c5e8c12a414346dc9e88feb76
-Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
-Tag: cydia::commercial, compatible_min::ios15.0
-Author: Hitori <mikasa-san@outlook.jp>
-Name: Misaki VH(Roothide)
-Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
-Depiction: https://chariz.com/buy/misaki
-
 Package: com.iarrays.libiarrays.roothide
 Architecture: iphoneos-arm64e
 Version: 1.0.16-beta-14
@@ -4190,4 +4169,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/FloatingDockXVI.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/FloatingDockXVI.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Ethan Whited
+
+Package: xyz.cypwn.misaki
+Architecture: iphoneos-arm64e
+Version: 2.0.4K
+Section: Tweaks
+Maintainer: Bvn Repo
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/xyz.cypwn.misaki_2.0.4K_iphoneos-arm64e-1.deb
+Size: 266916
+MD5sum: 7f8c920f4cbcdf3ee8ace6118ddbb3f0
+SHA1: 7580fdfd4a156f565ed9774bc23cd10d5a176984
+SHA256: c869cdcb8d852393382418a8b559c55e7b257902ad3dd831176269d69884bbf8
+SHA512: 4f872b857c58711396a539719b25c35798d0e547df6b768efc818f8c072d12d1cf1aa131eb6f85c21788d7973ff580f918e833fba38c70b306a8c39ec3b64445
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Author: Hitori
+Name: Misaki VH(Roothide)
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Wutdis1: 123.456789.012345
+Wusdat2: 12345678901234567890123456789.012
+Wutdis3: 1234567890123456.78901234567890
+Wusdat4: 123456789012345678901234567890123456.7
+Whutrthoze: 123456 7890123456789012345.678
 
