@@ -2762,27 +2762,6 @@ Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.gswe
 Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gsweather/icon.png
 SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gsweather.json
 
-Package: com.hitori.misaki
-Architecture: iphoneos-arm64e
-Version: 2.0.9K
-Section: Tweaks
-Maintainer: Hitori <mikasa-san@outlook.jp>
-Installed-Size: 1038
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debs/com.hitori.misaki_2.0.9K_iphoneos-arm64e.deb
-Size: 306104
-MD5sum: f576ef3d519e4540d996afecd4258224
-SHA1: 912274a6fb262efeda8275f7e65ee25529940b6d
-SHA256: b0311aa83d3b9a1c9168c20b1920a251b264b76729751fdfdd20a49b492069a7
-SHA512: 2a60cb11fc3e16c84b6003867671e490a643504cc9d6f982d96f6f187365db01eb1cb514cd1deaba183ae4c60d76a68fe2ef3dd55dec6de501310d37d421cc9f
-Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
-Tag: cydia::commercial, compatible_min::ios15.0
-Author: Hitori <mikasa-san@outlook.jp>
-Name: Misaki CRK (Roothide)
-Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
-Depiction: https://chariz.com/buy/misaki
-
 Package: com.iarrays.libiarrays.roothide
 Architecture: iphoneos-arm64e
 Version: 1.0.16-beta-14
@@ -3287,6 +3266,28 @@ Name: AutoUnlockX VH(Roothide)
 Author: Spark
 Depiction: http://support-jailbreak.github.io/infodeb/AutoUnlockX1/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/AutoUnlockX1.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.carbridge13-roothide
+Architecture: iphoneos-arm64e
+Version: 2.0.13K
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 7344
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs/com.repobvn.carbridge13-roothide_2.0.13K_iphoneos-arm64e.deb
+Size: 441904
+MD5sum: 728b702ec842d55555e6797b50f7adb7
+SHA1: 97ee13690c77e762e15032af830c93b30712c85e
+SHA256: 2d54f5e6d9c30d57aaf5729b01655b2d4fb63c5dee94897a93b61bd7d788e634
+SHA512: b4527ec54572b29e38cf8c3bd2bf7fd49706b4395727eb1e789f26ba960296c37a06a3c24f5746f76d29f03107d0858fc8b5838a20f4ed54aaca5317583edc95
+Description: Mở bất kỳ ứng dụng nào trong CarPlay!
+Name: CarBridge VH(Roothide)
+Author: leftyfl1p <carbridge@havoc.app>
+Depiction: https://bvnsupport.github.io/depictions/CarBridge.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CarBridge.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.centeredlabels-roothide
