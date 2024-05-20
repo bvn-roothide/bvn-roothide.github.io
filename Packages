@@ -1952,6 +1952,23 @@ Description: Chặn quảng cáo & Tắt đã xem tin nhắn cho ứng dụng Me
 Name: Messed (Roothide)
 Author: 34306
 
+Package: com.bvn.messnoads
+Architecture: iphoneos-arm64e
+Version: 3.0
+Section: Tweaks
+Maintainer: BVN
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.messnoads_3.0_iphoneos-arm64e.deb
+Size: 7108
+MD5sum: 0caf1dc36ed80ef9e9abb2b4f1e21fb7
+SHA1: fa9d8b5caf3ed409c69b12d668bf0fde599ec67c
+SHA256: 540e82447e251acae9af6f5333a5a00dd16951f0149ebf3300fe3fe2b065b299
+SHA512: de3b5869a081efd4ff5feaead285c027a0b935e70b6e5e3597f0cfdfb17119b66d950167e3b8630dbd68fcafe8f98ec41533c07cdf1a4b1872a5b755eb3295c8
+Description: Chặn quảng cáo & tắt đã xem tin nhắn  cho Ứng dụng Messenger
+Name: Messed (Roothide)
+Author: 34306
+
 Package: com.bvn.nct-roothide
 Architecture: iphoneos-arm64e
 Version: 1.0.0
