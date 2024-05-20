@@ -1969,6 +1969,27 @@ Description: Chặn quảng cáo & tắt đã xem tin nhắn  cho Ứng dụng M
 Name: Messed (Roothide)
 Author: 34306
 
+Package: com.bvn.n95-roothide
+Architecture: iphoneos-arm64e
+Version: 4.4
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 15096
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.n95-roothide_4.4_iphoneos-arm64e.deb
+Size: 27997288
+MD5sum: dcc4b9b999afc00adac0225a9646142a
+SHA1: 0be9b1176845440b410d2cb2485617323483f729
+SHA256: ac2d8a9a00acf1e0d4c9f7d8c658bcf28bf340e49c37c569d51be3f4f06dbe89
+SHA512: e5d60877227403181bf202486dfffe795adabb69dd5625a470bfeef35c73930e62f3c3096bc2999708f63b30fd340747dddf5187072e806a0678947bd42ec993
+Description: Mask album artwork images in Apple Music!
+Name: N95 VH(Roothide)
+Author: Ethan Whited
+Depiction: http://bvnsupport.github.io/infodeb/Html/N95.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/N95.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.nct-roothide
 Architecture: iphoneos-arm64e
 Version: 1.0.0
@@ -2740,6 +2761,27 @@ Author: Ginsu
 Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.gsweather
 Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gsweather/icon.png
 SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gsweather.json
+
+Package: com.hitori.misaki
+Architecture: iphoneos-arm64e
+Version: 2.0.9K
+Section: Tweaks
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1038
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.0.9K_iphoneos-arm64e.deb
+Size: 306104
+MD5sum: f576ef3d519e4540d996afecd4258224
+SHA1: 912274a6fb262efeda8275f7e65ee25529940b6d
+SHA256: b0311aa83d3b9a1c9168c20b1920a251b264b76729751fdfdd20a49b492069a7
+SHA512: 2a60cb11fc3e16c84b6003867671e490a643504cc9d6f982d96f6f187365db01eb1cb514cd1deaba183ae4c60d76a68fe2ef3dd55dec6de501310d37d421cc9f
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Name: Misaki CRK (Roothide)
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Depiction: https://chariz.com/buy/misaki
 
 Package: com.iarrays.libiarrays.roothide
 Architecture: iphoneos-arm64e
