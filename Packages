@@ -963,6 +963,28 @@ Depiction: http://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppVersion.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.ChargeLimiter-r2
+Architecture: iphoneos-arm64e
+Version: 1.6
+Priority: optional
+Section: Tweaks
+Maintainer: BVN
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts: chaoge.ChargeLimiter
+Filename: ./debs/com.bvn.ChargeLimiter-r2_1.6_iphoneos-arm64e.deb
+Size: 1997892
+MD5sum: 6608aeb1057a3112e1f78a13739c481d
+SHA1: d18616f2e1e2832096b8d355faa09384f8ca3e23
+SHA256: 946f9268116915fa0f2fb615f41f82ea6cf1c5c3850b03da99948544237cf38e
+SHA512: e3b8986b23a07a36cd0a9f669bb12f86a3d2ff3830200b43c25544e5ebe869f2f440e87c72924840ca159e36d44055e59ec7911144d16879c9192790d5199896
+Description: ChargeLimiter
+Name: ChargeLimiter VH(Roothide)
+Depiction: https://bvnsupport.github.io/depictions/ChargeLimiter.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ChargeLimiter.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: chaoge
+
 Package: com.bvn.Floatingtet
 Architecture: iphoneos-arm64e
 Version: 1.0
