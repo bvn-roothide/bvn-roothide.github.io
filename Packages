@@ -3573,6 +3573,30 @@ Depiction: https://bvnsupport.github.io/depictions/youpip.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.youpip
+Architecture: iphoneos-arm64e
+Version: 1.8.10
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 204
+Provides: com.spicat.youpip
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip, com.ps.youpip
+Replaces: com.spicat.youpip
+Filename: ./debs/com.repobvn.youpip_1.8.10_iphoneos-arm64e.deb
+Size: 28000
+MD5sum: 5568319f9b0d12ae8822894cb2393730
+SHA1: 252121a8cd3d7a1db8e4219a973fd72142021b85
+SHA256: aeff3cf6f82b691ddf584263a82af47ae650d3219040c8b689aa6ca704174ec0
+SHA512: 94a76d8227ec08a98cb92e732c065f545bf1a5a6d12241a0267a12552ba9c07590916bd6893a89594172d7bfb4a051d132135df27fba3f777a72712d69e9a9e7
+Description: Tinh chỉnh cho phép bật tính năng hình trong trong hình (Picture In Picture) trong ứng dụng Youtube
+Name: YouPiP (Roothide)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/youpip.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repobvn.ytx
 Architecture: iphoneos-arm64e
 Version: 1.4.3
@@ -3609,6 +3633,27 @@ SHA1: f668d2b2abb546cfb0d0f454294ddfc73f166845
 SHA256: 5aad4211367d33ada940f49e39a4fec69103cafd6335a835278256a5a5200965
 SHA512: 97f7103feca1e1c37f852138b61b56c3f72bd6e9b8bf23f52210930babb27d08422f7d9505fa0ea43fa1b47c845e2d7a240f581026c0a6e66bbdcf4e34de95b9
 Description: Chặn quảng cáo cho Ứng dụng Youtube.
+Name: YouTube X(Roothide)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.ytx
+Architecture: iphoneos-arm64e
+Version: 1.6.4
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.repobvn.ytx_1.6.4_iphoneos-arm64e.deb
+Size: 5668
+MD5sum: 24206d5f457f137b918bd2a3b54c2cdd
+SHA1: 15fa87c01ecd74945287a8a0262c9795a7d4b81b
+SHA256: 0f21f2d6e14f8f0d78de5fa5979ba2696dca735f801fdda062d19ce4850231a1
+SHA512: 5f27e37424b4fb1ee49d6d20d02f35a0b8a1fda2206f1b2870ea12a9667e3b919a306844c5c6453edb1769bd409226d70983f94b7a6016d53754d8cd36c9900d
+Description: Chặn quảng cáo và phát lại nền cho Ứng dụng Youtube
 Name: YouTube X(Roothide)
 Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/ytx.html
