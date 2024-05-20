@@ -540,6 +540,24 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Truecaller.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Truecaller Gold (Roothide)
 
+Package: com.BVN.homegesture1316
+Architecture: iphoneos-arm64e
+Version: 0.0.1-7
+Section: Tweaks
+Maintainer: i0s_tweak3r <djvs23@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.BVN.homegesture1316_0.0.1-7_iphoneos-arm64e.deb
+Size: 45316
+MD5sum: f857e20862e3def19708ab877af30d04
+SHA1: 106af65e91976b2b4c67fa02591ecce3ea6ee1b4
+SHA256: 54f019eb4076f79955093502f8a5314fe1f4c35775395b7c6592dca73c637364
+SHA512: 2b3aba804d877b0cb9dfc543a15ef5dfc265bbefb4a654cc7012f7172c1ce529dfff4368ad0ae5c224e4c2f75b49b95fe46469fb90ec748aac8a32b021c0baa8
+Description: *Rootless Build* Home / swipe gestures for older devices, and the non-notched newer ones like the SE. Swipe up to invoke app switcher and to open device, swipe down from top corner to invoke control center.  No need for a home button! iOS 13-16 ROOTLESS jailbreaks.
+Name: HomeGesture1316 (Roothide)
+Author: i0s_tweak3r <djvs23@icloud.com>
+Icon: icon@2X.png
+
 Package: com.BVNREPO.AEFloatingroothide
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -1159,6 +1177,27 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
 
+Package: com.bvn.classicfolders3-roothide
+Architecture: iphoneos-arm64e
+Version: 3.0.2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 4496
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.classicfolders3-roothide_3.0.2_iphoneos-arm64e.deb
+Size: 3300396
+MD5sum: 58b6aeb3c19db1f198b74f6c54533a81
+SHA1: 1249911b20fe4460668a985bc9d159ccd898ba43
+SHA256: a66d4d51652b7ee286afeab5db2b4daf592d4fded5d150bfc7114a31f7b2ee77
+SHA512: 733dac2474d6f984040153ac7575aecc9fde832fe4275428531e157e3fc0daab1ae3af6724f9a3e757be6ecc77a145b44d2b6e67922fee1356713c5d8e836163
+Description: An awesome MobileSubstrate tweak!
+Name: ClassicFolders 3 VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/ClassicFolders.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ClassicFolders.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: CoolStar
+
 Package: com.bvn.contactsextended
 Architecture: iphoneos-arm64e
 Version: 1.9.2
@@ -1222,6 +1261,27 @@ Description: Sửa lỗi copylog không hoạt động trên iOS16
 Name: CopyLogFix16
 Author: 0xkuj
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.copylogfix16-roothidr
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BvN Repo
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 16.0)
+Conflicts: com.0xkuj.copylogfix16
+Filename: ./debs/com.bvn.copylogfix16-roothidr_1.0.1_iphoneos-arm64e.deb
+Size: 7560
+MD5sum: 35be437fdb4d3d36104ea96f08e3194f
+SHA1: 187d43f31ca2d4cac16c598b7fbd5cef55997a6d
+SHA256: 97835d69432856a99ef3f91ef9123d5b9c20b44418c58f502918bc5cf9dac7da
+SHA512: c26c29913b6c7a4b7951c633ff7d2074406d5ce63768057b7ff2f460c63c646b6a543f37a46a2304decf535c642c25ac38022275fa969c55ad982d49aa313fc8
+Description: Sửa lỗi copylog không hoạt động trên iOS16
+ * Fix copylog not working on iOS16
+Name: CopyLogFix16 (Roothide)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: 0xkuj
 
 Package: com.bvn.customizecc
 Architecture: iphoneos-arm64e
@@ -1410,6 +1470,24 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/futura.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/futura.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: unclear
+
+Package: com.bvn.gesturesxv
+Architecture: iphoneos-arm64e
+Version: 1.6
+Section: Tweaks
+Maintainer: Ethan Whited
+Installed-Size: 2756
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.gesturesxv_1.6_iphoneos-arm64e.deb
+Size: 2163368
+MD5sum: 82687c8716751f9d7319c32d883d0c84
+SHA1: 27939d24cc5a49ecb80870f4378d78a7c5f9efff
+SHA256: eef89f018af837f8c136fce646204fbf3526ac18910b923a151f1ce6fe077047
+SHA512: ce6911948530125365336a773c3167c215707ec9f2738aad50d22821147ed6f30f5ba753f8de623c5ca19d3ee6a25e4320d2f63e4808ca67f92a87be3828c5c4
+Description: iPhone X gestures brought to older iPhones compatible with iOS 15
+Name: GesturesXV (Roothide)
+Author: Ethan Whited
 
 Package: com.bvn.hidestatusbaritemsx-roothide
 Architecture: iphoneos-arm64e
