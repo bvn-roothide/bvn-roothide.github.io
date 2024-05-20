@@ -1283,6 +1283,24 @@ Name: CopyLogFix16 (Roothide)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: 0xkuj
 
+Package: com.bvn.cozybadges
+Architecture: iphoneos-arm64e
+Version: 2.1-roothide
+Section: Tweaks
+Maintainer: NoisyFlake & b4db1r3 <nfive060@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.7)
+Conflicts: com.b4db1r3.ocd, com.yourepo.b4db1r3r3p0.ocd
+Filename: ./debs/com.bvn.cozybadges_2.1-roothide_iphoneos-arm64e.deb
+Size: 62232
+MD5sum: a5c151025cec57e4315bfde6536e681b
+SHA1: b965caa023f0e17447f385ebb1bac9ab78649c55
+SHA256: 28de07c168eaff3de68c61880f274ce3b290f8e2119e0606f5de5836fa15829c
+SHA512: 013be0a2b7d0d845ba0dd404954e9de26d8f9a26df0c6ae4be3f9a9d143dd0ebd6e878e9a418d5625547f76b04ae72929a7d0da740d8737783bbcb3aa062bea9
+Description: A cozy place for your badges
+Name: CozyBadges (Roothide)
+Author: NoisyFlake & b4db1r3 <nfive060@gmail.com>
+
 Package: com.bvn.customizecc
 Architecture: iphoneos-arm64e
 Version: 1.4.3
