@@ -4145,6 +4145,23 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/DynamicPeninsula1.j
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 MainLibMD5: 921b926fd501306429310a4e8659f913
 
+Package: net.limneos.limtools-roothide
+Architecture: iphoneos-arm64e
+Version: 0.1-15
+Section: System
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 228
+Filename: ./debs/net.limneos.limtools-roothide_0.1-15_iphoneos-arm64e.deb
+Size: 18330
+MD5sum: 8640d882fc87bace6b6010d5169637ab
+SHA1: aaabfc7f5db9dbd617e1e07e026c083602d3db4f
+SHA256: 50258dd79779074ed84b73ef8bbeb1dc31aee033ee7ef8dd0297249820906d58
+SHA512: ebb3891c00656e72bad03f53b96f80f19a4e09ffe4e842c25e783843f4968d20df31c03e32574480075d4ec6e769dc7a8e977eacfc10032af1a5944f7c48bef5
+Description: Supplementary tools for Limneos Tweaks
+Tag: role::hacker
+Name: Limneos Support Tools
+Author: Elias Limneos <limneoselias@gmail.com>
+
 Package: net.limneos.simpleactivationactions-roothide
 Architecture: iphoneos-arm64e
 Version: 0.1-1
@@ -4161,6 +4178,27 @@ SHA512: ffe79d396c91d01bdf23dd6a7742817701ec024d37ffe64a0a2c5ab183bd38f919288156
 Description: Simple Activation Actions
  Handles StatusBar actions for simple activation events
 Name: SimpleActivationActions (roothide)
+Author: Elias Limneos <limneoselias@gmail.com>
+
+Package: net.repobvn.bioprotectxs-roothide
+Architecture: iphoneos-arm64e
+Version: 4.6-222+debug
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 3148
+Depends: mobilesubstrate, preferenceloader, net.limneos.limtools-roothide
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/net.repobvn.bioprotectxs-roothide_4.6-222+debug_iphoneos-arm64e.deb
+Size: 1055150
+MD5sum: f4ee7281ee550b6d83b8e47733450a8c
+SHA1: 41457cee1f8725be443677f5d1dc0101402f6d65
+SHA256: a7d0d7155d3c137caccc37ed06d2aba4bc975ee5e169497d0f235c498255937d
+SHA512: 35122512329d346cc4a8e96a760e2ccb17240a812fec2e5fa57995eb153148e9ecb20060043cfc8c62a83e04ed6b5d5791eeb41f24b5d57b2362173e82dfbd61
+Description: Protect your apps with Touch/Face ID!
+Name: BioProtect VH(iOS 14 to 17) (Roothide)
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+Depiction: http://limneos.net/bioprotectxs
+SileoDepiction: https://limneos.net/cydia/sileo-depiction.php?package=net.limneos.bioprotectxs
 Author: Elias Limneos <limneoselias@gmail.com>
 
 Package: net.repobvn.bioprotectxs-roothide
