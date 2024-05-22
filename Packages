@@ -1099,6 +1099,28 @@ Name: Alpine (Roothide)
 Author: MTAC
 Icon: https://media.havoc.app/64ae21880d54f9113bc13a59
 
+Package: com.bvn.backgrounderaction15autostate-r2
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 384
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.opa334.ccsupport, com.opa334.altlist
+Conflicts: jp.akusio.backgrounderaction15, xyz.cypwn.backgrounderaction15
+Filename: ./debs/com.bvn.backgrounderaction15autostate-r2_1.0.3_iphoneos-arm64e.deb
+Size: 36428
+MD5sum: bd18f2c9c7e84ccbd7186e5d42a68973
+SHA1: 9ba559288f4b66aaaf27cc4691eefc0adc4af3d6
+SHA256: 8cbd50ce9ea4ff4c50b6bf498a1a1ad7db1bf7b53e546e73e6f30e0497d55e01
+SHA512: 825fdc8f83c761ee4de58f6a853adae64e593ba3c770009898b0d501ba1c58f457f101b34c65a5265dd4572a302551b9ff07a93c7fb06f4b2317c4e74cfe543a
+Description: Save Action state for BackgrounderAction15 CC Toggle
+Name: BackgrounderAction15AutoState
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/Html/backgrounderaction15.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/backgrounderaction15.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.bhtiktok-Roothide
 Architecture: iphoneos-arm64e
 Version: 2.3
@@ -2071,6 +2093,27 @@ Name: NoBetaAlert (Roothide)
 Author: Hitori
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.notrecording-r2
+Architecture: iphoneos-arm64e
+Version: 1.1.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 352
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.opa334.altlist
+Filename: ./debs/com.bvn.notrecording-r2_1.1.1_iphoneos-arm64e.deb
+Size: 18312
+MD5sum: a91c15a2a8fe87e592d2e5db1a76704a
+SHA1: 19fbdc5f1bce5103793c9fcf48687ec32c53f980
+SHA256: 7d70118153d0e6be6590c77055feedaabf775eeee6ddf05ac25628aa82930a72
+SHA512: 622d298027afca409289706e471edbbaef273b925a1cfac58fcc01bc4872995e2cde8caa8694ce95db4540d537b86cef2699410be11327c34210035ee23e85b5
+Description: Spoof screen recording detection!
+Name: NotRecording (Roothide)
+Depiction: https://bvnsupport.github.io/depictions/NotRecording.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/NotRecording.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: opa334
+
 Package: com.bvn.plampycc
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -2741,21 +2784,41 @@ Tag: role::developer
 Name: FoxFort Tools
 Author: FoxfortMobile
 
+Package: com.foxfort.foxforttools
+Architecture: iphoneos-arm64e
+Version: 1.4.9-roothide
+Section: Development
+Maintainer: FoxfortMobile
+Installed-Size: 1776
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.4.5)
+Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.foxforttools, r-o-o-t-l-e-s-s-, com.r-o-o-t-l-e-s-s-.manager
+Filename: ./debs/com.foxfort.foxforttools_1.4.9-roothide_iphoneos-arm64e.deb
+Size: 417672
+MD5sum: f78d18f623694b42ce8158dfb2c48bbd
+SHA1: 7eba6ef00f1cc80ee08fa3a2312023c2fe54c7af
+SHA256: acef001ec553790d359d9a723ee8d141b22f1843142d49c4157029cb9668b5a1
+SHA512: 41a1951470ab918449d8223f01821b07dd37a3f73b42374691a150926f4d498d842e82d1007fbfa585add38f9d227f2450629200160a983ee6706efb4a05e27b
+Description: Helper tools for Foxfort tweaks
+Tag: role::developer
+Name: FoxFort Tools (Roothide)
+Author: FoxfortMobile
+
 Package: com.foxfort.libfoxfortutils
 Architecture: iphoneos-arm64e
 Version: 1.4.5-roothide
 Section: Development
 Maintainer: FoxfortMobile
 Installed-Size: 1128
-Pre-Depends: rootless-compat(>= 0.1)
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 11.0), com.opa334.libsandy
 Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.libfoxfortutils
 Filename: ./debs/com.foxfort.libfoxfortutils_1.4.5-roothide_iphoneos-arm64e.deb
-Size: 256624
-MD5sum: e477f3b5684e2481ebfe1e00d76e6ee8
-SHA1: df124dd318cce766161797698405a02da3745899
-SHA256: 994c97865d2567be6bc63035a9ac8e3fe5a7e4c19256161ac2aefb377b116065
-SHA512: 2806bba79f3212dc9f22a38c908f8024141762378450739c20c5127439e9bd2f982d0a6cac6d701363df3dad734320176be7c6dbe033762c99b11ec106be12f0
+Size: 256328
+MD5sum: 80c29a2bb388672457717e5d2d41e009
+SHA1: 5d686197e270777aae967620ced27e7973ffe834
+SHA256: d6ba703a84d199e7a78672c577cc890eddcb065032867d64f4e9d2926f66581a
+SHA512: b0c77b165da25f353e039f6f1c69c2aebf1c6709949a6658e18e494adc3262d74d294374787e8a77a9cab446825cae4ff11740baae0525a76c4974f68767cd32
 Description: library for Foxfort tweaks
 Tag: role::developer
 Name: libfoxfortutils
@@ -2776,6 +2839,26 @@ MD5sum: 0acaec51676dabbe8f9a36195270f9f9
 SHA1: 738752e9baacc5be74376f7ee39348ce0406ad98
 SHA256: 7cf0d1159b903809f2df9169d53e73d5d814fa559b3642fa1c6fe426bbf4d363
 SHA512: a4c9dc47687af158beb692a1b0e35c12c9967958cbe254aba4db97e51570ef4df8d0c9df7319338a250c747f9c787393dcc0f3dd4b226820794234551d9c31bb
+Description: Quickly translate any text
+Name: Translomatic (Roothide)
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+
+Package: com.foxfort.translomatic
+Architecture: iphoneos-arm64e
+Version: 2.18.21
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 4628
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.4.9), com.opa334.altlist
+Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic, me.sa3odka.translomatic, com.cydiabc.translomaticzh, x7mii.vip.translomatic, com.bo7ios.translomatic, ru.rj.translomatichack, com.hk.translomatic.cn.rl, r-o-o-t-l-e-s-s-
+Filename: ./debs/com.foxfort.translomatic_2.18.21_iphoneos-arm64e.deb
+Size: 1065796
+MD5sum: 6cd33b882cb072acaf1d82c15163d644
+SHA1: 7396486ea7107cf04c5e8c5933b44c8d0fef273e
+SHA256: 16d1928dbdfbb6f394fef8ed7a731cb00bdbb088968f1115a83df7d47e2cd6d3
+SHA512: 38a8527d4a85ba98967cac571058fc114b4db5fbe099e216bfdcb59a725fcdd136c55c96c72147e25cfe4b695a6810b0d1d2c1fba3ddae42a8aafdae891042a8
 Description: Quickly translate any text
 Name: Translomatic (Roothide)
 Author: FoxfortMobile
@@ -4219,6 +4302,28 @@ Description: Kích hoạt các tinh chỉnh iArrays
  - iArrays Crack. Install alongside original iArrays packages. Click Activate on each tweak.
 Name: iArrays Crack(Roothide)
 Author: Kasper,Fix By BVN Repo
+
+Package: vn.bvn.networkmanager-r2
+Architecture: iphoneos-arm64e
+Version: 1.4.3
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 396
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.opa334.ccsupport
+Conflicts: me.nixuge.networkmanager, xyz.cypwn.networkmanager
+Filename: ./debs/vn.bvn.networkmanager-r2_1.4.3_iphoneos-arm64e.deb
+Size: 40760
+MD5sum: 163db9db40a8f95a5cc98241d9129096
+SHA1: 8e41cade099c9a4dd4426b2ff76b1115924a7c00
+SHA256: 68531b4bf32b5d5a86426b26dca72aa2759c407635651e57f82f77b0b92c1f68
+SHA512: 1fdc9c0c4471f6f11171d50336f98ffff0f37ee6fea041ba16bb6d9601ef25d1d2ba57bb7c21741fce49d876553f85be9d2d7169d22ad0762e1555f811293800
+Description: Buộc kết nối 2G/3G/4G/5G từ Trung tâm điều khiển
+Name: NetworkManagerReborn (Roothide)
+Author: NoisyFlake, Nixuge
+Depiction: http://bvnsupport.github.io/infodeb/Html/NetworkManagerReborn.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/NetworkManagerReborn.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: vn.bvn.rocket-ig-roothide
 Architecture: iphoneos-arm64e
