@@ -1377,6 +1377,26 @@ Depiction: http://bvnsupport.github.io/infodeb/CustomizeCC/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CustomizeCC.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.exacttime
+Architecture: iphoneos-arm64e
+Version: 2.0.2
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 1024
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
+Filename: ./debs/com.bvn.exacttime_2.0.2_iphoneos-arm64e.deb
+Size: 60908
+MD5sum: 1f328ac8ecf16bec42bd80b872462071
+SHA1: b44c9efbab9e54e7fcf6d37cf73a3d93a5b4d2fc
+SHA256: d01329709f9946c867ff1129646ef6c8ee9860e5ce7db044aa4879a0519f1392
+SHA512: e98783a9cad1fee2d4ebb09293c119970d8bcd66019307c40bfcc03dfea61a61dfb862c6c1b55fa19580ebc10f4eea279e3ff9bad9d3427886265043644d2b71
+Description: Hiển thị chính xác thời gian của thông báo, tin nhắn, cuộc gọi và email.
+ * Shows the exact time of notifications, messages, calls and emails.
+Name: ExactTime VH(Roothide)
+Author: gilshahar7
+
 Package: com.bvn.facebooknoads
 Architecture: iphoneos-arm64e
 Version: 1.2
@@ -4401,6 +4421,28 @@ Name: A-Font VH iOS16(Roothide)
 Depiction: https://bvnsupport.github.io/depictions/A-Font.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/A-Font.json
 Author: Baw Appie <pp121324@gmail.com>
+
+Package: vn.bvnrepo.batterybuddy-r2
+Architecture: iphoneos-arm64e
+Version: 1.3.4
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 432
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.batterybuddy
+Filename: ./debs/vn.bvnrepo.batterybuddy-r2_1.3.4_iphoneos-arm64e.deb
+Size: 40440
+MD5sum: 5e149a633546766f0025709bad722ed1
+SHA1: c30db71d45e7a02a76a395d9f7c0fff63e04e6ac
+SHA256: da9a9db1d7af94afce33dcfe163a69dac3f2e22fd1821ab186123b7a300b918a
+SHA512: f83fb9b6ecab30b4cacd85ea1c59f0e2250716675ec2dc12fb9ebe4539e48547c5c4dae3b5d36f672af267682af48e13f60ab6b339e0e3b01f05e5bdcc2071de
+Description: Chỉ báo pin, nhìn dễ thương
+Depiction: http://bvnsupport.github.io/infodeb/Html/Buddy.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Buddy.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: BatteryBuddy VH(Roothide)
+Author: Traurige & neilsardesai <hello@traurige.dev>
 
 Package: vn.bvnrepo.ding-roothide
 Architecture: iphoneos-arm64e
