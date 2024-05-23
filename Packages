@@ -4144,14 +4144,14 @@ Version: 4.6-222+debug
 Section: Tweaks
 Maintainer: Elias Limneos <limneoselias@gmail.com>
 Installed-Size: 3148
-Depends: mobilesubstrate, preferenceloader, net.limneos.limtools-roothide
+Depends: mobilesubstrate, preferenceloader, net.limneos.limtools-roothide, com.bvn.limneos
 Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Filename: ./debs/net.repobvn.bioprotectxs-roothide_4.6-222+debug_iphoneos-arm64e.deb
-Size: 1055150
-MD5sum: f4ee7281ee550b6d83b8e47733450a8c
-SHA1: 41457cee1f8725be443677f5d1dc0101402f6d65
-SHA256: a7d0d7155d3c137caccc37ed06d2aba4bc975ee5e169497d0f235c498255937d
-SHA512: 35122512329d346cc4a8e96a760e2ccb17240a812fec2e5fa57995eb153148e9ecb20060043cfc8c62a83e04ed6b5d5791eeb41f24b5d57b2362173e82dfbd61
+Size: 1055152
+MD5sum: 96df11245c822ea68c8a836ed68eb336
+SHA1: 24e268b1bf605179434e5374e11b0127c6baa737
+SHA256: bebe03d2347bdcb61665ed81421bcd70cc49790e146f17a491265661649b0b9e
+SHA512: 194a38921455e8e9bd36f1eaad199bfbb66c4cf92dfe0e1c2b454abe638ff288cab56420d343556c56af703c46ee570ed77f20e579596628cdbfdce60c8674f5
 Description: Protect your apps with Touch/Face ID!
 Name: BioProtect VH(iOS 14 to 17) (Roothide)
 Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
