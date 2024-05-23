@@ -1146,13 +1146,12 @@ Installed-Size: 690
 Pre-Depends: rootless-compat(>= 0.1)
 Depends: firmware (>=15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.libsandy, com.opa334.ccsupport
 Filename: ./debs/com.bvn.albummanager_1.0.2_iphoneos-arm64e.deb
-Size: 58820
-MD5sum: c0aff9ba1092cad74df10034beb695f7
-SHA1: 8760af257d1e5e222156e4d86f4fc2ffe25aed87
-SHA256: 2dbc3b993650aeaa8aa3c4eafd87acb6f25cf510db3038d66a47dbd7a0440bfe
-SHA512: 7ae73c878864d20cdf2fb58ff6193a7261a1aacba9df49333d71cea07923a3814d54e1a193aa2c775b32f75d7efc792eea215482aa5bf38aa146dbf38380489d
+Size: 208014
+MD5sum: ff54a741ccdc77c8516827e6d1b064eb
+SHA1: 0a83edd510602d75394f6711c462b1c2ee220965
+SHA256: 0b25eee533399d7eb765e97b890dbdfb402292fcbfc7512988a819aba70c6eca
+SHA512: 56c6586e31a4c7ac33ae30b35984a2830f8a2e5a5d6f1615f18e29df5c2b0bbd4d7debb3540bfafd25618951163c9d190731673c8cae7e8b3b31351f7b85f5b0
 Description: Sắp xếp và bảo vệ album ảnh của bạn
-Tag: cydia::commercial, compatible_min::ios15.0
 Author: NoisyFlake <support@noisyflake.com>
 Name: AlbumManager (Roothide)
 Icon: https://img.chariz.cloud/icon/albummanager/icon@3x.png
