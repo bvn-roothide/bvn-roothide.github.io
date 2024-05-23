@@ -1020,6 +1020,66 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/ITCBauhausR.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: unknown
 
+Package: com.bvn.KroppenFwO-r2
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: AIM Fonts (Roothide)
+Maintainer: REPO CYDIA BVN
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14)
+Filename: ./debs/com.bvn.KroppenFwO-r2_1.0_iphoneos-arm64e.deb
+Size: 13480
+MD5sum: 61abc73b844b62a00beab88c23a2c371
+SHA1: c05088d86368defd348cbe31613ad7e1ad296784
+SHA256: e7d225950f3b8fc379722dd68d6cb220c3bfdb566124215484b984df42c54686
+SHA512: c6c22d5feac9b60abf7560e1562af3c9694e58c631d0afd249feb25d0fc879502e0c6c6fe2c987f41984dc6f4e238e79a9f2d59ffcead8f7683abc26f49f9ed2
+Description: Phông chữ cho AIM
+Name: Kroppen FwO (Roothide)
+Author: Alexman & Kennyroo
+Depiction: http://bvnsupport.github.io/infodeb/Html/KroppenFwO.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/KroppenFwO.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
+Package: com.bvn.KroppenOutline-r2
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: AIM Fonts (Roothide)
+Maintainer: REPO CYDIA BVN
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14)
+Filename: ./debs/com.bvn.KroppenOutline-r2_1.0_iphoneos-arm64e.deb
+Size: 12716
+MD5sum: fced82beab777c0d66d5cbd69752f5ad
+SHA1: 3da7ef78aba0c637dd57c7d15be8081a998d0a65
+SHA256: 237ad0b0d99bb0bb5c8ab807ad2187147e7a23309d152d45356511915cbe7c11
+SHA512: bef3d6b67bdad77805c7915d5c8ae7631a02d687292cb66bbd87a0981ba55c2bf01069fc65e1aad4a196221601b5a411ef97a3e83ae3552c9699c0ba2542b364
+Description: Phông chữ cho AIM
+Name: Kroppen Outline (Roothide)
+Author: Alexman & Kennyroo
+Depiction: http://bvnsupport.github.io/infodeb/Html/KroppenOutline.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/KroppenOutline.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
+Package: com.bvn.KroppenRound-r2
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: AIM Fonts (Roothide)
+Maintainer: REPO CYDIA BVN
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14)
+Filename: ./debs/com.bvn.KroppenRound-r2_1.0_iphoneos-arm64e.deb
+Size: 7888
+MD5sum: f1323c42b3320d2e97af513956089ef2
+SHA1: d99a0d15a2930f477cfec3fcbcfdb4a7fe1cebe2
+SHA256: 39d043056ba75f6fb46666d3cb56ba87657336fd0bd848418c5f549774c9fd9c
+SHA512: 5d00c415eaf177c06124d33bc54174039ab79dd1726f9e7285dd21af94273da9a12046f3ee68507627a0b3e8b09c2df81dc746c1cdc0d10411da25eab0b9a427
+Description: Phông chữ cho AIM
+Name: Kroppen Round (Roothide)
+Author: Alexman & Kennyroo
+Depiction: http://bvnsupport.github.io/infodeb/Html/KroppenRound.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/KroppenRound.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
 Package: com.bvn.RingTonesManager
 Architecture: iphoneos-arm64e
 Version: 1.1-4
