@@ -4324,26 +4324,6 @@ Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechang
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 8131809d9825837c841f8f54015f50b4
 
-Package: ploosh.debstealer-r2
-Architecture: iphoneos-arm64e
-Version: 1.0.4
-Section: Utilities
-Maintainer: Ploosh <me@ploosh.dev>
-Installed-Size: 8
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 11.0)
-Filename: ./debs/ploosh.debstealer-r2_1.0.4_iphoneos-arm64e.deb
-Size: 1676
-MD5sum: cae5fc22c00b0f255518be8cf443642b
-SHA1: 83949fb172bb9af7c04462dcdff73bdb239ff34e
-SHA256: 2577326148d96404807697f6e4aff873cd504c0d941f72821831cf2b7bb14565
-SHA512: 8b6705d321393dfe95f33510adb19f744b0dc13985bb95b119bed54c7f5788ccd7fe4e2619eaae7a9c65d7932b68ea306142a9b4a50f51099f03167334704fda
-Description: steal debs
-Name: DebStealer
-Icon: https://repo.ploosh.dev/assets/debstealer.png
-SileoDepiction: https://repo.ploosh.dev/meta/debstealer.json
-Author: Ploosh
-
 Package: ru.rejail.dleasy
 Architecture: iphoneos-arm64e
 Version: 2.14.3
