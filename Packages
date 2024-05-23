@@ -985,6 +985,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/ChargeLimiter.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: chaoge
 
+Package: com.bvn.Exodar-r2
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: AIM Fonts (Roothide)
+Maintainer: REPO CYDIA BVN
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14)
+Filename: ./debs/com.bvn.Exodar-r2_1.0_iphoneos-arm64e.deb
+Size: 11880
+MD5sum: ec418007f09798d7c3d63358b03cec2e
+SHA1: 5c91b5ce29d296150ec1819e68e43eadb6649a27
+SHA256: 05d656bed268dacd160668386ee563a9bf25750fdee5b71c87de51a5ef28ba80
+SHA512: 99d7b6b904491acacbba2dd44eed27a2f196d36a38bbd7adacfb38a3d7c9e64f926729bae01bc34b5b3c5f884db87406ba8906089f0ae97b405dddbb309c575e
+Description: Phông chữ cho AIM
+Name: Exodar (Roothide)
+Author: Alexman & Kennyroo
+Depiction: http://bvnsupport.github.io/infodeb/Html/ExodarO.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Exodar.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
 Package: com.bvn.Floatingtet
 Architecture: iphoneos-arm64e
 Version: 1.0
