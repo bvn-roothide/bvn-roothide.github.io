@@ -3067,6 +3067,26 @@ Tag: role::developer
 Name: LibGcUniversal (Roothide)
 Author: MrGcGamer
 
+Package: com.nan.bindfs
+Architecture: iphoneos-arm64e
+Version: 0.4.1-1
+Section: Terminal_Support
+Maintainer: BVN Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: coreutils, sed, plutil, firmware (>> 14.0)
+Conflicts: mobilesubstrate (= 999)
+Filename: ./debs/com.nan.bindfs_0.4.1-1_iphoneos-arm64e-1.deb
+Size: 7796
+MD5sum: 615933516e9c5841f6fa256c73b7bc14
+SHA1: 50d8ed1a64401e6b4cfd3adb26f9545c62115738
+SHA256: 8c941b6117e00aa88e62fef186bcfb8404be466d4d2b96583fe890dab4bddc4b
+SHA512: 54f837f0bc73d4078edb6c30bdaaa2d5551602f6d9d661071e4583e3d5d8bd97c9f00955f7377d65cd0c15b50dfc10f418afa96e6fc585debc579f3022b98606
+Description: 以 bindfs 挂载文件夹的 cli 工具
+Name: mount_bindfs (Dopamine-Roothide)
+Author: 无尽伤痛都锁进黑夜 & zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.bindfs/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
+
 Package: com.opa334.ccsupport
 Architecture: iphoneos-arm
 Version: 1.3.12
