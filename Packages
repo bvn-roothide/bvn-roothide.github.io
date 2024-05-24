@@ -358,6 +358,27 @@ Depiction: http://support-jailbreak.github.io/infodeb/BetterCCXI/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/BetterCCXI.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.betterccxi
+Architecture: iphoneos-arm64e
+Version: 1.6.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 640
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debs/com.BIENVANNHAT.betterccxi_1.6.1_iphoneos-arm64e.deb
+Size: 273936
+MD5sum: e9761472fd63b24b4fa8ce90f368e3e8
+SHA1: fc1aba7dc68ff0f2a8d76a93141a3f911afb304e
+SHA256: 49f2a1dc73f0e4324894a566ac4f4f987bce06da455890ce1cca82ef30b58a2c
+SHA512: 0c07d15318d9758a12811296ebf040ac805e1d62177a1ce31df4d4d9a73cca106bef8a05a4ec956d6f2a00cfbd160102b6310af6dd1894c37f594a5d86f497ff
+Description: Tăng cường trung tâm điều khiển của bạn trên iOS 11 và iOS 12
+Name: BetterCCXI VH(Roothide)
+Author: ATWiiks
+Depiction: http://bvnsupport.github.io/infodeb/BetterCCXI/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BetterCCXI.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.gravitation-rootless
 Architecture: iphoneos-arm64e
 Version: 0.1.1
