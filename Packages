@@ -4440,6 +4440,27 @@ Description: Gói Mask tết .Kích Hoạt qua Snowboard
 Name: Mask Tết(Roothide)
 Author: Vũ Qunag
 
+Package: vn.bvn.flixenhancer
+Architecture: iphoneos-arm64e
+Version: 3.2.3
+Section: Tweaks
+Maintainer: Joshua Seltzer
+Installed-Size: 824
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>=8.0)
+Conflicts: com.joshuaseltzer.flixenhancer
+Replaces: com.joshuaseltzer.flixenhancer
+Filename: ./debs/vn.bvn.flixenhancer_3.2.3_iphoneos-arm64e-1.deb
+Size: 293840
+MD5sum: a295356328c87e1dd864eb3ea52cd4a8
+SHA1: ee5c6fde47bdfe0948b8a41c69189b64ea7bac1e
+SHA256: c401b96c46a7b092991bd448323e751a4264bbdee27d9abeb7aa7ba5a3d85fea
+SHA512: a08acd11a33c281f9e3459e5ce25d770da4479cbb537626741ddc4d743aba2cdaf06681f35660f05212636c1f0e3d975a213f0863afd02d1112034843604863e
+Description: Add additional ratings to titles within the Netflix application for iOS!
+Name: FlixRatings for Netflix (Roothide)
+Author: Joshua Seltzer
+Icon: file:///Library/Application%20Support/FlixRatings.bundle/icon.png
+
 Package: vn.bvn.iarrayshack
 Architecture: iphoneos-arm64e
 Version: 1.0
