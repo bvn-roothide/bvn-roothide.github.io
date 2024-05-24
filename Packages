@@ -2100,12 +2100,12 @@ Section: Tweaks
 Maintainer: BVN
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
-Filename: ./debs/com.bvn.lynxroothide_2.5.2_iphoneos-arm64e-1.deb
-Size: 685420
-MD5sum: 556efeed9787e838c60ffb92932d895b
-SHA1: 9306b483a08f2712d4d85c2b4aca525a31516199
-SHA256: 7dcc7bf9124e7e578501222fffa93f319114f50b8bb4114a106450fb1dbbc701
-SHA512: 1a759abd397f77958927bd4905a9a57e85d888d10569c68bfca4fd13a6635f48f664bbe53c39fd07e0731506f250ae65c5bf6bb9ce7bf20761cef5989d142c68
+Filename: ./debs/com.bvn.lynxroothide_2.5.2_iphoneos-arm64e.deb
+Size: 1838470
+MD5sum: 1bc1a108ee460d2265a0bf8f41bc67d3
+SHA1: e018428fc76ed8071bd42d608a7262f5b1305a6c
+SHA256: d3b9a2351391df215bcfc0f6c75bbabfa602bf2b15581820f565538cd03b40af
+SHA512: 1ba765e79cc750e136f1c7c97f1ec4ed8e648530a9ad1e9f4c141180302b57c4fa45d7ff5fabe47a9ce4c816fc02fa3852487c42763ab5a72d8f1d1bcc7af9b9
 Description: Ultimate iDevice Customization for iOS 14, 15, 16
 Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
