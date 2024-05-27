@@ -3912,15 +3912,15 @@ Installed-Size: 11675
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
 Filename: ./debs/com.repobvn.zetsu-roothide_1.6_iphoneos-arm64e.deb
-Size: 20610008
-MD5sum: dd4e3762a60c6e7fc591d1517ae622c7
-SHA1: 7d7d538d89f965110d6253358f3b819cc8697387
-SHA256: 589ef7d53b8e297b52a4423516e0ad0ae349962444b84747734993a975434d10
-SHA512: 208a7f12105581a24f7439c5de5f3520802c3530231b1ed66b170a34ae52d5e3272fcd0340e9a58a058891fcc901e9acd4e034718afc104695fd9725745eaba4
+Size: 12328174
+MD5sum: 8005f15b08b4e2735b05804d1b3a3b01
+SHA1: 56e4bd386e6a24532e28d7edff3837529399794f
+SHA256: bdd5230c50a8a018c330cc0fa5791bcfb034d28cd1a4965830c9e14a610a2320
+SHA512: 0a8662f3915ff5696f77265e7081f105f03731687d64236944c1f18d7953ddf25bb517d04bbd32be41fd807b4ac97682bb1200008bbf29134749b989094bf952
 Description: Multitasking on iOS15 - iOS16.
 Tag: compatible_min::ios15.0
 Author: Dcsyhi <dcsyhi1998@gmail.com>
-Name: Zetsu
+Name: Zetsu VH(Roothide)
 Depiction: http://bvnsupport.github.io/infodeb/Zetsu/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Zetsu.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
