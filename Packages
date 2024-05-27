@@ -3903,6 +3903,28 @@ Depiction: http://support-jailbreak.github.io/infodeb/Zetsu/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Zetsu.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.zetsu-roothide
+Architecture: iphoneos-arm64e
+Version: 1.6
+Section: Tweaks
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Installed-Size: 11675
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
+Filename: ./debs/com.repobvn.zetsu-roothide_1.6_iphoneos-arm64e.deb
+Size: 20610008
+MD5sum: dd4e3762a60c6e7fc591d1517ae622c7
+SHA1: 7d7d538d89f965110d6253358f3b819cc8697387
+SHA256: 589ef7d53b8e297b52a4423516e0ad0ae349962444b84747734993a975434d10
+SHA512: 208a7f12105581a24f7439c5de5f3520802c3530231b1ed66b170a34ae52d5e3272fcd0340e9a58a058891fcc901e9acd4e034718afc104695fd9725745eaba4
+Description: Multitasking on iOS15 - iOS16.
+Tag: compatible_min::ios15.0
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Name: Zetsu
+Depiction: http://bvnsupport.github.io/infodeb/Zetsu/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Zetsu.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.spark.libsparkcolourpicker
 Architecture: iphoneos-arm64e
 Version: 1.0.3-rootless
