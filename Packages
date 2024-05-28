@@ -298,23 +298,22 @@ Package: com.BIENVANNHAT.aimprorooess
 Architecture: iphoneos-arm64e
 Version: 1.0.5
 Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 4904
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker, oldabi
+Maintainer: Bvn Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
 Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
 Filename: ./debs/com.BIENVANNHAT.aimprorooess_1.0.5_iphoneos-arm64e.deb
-Size: 2796652
-MD5sum: 22b4d545b0c49c273b98149443b3a85e
-SHA1: 0e90d3690a849c8b0753c0e5ebe798a31832ef08
-SHA256: c7c23a5b5dbf3aa36a91e05bee1e4bc1ccf91f3f72df44447744d3cb6698ec00
-SHA512: af5a82d90b1e8035ceaafff00e577b821978e7e856a84901b48fa929fe96ef7116fa67cd39b66cbad956a6b450a8d105e9b7b43d1e60f06cbf1670d21925a6b4
-Description: Màn hình khoá phong cách iOS16
+Size: 6009482
+MD5sum: 1296b23cd297cb7c7591d80a3016846b
+SHA1: b591f32ab467b14ca242b11631a3fff0bc549e78
+SHA256: 95be34fb2491700d1bc47ef86d88053add9058d7cae37d38d1e51a7ebed60438
+SHA512: 4c327c54da3edbe8cd5b13cd120a6ec8c70937d68f0d06c94cc80a442eed394a228e09741b7e0b05e0865b804c8eaef698be911308238813ec01a24db0a66254
+Description: Màn hình khóa ngày và giờ phong cách iOS 16
+Depiction: http://bvnsupport.github.io/infodeb/AIM/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/aimpro.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: AIM Pro VH(Roothide)
 Author: alimaulana
-Depiction: http://support-jailbreak.github.io/infodeb/AIM/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/aimpro.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.batterypercent
 Architecture: iphoneos-arm64e
