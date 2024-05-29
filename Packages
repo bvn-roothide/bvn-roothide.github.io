@@ -2906,6 +2906,26 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
 
+Package: com.foxfort.exiwall
+Architecture: iphoneos-arm64e
+Version: 2.1.5-roothide
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 26536
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.foxfort.foxforttools (>= 1.4.9), firmware (>= 14.0)
+Conflicts: com.p2kdev.vartaman, com.julioverne.autowall, com.spark.freshwall, com.shinvou.wallmart, com.yourepo.cydiageek.lsvibrantclockdate, ru.rj.exiwallhack
+Filename: ./debs/com.foxfort.exiwall_2.1.5-roothide_iphoneos-arm64e.deb
+Size: 46600720
+MD5sum: c02d460e0f1cb8e6c14ebcc44891cd6b
+SHA1: b48469ad568cabd092e41c7e2841fb3953d0bad4
+SHA256: 45fd2ee258fdde4b26d9c0768b02bddffd11fffaab3250086497a2308daca5b6
+SHA512: 13550aaeaf52b9412aca79b7ead91163ea386c586a796ebd16466268e301eb594473290651cd312bb11c74050067a31a13ccba927fbcf1f5e8df80d7c17c7a50
+Description: Depth effect for lockscreen wallpaper
+Name: Exiwall (Roothide)
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/exiwallsettings.bundle/icon@3x.png
+
 Package: com.foxfort.foxforttools
 Architecture: iphoneos-arm64e
 Version: 1.4.8-roothide
@@ -3001,6 +3021,26 @@ MD5sum: 6cd33b882cb072acaf1d82c15163d644
 SHA1: 7396486ea7107cf04c5e8c5933b44c8d0fef273e
 SHA256: 16d1928dbdfbb6f394fef8ed7a731cb00bdbb088968f1115a83df7d47e2cd6d3
 SHA512: 38a8527d4a85ba98967cac571058fc114b4db5fbe099e216bfdcb59a725fcdd136c55c96c72147e25cfe4b695a6810b0d1d2c1fba3ddae42a8aafdae891042a8
+Description: Quickly translate any text
+Name: Translomatic (Roothide)
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+
+Package: com.foxfort.translomatic
+Architecture: iphoneos-arm64e
+Version: 2.18.22-roothide
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 4756
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.4.9), com.opa334.altlist
+Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic, me.sa3odka.translomatic, com.cydiabc.translomaticzh, x7mii.vip.translomatic, com.bo7ios.translomatic, ru.rj.translomatichack, com.hk.translomatic.cn.rl, r-o-o-t-l-e-s-s-
+Filename: ./debs/com.foxfort.translomatic_2.18.22-roothide_iphoneos-arm64e.deb
+Size: 1098580
+MD5sum: 56d3709df4e4b5dd334ecd011f45acc8
+SHA1: d2224678ecdb5163676426e0b25e11c8af54ba96
+SHA256: caef44ad5335ccf243b0eb23f4a188679561eb9362f42e9fec759bf64ff7d151
+SHA512: ba45a5ca838964f6b4127e79af569c93bd033c13b0a05267c8475c8732f87f00b1cec7e2ac9020cab7398950f1762e67efa32660e9bec234afe161aa34e2112b
 Description: Quickly translate any text
 Name: Translomatic (Roothide)
 Author: FoxfortMobile
