@@ -2656,6 +2656,45 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Watched.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Watched.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.watusi3-roothide
+Architecture: iphoneos-arm64e
+Version: 1.2.33
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6644
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.bvn.watusitools (>= 2.4.23)
+Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, com.f0u4d.watusitools
+Filename: ./debs/com.bvn.watusi3-roothide_1.2.33_iphoneos-arm64e.deb
+Size: 1984284
+MD5sum: fbbc0de448f9fad1ee7e99e25c547391
+SHA1: 1dc3556dc23fc223a3b7815bcc5ae37ccafaa378
+SHA256: 4fa5e573cb12d0f2979440e5f2a2dcbf2a8211366fa1104ef6c57faf2acd2af0
+SHA512: ad95885b7017cce68f723efd22bff5f4d9b8d913512f68fd3d5dc063183aa94eafa6a0c8ffb95175b6742de682384aeb8e40f4f1d4f3013d5ea1c2c8902c23d0
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.watusitools
+Architecture: iphoneos-arm64e
+Version: 2.4.25K
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0)
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.watuzik
+Filename: ./debs/com.bvn.watusitools_2.4.25K_iphoneos-arm64e.deb
+Size: 9091512
+MD5sum: 866f59e90ca37eb0a134c89d8b0ea587
+SHA1: 1ba6757417318e11144074749c9ce638b7d4377d
+SHA256: 7a6a09fb948f583fadf03dd40681dad617de5bbeea9d217a0922a2dac2418635
+SHA512: 6b8412886a7c737fe91bb269f85e2a2d3d8db64d9a6871c3bfda7cd89ff3cc8b3cf9bd5dc5e629f88d54eb4421a1367f452b68a7cc851da90fc10f54d861dd30
+Description: Thư viện dành cho các chỉnh sửa của Watusi và WhatsApp
+Name: WatusiTools
+Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
+Author: Fouad Raheb <support@fouadraheb.com>
+
 Package: com.bvn.whoozit.roothide
 Architecture: iphoneos-arm64e
 Version: 2.15.0-beta-6
@@ -2696,6 +2735,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Wolf/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Wolf.json
 Name: Facebook Wolf (Roothide)
 Author: Michael Lema <samewhitetee@gmail.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.ytlite-r2
+Architecture: iphoneos-arm64e
+Version: 4.0.1
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 15596
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.ytlite-r2_4.0.1_iphoneos-arm64e.deb
+Size: 11588728
+MD5sum: 322d9d028b8ae13900b604d3afc35bdd
+SHA1: 35cc767e1aca67c09943a860781daa7189093c19
+SHA256: e88d70484f7d664b542f409641ec24b81a65a0ceebe30130df1e8988f79f8041
+SHA512: c2a4e059b706c8dbdc785f21adb939100a325477d2bc1c181a8a11017aa5e011d1edd5ad1f3f5cf6ec3258a3ed9edb69d346f319969ca2e5abb7b845a3bcc5cd
+Description: Bổ sung các tính năng hưu ích cho Youtube
+Name: YTLite VH(Roothide)
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.ytx
