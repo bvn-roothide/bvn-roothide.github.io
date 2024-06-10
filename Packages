@@ -2695,6 +2695,28 @@ Name: WatusiTools
 Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
 Author: Fouad Raheb <support@fouadraheb.com>
 
+Package: com.bvn.weatherls-r2
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: nqt1195
+Installed-Size: 252
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, oldabi
+Conflicts: com.bienvannhat.aimprooess, com.bienvannhat.aim, xyz.cypwn.aimpro
+Filename: ./debs/com.bvn.weatherls-r2_1.0.3_iphoneos-arm64e.deb
+Size: 101442
+MD5sum: ae276b109ab6178f17d4abd64a6eea61
+SHA1: df08ef1c5451eba725bc5981f51e751c1469e454
+SHA256: 0f3111fc983ef236b1c983fbefb08925983c8713497d74a27c4447ca17617e0a
+SHA512: 4e357aed2cbfd54bd9b9688d5552c4942e65407a9a5aa019c92bc6ca09baa08851f8a597355d4baf156ae42ab167b8777640e605a0480320b51f196ece638a3a
+Description: Thêm thời tiết & âm lịch vào màn hình khoá.
+Depiction: http://bvnsupport.github.io/infodeb/Html/WeatherLS.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/WeatherLS.json
+Name: WeatherLS (Roothide)
+Author: nqt1195
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.whoozit.roothide
 Architecture: iphoneos-arm64e
 Version: 2.15.0-beta-6
