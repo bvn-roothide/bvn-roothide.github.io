@@ -4426,6 +4426,25 @@ Name: libKitten (Roothide)
 Author: Traurige <hello@traurige.dev>
 Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 
+Package: emt.bvn.erika
+Architecture: iphoneos-arm64e
+Version: 1.13.3
+Section: Tweaks (Piracy)
+Maintainer: BVN Repo
+Installed-Size: 368
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: ./debs/emt.bvn.erika_1.13.3_iphoneos-arm64e.deb
+Size: 93204
+MD5sum: 157282cfc763e39a70d45db6f40d20d6
+SHA1: 1c7fe1f6998403a94cafccea5737730e4f0a7c4a
+SHA256: 315f434ef774dc99a4f145a14f0574f9bf376fd02de6d7fa787a3c61a81e4b41
+SHA512: 2057b39aa85d5e8f65ec783ae21ac80e908ff6978fa67531295cafe79719df8acceeec44316e175d617f6be2387a9e4713c6fbbd42d5e712ccb034bfc3d35c20
+Description: Crack 1 số Tweaks trên Sileo, sau khi cài đặt xong bạn vào lại Sileo hoặc zebra tìm Tweaks bạn muốn crack nhấp vào biểu tượng của Tweak để tải xuống.
+ - Lưu ý: Không phải Tweak nào cũng crack được đâu nhé😜
+Name: Erika (Roothide)
+Author: Paisseon
+
 Package: jp.r-plus.slidecut-roothide
 Architecture: iphoneos-arm64e
 Version: 0.9
