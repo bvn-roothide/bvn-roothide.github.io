@@ -2698,6 +2698,24 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/SugarCane.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SugarCane.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.uptime
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 192
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.bvn.uptime_1.0.1_iphoneos-arm64e.deb
+Size: 27140
+MD5sum: 31459b9dbcc0f8ba23b7860c7c535c85
+SHA1: 76df1174eeb56f9be7315c4ed936019ad1d03494
+SHA256: 6b2fd35296e185cb9036ba661db1ef86fb013b4ad50fe44ccce0bf82b4812683
+SHA512: 341295e3b7eae81caec653371916c7505f64bae0774be636a530eaf75ff6dfe1696f9c7cdf5e6e83f12f68fbc3f3d5e160f619f9e3d99a61dde1221ee43af799
+Description: Mô-đun Trung tâm điều khiển để xem thời gian kể từ khi khởi động
+Name: Uptime (Roothide)
+Author: MTAC
+
 Package: com.bvn.watched
 Architecture: iphoneos-arm64e
 Version: 1.1-10+debug
