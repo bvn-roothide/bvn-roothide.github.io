@@ -1382,6 +1382,28 @@ Description: Your contacts - with more options!
 Name: Contacts Extended (Roothide)
 Author: 0xkuj
 
+Package: com.bvn.contactsync
+Architecture: iphoneos-arm64e
+Version: 1.1.6
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 612
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.bvn.watusitools (>= 2.4.13)
+Conflicts: com.fouadraheb.contactsync, com.f0u4d.watusitools
+Filename: ./debs/com.bvn.contactsync_1.1.6_iphoneos-arm64e.deb
+Size: 114700
+MD5sum: bc38e0db4a2adbf6c0ae8525b317b039
+SHA1: 4c8dcc4b3dfb373ed06e4f84fa2ef78ac38f040b
+SHA256: 0d26c34ad2ddac962f76f6f5bffbb3ccd8283880c9cc47ab177d568009a458dc
+SHA512: 9405e03d79abed281e8e3c369994431ff3c8e009b5729696f7972ecd73e1ddc1a42628f1ddece041ccd689a0e202fa6a1539bc59457ec71266a8da72642ce40c
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Name: ContactSync (Roothide)
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.copic2.roothide
 Architecture: iphoneos-arm64e
 Version: 1.15.0-beta-5
@@ -2274,6 +2296,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/NotRecording.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: opa334
 
+Package: com.bvn.onlinenotify
+Architecture: iphoneos-arm64e
+Version: 3.4.4
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 696
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.bvn.watusitools (>= 2.4.7)
+Conflicts: com.f0u4d.onlinenotify, com.f0u4d.watusitools
+Filename: ./debs/com.bvn.onlinenotify_3.4.4_iphoneos-arm64e.deb
+Size: 185288
+MD5sum: d4a0fc9b4ed832d36abf2c6817aa0ad7
+SHA1: 83f3636b73216754708b14e31c9a616aaa062f4b
+SHA256: 319ffdef5d3738afee0218daf805883d97a84f6b6eba73f1fd7f5964a915af96
+SHA512: dcf9a065cab4acccaf7ecc55da719e92b8d86a018c09c6de452256f2f3c80ba76d4ceb130a1d53686a89773dd8b66515b80ba08f930351dce243405b40935952
+Description: Track your friends on WhatsApp Messenger!
+Name: OnlineNotify (Roothide)
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.plampycc
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -2593,6 +2635,27 @@ Name: Split View Pro VH(Roothide)
 Author: sunshinesong
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.stalky
+Architecture: iphoneos-arm64e
+Version: 4.1.26
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 6772
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.bvn.watusitools (>= 2.4.23)
+Conflicts: com.f0u4d.stalkybeta, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, com.f0u4d.watusitools
+Enhances: WhatsApp
+Filename: ./debs/com.bvn.stalky_4.1.26_iphoneos-arm64e.deb
+Size: 1608476
+MD5sum: bb87731850cd413724f571e0415cb948
+SHA1: 0cde9e671257baaa77edd88de79e9c42eae524d1
+SHA256: 7c9b8cf7bcde7c1c2c33c5255027d11cf65cfa32bc858c207311d164196e4e1f
+SHA512: e595889fda46e10841e4c3ece5a04591139582aa31a6f089d8a0a2ce91eb573b1b9d7cab9192bcdca6a20db9a5c839742fd22fed33006c69989c541d3692b8d8
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Name: Stalky (Roothide)
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.sugarcane-roothide
 Architecture: iphoneos-arm64e
 Version: 1.2.4.2
@@ -2692,6 +2755,25 @@ SHA256: 7a6a09fb948f583fadf03dd40681dad617de5bbeea9d217a0922a2dac2418635
 SHA512: 6b8412886a7c737fe91bb269f85e2a2d3d8db64d9a6871c3bfda7cd89ff3cc8b3cf9bd5dc5e629f88d54eb4421a1367f452b68a7cc851da90fc10f54d861dd30
 Description: Thư viện dành cho các chỉnh sửa của Watusi và WhatsApp
 Name: WatusiTools
+Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
+Author: Fouad Raheb <support@fouadraheb.com>
+
+Package: com.bvn.watusitools
+Architecture: iphoneos-arm64e
+Version: 2.4.28K
+Section: Development
+Maintainer: BVN Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0)
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.watusik, xyz.cypwn.fouad
+Filename: ./debs/com.bvn.watusitools_2.4.28K_iphoneos-arm64e.deb
+Size: 9017188
+MD5sum: a8b0b3af187af17370300645ec3adadb
+SHA1: e42b656b0aa79247d1d885ca00199c9d1eafb37a
+SHA256: 0d867ab88cda719d1e7becd6aa30dd4608ec20eb11c8c2818b28a101c8c3d138
+SHA512: 45c44f7b22eeedde7502578467043bc0ce4d2e63b2731d0a5d762870e860b45c106f3a0d2359b6077832e965b3587841f42889c3b6869e7826b7911aa58fd9de
+Description: Library for Watusi and WhatsApp tweaks
+Name: WatusiTools (Roothide)
 Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
 Author: Fouad Raheb <support@fouadraheb.com>
 
