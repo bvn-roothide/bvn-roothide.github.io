@@ -659,6 +659,28 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Crane.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: opa334
 
+Package: com.REPOBVN.crane-rootless
+Architecture: iphoneos-arm64e
+Version: 1.3.15-2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 3200
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.REPOBVN.crane-rootless_1.3.15-2_iphoneos-arm64e.deb
+Size: 608420
+MD5sum: b64e5ca23d6d7a43da5e5c5c9cf68481
+SHA1: 122f80466ba1d31b566a6482c80b1272445359fd
+SHA256: e219ab782274e8a7d3f83248696280ba4b006be92ddffa97f897f05ecccce0d0
+SHA512: c8ef7a04b061072cc6ea9858af3b316b3216cc2fb2042acae96c55dfabfa845786c36cd68ef1cdfd111fbf2b1cd23904336677e5aa0b5df751d840abe90ac65f
+Description: Multiple containers for your applications!
+Name: Crane VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Crane/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Crane.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: opa334
+
 Package: com.REPOBVN.enekoalt
 Architecture: iphoneos-arm64e
 Version: 1.2-rootless
@@ -1519,6 +1541,26 @@ Author: Miguelaka95 <miguelaka95@gmail.com>
 Depiction: http://bvnsupport.github.io/infodeb/CustomizeCC/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CustomizeCC.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.doodle.r2
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: preferenceloader
+Filename: ./debs/com.bvn.doodle.r2_1.0_iphoneos-arm64e.deb
+Size: 3581268
+MD5sum: fb8defa94dce5fdaca756cac5629cbc3
+SHA1: 063ae75c86c45e011a47766f20da6e8039221919
+SHA256: 4c3e0cbf4f699d96ac9b51df21d953936a6b01b378bd89e95422d652eb0045e6
+SHA512: 97aef0c53116635c3cef380354c5d60779677d67f5a7f0b32d5544e64a88c7b0135f59ecb73ef94f723979d8a64ebc46e5d842b4c11df9ec6b77fa8090ed7564
+Description: Mở khóa thiết bị bằng hình vẽ
+Depiction: http://bvnsupport.github.io/infodeb/Html/doodle.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/doodle.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Doodle VH(RootHide)
+Author: Ethan Whited
 
 Package: com.bvn.exacttime
 Architecture: iphoneos-arm64e
@@ -2692,6 +2734,27 @@ Name: Split View Pro VH(Roothide)
 Author: sunshinesong
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.spotify-2
+Architecture: iphoneos-arm64e
+Version: 4.2
+Section: Tweaks
+Maintainer: Eevee
+Installed-Size: 1308
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Filename: ./debs/com.bvn.spotify-2_4.2_iphoneos-arm64e.deb
+Size: 269948
+MD5sum: fce31037ee9aa5a4fb8b5fcb049931ac
+SHA1: 00ccec194574ef3a6404d93fc16e8bd44103f9c0
+SHA256: cf646a8f0b47c7827e5fcb73fca07d8b994f1b74bdb4cc89cdf288638d24ebd7
+SHA512: b94c376ece30f2d6dfe880fa132e03fb6c189ee538526bb2db70ccd6c9eaae59094092554d15c5fb8512e49b0ce4564aba73a1acf258237cbf2cc3ed43f3e1f8
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify (Roothide)
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.spotify-r2
 Architecture: iphoneos-arm64e
 Version: 4.0
@@ -2793,6 +2856,26 @@ SHA512: 341295e3b7eae81caec653371916c7505f64bae0774be636a530eaf75ff6dfe1696f9c7c
 Description: Mô-đun Trung tâm điều khiển để xem thời gian kể từ khi khởi động
 Name: Uptime (Roothide)
 Author: MTAC
+
+Package: com.bvn.vcam.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.0-108+debug
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 320
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.vcam.r2_1.0.0-108+debug_iphoneos-arm64e.deb
+Size: 38072
+MD5sum: 2255112ef7d1262bbd825dfb3b43184d
+SHA1: d04a1ef27500a9e5ee9358310c697bbcf7f48075
+SHA256: 45b93cb827fbdc18c84b1902282b67f2ca9b6c4fcb4979464ef3ca3dca321edb
+SHA512: 82df3241501dd9affcbf00a6878a34ddf7b139ea194aac09f4fb7f40ec33b4d9a5be346627b6b627842453eddc693ebf61addb94165b654fbb8e0241adf944e4
+Description: VCAM4iOS
+ - Cách dùng: Nhấn nhanh cộng trừ (nút âm lượng + -, Volumn + -)
+Name: VCAM4iOS (RootHide)
+Author: trizau
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.watched
 Architecture: iphoneos-arm64e
