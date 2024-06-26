@@ -1,3 +1,24 @@
+Package: bvn.T9Dialer
+Architecture: iphoneos-arm64e
+Version: 1.2.0
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, firmware (>= 11.1.2)
+Filename: ./debs/bvn.T9Dialer_1.2.0_iphoneos-arm64e.deb
+Size: 69142
+MD5sum: 8465a62116f4d4f06d043bb064e313cf
+SHA1: d43694b49d226368798844a28d59522c5c9c259a
+SHA256: 583bd02e5deb468572cfb1271b452c9c525923db8926c8474c6ead7512d44d17
+SHA512: 41a927d22a9601a81c758f0755eb8d15ee5b954a5759d88bb82d51cb96805e573abc85a50196ff7f808d0f0dae887e064d47403c7e748ff69a3fa4f09c1b9f78
+Homepage: https://apple-phong.github.io
+Description: Hiển thị tìm kiếm theo tên hoặc số điện thoại
+Name: T9Dialer (RootHide)
+Author: Jordan Koch
+Depiction: https://bvnsupport.github.io/infodeb/Html/T9Dialer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/T9Dialer.json
+Tags: compatible_min::ios11.1.2, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: bvn.cylinderremade-roothidr
 Architecture: iphoneos-arm64e
 Version: 0.0.3-beta
@@ -3226,6 +3247,24 @@ Description: A preferences library that doesn't suck
 Name: libCSPreferences (Roothide)
 Author: CreatureSurvive
 Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+
+Package: com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm64e
+Version: 1.0.6
+Section: System
+Maintainer: BVN
+Installed-Size: 960
+Pre-Depends: firmware (>= 7.0)
+Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0.6_iphoneos-arm64e.deb
+Size: 144776
+MD5sum: ab5ec3d83f46d546dbba5cf85002513e
+SHA1: 209260b91114483ced6481112547bb7b24e6118a
+SHA256: 0a1cc270573771b28c1b0c7b51c5da1af97b1c47360fd530ee63ba03cc21fc6e
+SHA512: a889732e1ec9499017e506f771e5198caefe073a24a1578dfa2e89d7fe02a214fa359c05a1d9dd492645938772fd73ee03fccccac888f030fec964752b73f046
+Description: A minimal color picker library for developers
+Tag: purpose::extension, compatible_min::iosiOS7
+Name: libCSColorPicker
+Author: CreatureSurvive <support@creaturecoding.com>
 
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64e
