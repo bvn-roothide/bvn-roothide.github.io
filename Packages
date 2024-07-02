@@ -2376,6 +2376,26 @@ Name: NoBetaAlert (Roothide)
 Author: Hitori
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.nointerruptwhenplayingmusic.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.nointerruptwhenplayingmusic.r2_1.0.2_iphoneos-arm64e.deb
+Size: 5168
+MD5sum: 38edeca7497316a240011a46e6ce8e41
+SHA1: 0a0831704cb1e753ce255b69120b9b68c2d28025
+SHA256: 31879273cece48d21aeb769b683377c38fb49f8d0770c246c12404d1c199b7da
+SHA512: 67a55712d19195f2dec102c5dff4db6e0612839adfc46478a974d25dc079943db2bc17d3533fb3b68e81507d8c7a54a357db96c52f394063b75da062c5848af0
+Description: Không làm âm thanh nhỏ đi khi có "Thông báo"
+Name: NoInterruptWhenPlayingMusic
+Depiction: http://bvnsupport.github.io/infodeb/Html/nointerruptwhenplayingmusic.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/nointerruptwhenplayingmusic.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Ginsu
+
 Package: com.bvn.notrecording-r2
 Architecture: iphoneos-arm64e
 Version: 1.1.1
