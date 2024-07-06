@@ -1369,6 +1369,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/CCBorder16.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CCBorder16.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.ccborder
+Architecture: iphoneos-arm64e
+Version: 1.1.6
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 448
+Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
+Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane, com.bvn.sugarcane
+Filename: ./debs/com.bvn.ccborder_1.1.6_iphoneos-arm64e.deb
+Size: 52822
+MD5sum: 3bf5f77a24dcd6b3056e440ed22b012d
+SHA1: ed6f6486c58198037761d81f3e9146bc90dbc8fd
+SHA256: 754c80de03b29cc8702878097da3e93afa5b047e144cbea712d2471c57558d74
+SHA512: c76510364d9252efba2ef43a60771da8a8e55b05dfbd7314d12d15e0b6925368bd2635eed07b92e8f938bf19f0be1fae38fff13365ae08502db2c8cf9ad4cbbe
+Description: Trung tâm điều khiển kiểu iOS18 có thể điều chỉnh và điều khiển hình dạng mô-đun。
+Name: CCBorder16 VH(RootHide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/CCBorder16.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CCBorder16.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: fiore & p2kdev & 妖刀
+
 Package: com.bvn.ccmusicartwork
 Architecture: iphoneos-arm64e
 Version: 2.4.0-rootless
