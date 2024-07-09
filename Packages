@@ -3708,6 +3708,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppData.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Fouad Raheb
 
+Package: com.repo.appdata-roothide
+Architecture: iphoneos-arm64e
+Version: 1.4.2
+Section: Tweaks
+Maintainer: BvN Repo
+Installed-Size: 3772
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.repo.appdata-roothide_1.4.2_iphoneos-arm64e-1.deb
+Size: 827240
+MD5sum: 37d58c04a7635b1eb3e51875b56d3181
+SHA1: 693ff0cd97563172fb335c264e64a3f6ada9a7ac
+SHA256: 78b642e8739622f5640739700c52daa36107295d45482ff44cb2c894a22a9ddc
+SHA512: 532c3deff3f7bfaf7f8f812b8e2d9a738b26591465174f8f15052a285e87f94c07d8d583ef02fc2bd721467e1ee9ea774918da38fd758dffa50a89c73bf9a20a
+Description: Vuốt lên hoặc xuống biểu tượng trên màn hình hoặc nhấn và giữ lựa chọn menu ở chế độ 3D để hiển thị công cụ phím tắt dữ liệu ứng dụng biểu tượng Phiên bản này đã được quản trị trang web bản địa hóa và sửa đổi hoàn toàn. Sửa đổi và tối ưu hóa: Thêm phiên bản đơn giản của ứng dụng bị hạ cấp, thêm tùy chọn vuốt xuống để gọi nó ra, thêm tùy chọn xem trạng thái mã hóa của ứng dụng, thêm tùy chọn bảng để loại bỏ đường phân chia bảng, thêm một đoạn dài nhấn vào biểu tượng bảng điều khiển để bắt đầu ở chế độ an toàn, sửa đổi ứng dụng gỡ cài đặt ban đầu thành gỡ cài đặt thực. Không có dữ liệu được giữ lại, phiên bản gốc được sửa đổi để không làm mới tổng hiển thị dữ liệu một cách đồng bộ sau khi xóa bộ nhớ cache, trang thông tin thêm của phiên bản gốc dài- Vấn đề lỗi sao chép thông tin nhấn đã được khắc phục, dữ liệu đặt lại ban đầu được sửa đổi để bao gồm dữ liệu thư mục trong nhóm chương trình đặt lại, phiên bản gốc được đặt lại. Kích thước dữ liệu của cột dữ liệu đặt lại được hiển thị để bao gồm dữ liệu thư mục trong nhóm chương trình. Sau khi sửa đổi dữ liệu đặt lại ban đầu, hiển thị dữ liệu bộ đệm và hiển thị số quyền không được làm mới đồng bộ. Không thể sử dụng phiên bản gốc đã sửa đổi để đặt lại khi gọi một ứng dụng được tải xuống từ Dữ liệu/Quyền đặt lại/Gỡ cài đặt ứng dụng (chỉ. bị vô hiệu hóa trên ứng dụng hệ thống sau khi sửa đổi)
+Name: AppData (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/AppData/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppData.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Fouad Raheb
+
 Package: com.repobvn.Coolwcat
 Architecture: iphoneos-arm64e
 Version: 1.4
