@@ -4157,6 +4157,30 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/SnowBoard.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Spark & Dennis D. Bednarz
 
+Package: com.repobvn.snowboard-roothide
+Architecture: iphoneos-arm64e
+Version: 1.6.4-Beta6-roothide
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 3268
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.spark.snowboardapplication, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.presetextension, com.spark.snowboard.settingsicons, com.spark.snowboard.statusbar, com.spark.snowboard.ui
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.repobvn.snowboard-roothide_1.6.4-Beta6-roothide_iphoneos-arm64e.deb
+Size: 1132668
+MD5sum: c03430e037f9d94a6ce894ba7d1bbb92
+SHA1: 7a3e1061e18a7c90799a5da259a21fea6253834e
+SHA256: 6af37dba34dfdd4bb12d53a6067bbf2588383387f2426dfe4cea3345ae01764c
+SHA512: e58c181a797cfcf9af011320a1aa3b9fd1de0de7362d05eb1120b54e041f0438ff23b58313f282932174697cfa31717efea794e008a3a8d51b10815c2413ffd0
+Description: Snowboard theming engine
+Name: SnowBoard VH(Roothide)
+Depiction: https://bvnsupport.github.io/depictions/SnowBoard.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SnowBoard.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Spark & Dennis D. Bednarz
+
 Package: com.repobvn.uyou-roothide
 Architecture: iphoneos-arm64e
 Version: 3.0.2
