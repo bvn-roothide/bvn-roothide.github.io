@@ -2881,6 +2881,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.spotify-r2
+Architecture: iphoneos-arm64e
+Version: 4.4
+Section: BVN Repo
+Maintainer: BVN Repo
+Installed-Size: 1520
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Filename: ./debs/com.bvn.spotify-r2_4.4_iphoneos-arm64e.deb
+Size: 319536
+MD5sum: 740b58c97b727254a0b8c2baeeae8782
+SHA1: b29f8fd7769125fe7de6e3c54adc2506aae029ad
+SHA256: 98bc16266b172e80669c6cebaee227d7197dcbf5106a12867d5ae67faf6c7c4e
+SHA512: b8f9d7e0137ea9afd882776e497b0a0b695f20ed1a875ac0e18a5b4f13eaf96873f5578594feba3e63d3df3934a57463b64635461eb768ba26c8303c486691e1
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Eevee
+
 Package: com.bvn.stalky
 Architecture: iphoneos-arm64e
 Version: 4.1.26
@@ -2942,6 +2963,26 @@ Name: SugarCane 15/16 VH(Roothide)
 Author: iOS Creatix, kasiimh1, p2kdev
 Depiction: http://bvnsupport.github.io/infodeb/Html/SugarCane.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SugarCane.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.systeminfo
+Architecture: iphoneos-arm64e
+Version: 2.7.2-3
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, oldabi
+Filename: ./debs/com.bvn.systeminfo_2.7.2-3_iphoneos-arm64e.deb
+Size: 275084
+MD5sum: ee6531d399b784ba52ef37cce77507f4
+SHA1: 82c3aebe4a326b78f7d062a396eb8e6684790dda
+SHA256: 066de5bf3898add42dcc06489a98b8c20f55fa2b6a3f6f0a53288d6e52ac3a6c
+SHA512: a99263c048def19a820ea5b4033e3e0157bd750e8561ad9b0e64f0e45b35b1c8e4651db5c3ce82443c861a5e5f781636c54fce3ccc94bb4765dbecf1904de620
+Description: Thông tin hệ thống trong ứng dụng Cài đặt > Cài đặt chung > Giới thiệu và các phần khác. Đặt boot-nonce, lưu SHSH, thông tin pin, v.v.
+Name: System Info (Roothide)
+Author: ARX8x
+Depiction: http://support-jailbreak.github.io/infodeb/SystemInfo/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SystemInfo.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.uptime
@@ -3940,6 +3981,25 @@ Name: AudioRecorder VH(Roothide iOS 15 to 17)
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 2bd89895e747af47790b0eb2f6bac296
 
+Package: com.repobvn.autofaceunlock-r2
+Architecture: iphoneos-arm64e
+Version: 1.1-7
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 452
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.repobvn.autofaceunlock-r2_1.1-7_iphoneos-arm64e.deb
+Size: 65216
+MD5sum: 0325446a73347cd2a0df11df7c56803e
+SHA1: 8ab486745cd7c9fc669030878d2b0246d812363e
+SHA256: 636101aa866eaf88cf9d9398b1bb3bb18eda4b1603d49299937ac064c664107a
+SHA512: a0aff9999fdc9cca7e7b7f9d95832f36262a4b91497168438d1161eaa2aafa2b1c1b137b3ba9b3beb15388ff63d92572d68300fead78bebfd897b378ef0723be
+Description: Nhận dạng khuôn mặt được mở khóa tự động mà không cần trượt lên để vào màn hình chính.
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: AutoFaceUnlock (Roothide)
+Author: Netskao
+
 Package: com.repobvn.autounlockx
 Architecture: iphoneos-arm64e
 Version: 1.1.0-rootless
@@ -4272,6 +4332,51 @@ Name: YouPiP (Roothide)
 Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/youpip.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.youpip
+Architecture: iphoneos-arm64e
+Version: 1.8.13
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 188
+Provides: com.spicat.youpip
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debs/com.repobvn.youpip_1.8.13_iphoneos-arm64e.deb
+Size: 27584
+MD5sum: e4e41121ef3eabec2086a85b00174b53
+SHA1: 2d074bf190a728855c3b94fb6bc8fbeb4a9ac5bd
+SHA256: 12e9bc7c49499e278809ece09372274d7a24a4ed13413774b6a985cbfe68d0d3
+SHA512: 278d9f1dce2164f9264826e3658480f5ba674000af5c9592c0b6a545dbd33df38b9cb836fb494673d19580d0092675c7320472cad362504340e458579638ea73
+Description: Tinh chỉnh cho phép bật tính năng hình trong trong hình (Picture In Picture) trong ứng dụng Youtube
+Name: YouPiP (Roothide)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/youpip.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.ytx
+Architecture: iphoneos-arm64e
+Version: 1.6.10
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 56
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.repobvn.ytx_1.6.10_iphoneos-arm64e.deb
+Size: 5632
+MD5sum: 63bc19f9fd1b6c835503d4d7e612f838
+SHA1: 8359543a3fce43c9e27582de33caf1447bcae301
+SHA256: 958918c2ea3672cfd00afea29527831e55426413f236ad187f2647b21025fdb1
+SHA512: 1845023d289ee4ce85bd384d41d398c7278ccc5bd4feee2538d95eccfbc85c79d66eef77c74b83be7ca02c9d0491d3a87526ffdeac44ebcf65903498a6410e4a
+Description: Chặn quảng cáo và phát lại nền cho Youtubr
+Name: YouTube X(Roothide)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.zetsu-roothide
