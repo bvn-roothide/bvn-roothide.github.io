@@ -251,6 +251,23 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Designer VH(Roothide)
 Author: JunesiPhone <junesgraphics@gmail.com>
 
+Package: bvn.vn.disableshuttersound
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/bvn.vn.disableshuttersound_1.0_iphoneos-arm64e.deb
+Size: 3600
+MD5sum: 464ce8e9cd84d95aa4947b0b26e2599d
+SHA1: 8291fab21d5a801fa84d1629eaf0ea0b1f0bdd39
+SHA256: 65a060e6d6ff0f7d838785b2f3e9552ff6d6ea8ab787f3de8a830bde48161059
+SHA512: 23aa844e00aa38aaa79363629e69b287b25f31162bd80d411a0ba3aa0d5824ea6d72bb078340544819d60dd6a0989f0f647ae1689f9244fe703a5967dfc17dc0
+Description: Tắt âm thanh khi chụp ảnh
+Name: DisableShutterSound
+Author: Netskao
+
 Package: bvn.vn.onesettings-roothide
 Architecture: iphoneos-arm64e
 Version: 2.1.1
