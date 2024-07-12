@@ -5040,6 +5040,23 @@ Description: Gói Mask tết .Kích Hoạt qua Snowboard
 Name: Mask Tết(Roothide)
 Author: Vũ Qunag
 
+Package: vn.bvn.disablethermalmonitord
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: plutil
+Filename: ./debs/vn.bvn.disablethermalmonitord_0.1.0_iphoneos-arm64e-1.deb
+Size: 1204
+MD5sum: 79abc5d14155d7f7b5a4d86d35ac8637
+SHA1: 3e809978f0f276af7193947b6c52ce9d50447cf6
+SHA256: 14a62d0288b3fa5b987df913ef3ca678d8ecc6fffde87f5c479b3d8b3414bba8
+SHA512: 2144725f6ccd547c941d6fa0478b2477c14cda6b049156cba29a19c7ba95126c4df1497844e4fc8da3df2006c2db34e7e90d4c9990b8eeb8cc505bb77db5933d
+Description: Vô hiệu hoá "Giảm tần số CPU và giảm độ sáng tự động" do thiết bị quá nóng
+Name: Disable Thermalmonitord
+Author: zhaonan
+
 Package: vn.bvn.flixenhancer
 Architecture: iphoneos-arm64e
 Version: 3.2.3
