@@ -1528,6 +1528,28 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.contactsync
+Architecture: iphoneos-arm64e
+Version: 1.1.8
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 608
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.bvn.watusitools (>= 2.4.28)
+Conflicts: xyz.cypwn.watusi3, xyz.cypwn.stalky, xyz.cypwn.contactsync, xyz.cypwn.onlinenotify, xyz.cypwn.watusitooIs
+Filename: ./debs/com.bvn.contactsync_1.1.8_iphoneos-arm64e.deb
+Size: 279544
+MD5sum: e8399a2a5d951f2d01f8e866d7b70748
+SHA1: 740743d97beb1eaf813b1ee91a7040bf98af3955
+SHA256: 2a500f515fe8475da670ea411d71e996a95b3bb62d337dc0196b763430f47ef9
+SHA512: 31833e47bc140ce632117fe8e77395c0a02f51d6fbda33779d9baf045fa9b29ee4c7347dabf7fe13acc8aba4fbca93c4b7aa7b8e34c0951e10c7b14199064687
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Name: ContactSync
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
+
 Package: com.bvn.copic2.roothide
 Architecture: iphoneos-arm64e
 Version: 1.15.0-beta-5
@@ -2940,6 +2962,27 @@ Name: Stalky (Roothide)
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.stalky
+Architecture: iphoneos-arm64e
+Version: 4.1.27
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6772
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.bvn.watusitools (>= 2.4.28)
+Conflicts: com.f0u4d.stalkybeta, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.watuzik, xyz.cypwn.regramk, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff
+Enhances: WhatsApp
+Filename: ./debs/com.bvn.stalky_4.1.27_iphoneos-arm64e.deb
+Size: 4367890
+MD5sum: 4e4f2e4ba4dfccded6c56070cbbadeea
+SHA1: 07f759a1b69f357c43e3a9231eaa74816658fa99
+SHA256: 0ebf803926e306ff149990ff371b19161a0ea36ce1d315a29eafd61e3406cf5d
+SHA512: 604fd2938c8906fa47133f099d725d3ceed36366f46c9bda5215f64d33bcf901475a0ae0248fe60406127ef1cb7999c7ce67d9d8b8a4e62b2f15576a17262e42
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Name: Stalky
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+
 Package: com.bvn.sugarcane-roothide
 Architecture: iphoneos-arm64e
 Version: 1.2.4.2
@@ -3081,6 +3124,26 @@ Name: Watusi 3 for WhatsApp
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.watusi3-roothide
+Architecture: iphoneos-arm64e
+Version: 1.2.36k
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6644
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.bvn.watusitools (>= 2.4.27)
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouad, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.fouackyou, xyz.cypwn.fouackoff, xyz.cypwn.fr33gram, xyz.cypwn.freegram235290, xyz.cypwn.fouackoff147162
+Filename: ./debs/com.bvn.watusi3-roothide_1.2.36k_iphoneos-arm64e.deb
+Size: 5087608
+MD5sum: 57b934d9b4933129f932481dce20fb5f
+SHA1: f8442ac8dfd3b8106d8052d7e71d56bea3c5b4dc
+SHA256: ab3b191f6d1571c16e5d8222d02fc35d8efc60780c260d14bf7b8f9d3af9e597
+SHA512: 0619463c65b82d5667d83c2b5638fd87b7d77cdb5cb611d6667346bb50ec3627bd1d39d0520f9876bf1f0a7b6087ba2c1d086bdc760861f662e2c7a31ccde145
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp (Roothide)
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
 Package: com.bvn.watusitools
 Architecture: iphoneos-arm64e
 Version: 2.4.25K
@@ -3115,6 +3178,26 @@ SHA1: e42b656b0aa79247d1d885ca00199c9d1eafb37a
 SHA256: 0d867ab88cda719d1e7becd6aa30dd4608ec20eb11c8c2818b28a101c8c3d138
 SHA512: 45c44f7b22eeedde7502578467043bc0ce4d2e63b2731d0a5d762870e860b45c106f3a0d2359b6077832e965b3587841f42889c3b6869e7826b7911aa58fd9de
 Description: Library for Watusi and WhatsApp tweaks
+Name: WatusiTools (Roothide)
+Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
+Author: Fouad Raheb <support@fouadraheb.com>
+
+Package: com.bvn.watusitools
+Architecture: iphoneos-arm64e
+Version: 2.4.29k
+Section: Development
+Maintainer: BVN Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0)
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.watusik, xyz.cypwn.fouackoff104033, com.f0u4d.watusitools
+Filename: ./debs/com.bvn.watusitools_2.4.29k_iphoneos-arm64e.deb
+Size: 12401634
+MD5sum: 7f6b6501925fe3e9d529fcf401f7f22c
+SHA1: 5681d56bcab3be04a7f84ca60b02e325c19bf39a
+SHA256: 01f1de918d0b93680cb5986a736f15c943e0acce7360c24743b4a33a9ac1d8fd
+SHA512: 8eac05f66a76a5217fd45caa58e5ac02fe0263a3dc000a08f38ba78dbd1870ab3563b9883d86362b10a9ace22fd19d7a146eb1ce74e4cbf33c51b1f4d1264674
+Description: Library for Watusi and WhatsApp tweaks
+ - Crack By CBZ
 Name: WatusiTools (Roothide)
 Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
 Author: Fouad Raheb <support@fouadraheb.com>
