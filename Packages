@@ -231,6 +231,27 @@ Name: Designer VH(Roothide)
 
 Package: bvn.repo.designer-roothide
 Architecture: iphoneos-arm64e
+Version: 1.4.9
+Section: Addons (Tweaks)
+Maintainer: BVN Repo
+Installed-Size: 18668
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer-roothide_1.4.9_iphoneos-arm64e.deb
+Size: 13963628
+MD5sum: e5195d846710caa3e4d2ce0921c41a66
+SHA1: 6d98210147b743829bb3cf9b438cf1ede4e2ac87
+SHA256: 5d987e12e891993ebd8e1e776826631821ddc9c5f3b2df46497b96bfd618434e
+SHA512: c63f18de4abacdda1f62df92c42795b324de4b998788eb96cf3dbe7da719c325b794d9b51fc0ffb542de5eed8192c5585f8ef69ee473c4ac9e4c134feb885db3
+Description: Design layouts for lockscreen and homescreen
+Name: Designer VH(Roothide)
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+
+Package: bvn.repo.designer-roothide
+Architecture: iphoneos-arm64e
 Version: 1.4
 Section: Tweaks
 Maintainer: Bvn Repository
