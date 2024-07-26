@@ -1687,6 +1687,24 @@ Depiction: http://bvnsupport.github.io/infodeb/CustomizeCC/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CustomizeCC.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.disablepastealert16
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 168
+Filename: ./debs/com.bvn.disablepastealert16_1.0_iphoneos-arm64e.deb
+Size: 6384
+MD5sum: a7ce8ef5a02a3c411e9bf71d6d3e876d
+SHA1: 4231509cbc88d8337cb1d7238b69eef9cf717f14
+SHA256: 56a9c9b1cf1165ef1bc2dd922b8be600ac7f4b5d9b64316be73e128b6aa473b9
+SHA512: 68133e43c91948097777b144e871f1deb98980739f780e264663573dbf474c2547cb05b251c204c9e560b76533d1298562e741b58197a613eae0daea3ec6be0e
+Description: 1. Tắt cửa sổ bật lên cảnh báo dán iOS16+ và tự động cho phép nó
+ 2. Tắt lời nhắc dán
+ * Nếu bạn chỉ cần tắt cửa sổ bật lên cảnh báo, bạn có thể hạ cấp phiên bản cài đặt xuống 0.0.1
+Name: DisablePasteAlert16
+Author: SquidForce
+
 Package: com.bvn.doodle.r2
 Architecture: iphoneos-arm64e
 Version: 1.0
