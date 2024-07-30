@@ -1508,6 +1508,29 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
 
+Package: com.bvn.chromahomebarx
+Architecture: iphoneos-arm64e
+Version: 0.5
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 642
+Depends: firmware(>= 15.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.bvn.chromahomebarx_0.5_iphoneos-arm64e.deb
+Size: 3205052
+MD5sum: 3aea8496b5aa41fd35b7b4bfc19b7f84
+SHA1: 239a1009891cd9362d532d77fc53aa409c022695
+SHA256: d818f65ea245b46fe12179268df543a0f85719b592d77cc0fda9f0cd08c98078
+SHA512: 3d2de389918a93e5daf58dbdd51d44d4ea46f3adbaba5cc9c3424b6b70501b6fe0ddcebdaa9573f9ea8e3458f8b90a7c4f2fe046dd990e9a3ac487f0cbc3b572
+Description:  ChromaHomeBarX chỉnh màu Thanh Home cho iPhone X, cũng hoạt động với LittleX.
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Name: ChromaHomeBarX VH(Roothide)
+Author: Afnan Ahmad <afnanahmaddd@gmail.com>
+dev: afnanahmad
+Depiction: http://bvnsupport.github.io/infodeb/ChromaHomeBarX/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ChromaHomeBarX.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bvn.classicfolders3-roothide
 Architecture: iphoneos-arm64e
 Version: 3.0.2
