@@ -2901,6 +2901,27 @@ Name: ShowTouch (Roothide)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: LonestarX
 
+Package: com.bvn.sniper
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 364
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, oldabi
+Filename: ./debs/com.bvn.sniper_1.2_iphoneos-arm64e.deb
+Size: 90844
+MD5sum: eb80bdcadafc67638c11890305e5e6ca
+SHA1: 89ba37a14045dd47dd1b20d41b990f90729a9d72
+SHA256: cdfd9353fe17e832a04bff003cde830058b5f678b9e54d3674c2f12196aca38a
+SHA512: f8cc23da379f8379e72510387a1572e28b1a50223fd559be8883b58ded26d2a9f9db2a1c84c7194a954b7baf05b2e27ba0e648f1e4af19670b5fb3af8031d705
+Description: Xóa quảng cáo khỏi một số ứng dụng
+Name: SniperTool (Roothide)
+Author: Sniper @DNS_Sys
+Depiction: http://bvnsupport.github.io/infodeb/Html/SniperTool.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SniperTool.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bvn.snowboardfix
 Architecture: iphoneos-arm64e
 Version: 1.0.0
