@@ -3638,6 +3638,66 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
 
+Package: com.foxfort.foxforttools
+Architecture: iphoneos-arm64e
+Version: 1.4.13-roothide
+Section: Development
+Maintainer: FoxfortMobile
+Installed-Size: 2132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.4.7)
+Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.foxforttools, r-o-o-t-l-e-s-s-, com.r-o-o-t-l-e-s-s-.manager
+Filename: ./debs/com.foxfort.foxforttools_1.4.13-roothide_iphoneos-arm64e.deb
+Size: 490464
+MD5sum: fb581fc57331f2cf456f70e29c9e1054
+SHA1: 29b94d86bdf81763feb91dd00977c128e8d65c89
+SHA256: 79913f1b5d4007d2c2ed5c469d82caa04b445aa99ff69040022c96aff6c6c601
+SHA512: 8ad4c74e9b150b6194e62115d856c50d6755eb57bc03ec314ecec01e1013941e6f242d565d6a6ea5ecb6adbe7cd88dd59e6345a82bbf353c9d62b6dfbc3e56ae
+Description: Helper tools for Foxfort tweaks
+Tag: role::developer
+Name: FoxFort Tools
+Author: FoxfortMobile
+
+Package: com.foxfort.libfoxfortutils
+Architecture: iphoneos-arm64e
+Version: 1.4.7-roothide
+Section: Development
+Maintainer: FoxfortMobile
+Installed-Size: 1288
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), com.opa334.libsandy
+Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.libfoxfortutils, r-o-o-t-l-e-s-s-
+Filename: ./debs/com.foxfort.libfoxfortutils_1.4.7-roothide_iphoneos-arm64e.deb
+Size: 279300
+MD5sum: e0625b58ac0ef539b5079418705257ec
+SHA1: c7c42f1b70be39c8b35c72e7949a87c39e97b36e
+SHA256: 7849d2cea50c6e8b24ee75805168e7216064333e77f7cbcd2badb6f78e0d98b5
+SHA512: 160e3e0980faa56d41f17b5cd2d3d00a107624daa78a2bfe546f59591a9ea3f14d6a7e3c2afb26f5057e8e5b523296e1ff0b8282b36bf956f00ea861ab937fef
+Description: library for Foxfort tweaks
+Tag: role::developer
+Name: libfoxfortutils
+Author: FoxfortMobile
+
+Package: com.foxfort.translomatic
+Architecture: iphoneos-arm64e
+Version: 2.18.25-Roohide
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 4964
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.4.12), com.opa334.altlist
+Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic, me.sa3odka.translomatic, com.cydiabc.translomaticzh, x7mii.vip.translomatic, com.bo7ios.translomatic, ru.rj.translomatichack, com.hk.translomatic.cn.rl, r-o-o-t-l-e-s-s-
+Filename: ./debs/com.foxfort.translomatic_2.18.25-Roohide_iphoneos-arm64e.deb
+Size: 1153308
+MD5sum: 74a8dc8c8fb09d6f2927f384ce6126df
+SHA1: 3b3e8dd71c39d5eadda97a541c51ffdb59618a08
+SHA256: d30e85cc3ed582f2d2ff196e717d910898f9ba493b44d0e76be915378b8e4e24
+SHA512: 799d02b9e98114cce3566d06d78599fe3f99d323950a58b67f6af67462b181ee90fd82ef218eb8cf2796e84628e9407b151279513501c664cee0456e132c08a4
+Description: Dịch nhanh bất kỳ văn bản nào .Phiên bản này dành cho Roothide,đây không phải là phiên bản Cr@ck.Vui lòng mua nó để sử dụng.
+Name: Translomatic
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+
 Package: com.ginsu.gscore
 Architecture: iphoneos-arm64e
 Version: 1.0.4-roothide
