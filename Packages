@@ -39,25 +39,6 @@ Name: Cylinder Remade (Roothide)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Ryan Nair
 
-Package: bvn.filzacrack-roothide
-Architecture: iphoneos-arm64e
-Version: 1.1-8
-Section: Tweaks
-Maintainer: Bvn repo
-Installed-Size: 72
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/bvn.filzacrack-roothide_1.1-8_iphoneos-arm64e.deb
-Size: 6248
-MD5sum: ebcce448dd846da2dcc00739d9aeb298
-SHA1: 657336f7197df842de42db9bee17e3498d1ca8e7
-SHA256: 2ef5cc83a74a9d17c20f543e1273577f3792d88029b696ca71b02ba8f20484b9
-SHA512: 4087a94140b76a66bbaf7c7c68eecd31dfadba4d1c8f184767fed71cdd31004757b5fd83d7ae6037d2618371396aa61c819b750e1002b709312f7fd746c2b055
-Homepage: https://tigisoftware.com/cydia/
-Description: Crack Tinh chỉnh Filza
-Name: Filza Crack (Roothide)
-Author: Netskao
-
 Package: bvn.hideallbar-roothide
 Architecture: iphoneos-arm64e
 Version: 2.1-1
@@ -4980,6 +4961,26 @@ Description: An awesome application!
 Name: SnowBoard Application
 Author: Spark
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
+Package: com.tigisoftware.filza64bit
+Architecture: iphoneos-arm64e
+Version: 4.0.1-4~roothide
+Section: Utilities
+Maintainer: TIGI Software
+Pre-Depends: patches-com.tigisoftware.filza64bit(= 4.0.1-4~roothide)
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39, bvn.filzacrack-roothide
+Filename: ./debs/com.tigisoftware.filza64bit_4.0.1-4~roothide_iphoneos-arm64e.deb
+Size: 8708998
+MD5sum: 98aeb96a3e6921b4f775f8d449f28bb4
+SHA1: 7bc22c7e6579dbcc88ecd754fc8088bb5357fb96
+SHA256: 3a4b2bf29978c7cdb1726beee2a9a38627dc25754fc13225032d87a5dd011e4a
+SHA512: b4b1239d4f18b2935076e7faf7531c2f60f0b8c09e3c5bfb6fff486109b965ce3323c4c4a55a7d418b927dfd94d57823ecad6b3f7306847cc3313c88a5c2683d
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
+Name: Filza File Manager 64-bit (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Filza1/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Filza1.json
+Author: TIGI Software
 
 Package: com.udevs.dockx
 Architecture: iphoneos-arm64e
