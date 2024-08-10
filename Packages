@@ -5386,6 +5386,27 @@ Description: Gói Mask tết .Kích Hoạt qua Snowboard
 Name: Mask Tết(Roothide)
 Author: Vũ Qunag
 
+Package: vn.bvn.bigsurcenter
+Architecture: iphoneos-arm64e
+Version: 1.4.4K
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 1820
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, ws.hbang.common (>= 1.17), ws.hbang.alderis (>= 1.2)
+Filename: ./debs/vn.bvn.bigsurcenter_1.4.4K_iphoneos-arm64e-1.deb
+Size: 755460
+MD5sum: 08cbd357c071ab103dbb0300a9c0d772
+SHA1: 05946089923f07fd1de7fa1eeffd1803da4380d5
+SHA256: fd4ad110aa83c2b4bf8475f3b78eec491b0d8cd3712e3db3a42ffaf051440257
+SHA512: 4e987f382daf4f6af814a49efdccd32374a8ea1ee2c290f91ff1b1eda02415779db8cce98aaf46dda044566ba4ad0247d2bcf7b6d3f28c5f5fca25e4ca7b2dba
+Description: BigSurCenter thay thế trung tâm điều khiển iOS mặc định bằng một trung tâm mới nhẹ và trang nhã lấy cảm hứng từ trung tâm điều khiển trong MacOS Big Sur
+Name: BigSurCenter VH(Roothide)
+Author: nicho1asdev
+Depiction: http://bvnsupport.github.io/infodeb/Html/BigSurCenter.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BigSurCenter.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: vn.bvn.disablethermalmonitord
 Architecture: iphoneos-arm64e
 Version: 0.1.0
