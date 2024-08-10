@@ -2006,6 +2006,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Statusbar.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Statusbar.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.hikari
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.hikari_1.0.1_iphoneos-arm64e-1.deb
+Size: 968596
+MD5sum: f27968cc675986c96ef48ae1f05ae866
+SHA1: 254956b4b6b954d53a09c1a139eac17fae159144
+SHA256: 3f1a7dcb606f74362654921ce0f91aa76e375929fb97ceb17edff63ee4b4cbee
+SHA512: a8073891daf07404001235f0ee0a4241e313319a155dcf93b7261bee9cb493c405096a058840b743d4ed4090ab537d0bc89c3cb652848d0cc42f74efef410516
+Description: Hikari lets you customize and enhance your device’s sound effects with ease.
+Name: Hikari VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Hikari.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Hikari.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Crakage: com.hitori.hikari
+Author: Hitori
+
 Package: com.bvn.homebarsizer
 Architecture: iphoneos-arm64e
 Version: 1.1.1
