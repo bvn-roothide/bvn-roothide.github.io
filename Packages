@@ -2778,6 +2778,28 @@ Description: Control your appswitcher
 Name: PrimeDeck (Roothide)
 Author: 0xkuj
 
+Package: com.bvn.recordpause-r2
+Architecture: iphoneos-arm64e
+Version: 2.0.2
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./debs/com.bvn.recordpause-r2_2.0.2_iphoneos-arm64e.deb
+Size: 11228
+MD5sum: cc0500feb3e6df4609ad28ac01f749ee
+SHA1: 67bdbfd91c21800d55db707cd96dde03a41c26f2
+SHA256: d5b7a2f5fe5aa5c130f15dd3793b9898e9c4060f186836a115fb1079271385b2
+SHA512: 93b03e88f6df57f3df4593af10d36011db2a7ff07b3fa0bd9985442f84a419ebb428f6aee4d57701bf40dc391b804b47b5aa7172854104fa1b58306ad08c0622
+Description: Tạm dừng/tiếp tục quay video.
+Name: RecordPause (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/RecordPause.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/RecordPause.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: PoomSmart
+
 Package: com.bvn.redblue-roothide
 Architecture: iphoneos-arm64e
 Version: 1.0
