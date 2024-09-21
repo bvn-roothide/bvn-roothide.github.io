@@ -1108,6 +1108,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/ChargeLimiter.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: chaoge
 
+Package: com.bvn.EdgeSiri-r2
+Architecture: iphoneos-arm64e
+Version: 3.1.1-9
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.EdgeSiri-r2_3.1.1-9_iphoneos-arm64e.deb
+Size: 16572
+MD5sum: 76da5dcbd17d17af88874f6fa01af0fc
+SHA1: 38a52fc717f25f3db3182d43c1e5510f9ce6d897
+SHA256: ead5880fb7f4de012922cd5871504a552d7c330a623088e86a41cf165d5c214c
+SHA512: 914593b8dd66639e530979ceda10f3d18905f7206a48b71ed6155ad3253433d5e8657682a0221549077ed98e2ed460361ca89f789056791cf0d2cd40a2560482
+Description: Đây là một plugin khác bắt chước iOS18 và không có cài đặt. Có hiệu lực ngay sau khi cài đặt, nó sẽ hiển thị đường viền màu xung quanh màn hình khi Siri được kích hoạt. Viền này không chỉ tăng thêm sức hấp dẫn về mặt hình ảnh mà còn cung cấp phản hồi trực quan hơn khi sử dụng Siri.
+Name: Edge个Siri (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Edgeseri.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Edgeseri.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: tangerine
+
 Package: com.bvn.Exodar-r2
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -3434,24 +3455,23 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.ytlite-r2
 Architecture: iphoneos-arm64e
-Version: 4.0.1
+Version: 5.0.2
 Section: Tweaks
-Maintainer: Bvn repo
-Installed-Size: 15596
-Pre-Depends: rootless-compat(>= 0.9)
+Maintainer: BVN
+Installed-Size: 16124
 Depends: mobilesubstrate
-Filename: ./debs/com.bvn.ytlite-r2_4.0.1_iphoneos-arm64e.deb
-Size: 11588728
-MD5sum: 322d9d028b8ae13900b604d3afc35bdd
-SHA1: 35cc767e1aca67c09943a860781daa7189093c19
-SHA256: e88d70484f7d664b542f409641ec24b81a65a0ceebe30130df1e8988f79f8041
-SHA512: c2a4e059b706c8dbdc785f21adb939100a325477d2bc1c181a8a11017aa5e011d1edd5ad1f3f5cf6ec3258a3ed9edb69d346f319969ca2e5abb7b845a3bcc5cd
-Description: Bổ sung các tính năng hưu ích cho Youtube
-Name: YTLite VH(Roothide)
+Filename: ./debs/com.bvn.ytlite-r2_5.0.2_iphoneos-arm64e.deb
+Size: 8035748
+MD5sum: 5faf5002bd0c41df6fa9c62ff5d433d8
+SHA1: cf5c5113b1c83a4ce65b9eac68e70959881cce5e
+SHA256: 6a597490ea1fa4c7fb7200fa892c631407364b9303cb49d4ea31d3fb7fe6664a
+SHA512: 28ec63a2c50928f3aef48b0ee28b92e20ee724ddc48e3408651ff0b6dfe738585ce1bcc4a2458f596cabca7ab76d70907f6463327824964f9ae327137ff2de16
+Description: Lightweight YouTube Enhancer
+Name: Youtube Plus (Roothide)
 Author: dvntm
 Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.ytx
 Architecture: iphoneos-arm64e
@@ -3494,6 +3514,28 @@ Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/ytx.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.zeppelinreborn-r2
+Architecture: iphoneos-arm64e
+Version: 1.4.2k
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 3100
+Provides: com.alexzielenski.zeppelin
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
+Replaces: com.bvn.zeppelinreborn, com.hitori.zeppelinreborn
+Filename: ./debs/com.bvn.zeppelinreborn-r2_1.4.2k_iphoneos-arm64e.deb
+Size: 1542316
+MD5sum: 0ca069c106ebc7969eec954b991ed0d3
+SHA1: f27ac8600be515f746f0f5dd9c990a7133acc229
+SHA256: 6f93abdcf726c63cf6af75912e3692e34537bcd915ed8ea65e5b752f13197003
+SHA512: ccd254f1425562f858929cef68427236fca47f333c2a16911d15672983580131d1580fcae801b6af37d76bc866023cc9965df1afc5ff697addb2bc2343c97c00
+Description: Adds an image or GIF next to the carrier text or time!
+Name: Zeppelin Reborn VH(Roothide)
+Author: Hitori <mikasa-san@outlook.jp>
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Taq: cydia::commercial, compatible_min::ios15.0
 
 Package: com.bvnrepo.Starfall
 Architecture: iphoneos-arm64e
@@ -4707,46 +4749,25 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.zetsu-roothide
 Architecture: iphoneos-arm64e
-Version: 1.2
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 2448
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate,firmware (>=15.0),preferenceloader
-Filename: ./debs/com.repobvn.zetsu-roothide_1.2_iphoneos-arm64e.deb
-Size: 3831498
-MD5sum: 407ccca156a1d7c1770480174f778036
-SHA1: 80aae230c5e7a886cc224fcce428e6c0b6625d6c
-SHA256: 262dfe63918c287a3e21c6f5f7bebd343b6732d72404e2b9cefb36e50bf2dff1
-SHA512: 2fd3cb656d995d31ed5cf0ee0a4492a7da94e0fed406be93fa93d5b7f6b561313103d3cc2c7541f1d4ddb25ae6ad571a50b9eb5ffed88281b613451f179e1402
-Description: Đa nhiệm trên iOS15 & 16.Lưu ý đây là bản thử nghiệm trên ios 15 và 16.4 .iOs cao hơn nếu cài gặp lỗi vui lòng xoá Tweaks
-Name: Zetsu VH(Roothide)
-Author: Dcsyhi
-Depiction: http://support-jailbreak.github.io/infodeb/Zetsu/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Zetsu.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.repobvn.zetsu-roothide
-Architecture: iphoneos-arm64e
-Version: 1.6
+Version: 1.6.2
 Section: Tweaks
 Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
-Installed-Size: 11675
+Installed-Size: 12005
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
-Filename: ./debs/com.repobvn.zetsu-roothide_1.6_iphoneos-arm64e.deb
-Size: 12328174
-MD5sum: 8005f15b08b4e2735b05804d1b3a3b01
-SHA1: 56e4bd386e6a24532e28d7edff3837529399794f
-SHA256: bdd5230c50a8a018c330cc0fa5791bcfb034d28cd1a4965830c9e14a610a2320
-SHA512: 0a8662f3915ff5696f77265e7081f105f03731687d64236944c1f18d7953ddf25bb517d04bbd32be41fd807b4ac97682bb1200008bbf29134749b989094bf952
+Filename: ./debs/com.repobvn.zetsu-roothide_1.6.2_iphoneos-arm64e.deb
+Size: 4325080
+MD5sum: e08c7147d9b3f1db08679412a0d439f9
+SHA1: 111634811d0d7797d7b7b66f48b19bae00923d70
+SHA256: d218377a100d44fdb8bee4e8d00d6cecd432bac6aa4bff6e36cfe9a269e9080b
+SHA512: d626643fa97d4a31a3f548b2cc7bdfcc23590b91e3d9cb0d64d7a136e0b2f34ef79a3d858a6b9a36747a1a4a6e671ef6781aec8927b93292b4729586cf72eacd
 Description: Multitasking on iOS15 - iOS16.
 Tag: compatible_min::ios15.0
 Author: Dcsyhi <dcsyhi1998@gmail.com>
-Name: Zetsu VH(Roothide)
+Name: Zetsu (Roothide)
 Depiction: http://bvnsupport.github.io/infodeb/Zetsu/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Zetsu.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.spark.libsparkcolourpicker
 Architecture: iphoneos-arm64e
