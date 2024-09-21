@@ -1344,6 +1344,60 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/backgrounderaction15.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/backgrounderaction15.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.bhtiktok++
+Architecture: iphoneos-arm64e
+Version: 1.1-1+debug
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 916
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.bvn.bhtiktok++_1.1-1+debug_iphoneos-arm64e.deb
+Size: 479650
+MD5sum: 62b4dd41f346925a7553dc08bfef5547
+SHA1: 120ae11291b51691bc655e23df3dcde1a59c9d43
+SHA256: b7cff9c4e93226f3e400b9fea58cbada38404806f51316639c30e248b5296108
+SHA512: dc8cc1508f6e714dae6b676ac9d4cf833a41f92668910501a3121cbf9ec25beba63783d89d2a845036047394e34360b6fd912dfe750ae2b23da36b6602db0e1b
+Description: BHtiktok ++
+ - Không có quảng cáo
+ - Tải xuống video
+ - Tải xuống ảnh
+ - Tải nhạc xuống
+ - Khu vực tải lên
+ - Hiển thị tên người dùng
+ - Vô hiệu hóa Kéo để làm mới
+ - Vô hiệu hóa cảnh báo không nhạy cảm
+ - Vô hiệu hóa cảnh báo
+ - Vô hiệu hóa phát sóng trực tiếp
+ - Bỏ qua các đề xuất
+ - Xóa hình mờ
+ - Nút Hiển thị/Ẩn giao diện người dùng
+ - Sao chép mô tả video
+ - Sao chép liên kết video
+ - Sao chép liên kết Âm nhạc
+ - Tự động phát video tiếp theo
+ - Hiển thị thanh tiến trình
+ - Xác nhận như
+ - Xác nhận bình luận thích
+ - Xác nhận bình luận không thích
+ - Xác nhận theo dõi
+ - Lưu ảnh hồ sơ
+ - Sao chép thông tin hồ sơ
+ - Số lượng video hồ sơ
+ - Ngày tải lên video
+ - Số lượt thích video
+ - Luôn Tải Lên Ở Chế Độ HD
+ - Mở rộng tiểu sử
+ - Mở rộng bình luận
+ - Luôn mở trong Safari
+ - Thay đổi khu vực
+ - Xác minh dấu màu xanh giả
+ - Số lượng người theo dõi giả mạo
+ - Số lượng người theo dõi giả
+Name: BHTikTok++
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: raul saeed
+
 Package: com.bvn.bhtiktok-Roothide
 Architecture: iphoneos-arm64e
 Version: 2.3
@@ -3883,6 +3937,25 @@ Description: An awesome library of some sort!!
 Tag: role::developer
 Name: LibGcUniversal (Roothide)
 Author: MrGcGamer
+
+Package: com.muirey03.libimagepicker
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Section: Development
+Maintainer: Muirey03
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends:
+Filename: ./debs/com.muirey03.libimagepicker_1.0.4_iphoneos-arm64e.deb
+Size: 10892
+MD5sum: b48a00437fb3133c6ec9c5b4bb2543d4
+SHA1: 9e465c3e1d2555e23781ba8192f9461cb21d913e
+SHA256: 3a49ef990df2cccdef70f3e78313ee7e53bc10302b20100398b76e67b7aa7887
+SHA512: 3a90c6c34cf13977b80a15fc304dbb99c95186604aedfdb8be5c1c480640b834d6885b2ecf5642d7916d41e0e376d88c2f51dc0edf7eb09b765830b7b3a4fcac
+Description: A simple library for choosing images in preference bundles.
+Tag: role::developer
+Name: libimagepicker (Roothide)
+Author: Muirey03
 
 Package: com.nan.bindfs
 Architecture: iphoneos-arm64e
