@@ -1419,6 +1419,29 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/BHTikTok/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/BHTikTok.json
 
+Package: com.bvn.biolocker.roothide
+Architecture: iphoneos-arm64e
+Version: 1.15.0-beta-2
+Section: Utilities
+Maintainer: BVN REPO
+Installed-Size: 2916
+Pre-Depends: firmware (>=15.0)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays.roothide (>= 1.0.16), vn.bvn.iarrayshack
+Conflicts: com.rpetrich.biolockdown, net.limneos.bioprotect, com.iarrays.biolocker.rootless
+Filename: ./debs/com.bvn.biolocker.roothide_1.15.0-beta-2_iphoneos-arm64e.deb
+Size: 1030488
+MD5sum: ca4f013a77b0a566d7cd4411848ef15d
+SHA1: 85b00d284b1b0a28df0d8c4f4f50839351e69f59
+SHA256: b0d7a399a42200af6bfeddba9882ecb2118f52bb79ccb87431f75361aca3635e
+SHA512: 7d2e5717b341a53760fd9a1dc02201ba4a0edaa790c5b3e6f9a2291ed775e7cc3b6556c46ee1cdf2a289de0ec441b0c9bbd8b34343192686d9c0ad76e2788e3e
+Description: Khoá ứng dụng đơn giản, nhẹ và trang nhã cho ứng dụng của bạn. Bảo vệ ứng dụng của bạn bằng Face ID hoặc Touch ID hoặc mật mã tùy chỉnh.
+Name: Bio Locker VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/biolocker.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/biolocker.json
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.calllogpro.roothide
 Architecture: iphoneos-arm64e
 Version: 15.0-beta-3
