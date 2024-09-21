@@ -3201,6 +3201,27 @@ Author: Eevee
 Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
 
+Package: com.bvn.spotify-r2
+Architecture: iphoneos-arm64e
+Version: 5.2
+Section: Tweaks
+Maintainer: Eevee
+Installed-Size: 2732
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Filename: ./debs/com.bvn.spotify-r2_5.2_iphoneos-arm64e.deb
+Size: 562556
+MD5sum: 14574dd6bb59a193773d1916679c8b31
+SHA1: b31d7e1a6ab983f741a570f374c7d8b9416d49f5
+SHA256: 6657775388b5310acf480cfecfaf53ea87d3793b126b03638f7d963e734cc48c
+SHA512: 456c1c03bc00edecdd69d7c7e8e5bff7817f86defc37234533185a098983edbe0dfb4a7b4685f4ade894c9064386dccf547788aabd5c2faa7e6584be97fe9316
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify (Roothide)
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.stalky
 Architecture: iphoneos-arm64e
 Version: 4.1.26
