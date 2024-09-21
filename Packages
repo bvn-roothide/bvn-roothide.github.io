@@ -3065,15 +3065,15 @@ Section: Themes Roothide
 Maintainer: BVN Repo
 Installed-Size: 39667
 Filename: ./debs/com.bvn.solstice-r2_2.9.5_iphoneos-arm64e.deb
-Size: 48623948
-MD5sum: bbf5bea4fca1520144b37ee7337bea6a
-SHA1: 5e43e720259652b89e33ccf03fc0e5b67a927182
-SHA256: e62b563244230da1f1e51d68baf45b4db2cdbc0ac9559d315021b4abb09915af
-SHA512: f275e02d23edc9b22fba4d21d52431fac1424608ce3442fbc5931296cacda78fadfea7db25254f23b6d5a1301486f64165f77aceaaeb225be394afa5ef2abbb8
+Size: 48623914
+MD5sum: 7348dfcda99e6e173a17599249f296e9
+SHA1: c47e91afe9abeff902133092534d87570a64e0cf
+SHA256: bd47844f6c80d5abf489d74dc2ad32cff094d12c9a3c3ad724bf5ef776d25348
+SHA512: 4507128d50b73396788cbbfc77730e47c5c366d6a0f6c61868bafc8969fa50c07fdca5921d1a31ff68410e3e1df3264999a14873dfa319dce454c30aa7488c37
 Description: Solstice Theme 2700 icons
 Author: Rifai <icons-requests@hotmail.com>
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
-Name: Solstice (Rootless)
+Name: Solstice (Roothide)
 Depiction: http://bvnsupport.github.io/infodeb/Html/solstice.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
 
