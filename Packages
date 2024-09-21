@@ -2081,6 +2081,29 @@ Name: HALO (Roothide)
 Author: uz.ra
 Icon: https://raw.githubusercontent.com/uz-ra/uz-ra.github.io/main/HALO.PNG
 
+Package: com.bvn.hideserialnumber
+Architecture: iphoneos-arm64e
+Version: 0.0.4
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 472
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs/com.bvn.hideserialnumber_0.0.4_iphoneos-arm64e.deb
+Size: 189096
+MD5sum: c83d1865eda5d4ef4d69c9b96a3fce78
+SHA1: 02b5e9c64a3611fe652fa3308ccfa20b840369d3
+SHA256: d33eef16ab61175657de9560b8a837bde5e05e2adddce77a19e307b66cdacea9
+SHA512: 87bc0eac19722f37edeaf3bd90984a582019d4bc88348030d0c692bde7e81869012e3a56657785c41fcaba04507944eca17319e8223155bf9ed541f828f055ab
+Description: Hide Serial Number in Settings About page.
+Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
+Author: ichitaso
+Name: HideSerialNumber (Roothide)
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/HideSerialNumber/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/hideseri.json
+dev: ichitaso
+
 Package: com.bvn.hidestatusbaritemsx-roothide
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -4002,6 +4025,27 @@ Depiction: http://support-jailbreak.github.io/infodeb/OTADisabler/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/OTADisabler.json
 Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 Author: ichitaso
+
+Package: com.johnzaro.networkspeed13
+Architecture: iphoneos-arm64e
+Version: 3.0.8k
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 880
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, oldabi, ws.hbang.alderis, firmware (>= 12)
+Filename: ./debs/com.johnzaro.networkspeed13_3.0.8k_iphoneos-arm64e.deb
+Size: 1005254
+MD5sum: 424863968a0177e26256b915bdcd7585
+SHA1: 44c331085b1b6fc0c2d768bee3a39e3b0100df81
+SHA256: 29e86a3fccdfda424ca96c193f7868835f41381ccbb0cf6729a05b85a7b30f67
+SHA512: ab0c12e9e50b408a5b198bf9c727411b9bdf4ca3405dc4964d2652e9aeb56b728e27ccbbc39e7be6ead27a9e726435351594bc1fbf24a117cfc6e2a5004eb5ec
+Description: Hiển thị tốc độ mạng
+Name: NetworkSpeed VH(Roothide)
+Author: Johnzaro & lclrc
+Depiction: http://bvnsupport.github.io/infodeb/Html/NetworkSpeed.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/NetworkSpeed.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.mrgcgamer.libgcuniversal
 Architecture: iphoneos-arm64e
