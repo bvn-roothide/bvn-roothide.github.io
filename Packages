@@ -2823,6 +2823,24 @@ Name: PlampyCC VH(Roothide)
 Author: sugiuta
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.plampyuipro
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN REPO
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.plampyuipro_1.0_iphoneos-arm64e.deb
+Size: 2196720
+MD5sum: 2b0eac98c1e8d042195469084884b80a
+SHA1: 2455f35d1083522a530661f4c2fd9e14221805b7
+SHA256: 463596d6bb1a1be1f0f54a918ca4bd629b4ee82755485726acd9593104c1dc3d
+SHA512: 8ca916179e9385f37deeeae40127f296de399fec6216336e4210e783ad24686e972e46fb3716ca51112def2a30e0f06c5021043c4caba35445f931cda3c3f88e
+Description: Công cụ làm đẹp trung tâm điều khiển cho iOS 15/16. Thay đổi các biểu tượng/ hiệu ứng của các mô-đun gốc, sửa đổi hình nền nền, v.v.
+ - A control center beautification tool for iOS 15/16. Change the icons/effects of the native modules, modify the background wallpaper, etc.
+Name: PlampyUIPro VH(Roothide)
+Author: Phuc Do
+
 Package: com.bvn.primedeck
 Architecture: iphoneos-arm64e
 Version: 1.3.0
