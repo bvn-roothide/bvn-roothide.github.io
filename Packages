@@ -3105,6 +3105,25 @@ Name: ShowTouch (Roothide)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: LonestarX
 
+Package: com.bvn.snapper3-r2
+Architecture: iphoneos-arm64e
+Version: 1.0k
+Section: Tweaks
+Maintainer: BVN Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware(>=15.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33, xyz.cypwn.snapper3
+Filename: ./debs/com.bvn.snapper3-r2_1.0k_iphoneos-arm64e.deb
+Size: 2268702
+MD5sum: 3fd5b5f69719162b9ad450c5fc686275
+SHA1: 6420cfa269f8a7346fe4a5fc47211708dc408188
+SHA256: 1053c1fa770256df3e27b81575c7acbaa85fa4f4c925defcfb356e78cc26cf04
+SHA512: d87c5e0b6b72ca8b2795855378d54540ab67e5c1b5f40e7650da0460542e0f1a6cca2e1340f4c47b8c566d37dcc0278e1921c0eb64cd5c5bb5fee04cd57d39e5
+Description: Snapper 3 is a toolbox for screenshots on iOS.
+Name: Snapper 3 VH(Roothide)
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Jonathan Winger-lang
+
 Package: com.bvn.sniper
 Architecture: iphoneos-arm64e
 Version: 1.2
