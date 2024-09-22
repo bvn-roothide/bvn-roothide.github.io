@@ -2831,15 +2831,16 @@ Maintainer: BVN REPO
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Filename: ./debs/com.bvn.plampyuipro_1.0_iphoneos-arm64e.deb
-Size: 2196720
-MD5sum: 2b0eac98c1e8d042195469084884b80a
-SHA1: 2455f35d1083522a530661f4c2fd9e14221805b7
-SHA256: 463596d6bb1a1be1f0f54a918ca4bd629b4ee82755485726acd9593104c1dc3d
-SHA512: 8ca916179e9385f37deeeae40127f296de399fec6216336e4210e783ad24686e972e46fb3716ca51112def2a30e0f06c5021043c4caba35445f931cda3c3f88e
+Size: 2196764
+MD5sum: 7664f9ab1f421595e23d4873259146e0
+SHA1: 8c2903890ad368875b6943e3447d761f2b8da3b4
+SHA256: e5b92c115505da971ecf66bd6a73142c35f2ed37cdb129e57e95671981b16de6
+SHA512: 5f3171627938d5095fe78198a7e7344d42404f768d696eae8898c881ff42a8e30fb2c5cc99a98cbabff2ba00ccd4ed7a589728f691952997a6e4f6b9c16cc1ad
 Description: Công cụ làm đẹp trung tâm điều khiển cho iOS 15/16. Thay đổi các biểu tượng/ hiệu ứng của các mô-đun gốc, sửa đổi hình nền nền, v.v.
  - A control center beautification tool for iOS 15/16. Change the icons/effects of the native modules, modify the background wallpaper, etc.
 Name: PlampyUIPro VH(Roothide)
 Author: Phuc Do
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.primedeck
 Architecture: iphoneos-arm64e
