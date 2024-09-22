@@ -1829,6 +1829,23 @@ Depiction: http://bvnsupport.github.io/infodeb/CustomizeCC/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CustomizeCC.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.dark
+Architecture: iphoneos-arm64e
+Version: 2.6
+Section: Themes Roothide
+Filename: ./debs/com.bvn.dark_2.6_iphoneos-arm64e.deb
+Size: 75722226
+MD5sum: 1015e37e40a25d5be9c477974c782041
+SHA1: 641787228c1287f9f4b9310b195d8e1efb172e62
+SHA256: df08871bc860113a33be5352cd64bb68021904c503f71649141052049d3c0bf4
+SHA512: fd1068d84c04fcd8f10a0bf4f5355c10742eec3b5aec6a5ca44981ea8eb23f4c2fb635239777d5768efd0c50fa5a76388d8e788c12a1677e8d7b8df920398148
+Description: Mojox Dark 3600+ icons
+Name: MojoX Dark (Roothide)
+Author: Rifai
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/MojoX.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/MojoX.json
+
 Package: com.bvn.disablepastealert16
 Architecture: iphoneos-arm64e
 Version: 1.0
