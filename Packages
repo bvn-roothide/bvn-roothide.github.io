@@ -5339,6 +5339,26 @@ Author: udevs
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
 
+Package: com.udevs.dockx
+Architecture: iphoneos-arm64e
+Version: 2.6.2k
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 2036
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.6.2k_iphoneos-arm64e.deb
+Size: 705396
+MD5sum: a36876f398fbc93fa9408cad6912b695
+SHA1: 0d4ed6c25e76c07659382dcb82110defa4d0172f
+SHA256: b48d48e4e45ee0f075bf22deaa36221bd28a9ff45b2ce305b9e1e4e836542329
+SHA512: 04aeb87f14235381a6cfdba3b8b6471cd6394b54e1b7a1503d8383f0ba4839071299c3fa6617376364ec2385ef425c5fecbab2c917d4fa4e194337788022999d
+Description: Pasteboard shortcuts on your keyboard dock!
+Name: DockX VH(Roothide)
+Author: udevs
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
 Package: dev.bvn.liddell-roothide
 Architecture: iphoneos-arm64e
 Version: 1.4.3
