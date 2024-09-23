@@ -5740,6 +5740,24 @@ Description: Vô hiệu hoá "Giảm tần số CPU và giảm độ sáng tự 
 Name: Disable Thermalmonitord
 Author: zhaonan
 
+Package: vn.bvn.filzadirprobe
+Architecture: iphoneos-arm64e
+Version: 1.4.1
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/vn.bvn.filzadirprobe_1.4.1_iphoneos-arm64e.deb
+Size: 131766
+MD5sum: 73898238161acf42714e6576e8ba0c1e
+SHA1: 049e840da9538cd7c0a4851f5961b72be53eb18c
+SHA256: ef5e6945477c37f83ce8d3feaf61db493a89ead96a0eca78f4ac43369f7c54f5
+SHA512: 3987be891521460c5c26fbff2de1df52440c2daa36d69a83de7a200c500502446cad0affa1c115fd468aa6e48ca6da29a5cc04fd240178f7e1769e5c79b27bdb
+Description: Filza Extension To Calculate Folders Inside Your Filesystem
+Name: FilzaDirProbe (Rooithide)
+Author: 0xkuj
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: vn.bvn.flixenhancer
 Architecture: iphoneos-arm64e
 Version: 3.2.3
