@@ -1086,6 +1086,27 @@ Depiction: http://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppVersion.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.3dappversionspoofer
+Architecture: iphoneos-arm64e
+Version: 2.1.0
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 408
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.opa334.altlist
+Filename: ./debs/com.bvn.3dappversionspoofer_2.1.0_iphoneos-arm64e.deb
+Size: 162376
+MD5sum: 03f4be320876493619fa2562d773d8d5
+SHA1: c85015f2c98470677af1e158c45f6c1d458fe047
+SHA256: 574ac383df008688085a67ca4a2718990c6b15f61aea8411a63c156644559e88
+SHA512: b0643451bf48ffd1b27876f4a8e8c290ac824d776945323d5ceb67b5d5efa50275149b8d47512e0de71667b2807e9ddb6b178630c4c6af39e37278b9b38a1e05
+Description: Một tinh chỉnh để thêm khả năng giả mạo ứng dụng ngay từ menu 3D và các cài đặt trước của bạn
+Name: 3DAppVersionSpoofer VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/3DAppVersionSpoofer/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppVersion.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: 0xkuj
+
 Package: com.bvn.ChargeLimiter-r2
 Architecture: iphoneos-arm64e
 Version: 1.6
