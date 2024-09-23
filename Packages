@@ -5748,13 +5748,13 @@ Maintainer: BVN
 Installed-Size: 240
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/vn.bvn.filzadirprobe_1.4.1_iphoneos-arm64e.deb
-Size: 131766
-MD5sum: 73898238161acf42714e6576e8ba0c1e
-SHA1: 049e840da9538cd7c0a4851f5961b72be53eb18c
-SHA256: ef5e6945477c37f83ce8d3feaf61db493a89ead96a0eca78f4ac43369f7c54f5
-SHA512: 3987be891521460c5c26fbff2de1df52440c2daa36d69a83de7a200c500502446cad0affa1c115fd468aa6e48ca6da29a5cc04fd240178f7e1769e5c79b27bdb
+Size: 131764
+MD5sum: 6d957bb6570ea4f21125bc3cfd455fd4
+SHA1: 419609e61f72ac784e57c57fbaa6c8ede13d6317
+SHA256: 7590b335f04c42dd08b01f7c26f035f4839f5a19938771b905bdea100921c2b2
+SHA512: c944b5e3983c4e49c5d3fabcb2b21c5b1bac683252bdfa0d3118de62e21b56f2d43f090047b7fb942d10e4ed79ac9513bf33466b96658d561f99e4a54fefa8d4
 Description: Filza Extension To Calculate Folders Inside Your Filesystem
-Name: FilzaDirProbe (Rooithide)
+Name: FilzaDirProbe (Roothide)
 Author: 0xkuj
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
