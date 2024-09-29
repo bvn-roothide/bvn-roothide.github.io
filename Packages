@@ -1374,11 +1374,11 @@ Installed-Size: 916
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/com.bvn.bhtiktok++_1.1-1+debug_iphoneos-arm64e.deb
-Size: 479650
-MD5sum: 62b4dd41f346925a7553dc08bfef5547
-SHA1: 120ae11291b51691bc655e23df3dcde1a59c9d43
-SHA256: b7cff9c4e93226f3e400b9fea58cbada38404806f51316639c30e248b5296108
-SHA512: dc8cc1508f6e714dae6b676ac9d4cf833a41f92668910501a3121cbf9ec25beba63783d89d2a845036047394e34360b6fd912dfe750ae2b23da36b6602db0e1b
+Size: 479688
+MD5sum: e29cd8894dde4af858c8eab77c5e95b9
+SHA1: 7fd062d9544a7d6cbaa24ab205fd8b6cd340ea48
+SHA256: 8abd6c5f9724650b1a24c126f04bb6af17f4c6d228d1bef12684f28233767013
+SHA512: d46c7581a9eb8d569299c06bb8cd8a445c94825169c454f7bd1efef150d852345bce89531dd1a00526dd9a88f2470a1b15ec43411247312122902218e20aa978
 Description: BHtiktok ++
  - Không có quảng cáo
  - Tải xuống video
@@ -3163,6 +3163,26 @@ Description: Hiển thị nơi bạn chạm vào màn hình
 Name: ShowTouch (Roothide)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: LonestarX
+
+Package: com.bvn.silentnotifs-r2
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.silentnotifs-r2_0.0.1_iphoneos-arm64e.deb
+Size: 5096
+MD5sum: 0d86b2cb982793a2472d743fd0d37f43
+SHA1: bd69d7c5e7c79ab7006036c88572625070cfe737
+SHA256: c7996f050539765205535af1fa7de481f93d4753aa89a1e84e8c307dbb5c22d6
+SHA512: 0dac350aa982e3cf63a5a557b9053f91d0319dddb8adcb146d16aa41524c7526ea808262021e62e1bc40eb8bcccefda2e02f7c17881ce361fdf33622ec0b1f2a
+Description: Giữ thông báo im lặng trong khi phương tiện đang phát
+Name: SilentNotifs (Roothide)
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/SilentNotifs.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SilentNotifs.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.snapper3-r2
 Architecture: iphoneos-arm64e
