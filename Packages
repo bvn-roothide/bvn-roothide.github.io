@@ -3206,6 +3206,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/SilentNotifs.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SilentNotifs.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.silentnotifs-r2
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.silentnotifs-r2_0.0.2_iphoneos-arm64e.deb
+Size: 5410
+MD5sum: a2d9e5735be61ebc538e88d1300b59dc
+SHA1: 8a0971f288db11f9c3a2aa38abf0e5aff4ed89df
+SHA256: 3b434d2fbe2ae37ea13f23d89a14def60d174e00be08b43ab9a8268007fff39a
+SHA512: ebd5c1496178b284478997fa1dfd2c443739096dc96bba31103bd09bb356b6ac847e0ce71c7d992df6bec0ff41acd7c284a6f6c837fa8560b813bc5bcffcb919
+Description: Giữ thông báo im lặng trong khi phương tiện đang phát
+Name: SilentNotifs (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/SilentNotifs.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SilentNotifs.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: dvntm
+
 Package: com.bvn.snapper3-r2
 Architecture: iphoneos-arm64e
 Version: 1.0k
