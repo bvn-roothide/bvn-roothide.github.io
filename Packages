@@ -321,13 +321,13 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
 Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
 Filename: ./debs/bvn.vn.onesettings-roothide_2.2_iphoneos-arm64e.deb
-Size: 662128
-MD5sum: 09dd581d4b2395735db41211b044fdf6
-SHA1: 311a7edd7017198aee749e6d420018ebb7cf48c4
-SHA256: ae6ff27bef1a57a5fa12d0768b2b093155501d1f48a9450658401a39bcd8a81b
-SHA512: a77f719595867e1a2fb1574b7fb2c3fd8868bc7647e0afb0a8042f0e15694b2f795c4bbcc152bffe5d3f1aa46b0cf43168c551ec044f2d6abb9373f17974e249
+Size: 662130
+MD5sum: 3df98cccdbefa39483ae6c2cd805c0b3
+SHA1: 66b42c88410d0022d86ed89946da6f15016ee814
+SHA256: 7140af3c4167d9a2f528c9fc4a0349ca73195a8e551cd613a0457ca0e9325790
+SHA512: b20fe2b33617ecf8173d00c11138f1e351c5bfd149398e90f01f796ba7a328238be96e9cb3536e49c0af31cf8fabe0f8349901a7cb8fc130e184fcba89feb410
 Description: Một cải tiến tuyệt vời cho Ứng dụng Cài đặt của bạn!
-Name: OneSettings VH(Rootless)
+Name: OneSettings VH(Roothide)
 Author: Nightwind
 Depiction: http://bvnsupport.github.io/infodeb/Html/OneSettings.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/OneSettings.json
