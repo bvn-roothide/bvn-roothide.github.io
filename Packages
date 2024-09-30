@@ -311,6 +311,28 @@ Depiction: https://bvnsupport.github.io/depictions/OneSettings.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/OneSettings.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: bvn.vn.onesettings-roothide
+Architecture: iphoneos-arm64e
+Version: 2.2
+Section: Tweaks
+Maintainer: BvN Repo
+Installed-Size: 1117
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader, com.bvn.onessetingsvh
+Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
+Filename: ./debs/bvn.vn.onesettings-roothide_2.2_iphoneos-arm64e.deb
+Size: 662138
+MD5sum: 970d314fc87bd3a51730ac9260403859
+SHA1: 4bb3442bd2d237554e03cd9a277a92807f54e558
+SHA256: f0f58367891ec66a06e4700486da4583ea85f6529c4781b749e3c0487bc03998
+SHA512: 2b5d409ea85f833ab24f6d4c5dcea27b82d2e8d4aa28832c5cdec55af907f6b07e851e50cf96372974153da7b815d98ff499ced6e05f4f02f1d872744e28d59f
+Description: Một cải tiến tuyệt vời cho Ứng dụng Cài đặt của bạn!
+Name: OneSettings VH(Rootless)
+Author: Nightwind
+Depiction: http://bvnsupport.github.io/infodeb/Html/OneSettings.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/OneSettings.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.SearchDots
 Architecture: iphoneos-arm64e
 Version: 1.1.5
