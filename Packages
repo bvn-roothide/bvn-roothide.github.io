@@ -318,14 +318,14 @@ Section: Tweaks
 Maintainer: BvN Repo
 Installed-Size: 1117
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader, com.bvn.onessetingsvh
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
 Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
 Filename: ./debs/bvn.vn.onesettings-roothide_2.2_iphoneos-arm64e.deb
-Size: 662138
-MD5sum: 970d314fc87bd3a51730ac9260403859
-SHA1: 4bb3442bd2d237554e03cd9a277a92807f54e558
-SHA256: f0f58367891ec66a06e4700486da4583ea85f6529c4781b749e3c0487bc03998
-SHA512: 2b5d409ea85f833ab24f6d4c5dcea27b82d2e8d4aa28832c5cdec55af907f6b07e851e50cf96372974153da7b815d98ff499ced6e05f4f02f1d872744e28d59f
+Size: 662128
+MD5sum: 09dd581d4b2395735db41211b044fdf6
+SHA1: 311a7edd7017198aee749e6d420018ebb7cf48c4
+SHA256: ae6ff27bef1a57a5fa12d0768b2b093155501d1f48a9450658401a39bcd8a81b
+SHA512: a77f719595867e1a2fb1574b7fb2c3fd8868bc7647e0afb0a8042f0e15694b2f795c4bbcc152bffe5d3f1aa46b0cf43168c551ec044f2d6abb9373f17974e249
 Description: Một cải tiến tuyệt vời cho Ứng dụng Cài đặt của bạn!
 Name: OneSettings VH(Rootless)
 Author: Nightwind
