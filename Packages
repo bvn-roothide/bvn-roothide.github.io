@@ -333,6 +333,48 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/OneSettings.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/OneSettings.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: cn.llld.playerbj
+Architecture: iphoneos-arm64e
+Version: 0.0.1K
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Replaces: vn.bvn.playerbj
+Filename: ./debs/cn.llld.playerbj_0.0.1K_iphoneos-arm64e.deb
+Size: 4816
+MD5sum: 2c54d2ed48a0856e2a3f19848ab41f63
+SHA1: 2bd8175ffd56ad83ad111e12ed55706deb77a6d6
+SHA256: 0d2174c4404421d057d006861e51b311d913e4dc4de75afc17d2f84c698a3a96
+SHA512: 47bbc28fe5a111bc49c4a7870eb46a1c55b784e66b490c97475ae4b57b2b0e385f8ed95b75629b577f3b78d2f83b5396a6047a71bda36aff93551f40e6cf064e
+Description: Trong suốt trình phát nhạc
+Name: Hide player background (Roothide)
+Author: 来了老弟 h_h_x_t
+Depiction: http://bvnsupport.github.io/infodeb/Html/player.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/player.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.0xkuj.safarix
+Architecture: iphoneos-arm64e
+Version: 1.5.0K
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 744
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Replaces: com.bvn.safarix-roothide
+Filename: ./debs/com.0xkuj.safarix_1.5.0K_iphoneos-arm64e.deb
+Size: 277560
+MD5sum: 91539e60724fd10d49be38e7898aeb82
+SHA1: a83ecc8f6960cf0d08b0d22c9bb2201a2bc9dd7f
+SHA256: a801ac8f20f58a75fc4d348dd85330457f2b142403239ae1b308df68cb76474b
+SHA512: 5ef97a41fd404d7c55e4a0ab598195827043f6ba428d943e5cdfa3feabdf0b57e15a63ecc0c37328dbd8f3d0d5fd247416542e6fa4c6a22019bef28ad5866e45
+Description: Safari Essential Features
+Name: SafariX (Roothide)
+Author: 0xkuj
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.SearchDots
 Architecture: iphoneos-arm64e
 Version: 1.1.5
@@ -1068,25 +1110,6 @@ Name: BatteryHealth (Roothide)
 Author: PoomSmart
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
-Package: com.bienvannhat.spotilife
-Architecture: iphoneos-arm64e
-Version: 1.8
-Section: Tweaks
-Maintainer: BvN
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate
-Filename: ./debs/com.bienvannhat.spotilife_1.8_iphoneos-arm64e.deb
-Size: 105992
-MD5sum: 33f5d3705ca63d751660a20e30b09705
-SHA1: 081086a03040e9df9c9e11906c6e185feb812c36
-SHA256: 061b5e899ec7a8e9fae9cba0efd12f5d1b46aa512e2a1ba0a69d362a2375587a
-SHA512: 599c19ae8727d6899532a383809b6f2e42a3df399b84703c3b146d4bff4631e4e6a9370f968185b893937f4e9325ed05537b71ab859931a486356edb9f8bd2ab
-Homepage: http://twitter.com/ijulioverne
-Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
-Name: Spotilife Premium
-Author: julioverne
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/spotilife.png
-
 Package: com.bvn.3dappversionspoofer
 Architecture: iphoneos-arm64e
 Version: 1.3.1
@@ -1441,6 +1464,27 @@ Name: BHTikTok++
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: raul saeed
 
+Package: com.bvn.bhtiktok++
+Architecture: iphoneos-arm64e
+Version: 1.3.0-43+debug
+Section: Tweaks
+Maintainer: raul saeed
+Installed-Size: 916
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.bvn.bhtiktok++_1.3.0-43+debug_iphoneos-arm64e.deb
+Size: 128496
+MD5sum: 0917f00df141d11212e68c2296159576
+SHA1: 23c76691edd711b09ab9520cf2ced51a23edd7c2
+SHA256: 81e57dbcb06c459ff84262539c510cb9ee3a629824ea744110fdd95cd9489539
+SHA512: 247594983e8e40f4957f3b7c6a92fce547f5a79261679680bf1df0118b68e4599630f4aa6dd7bf994e5d8f12d25882be521a34d8d0ebfb745d24e79b186c5ebc
+Description: An awesome tweak for TikTok!
+Name: BHTikTok++ (Roothide)
+Author: raul saeed
+Depiction: http://bvnsupport.github.io/infodeb/Html/bhtiktok.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/bhtiktok.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.bhtiktok-Roothide
 Architecture: iphoneos-arm64e
 Version: 2.3
@@ -1692,6 +1736,25 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/ClassicFolders.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ClassicFolders.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: CoolStar
+
+Package: com.bvn.colorfulwallpaperx
+Architecture: iphoneos-arm64e
+Version: 4.2k
+Section: Tweaks
+Maintainer: BVN REPO
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.bvn.colorfulwallpaperx_4.2k_iphoneos-arm64e.deb
+Size: 1218136
+MD5sum: 19b812111566dbb08646d04870273450
+SHA1: 01519a5237d6697a0879579a74bad21f211d857f
+SHA256: 348a914fa047b48eac9a89223b41233cebe59205e942f6bec2268cc9a12cb811
+SHA512: 29cdf48e9fb586c96fa826fb43856d28963f5821a9fcb3540ba843409ff21c090daeeaa2dad14e5e44d693a8d2784b5cd4dcbeac0047beef1309e12c0e06ef53
+Description: Hình nền động với hiệu ứng đầy màu sắc.
+ - Dynamic wallpaper with colorful effects.
+Name: ColorfulWallpaperX (Roothide)
+Author: Lessica
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.contactsextended
 Architecture: iphoneos-arm64e
@@ -3002,6 +3065,25 @@ Description: Xoá dòng chữ "Confidential and Proprietary" trên màn hình kh
 Name: Remove Confidential
 Author: Flame
 
+Package: com.bvn.removewidgetbg
+Architecture: iphoneos-arm64e
+Version: 1.6-Roothide
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 436
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: ./debs/com.bvn.removewidgetbg_1.6-Roothide_iphoneos-arm64e.deb
+Size: 32528
+MD5sum: 685ec3fc41374e03fae85878645d00d2
+SHA1: 14d650cfd6bcab9988b77cccea1f80e5778dc5b1
+SHA256: 8a65ab4c0c18a6bfc962d55619c0eee8047b206bae762d76897513baeb6a6b72
+SHA512: cc0978fe076d8e93ebc77e26f615861e523bd5cfccd6900cbfc622d461a79c411b46b05c61959801a5b9eb49182433b6a265ce0998624ec6f47dcc1a03834925
+Description: Xóa nền của các widget trên màn hình chính.
+Name: Remove Widget Background
+Author: Lessica <82flex@gmail.com>
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.reo-roothide
 Architecture: iphoneos-arm64e
 Version: 1.3.5
@@ -3343,122 +3425,18 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.spotify-r2
 Architecture: iphoneos-arm64e
-Version: 4.0
+Version: 5.3
 Section: Tweaks
-Maintainer: BVN
-Installed-Size: 1112
+Maintainer: BVN REPO
+Installed-Size: 2788
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
-Filename: ./debs/com.bvn.spotify-r2_4.0_iphoneos-arm64e.deb
-Size: 224952
-MD5sum: 5e4a75ba88c689acf2417989d9889fcb
-SHA1: 2812df72a71079021ae11cb08153ce35f3919d04
-SHA256: b74b834280008211c5484603469d0d2f2e88ff379e42f312b928b9ca43211456
-SHA512: 13bc1c5132b20672b84876081987fb452060f88caf110397ef05e72c745e5bac17ead062e5809af0b1f26864ac4da31d52079444fb09a5ed4adfebb96c14c1b5
-Description: Tinh chỉnh để nhận Spotify Premium miễn phí giống Spotilife
-Name: EeveeSpotify (Roothide)
-Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Eevee
-
-Package: com.bvn.spotify-r2
-Architecture: iphoneos-arm64e
-Version: 4.2
-Section: Tweaks
-Maintainer: Eevee
-Installed-Size: 1308
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
-Filename: ./debs/com.bvn.spotify-r2_4.2_iphoneos-arm64e.deb
-Size: 914668
-MD5sum: 6e6707d9541dbaa190003701cc966cca
-SHA1: cf91d6f3d4df08d28c7f0b4731f88c1855dccce1
-SHA256: 483b8c527a29d23dc5c06f1aa625559f4c9f76d7627c3bf7786e2f8aeb3d0ea0
-SHA512: 9063e4a5e2d0d5a71231a03b014af416a6722c762e7106f3e1a278d5f05b5b04694972b6ab5976d88e22cb05d597068d1d01ed053909bf7070da01351ce22537
-Description: A tweak to get Spotify Premium for free, just like Spotilife
-Name: EeveeSpotify (Roothide)
-Author: Eevee
-Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.bvn.spotify-r2
-Architecture: iphoneos-arm64e
-Version: 4.4
-Section: BVN Repo
-Maintainer: BVN Repo
-Installed-Size: 1520
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
-Filename: ./debs/com.bvn.spotify-r2_4.4_iphoneos-arm64e.deb
-Size: 319536
-MD5sum: 740b58c97b727254a0b8c2baeeae8782
-SHA1: b29f8fd7769125fe7de6e3c54adc2506aae029ad
-SHA256: 98bc16266b172e80669c6cebaee227d7197dcbf5106a12867d5ae67faf6c7c4e
-SHA512: b8f9d7e0137ea9afd882776e497b0a0b695f20ed1a875ac0e18a5b4f13eaf96873f5578594feba3e63d3df3934a57463b64635461eb768ba26c8303c486691e1
-Description: A tweak to get Spotify Premium for free, just like Spotilife
-Name: EeveeSpotify (Roothide)
-Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Eevee
-
-Package: com.bvn.spotify-r2
-Architecture: iphoneos-arm64e
-Version: 4.5
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 2568
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
-Filename: ./debs/com.bvn.spotify-r2_4.5_iphoneos-arm64e-1.deb
-Size: 521904
-MD5sum: 43135284fc28c1ff6081d9742d0f594f
-SHA1: bf33dd69b3585cc04f84065ef86a7a6d5205257e
-SHA256: b3371a5cab5dfcf76aa932438083257e03cf762cc1cfbd652b6962281bce84a2
-SHA512: 32ee15e8e62d133db6fd72593af31c7c421795c1e6c911dc614c4f6cb15d635d458d346614089fec8b7b5358e8e5ad75bdf96e58734af87d0b9c398bc532d521
-Description: A tweak to get Spotify Premium for free, just like Spotilife
-Name: EeveeSpotify (Roothide)
-Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Eevee
-
-Package: com.bvn.spotify-r2
-Architecture: iphoneos-arm64e
-Version: 4.7
-Section: Tweaks
-Maintainer: Eevee
-Installed-Size: 2544
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
-Filename: ./debs/com.bvn.spotify-r2_4.7_iphoneos-arm64e.deb
-Size: 1806592
-MD5sum: 9d3a7d32eb0ed1ed0e5695c4ac4609e1
-SHA1: eb70bf37e7b35f53e287896d64c61a41b2c9bc85
-SHA256: 6e264c2164401dee042992f7e48d1cd34ee2bde7dd6427f7414d91fef1185978
-SHA512: 43edd294b26fcd8b486201400717d6a6fa349a03595dc3ecc3c810c8dd2f7b542bcc7e8769705840a8b0c33b0a2c660ce3191deb2f3dbcefff93a5a9f8a53304
-Description: A tweak to get Spotify Premium for free, just like Spotilife
-Name: EeveeSpotify (Roothide)
-Author: Eevee
-Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
-
-Package: com.bvn.spotify-r2
-Architecture: iphoneos-arm64e
-Version: 5.2
-Section: Tweaks
-Maintainer: Eevee
-Installed-Size: 2732
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
-Filename: ./debs/com.bvn.spotify-r2_5.2_iphoneos-arm64e.deb
-Size: 562556
-MD5sum: 14574dd6bb59a193773d1916679c8b31
-SHA1: b31d7e1a6ab983f741a570f374c7d8b9416d49f5
-SHA256: 6657775388b5310acf480cfecfaf53ea87d3793b126b03638f7d963e734cc48c
-SHA512: 456c1c03bc00edecdd69d7c7e8e5bff7817f86defc37234533185a098983edbe0dfb4a7b4685f4ade894c9064386dccf547788aabd5c2faa7e6584be97fe9316
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Filename: ./debs/com.bvn.spotify-r2_5.3_iphoneos-arm64e.deb
+Size: 566304
+MD5sum: e3429e19b902984143215149124e1eac
+SHA1: 4a6d3d2cce6ad838e0ea9e109c78ece0018bf1c6
+SHA256: abdf4603806c52ffa85143383fbae27166bfbc9e46cfb5f2f41254863f466ed8
+SHA512: 6494b4ded9ddea35da25b1944c1fd4eac970b0943472a7df4f925d23480460e6bc25c10c240fe86532ba235cc242e2ce530c5b172f96c772e231c01b6136d7d8
 Description: A tweak to get Spotify Premium for free, just like Spotilife
 Name: EeveeSpotify (Roothide)
 Author: Eevee
@@ -3607,6 +3585,28 @@ Description: VCAM4iOS
 Name: VCAM4iOS (RootHide)
 Author: trizau
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.vcam.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 320
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.vcam.r2_1.0.2_iphoneos-arm64e.deb
+Size: 52880
+MD5sum: fb4b2a655d34a83457eb7aaed315e6bf
+SHA1: 1ac802e90f50670bcefdb0b6a4b63a2112d98a35
+SHA256: 1596e00c993bbdc9ee842cce19f79dff72957e281e678a1c5d378d5ece599dfe
+SHA512: 4bfc815e64f8a32d1613c9099602019f012c9e0a5f6c81b9b4b077ae289800182af2105c037398381fce3400fedf0f46da4d57f7058f060f6553b7b3a97cc243
+Description: VCAM4iOS
+ - Cách dùng: Nhấn nhanh cộng trừ (nút âm lượng + -, Volumn + -)
+Name: VCAM iOS (Roothide)
+Author: trizau
+Depiction: http://bvnsupport.github.io/infodeb/Html/VCAM.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/VCAM.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.watched
 Architecture: iphoneos-arm64e
@@ -5727,6 +5727,25 @@ Tag: role::developer
 Name: SwiftProtobuf
 Author: eevee
 Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+
+Package: org.swift.protobuf.swiftprotobuf
+Architecture: iphoneos-arm64e
+Version: 1.28.1
+Section: System
+Maintainer: eevee
+Installed-Size: 10028
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.28.1_iphoneos-arm64e.deb
+Size: 2252508
+MD5sum: b8d6da4b60769579e18e522179457af6
+SHA1: 81f02245d4e07da1598c40560a327c26d9a9d2c2
+SHA256: 5bb1c85840b98efdbbe6579f211ac8e3bfa90005c976020af2804dc831605802
+SHA512: 4e1e45af14ec1b0e6090846beb6d0bb1c752ca91efa3df7ec60011245bb75e3e601e63db15289506d94577e596d1f4ec8491eb5afeb0131a1a33b8600cbd0792
+Description: Plugin and runtime library for using protobuf with Swift
+Tag: role::developer
+Name: SwiftProtobuf (Roothide)
+Author: eevee
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/hethongg1.png
 
 Package: ru.rejail.dleasy
 Architecture: iphoneos-arm64e
