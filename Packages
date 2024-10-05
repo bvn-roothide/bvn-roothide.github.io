@@ -355,26 +355,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/player.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/player.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
-Package: com.0xkuj.safarix
-Architecture: iphoneos-arm64e
-Version: 1.5.0K
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 744
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Replaces: com.bvn.safarix-roothide
-Filename: ./debs/com.0xkuj.safarix_1.5.0K_iphoneos-arm64e.deb
-Size: 277560
-MD5sum: 91539e60724fd10d49be38e7898aeb82
-SHA1: a83ecc8f6960cf0d08b0d22c9bb2201a2bc9dd7f
-SHA256: a801ac8f20f58a75fc4d348dd85330457f2b142403239ae1b308df68cb76474b
-SHA512: 5ef97a41fd404d7c55e4a0ab598195827043f6ba428d943e5cdfa3feabdf0b57e15a63ecc0c37328dbd8f3d0d5fd247416542e6fa4c6a22019bef28ad5866e45
-Description: Safari Essential Features
-Name: SafariX (Roothide)
-Author: 0xkuj
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
 Package: com.BIENVANNHAT.SearchDots
 Architecture: iphoneos-arm64e
 Version: 1.1.5
@@ -3021,6 +3001,30 @@ SHA1: 67bdbfd91c21800d55db707cd96dde03a41c26f2
 SHA256: d5b7a2f5fe5aa5c130f15dd3793b9898e9c4060f186836a115fb1079271385b2
 SHA512: 93b03e88f6df57f3df4593af10d36011db2a7ff07b3fa0bd9985442f84a419ebb428f6aee4d57701bf40dc391b804b47b5aa7172854104fa1b58306ad08c0622
 Description: Tạm dừng/tiếp tục quay video.
+Name: RecordPause (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/RecordPause.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/RecordPause.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: PoomSmart
+
+Package: com.bvn.recordpause-r2
+Architecture: iphoneos-arm64e
+Version: 2.0.3
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 168
+Provides: org.thebigboss.recordpause, com.spicat.recordpause
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Replaces: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./debs/com.bvn.recordpause-r2_2.0.3_iphoneos-arm64e.deb
+Size: 33832
+MD5sum: e226f2581158fd0170d483fedc4177ee
+SHA1: 8219c4a3f000eb40a5073b8cd3ae8c85490c328c
+SHA256: 762d50dd94cbf63b1d75bb7c1add4e7ad6c719a66f30d241c133ce79e5eaa840
+SHA512: b9d881f5df0413c4f8ac1a66b4077582fafd134cdcd532ce2b5c48418899fb4d37a8770d3f7088f8925027706997a20635602f7886976e51eb19c4e73d675b93
+Description: Tạm dừng/tiếp tục quay video trong ứng dụng Máy ảnh iOS.
 Name: RecordPause (Roothide)
 Depiction: http://bvnsupport.github.io/infodeb/Html/RecordPause.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/RecordPause.json
