@@ -1331,6 +1331,26 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Netskao
 Tags: compatible_min::ios15
 
+Package: com.bvn.SafariX.r2
+Architecture: iphoneos-arm64e
+Version: 1.5.0K
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 744
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Replaces: com.bvn.safarix-roothide
+Filename: ./debs/com.bvn.SafariX.r2_1.5.0K_iphoneos-arm64e.deb
+Size: 644700
+MD5sum: d150bd670a51953fcc873a8d441e1daf
+SHA1: d341cd1249be3972206b53eede6ba18bb1ef6f27
+SHA256: e1099fb2046e8a85fa22cbb62e5a73f3450c5fb332c13e492a1395f2a6911ebf
+SHA512: e1f7b16f5b388134e858c7ebb6fac3bebdd7e2fff37544a7e171364df76cbb76c85a06c3df418c5ef6d02672e89948d097cabe85adf0785a5e9980959da07c4e
+Description: Safari Essential Features
+Name: SafariX (Roothide)
+Author: 0xkuj
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.Whiteblue
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -3167,45 +3187,6 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/Html/SafariBlocker.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariBlocker.json
-
-Package: com.bvn.safarix-roothide
-Architecture: iphoneos-arm64e
-Version: 1.0.2
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 424
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, com.opa334.altlist
-Filename: ./debs/com.bvn.safarix-roothide_1.0.2_iphoneos-arm64e.deb
-Size: 270184
-MD5sum: be2863323a90a540ca8188590eaf65af
-SHA1: fc713f5b94090ee9fa64f4ff428f811ef302d57e
-SHA256: 0f1ed4742dc4348e0e790f4a99f6245444b9f08522d48ca4cb5d6598b92abd99
-SHA512: 77d085114d68f823a4749622f4d7da59fd7d81741d6441c72ff578e76aa19f49349a71f8ac34351e631e62e6591fa0ea1757a697968309b7a2e8516e87eae415
-Description: Thêm 1 số tiện ích cho Safari
- - Yêu cầu bật Safari trong Bootstraps
-Name: SafariX(Roothide)
-Author: 0xkuj
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.bvn.safarix-roothide
-Architecture: iphoneos-arm64e
-Version: 1.2.0
-Section: Tweaks
-Maintainer: BVN
-Installed-Size: 744
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.bvn.safarix-roothide_1.2.0_iphoneos-arm64e.deb
-Size: 274024
-MD5sum: 0256a63071ca96c17e6614bc8ea2fd32
-SHA1: a636b273ace9252f01f6885195f0ab9f33ed6a15
-SHA256: 08887fb2edd1772ec83032caa5b2d01c13070667e9dc9b74e69fc3a2ed51b01a
-SHA512: 531ab2c2c155c7b78f879aa7b40515af874bd410f77226def1dd3161b5dbc5c6046d3b3579fca0aaee2e9140944ebc8d24132f58bdc30f7d15366eb366a7db92
-Description: Thêm các tính năng hữu ích cho Safari
- - Safari Essential Features
-Name: SafariX (Roothide)
-Author: 0xkuj
 
 Package: com.bvn.senri
 Architecture: iphoneos-arm64e
@@ -5949,13 +5930,14 @@ Maintainer: BVN REPO
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
 Filename: ./debs/vn.bvn.noredirect_1.3_iphoneos-arm64e.deb
-Size: 47876
-MD5sum: 2181f2caba10195bd036dbc54b31a72c
-SHA1: 8bf9ac9c8335d67beeb58c299db2de2e43ecd43f
-SHA256: f62a3351f6ac06d0a771bdb54efe9c7431bd687b906dba2971fb897802610059
-SHA512: cc87e078e877490815534280b27a29537072a85a1f04d6dc30f2e668b3710ceb204859223342e8a6a5de55ae25cc6d07a3b2c6f45d4a6ee7de9cf53215299263
+Size: 152940
+MD5sum: 0e2790fd7380db7a042b164981acc055
+SHA1: ec844c6cb44fb66c8fa694d6a16ac4cb7f9b5039
+SHA256: 7ea7d21a40b933dc202b46dfffaa6a913b4084e4d8605d6f1cf4454ada1db1f9
+SHA512: 05e66e64dd4614ed7c7ad3ef7a4b34c48e44ac38a1514e9fd17d2543029891efd21d1b8c7d40a4a1647e8341d33e3323c9a2e958bf96e8432fd2f9c5e385c0a8
 Description: Ngăn các ứng dụng được chỉ định chuyển hướng đến App Store, Safari hoặc các ứng dụng khác.
  - Stop specified apps from redirecting to App Store, Safari or other apps.
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Name: No Redirect (Roothide)
 Author: Lessica
 
