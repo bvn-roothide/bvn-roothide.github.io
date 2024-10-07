@@ -1331,6 +1331,27 @@ Name: SafariX (Roothide)
 Author: 0xkuj
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.SafariX.r2
+Architecture: iphoneos-arm64e
+Version: 1.5.2K
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 744
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Replaces: com.bvn.safarix, com.0xkuj.safarix
+Filename: ./debs/com.bvn.SafariX.r2_1.5.2K_iphoneos-arm64e.deb
+Size: 277476
+MD5sum: c6ed4a30ffe5105d0a3cc0476df9ec0b
+SHA1: a50702f3de46880a8be0f26b60306509e1722928
+SHA256: da1b5db0c2ed80e512a3004058637220f140a40ed2bf6e5b74ca0f6d9f7b64f9
+SHA512: 1862a620f6c7c55486d4e272d341218ac304d5ed2b89e56139a2dfec326069a9bbe0d3840179c642d4cfa69c4c2b129959bb4100011bb26daadbe50da81c9731
+Description: Thêm 1 số tiện ích cho Safari
+ - Safari Essential Features
+Name: SafariX (Roothide)
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: 0xkuj
+
 Package: com.bvn.Whiteblue
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -1346,6 +1367,27 @@ SHA512: 5ab6ef9cc4d166da68e9787d9684a4ef8f49b9ad87e8e1a41d9e22ee8b49454aa7d8f5e9
 Description: Gói chủ đề Whiteblue .Kích hoạt qua Snowboard
 Name: Whiteblue
 Author: unclear
+
+Package: com.bvn.adguardPro-r2
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.adguardPro-r2_0.0.1_iphoneos-arm64e.deb
+Size: 933568
+MD5sum: 3ab8bf95d4458a6e1c9bac152c47091d
+SHA1: c6b817d85e163a4c2dcf720ea7aa678a287f780a
+SHA256: 96fceaff959c91092f1c19a83314eda48c28b23251e375eb053f7db565b13aa0
+SHA512: f448027ef7847da7e5bb31f10be0af55004f24f46ac6fa81d95e094616e86147dd205580d55000a358f3895dd417679901ed75f5a5fad2b871e2f793c49d8809
+Description: Unlock AdGuard Premium
+Name: AdGuard Premium (Roothide)
+Author: Dell <dvq273665536@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/AdGuard.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AdGuard.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.albummanager
 Architecture: iphoneos-arm64e
@@ -3108,6 +3150,27 @@ Name: Remove Widget Background
 Author: Lessica <82flex@gmail.com>
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.removewidgetbg
+Architecture: iphoneos-arm64e
+Version: 1.7K-Roothide
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 384
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: ./debs/com.bvn.removewidgetbg_1.7K-Roothide_iphoneos-arm64e.deb
+Size: 32228
+MD5sum: 9b4ec352d1925fe3395109b20d9bf062
+SHA1: e22df5afc52362a00f31989ed9529c04e1d993e4
+SHA256: a613cff6181ce9556ef2ebea39b1aed198255bc4cd6d7ec7d72438ea54c9d6cb
+SHA512: 98b7b2d466884eaabc9608a14aebd3103b16532577d00e7de116a1c65bd364720fe06e6fdfe3162c8045ce9c86be88c7c9f8ee586b0476be722042e25e9a33dd
+Description: Xóa nền của các widget trên màn hình chính.
+Name: Remove Widget Background (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Remove.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Remove.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Lessica <82flex@gmail.com>
+
 Package: com.bvn.reo-roothide
 Architecture: iphoneos-arm64e
 Version: 1.3.5
@@ -3293,6 +3356,29 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/SilentNotifs.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: dvntm
 
+Package: com.bvn.singlemutes-r2
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: Tweaks
+Maintainer: 82Flex
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.82flex.singlemute
+Filename: ./debs/com.bvn.singlemutes-r2_1.4_iphoneos-arm64e.deb
+Size: 26344
+MD5sum: e545cd29075af5767bd678f4405468e7
+SHA1: 0397ec578661e7957de89a8cbadd2e1f7a3ab4a3
+SHA256: a760463256ff1d38be4a905c8200bf3b07655cf10831628cc5917ddede6fc3b7
+SHA512: 0407cdfa2addfd045ccc28472a7773de8780dcef6578edd7f48de8153fae49ad29a8d86e68c769031215fa99f9604cf23880c702df6d6577bae924819274fafa
+Description: Hiển một biểu tượng tắt tiếng trên thanh trạng thái của iOS.
+ * Just a single mute icon on the status bar of iOS.
+Name: Single Mute VH(Roothide)
+Author: 82Flex
+Depiction: http://bvnsupport.github.io/infodeb/Html/Mute.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Mute.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.snapper3-r2
 Architecture: iphoneos-arm64e
 Version: 1.0k
@@ -3422,6 +3508,28 @@ MD5sum: e3429e19b902984143215149124e1eac
 SHA1: 4a6d3d2cce6ad838e0ea9e109c78ece0018bf1c6
 SHA256: abdf4603806c52ffa85143383fbae27166bfbc9e46cfb5f2f41254863f466ed8
 SHA512: 6494b4ded9ddea35da25b1944c1fd4eac970b0943472a7df4f925d23480460e6bc25c10c240fe86532ba235cc242e2ce530c5b172f96c772e231c01b6136d7d8
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify (Roothide)
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.spotify-r2
+Architecture: iphoneos-arm64e
+Version: 5.4
+Section: Tweaks
+Maintainer: Eevee
+Installed-Size: 2788
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Replaces: com.eevee.spotify
+Filename: ./debs/com.bvn.spotify-r2_5.4_iphoneos-arm64e.deb
+Size: 565732
+MD5sum: d512abdc51279c026ece168a40689864
+SHA1: 367307cf05f1e1c4dce10dfb7462ad393ca532af
+SHA256: d293f3834a708027bb017ff6f127e2c202887fdcbb199b7399ddef76d6f15adc
+SHA512: 8ec2c7bc87c3336c4df08271a3c31a2e6ddcadea04fa78e4c71e79a872803277a6aeb6bd3f31433bf53813e33e10305bd9ecd890634602e13e1ca9cb0f9f8079
 Description: A tweak to get Spotify Premium for free, just like Spotilife
 Name: EeveeSpotify (Roothide)
 Author: Eevee
@@ -4165,27 +4273,6 @@ Description: Should be used only by IArrays products. This is closed library and
 Name: libiarrays (RootHide)
 Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
-
-Package: com.ichitaso.otadisabler
-Architecture: iphoneos-arm64e
-Version: 0.4
-Section: System
-Maintainer: REPO BVN
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
-Filename: ./debs/com.ichitaso.otadisabler_0.4_iphoneos-arm64e.deb
-Size: 42276
-MD5sum: fa145fa344e450f9bb58e518148f99c0
-SHA1: 3f8674063fb845c91158d2496d1c67bd44e1edd8
-SHA256: aaef50b16f1f996ebeeb04ff012b8a1e08f30004ad9ecb528446c3b89b7ee09f
-SHA512: 2886263fa51b667ea89bcb8306f62e32638021457178e9e0101513358757f39b90d9d2c0a6c12d6b2c97ad2183d9003440c38d31ebd9d50dc8625a44d8ef6a37
-Description: Chặn cập nhật phần mềm
-Name: OTADisabler (Roothide)
-Depiction: http://support-jailbreak.github.io/infodeb/OTADisabler/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/OTADisabler.json
-Icon: file:///var/jb/Library/IconRepo/hethongg1.png
-Author: ichitaso
 
 Package: com.johnzaro.networkspeed13
 Architecture: iphoneos-arm64e
@@ -5829,6 +5916,26 @@ Author: nicho1asdev
 Depiction: http://bvnsupport.github.io/infodeb/Html/BigSurCenter.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/BigSurCenter.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: vn.bvn.colorfulwallpaperx
+Architecture: iphoneos-arm64e
+Version: 4.5-CRK
+Section: Tweaks
+Maintainer: BVN REPO
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/vn.bvn.colorfulwallpaperx_4.5-CRK_iphoneos-arm64e.deb
+Size: 1235136
+MD5sum: c2f83868fcd3fce00d916f9cbe2c726e
+SHA1: 9a4e721f668ddedd0064720a60e7e90b581a6978
+SHA256: 494f7db6e835b09a2edc7f0489fee988d7df64a294e76c6813f6a09b17d21513
+SHA512: c882798a048277b4785aa37da5753f811ec5870c9905147f621c03d5dca79154699a037cdcd5442f48da3c223a121b3c20a50366030831017903ef31062e0361
+Description: Hình nền động với hiệu ứng đầy màu sắc.
+Depiction: http://bvnsupport.github.io/infodeb/Html/WallpaperX.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/WallpaperX.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: ColorfulWallpaperX VH(Roothide)
+Author: Lessica
 
 Package: vn.bvn.disablethermalmonitord
 Architecture: iphoneos-arm64e
