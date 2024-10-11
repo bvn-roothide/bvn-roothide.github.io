@@ -334,19 +334,19 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/OneSettings.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: byg.iosios.net.caise.siri
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Version: 3.1.1-9K
 Section: Tweaks
 Maintainer: BVN REPO
 Installed-Size: 204
 Depends: mobilesubstrate
 Replaces:  com.bvn.EdgeSiri-Rootless, com.bvn.EdgeSiri-r2
-Filename: ./debs/byg.iosios.net.caise.siri_3.1.1-9K_iphoneos-arm64.deb
-Size: 51348
-MD5sum: 6406882c496972eeacd21d07b574cd64
-SHA1: b1ae4d8fe1a0d2333fd3c6c982114ade420b4349
-SHA256: 79993aae65315c73939bddb9b96a113c9810c2e35eb59d0dab28d029caa4965e
-SHA512: 4ed6ff50d43e39da0bc8bcf0e38fb5475df9cda7696ede25a38b9ebf65ded0d6a29cb72d251c2bb9df4c0294ec2e172fff0ff2ddc7234b98f29ce31f3a8fa79a
+Filename: ./debs/byg.iosios.net.caise.siri_3.1.1-9K_iphoneos-arm64e.deb
+Size: 51350
+MD5sum: 1ff78cc4f7366c77a66b59ac36b4af8d
+SHA1: 97f23b248c60b59a26b5b0cab78320feb8322ecb
+SHA256: 4e611a0c1fcd374fc5d7644d078ee8d8000646422eab5a6b26d48ab06f0ebd52
+SHA512: bc2e65d580578db53b40eb516b67051f137d0486fd50b4f69fa10bfeb7d1cc2348c48d5571ef8c265eee03d7549302bffa2547fdc431b953aec3734f58d4b3a6
 Description: Đây là một Tweak khác bắt chước iOS18 và không có cài đặt. Có hiệu lực ngay sau khi cài đặt, nó sẽ hiển thị đường viền màu xung quanh màn hình khi Siri được kích hoạt. Viền này không chỉ tăng thêm sức hấp dẫn về mặt hình ảnh mà còn cung cấp phản hồi trực quan hơn khi sử dụng Siri.
 Name: Edge个Siri (Roothide)
 Author: tangerine
