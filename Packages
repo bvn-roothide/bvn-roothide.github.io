@@ -3256,6 +3256,26 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/Html/SafariBlocker.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariBlocker.json
 
+Package: com.bvn.safarix.r2
+Architecture: iphoneos-arm64e
+Version: 1.8.1
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 780
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.safarix.r2_1.8.1_iphoneos-arm64e.deb
+Size: 286300
+MD5sum: 01008dc576d4a27d25850dce421aa7c5
+SHA1: 9c58dcdd4a05d5de4135daff28f3f06094b3a7f0
+SHA256: 4c86194c9e89879f27fb8bf62651efee0687cdbe087f9e310719b9a619515589
+SHA512: 7667be811dc03df1aa434607abc05d3d86a950fff00499fcad2c6c1ee8e3658bf1a5fab9baa38366f80a66a99540752094da2cd1e4890375826129a32799cf4d
+Description: Thêm 1 số tiện ích cho Safari
+ - Safari Essential Features
+Name: SafariX (Roothide)
+Author: 0xkuj
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.senri
 Architecture: iphoneos-arm64e
 Version: 1.1
