@@ -3459,38 +3459,19 @@ Author: MTAC
 
 Package: com.bvn.solstice-r2
 Architecture: iphoneos-arm64e
-Version: 2.9.5
-Section: Themes Roothide
-Maintainer: BVN Repo
-Installed-Size: 39667
-Filename: ./debs/com.bvn.solstice-r2_2.9.5_iphoneos-arm64e.deb
-Size: 48623914
-MD5sum: 7348dfcda99e6e173a17599249f296e9
-SHA1: c47e91afe9abeff902133092534d87570a64e0cf
-SHA256: bd47844f6c80d5abf489d74dc2ad32cff094d12c9a3c3ad724bf5ef776d25348
-SHA512: 4507128d50b73396788cbbfc77730e47c5c366d6a0f6c61868bafc8969fa50c07fdca5921d1a31ff68410e3e1df3264999a14873dfa319dce454c30aa7488c37
-Description: Solstice Theme 2700 icons
+Version: 2.9.9
+Section: Theme Roothide
+Maintainer: bvn repo
+Installed-Size: 57329
+Filename: ./debs/com.bvn.solstice-r2_2.9.9_iphoneos-arm64e.deb
+Size: 54185982
+MD5sum: 7178345d723f0f3f67ba3ed15dc9f996
+SHA1: d3a50ce4840a3fea6749768149362bde2d31b8ab
+SHA256: 70091fbf14b90c00e7937906161689ed2b2529f2829757fae06956b3c2c0721c
+SHA512: 1937197c5509adf3592024eb0ecafa4a071dcbcfba9db60171e8209f6b0356b6d46bdb902cb726e84d822909f72de9d10c35e835fbf8fe62fdb699cf6d0e03fb
+Description: Solstice Theme 3105 icons
 Author: Rifai <icons-requests@hotmail.com>
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
-Name: Solstice (Roothide)
-Depiction: http://bvnsupport.github.io/infodeb/Html/solstice.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
-
-Package: com.bvn.solstice-r2
-Architecture: iphoneos-arm64e
-Version: 2.9.6
-Section: Themes Roothide
-Maintainer: BVN REPO
-Installed-Size: 53172
-Filename: ./debs/com.bvn.solstice-r2_2.9.6_iphoneos-arm64e.deb
-Size: 50091352
-MD5sum: a8e6279d068fc0ba6b7f7c6aa40a245e
-SHA1: a7c6ae2171a3795e74affae8c4034ad5af76c4be
-SHA256: 4681546a3dc6f365d3f32dca0fabee9b8d7645f52f1dcee7d07d20e6b3ce4e08
-SHA512: cd2a93399064a5cd4481cb47d73605e619ccc1e90720869613f247abae4ff657347d19f2585c0c8339d84ef2e40dbe469e35b0aab5030a6dbe711c5b78447f8c
-Description: Solstice Theme 2800 icons
-Author: Rifai <icons-requests@hotmail.com>
-Name: Solstice
+Name: Solstice Themes
 Depiction: http://bvnsupport.github.io/infodeb/Html/solstice.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
