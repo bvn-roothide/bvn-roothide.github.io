@@ -2246,6 +2246,27 @@ Description: iPhone X gestures brought to older iPhones compatible with iOS 15
 Name: GesturesXV (Roothide)
 Author: Ethan Whited
 
+Package: com.bvn.griddy-r2
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: bvn repo
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.griddy-r2_1.0.3_iphoneos-arm64e.deb
+Size: 18716
+MD5sum: 7a555d5c2bf1e2c8bec9608c67055d28
+SHA1: 16cfd289759c8bccbe7b17258ed596e486806c59
+SHA256: 9e0588d4897e7a64df16d4c4b7cc3209b000a175bd94cf21536f761aac76c3c7
+SHA512: 7051c775d8f434c73b4d2be29005df924c6ba1b185eb31112706967d410889d4891eb6a6430fb020169859d71191ccd0dad8db3f409b12be24c821c7fbb0d2e8
+Description: Make your icons hit the griddy
+Name: Griddy (Roothide)
+Author: mikifp
+Depiction: http://bvnsupport.github.io/infodeb/Html/Griddy.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Griddy.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.halo
 Architecture: iphoneos-arm64e
 Version: 2.3.1
@@ -2370,6 +2391,27 @@ SHA512: 50a806a0d657a302db610cc5b0b41b98010b38964de22276fed809dac66a3aada6794ba1
 Description: Your documents in one place
 Name: Docbox (Roothide)
 Author: 0xkuj
+
+Package: com.bvn.jaderhd
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1509
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.jaderhd_1.0.3_iphoneos-arm64e.deb
+Size: 314612
+MD5sum: 395fdc3fc26a16a412f516fe5f51e7ac
+SHA1: 75efb43d6569d4630e3c9aabffb0c5e159653ccd
+SHA256: 1f70a248dd2ab625b40fd8ba5b383a47e2289d25dfff35570d39293eaecc7b6b
+SHA512: 72ae1f667d7786afc66c408b5d3935ceec87bc5f776d7e0bf94a6c4023fefe0dd73cf11a57eca5d0ef6672c36646e34bf3ab4ebda02dab0195d100c262101445
+Description: Your control center, brought anew
+Name: Jade VH (Roothide)
+Author: Nightwind and thetimeloop
+Depiction: http://bvnsupport.github.io/infodeb/jade/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/jade.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.jaderhd
 Architecture: iphoneos-arm64e
@@ -3009,6 +3051,27 @@ Description: Công cụ làm đẹp trung tâm điều khiển cho iOS 15/16. Th
 Name: PlampyUIPro VH(Roothide)
 Author: Phuc Do
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.popoutbuttons-r2
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/com.bvn.popoutbuttons-r2_1.0.0_iphoneos-arm64e.deb
+Size: 57856
+MD5sum: 474203a0adb6e931381bc4ccc8513a90
+SHA1: 64a12fe5d6ec4a79fec630c1a4b9cdb11d8d3d19
+SHA256: 76dd6043a51b64279829913c43411574f5469b615a91daf9c2dc629b2450c3af
+SHA512: e83b33d61100f9897d420d8d5795cf2c9cf3aab7fde9320464a46149ace4336031890101c20487cdc00c68b138051e0cb3624da948e96509e30befb7c3efed93
+Description: PopOutButtons mang các nút bật lên của iOS 18 lên iOS 13-17
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/PopOutButtons.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PopOutButtons.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: PopOutButtons VH(Roothide)
 
 Package: com.bvn.primedeck
 Architecture: iphoneos-arm64e
