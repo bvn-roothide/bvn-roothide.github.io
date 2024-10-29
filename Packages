@@ -914,28 +914,6 @@ Author: Elias Limneos <limneoselias@gmail.com>
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 MainLibMD5: 2bd89895e747af47790b0eb2f6bac296
 
-Package: com.Repobvn.carbridge13-roothide
-Architecture: iphoneos-arm64e
-Version: 2.0.12-2
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 7344
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.Repobvn.carbridge13-roothide_2.0.12-2_iphoneos-arm64e.deb
-Size: 455500
-MD5sum: 06a68baecfd6e82c820e52b778c330d8
-SHA1: 4891c24c617b9677461274615e581a27ea8aabe3
-SHA256: af24c81563f72288155b86b51ceaf671ef20914a5d93e7ba6f5d7fb8332e8628
-SHA512: 95296ea6733049e89a07afb231fed1d9fe3fd8c335d02c593e8be9c7f9073a0b18fed1d4a9e4be4d99ca2f1c6153cddf04a13def0b0ef03090b0a629053d3b6f
-Description: Mở bất kỳ ứng dụng nào trong CarPlay!
-Name: CarBridge VH (Roothide)
-Author: leftyfl1p <carbridge@havoc.app>
-Depiction: https://support-jailbreak.github.io/depictions/CarBridge.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/CarBridge.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
 Package: com.Repobvn.powerselector11-rootless
 Architecture: iphoneos-arm64e
 Version: 1.3.9
@@ -2261,6 +2239,27 @@ SHA1: 16cfd289759c8bccbe7b17258ed596e486806c59
 SHA256: 9e0588d4897e7a64df16d4c4b7cc3209b000a175bd94cf21536f761aac76c3c7
 SHA512: 7051c775d8f434c73b4d2be29005df924c6ba1b185eb31112706967d410889d4891eb6a6430fb020169859d71191ccd0dad8db3f409b12be24c821c7fbb0d2e8
 Description: Make your icons hit the griddy
+Name: Griddy (Roothide)
+Author: mikifp
+Depiction: http://bvnsupport.github.io/infodeb/Html/Griddy.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Griddy.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.griddy-r2
+Architecture: iphoneos-arm64e
+Version: 1.0.4k
+Section: Tweaks
+Maintainer: mikifp
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.griddy-r2_1.0.4k_iphoneos-arm64e.deb
+Size: 71172
+MD5sum: 29ed4ffaf4874b05d096b1b4c39874d7
+SHA1: 21ee801b3012d41dedf0366b55ae39b716548b3f
+SHA256: da16d2ce3a9bd8989f0661624f6191c97e560884de3c0421132732932d71ca7f
+SHA512: 7ca8603c7004eedca4d1561a1b2cbe61bce9ead83841d9230d959f7621a1ccd219fe09985069883c8afa8f8c585d90339422e0c384e31c055cfb13c53c641ac3
+Description: Layout your icons anywhere you want!
 Name: Griddy (Roothide)
 Author: mikifp
 Depiction: http://bvnsupport.github.io/infodeb/Html/Griddy.html
@@ -4925,6 +4924,26 @@ Author: leftyfl1p <carbridge@havoc.app>
 Depiction: https://bvnsupport.github.io/depictions/CarBridge.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CarBridge.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.carbridge13-roothide
+Architecture: iphoneos-arm64e
+Version: 2.0.14K
+Section: Tweaks
+Maintainer: BVN Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable, xyz.cypwn.carbridge13, com.leftyfl1p.carbridge13
+Filename: ./debs/com.repobvn.carbridge13-roothide_2.0.14K_iphoneos-arm64e.deb
+Size: 442408
+MD5sum: de27997527c48d849a57327a85cc7da5
+SHA1: 8436a4834184bc52a85c643908a8fe4f790b2a8e
+SHA256: de6a62a73bb9bdbb2571bd22af273d5cd5a11c46d152e36392064019ca76ad83
+SHA512: 5406b6715cd37a76e4c685d794ad7e3a5d7890811cec0cb368dc912c52b5ac44ecb66899b117f0026ef6927c5b09b91e8fd1f884804f732ae2b60af1893b985a
+Description: Mở bất kỳ ứng dụng nào trong CarPlay!
+Name: CarBridge VH(Roothide)
+Author: leftyfl1p <carbridge@havoc.app>
+Depiction: https://bvnsupport.github.io/depictions/CarBridge.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CarBridge.json
 
 Package: com.repobvn.centeredlabels-roothide
 Architecture: iphoneos-arm64e
