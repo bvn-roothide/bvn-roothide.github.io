@@ -1331,6 +1331,25 @@ Name: SafariX (Roothide)
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: 0xkuj
 
+Package: com.bvn.Swipelefttoback.rootless
+Architecture: iphoneos-arm64e
+Version: 1.0-6
+Priority: optional
+Section: Tweaks
+Maintainer: BVN Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.4)
+Filename: ./debs/com.bvn.Swipelefttoback.rootless_1.0-6_iphoneos-arm64e.deb
+Size: 88536
+MD5sum: 5beb61629e38ff4ab03e033b98497a55
+SHA1: 06048820bc84da14cd46a729559091bdffe54eae
+SHA256: 6d21e3121458a5fbebc5ff6013bb250404ecf5280b1a54ff5877fab61d8df93b
+SHA512: 2b469db834d8c71170aafc2d48a9c1ab67523f4eb7872ef634dd6166ad0b28132de64adc5ff619950440a68fb8211b4e07c526cc27ceefef95e1dc9a42884397
+Description:  Vuốt sang trái để quay lại
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Swipe Left To Back(Roothide)
+Author: Mao
+
 Package: com.bvn.Whiteblue
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -4712,6 +4731,27 @@ Depiction: http://bvnsupport.github.io/infodeb/AppData/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppData.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Fouad Raheb
+
+Package: com.repo.appdata-roothide
+Architecture: iphoneos-arm64e
+Version: 1.4.4
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 13548
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.repo.appdata-roothide_1.4.4_iphoneos-arm64e.deb
+Size: 10059460
+MD5sum: bc1077d774beaf6cd6047e78a36d159a
+SHA1: 9cfaaea4ba0bbff48bc18a58d49bfa259cd0dbc9
+SHA256: f4198d315d617b32bb218621b50f2cabf932bd8dbeb430a73155430f56ebf8e8
+SHA512: 59180b3abe2520b90e09bc04e9aa5bdf13e71f550c87c8763beb190219f35879ffde78205cc22aab8f8d0cd1bda3e09b9230bf32c0128e132bdd98ff49b2533a
+Description: Xem và quản lý dữ liệu ứng dụng từ Màn hình chính của bạn
+Name: AppData (Roothide)
+Author: Fouad Raheb
+Depiction: http://bvnsupport.github.io/infodeb/AppData/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppData.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.repobvn.Coolwcat
 Architecture: iphoneos-arm64e
