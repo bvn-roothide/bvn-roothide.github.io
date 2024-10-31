@@ -2455,6 +2455,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Kayoko.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Kayoko.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.kayoko-roothide
+Architecture: iphoneos-arm64e
+Version: 2.7
+Section: Tweaks
+Maintainer: BVN Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Filename: ./debs/com.bvn.kayoko-roothide_2.7_iphoneos-arm64e.deb
+Size: 128764
+MD5sum: 4a6d1e3d4887e257cf49c1280fdc8737
+SHA1: b8bf58cd7734ff6cd40d03594ec14994194865d8
+SHA256: e78ae177939b313b0336285481c38cedf83776d9fcfa8c4752e30d75a41428ae
+SHA512: 48eb47a00817b8b675af9c2742b8f2f7d3c1c1ad4241030a8e9cfe5a2cd3a811302395db29c195067c3f67ffedc20adc2a362fd8fd08c3db04dc90a9614cab82
+Description: Một tinh chỉnh clipboard, tương tự như Copylog và Nicelog, nhưng miễn phí!。
+Name: Kayoko VH(Roothide)
+Author: Alexandra Aurora Göttlicher
+Depiction: http://bvnsupport.github.io/infodeb/Html/Kayoko.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Kayoko.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.latchkey
 Architecture: iphoneos-arm64e
 Version: 2.3.2
@@ -2949,6 +2970,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/nointerruptwhenplayingmusic.
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/nointerruptwhenplayingmusic.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Ginsu
+
+Package: com.bvn.notificationsgroupcount.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 448
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.notificationsgroupcount.r2_1.0.0_iphoneos-arm64e.deb
+Size: 81936
+MD5sum: 6090e130d5740ac57d1e2152ebc9673d
+SHA1: 79c9487ee63761c1feffd2450395404b3c9aa711
+SHA256: 43dcbe9d3bc86f91556ee44267dc4726b366c0c83cd4bf007758ca3a6640dd43
+SHA512: dc0d888602100b0a4b271f17b49159ecf1b632e3419be86eecab4671a1f781c220ac8ea10208591605178c3521f177b90661c564af037d844562a8d2c6435a1b
+Description: Count those notifications inside Apple notifications grouping!
+Depiction: http://bvnsupport.github.io/infodeb/Html/notificationsgroupcount.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/notificationsgroupcount.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: NotificationsGroupCount VH(Roothide)
+Author: 0xkuj
 
 Package: com.bvn.notrecording-r2
 Architecture: iphoneos-arm64e
