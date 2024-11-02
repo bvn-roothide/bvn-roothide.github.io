@@ -2878,6 +2878,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/Lunartime/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lunartime.json
 
+Package: com.bvn.lynx.English
+Architecture: iphoneos-arm64e
+Version: 2.5.3
+Section: Tweaks
+Maintainer: Bvn Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Conflicts: com.bvn.lynxroothide, com.bvn.lynxrootless
+Filename: ./debs/com.bvn.lynx.English_2.5.3_iphoneos-arm64e.deb
+Size: 1866712
+MD5sum: fccafe53f812d0675f151ce8c949845a
+SHA1: 1585855df436b86d8e3f2d7a3e2674b983218f95
+SHA256: 574beb86e4e3afbf7e93f59d54bd3fc531811c3bd7818df8d680340d3cc92209
+SHA512: 4aadb7b15e8dbaea15e1ec224b6ce94a03bec7aa01295255c3bb48a6135cc8e335eb56ffc4fc156f1943dbbe0606142bef7bf3cfbad28234848a7de1dae7a1dc
+Description: Ultimate iDevice Customization for iOS 14, 15, 16
+Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: Lynx 2 English(Roothide)
+Author: MTAC
+
 Package: com.bvn.lynxroothide
 Architecture: iphoneos-arm64e
 Version: 2.4.10
@@ -2996,6 +3017,26 @@ SHA512: 1ba765e79cc750e136f1c7c97f1ec4ed8e648530a9ad1e9f4c141180302b57c4fa45d7ff
 Description: Ultimate iDevice Customization for iOS 14, 15, 16
 Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
+Name: Lynx 2 VH(Roothide)
+Author: MTAC
+
+Package: com.bvn.lynxroothide
+Architecture: iphoneos-arm64e
+Version: 2.5.3
+Section: Tweaks
+Maintainer: Bvn Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.lynxroothide_2.5.3_iphoneos-arm64e.deb
+Size: 1871494
+MD5sum: f2c3f13d1c82d9dccf26d296a1c28f84
+SHA1: d2826f27fdfbf7723c1013d728d593fa30854bc9
+SHA256: 941c36724d810f9c860c0f4b23db13e6621c652771d5f33220b19176aa1cc9b6
+SHA512: ab56822a8389d1c9b4c36b76dc3fcd41bf9f123ad74734251964887a4414c96eba3f599ea6f3dda225fbcc41d9c8e019efec85162b6c905b2446dbd772de769a
+Description: Ultimate iDevice Customization for iOS 14, 15, 16
+Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Name: Lynx 2 VH(Roothide)
 Author: MTAC
 
