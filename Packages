@@ -2173,6 +2173,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Doodle VH(RootHide)
 Author: Ethan Whited
 
+Package: com.bvn.dumpdecrypter-r2
+Architecture: iphoneos-arm64e
+Version: 1.4-9
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 912
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.bvn.dumpdecrypter-r2_1.4-9_iphoneos-arm64e.deb
+Size: 376060
+MD5sum: dec2e9a39839c57b5a23280d2883f058
+SHA1: c5426eed4f121608df3b3eedb2197047c9580999
+SHA256: 00d3c1996b24c904ea72027c9f9a34d560320a8fd446eab5a98a57473e317e6b
+SHA512: 4ce672694534a217976b8e29bc95283f5489b2e77178ce2e183657cb120b895e8aa51b5ade47669bf15b7a549cfcb2eac8146dda1578d133aa40ca048806cb7d
+Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Name: DumpDecrypter (Roothide)
+Author: Netskao
+Depiction: http://bvnsupport.github.io/infodeb/Html/DumpDecrypter.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DumpDecrypter.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.exacttime
 Architecture: iphoneos-arm64e
 Version: 2.0.2
