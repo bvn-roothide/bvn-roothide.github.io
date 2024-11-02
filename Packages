@@ -2814,6 +2814,28 @@ Author: Dell <dvq273665536@gmail.com>
 
 Package: com.bvn.lunartime-roothide
 Architecture: iphoneos-arm64e
+Version: 1.0.1-1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 160
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), oldabi
+Filename: ./debs/com.bvn.lunartime-roothide_1.0.1-1_iphoneos-arm64e.deb
+Size: 23478
+MD5sum: 90ebf80d48b37f544e276adf59da6705
+SHA1: 715398d2b5c69c8fb17c458323d4496b83478772
+SHA256: f43f3ed0fb02b0f3ace9364f12c816656f61011c961f8cc1359b5d7fcf84c704
+SHA512: 083ffe1df7146cc6b41aac174415fa480ae659beea35b4ac3adafac4fca6dfe6d9c4bfe92e64bc3e6e9768f9715ec7cb2f51c0e9a77e5b084816cf92b1ff63fd
+Description: Thêm ngày âm Lịch vào góc màn hình trái của bạn
+Tag: purpose::extension
+Name: LunarTime X (Roothide)
+Author: NQT1195
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Lunartime/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lunartime.json
+
+Package: com.bvn.lunartime-roothide
+Architecture: iphoneos-arm64e
 Version: 1.0.1
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
@@ -5253,6 +5275,25 @@ Name: CarBridge VH(Roothide)
 Author: leftyfl1p <carbridge@havoc.app>
 Depiction: https://bvnsupport.github.io/depictions/CarBridge.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CarBridge.json
+
+Package: com.repobvn.cask3-roothide
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, dev.theos.orion14
+Filename: ./debs/com.repobvn.cask3-roothide_1.0.2_iphoneos-arm64e.deb
+Size: 745784
+MD5sum: 0b6846671b03f7ecdb8def45dd27e568
+SHA1: 9597e7954a1e18dbd1b7ed6a810b646898cb07c9
+SHA256: 78ea9ba42348c5e9c0363f8f535f67d7b8810b50f82b190ebf99aa0391f18e1f
+SHA512: 57c84d44f6ee1445a96ecfe044175f3b3470876b45786de0803d4b62cdaf483e51611f367f83a41800544de2e92b522362285b74988630f2822388e32979b7ba
+Description: Cask 3 mang tính năng cuộn bảng động đến tất cả các bảng trong iOS 14 trở lên. Đối với  iOS thấp hơn, hãy thử Cask gốc của Ryan Petrich hoặc Cask 2.
+Name: Cask3 VH (Roothide)
+Author: Ryan Nair
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.repobvn.centeredlabels-roothide
 Architecture: iphoneos-arm64e
