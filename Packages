@@ -806,6 +806,28 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Crane.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: opa334
 
+Package: com.REPOBVN.crane-rootless
+Architecture: iphoneos-arm64e
+Version: 1.3.16-3K
+Section: Tweaks
+Maintainer: bvn repo
+Installed-Size: 3228
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.REPOBVN.crane-rootless_1.3.16-3K_iphoneos-arm64e.deb
+Size: 613488
+MD5sum: 38f9b155f9b8cea5984fc2132bbf0c33
+SHA1: 6b381646cc3dac961782d2ff641a8bcce764111e
+SHA256: 2c15c631f9f503b2594c26818fb0871b0828f4fe7deb71c4e32fa2f32d982475
+SHA512: c851f7aec16123915fd4b40c14c1a03fb761b5bfecc1b5e478393e6fa2759008ecda4b5ef2c5a53118578006c6e220e6cb6aa53c5febc426babdb04445cecc84
+Description: Multiple containers for your applications!
+Name: Crane VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Crane/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Crane.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: opa334
+
 Package: com.REPOBVN.enekoalt
 Architecture: iphoneos-arm64e
 Version: 1.2-rootless
@@ -1269,6 +1291,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/KroppenRound.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/KroppenRound.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
+Package: com.bvn.LS16-Comforta
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: ClockFont iOS16
+Maintainer: Bvn Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 16.0)
+Filename: ./debs/com.bvn.LS16-Comforta_1.0_iphoneos-arm64e.deb
+Size: 11176
+MD5sum: 3f0d1c1f68f0d07e11ec16894ac4c78b
+SHA1: 8e0ccd6c69c47d5e008deed2f37673a882dc6196
+SHA256: 8d033210ea22902a849363dcdba698395d2c8b4ea7d4e85f4f26f25eb6341d19
+SHA512: 13cc4f20cb4e367525c0d5c7c3bdeab5b48ab6731de67ca46723b4d2f88d57430fcfeff0df3b1b918e5b5f19b13c636994bcf7570128116667c4e933702d49d7
+Description: Phông chữ Đồng hồ cho iOS 16
+Name: LS16-Comforta
+Depiction: http://bvnsupport.github.io/infodeb/Html/LS16-Comforta.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/LS16-Comforta.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: Phuc Do
+
 Package: com.bvn.RingTonesManager
 Architecture: iphoneos-arm64e
 Version: 1.1-4
@@ -1428,6 +1470,25 @@ Name: Alpine (Roothide)
 Author: MTAC
 Icon: https://media.havoc.app/64ae21880d54f9113bc13a59
 
+Package: com.bvn.arima
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Fonts
+Maintainer: Bvn repo
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.bvn.arima_1.0_iphoneos-arm64e.deb
+Size: 928536
+MD5sum: ab6f67f24de6e663dc2b7aa016aacfa6
+SHA1: 282434d65805331e9559d3b6e2392001e809f24c
+SHA256: 1a3e4bdfc69a3985241111aa9996e512285e07ebe5266b7f0dc3e067854d4e3d
+SHA512: fa1342ea02807887b6e70f284e6463e0b97f44fa659ad544ea0f0ee46858336df6803e81b5a360e5da440c542ec2629ea018646c0aa43d20aa598a20f43e461c
+Description: Phông chữ hiển thị với các cạnh mềm mại và cảm giác thư pháp là nguồn cảm hứng chính cho dự án Arima.
+Name: Arima
+Depiction: http://bvnsupport.github.io/infodeb/Html/arima.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/arima.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: Hitori
+
 Package: com.bvn.backgrounderaction15autostate-r2
 Architecture: iphoneos-arm64e
 Version: 1.0.3
@@ -1524,6 +1585,27 @@ Author: raul saeed
 Depiction: http://bvnsupport.github.io/infodeb/Html/bhtiktok.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/bhtiktok.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.bhtiktok++
+Architecture: iphoneos-arm64e
+Version: 1.5-4+debug
+Section: Tweaks
+Maintainer: bvn repo
+Installed-Size: 996
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.bhtiktok++_1.5-4+debug_iphoneos-arm64e.deb
+Size: 140004
+MD5sum: 1191575618bca4c4683ee0b61ad9dd8c
+SHA1: e6b8e5e585a471dbf748d27b64c41ae7ff1a4cd3
+SHA256: ba3075e23236252ae7aadbaa1fa22cee2185078674262fbd60c964f335a8ad8a
+SHA512: 1c6c113d0326c0b02a06361004de072923f1c1895f0fe0c2ccc1bebab49f91d7d7df557a2c78b8661eb5e21b8e9da824e91d218880303c9b0f5a8a45259e1dba
+Description: An awesome tweak for TikTok!
+Name: BHTikTok++ (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/bhtiktok.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/bhtiktok.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: raul saeed
 
 Package: com.bvn.bhtiktok-Roothide
 Architecture: iphoneos-arm64e
@@ -3052,6 +3134,27 @@ Name: OnlineNotify (Roothide)
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.picsartcrack
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 2948
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.picsartcrack_1.0.1_iphoneos-arm64e.deb
+Size: 73724
+MD5sum: 4d588bc0da6c2729a17605ee10061d89
+SHA1: 4ebc662df96b4663d306aeeb1b4605f592447eaf
+SHA256: 01fb9bfbd253b80a2a5989c828dd7dfdb3a8f2b7afe7f12c9f7ee5736d7182ff
+SHA512: 92a7760ae12da7555d21f160cf67bfd956ddc8d98220ec8e25d1e237b1c9fd5ee0f4fc5bbb2e8dcce882fa5b4d0c12c7b3a1c47c18280247eb13602a05d06d60
+Description: Unlock Picsart Gold Annual
+Name: PicsArt® Gold (Roothide)
+Author: Dell <dvq273665536@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Picsart/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PicsArt.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.plampycc
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -3132,6 +3235,28 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/PopOutButtons.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/PopOutButtons.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Name: PopOutButtons VH(Roothide)
+
+Package: com.bvn.popoutbuttons-r2
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 481
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/com.bvn.popoutbuttons-r2_1.0.1_iphoneos-arm64e.deb
+Size: 61216
+MD5sum: 80eaf77fb091aa07d538eb7ffd8eb44d
+SHA1: 9cc11e58b94883cfa09eda9f8cd6aa669c9d1b1e
+SHA256: 93724ec470ff295ae62d46ee96f7441c3c5ea2b47d360218f7cc987701a8b7ff
+SHA512: 31a33d15a0f4e14227bde59b21c88f5eb3605f99a44adeade1dfb4ecb5e53cdfd70c2ec734c3a08b35fbc864ce9f1e76e8cfc1629cda427d9dfb64740fecc8af
+Description: PopOutButtons bring the iOS 18 buttons popouts to iOS 13-17
+Tag: compatible_min::ios13.0
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Name: PopOutButtons VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/PopOutButtons.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PopOutButtons.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.primedeck
 Architecture: iphoneos-arm64e
@@ -3523,6 +3648,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Mute.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Mute.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.snapeditpatch-r2
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.snapeditpatch-r2_0.0.1_iphoneos-arm64e.deb
+Size: 2714018
+MD5sum: a8e2dc03a2267de17465d55e0728cbe1
+SHA1: 3aad65d551c720c60a7b4e824cd40a95751fbd08
+SHA256: 609c36a2174b445272b4ef188a34c0bc48a77b8229d6bd4b9642129df4e6c8fd
+SHA512: 8101709b94ed1e11db22b265cb3cbcc8f0377167852bc6d3192f33276bce8ab61ae8655504e45d6cd74aa6525526e282fad01b1917d450626b57ae40bb89e639
+Description: Unlock Lifetime
+Name: SnapEdit Pro (Roothide)
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/SnapEdit.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SnapEdit.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.snapper3-r2
 Architecture: iphoneos-arm64e
 Version: 1.0k
@@ -3674,6 +3819,27 @@ MD5sum: d512abdc51279c026ece168a40689864
 SHA1: 367307cf05f1e1c4dce10dfb7462ad393ca532af
 SHA256: d293f3834a708027bb017ff6f127e2c202887fdcbb199b7399ddef76d6f15adc
 SHA512: 8ec2c7bc87c3336c4df08271a3c31a2e6ddcadea04fa78e4c71e79a872803277a6aeb6bd3f31433bf53813e33e10305bd9ecd890634602e13e1ca9cb0f9f8079
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify (Roothide)
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.spotify-r2
+Architecture: iphoneos-arm64e
+Version: 5.7
+Section: Tweaks
+Maintainer: Eevee
+Installed-Size: 2952
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Filename: ./debs/com.bvn.spotify-r2_5.7_iphoneos-arm64e.deb
+Size: 596288
+MD5sum: eae34456a3a33d93074366e139cec9aa
+SHA1: 76ecaae8b391b3d21dbfd7b8e90634e79f451187
+SHA256: 46d9d9294a7722859e206283df00cf3ff545bdb06b6a72d7d8b999565f536549
+SHA512: b9092f8ec8d9fc8938cfd03abbdf32e27740699eb9c871865817e58af4193cb1fcc5e67b6f06423091be0a509b325fddb0a68f0416e1f3c989d9d51449802c29
 Description: A tweak to get Spotify Premium for free, just like Spotilife
 Name: EeveeSpotify (Roothide)
 Author: Eevee
