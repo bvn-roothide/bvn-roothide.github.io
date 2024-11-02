@@ -685,6 +685,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Truecaller.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Truecaller Gold (Roothide)
 
+Package: com.BIENVANNHAT.truecallergold
+Architecture: iphoneos-arm64e
+Version: 1.0.2-1
+Section: Tweaks
+Maintainer: Dell <tranthikimchi2601@gmail.com>
+Installed-Size: 7288
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.BIENVANNHAT.truecallergold_1.0.2-1_iphoneos-arm64e.deb
+Size: 4577906
+MD5sum: 5e8c0581a36a785449356e8437e292e1
+SHA1: 456f52db4149dcf0319d61f616889b521328615a
+SHA256: 12f0a383160394e8836331d2940386f822e718976b56a2357680145d74df0736
+SHA512: e613607a7ef6f1275f7d560fefea4ce9b695ca90b2de511f4065fdbff7b8322ee3a8c764bc72fd0e1ef8231b02c102c8f9a441487d9e90739d8fd5e282e5903e
+Description: Unlock Premium Gold
+Name: Truecaller Gold (Roothide)
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: http://support-jailbreak.github.io/infodeb/Truecaller/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Truecaller.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.BVN.homegesture1316
 Architecture: iphoneos-arm64e
 Version: 0.0.1-7
