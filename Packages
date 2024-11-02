@@ -1880,6 +1880,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/ClassicFolders.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: CoolStar
 
+Package: com.bvn.cmm
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN repo
+Installed-Size: 268
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.cmm_1.0.1_iphoneos-arm64e.deb
+Size: 46604
+MD5sum: f1f08969510d2e558ecaad0002cebcd0
+SHA1: 1f78829bb349d5c2a160fc1b0a1da42fcfac3e2b
+SHA256: 1598547d2e71ce76c4b2634e5b8e8afcea23a47aa6cf04ad967da370d69083ec
+SHA512: 09f481c77804594877e1d29526fd05d3af3b913454244f8d5e48bd6836cd370140fca5c2fc8fe022563b11e12a8d211d4eaf22ac719d22bcd0707ea75efbd316
+Description: Trình cải tiến cho ứng dụng Điện thoại hệ thống
+Name: CallMeMaybe VH(Roothide)
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/CallMeMaybe.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CallMeMaybe.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.colorfulwallpaperx
 Architecture: iphoneos-arm64e
 Version: 4.2k
