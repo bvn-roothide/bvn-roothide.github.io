@@ -1491,6 +1491,26 @@ Name: Alpine (Roothide)
 Author: MTAC
 Icon: https://media.havoc.app/64ae21880d54f9113bc13a59
 
+Package: com.bvn.appaze3
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: bvn
+Installed-Size: 1802
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
+Conflicts: com.anthopak.appaze, com.anthopak.appaze2
+Filename: ./debs/com.bvn.appaze3_1.0_iphoneos-arm64e.deb
+Size: 1963690
+MD5sum: 2993fd2c5f844f719c436b9ab78f2517
+SHA1: b0c743783673d79f4bbf878688e64f1116cfb6ab
+SHA256: f8e18ffd36223f9b07d667ac40ce6ea5da880d46f13c017417a51e4e3d687d06
+SHA512: 17678212c3730c35b0830024e79c8ca1a88b73cf4defa3395a7c26596091eb0712a48a557c03e0b785a1c407d0a30c4bcc20fd74a75a8eda7330efe3dd41689e
+Description: Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!
+Author: AnthoPak <anthopakdev@gmail.com>
+Name: Appaze 3 VH(Roothide)
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.arima
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -3650,6 +3670,26 @@ Name: SafariX (Roothide)
 Author: 0xkuj
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.safarix.r2
+Architecture: iphoneos-arm64e
+Version: 1.9.0
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 792
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.safarix.r2_1.9.0_iphoneos-arm64e.deb
+Size: 289692
+MD5sum: c94309b0baf249b69535c3c948d003fc
+SHA1: f2f153b01cb61bd31236dd44e8ed4110328bdf30
+SHA256: b7bdcfbdb5c2d3808a60cd01b830b12b8c182ce3453697cc9b6c7001fa20b564
+SHA512: 90e60934b96ca3cacef17790705c1c722f33a1b88d9122c183a85cfe30de9ed7298bf542d5bcac773cd92c280965d0ac12b4b31c1b0eee39db5f462beefc2316
+Description: Thêm 1 số tiện ích cho Safari
+ - Safari Essential Features
+Name: SafariX (Roothide)
+Author: 0xkuj
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.senri
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -3834,23 +3874,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/SniperTool.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SniperTool.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
-Package: com.bvn.snowboardfix
-Architecture: iphoneos-arm64e
-Version: 1.0.0
-Section: Tweaks
-Maintainer: Bvn Repo
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bvn.snowboardfix_1.0.0_iphoneos-arm64e.deb
-Size: 5418
-MD5sum: b265f0fc100dc286df1575a3ae1caa58
-SHA1: 9c3b452f55499623be26fa5b6cb1a346137b5c0b
-SHA256: 0edf3bb1dec4d7685a0bce781ea209fe7894d336ad4726e596316ec62e8cc91a
-SHA512: 196f269ce1899967aa9e730d1df767f6c037ae4cd00ea7866b6e0de56bbf58eaf4765ec6da5722520ab53f6f016c8cffdde7fd8ff212dde9879764ff23cbaf06
-Description: Sửa lỗi SnowBoard bị treo trên iOS 16
-Name: SnowBoardFix
-Author: MTAC
-
 Package: com.bvn.solstice-r2
 Architecture: iphoneos-arm64e
 Version: 2.9.9
@@ -3966,6 +3989,27 @@ MD5sum: eae34456a3a33d93074366e139cec9aa
 SHA1: 76ecaae8b391b3d21dbfd7b8e90634e79f451187
 SHA256: 46d9d9294a7722859e206283df00cf3ff545bdb06b6a72d7d8b999565f536549
 SHA512: b9092f8ec8d9fc8938cfd03abbdf32e27740699eb9c871865817e58af4193cb1fcc5e67b6f06423091be0a509b325fddb0a68f0416e1f3c989d9d51449802c29
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify (Roothide)
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.spotify-r2
+Architecture: iphoneos-arm64e
+Version: 5.8
+Section: Tweaks
+Maintainer: Eevee
+Installed-Size: 2980
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Filename: ./debs/com.bvn.spotify-r2_5.8_iphoneos-arm64e.deb
+Size: 607112
+MD5sum: 167e33b77cc4009e4f799fac315c1857
+SHA1: 9ffee33d0091c0c2a75d94af544cc6db324987af
+SHA256: d24ec0c532815a04572a331232739fc6b27cbac10ff754177a778cc60a805cb2
+SHA512: 40fa3b5f94d6069c21ade3d1beee7e6d7c48a2c779728d517cbe5868b6fc14a6213cf5db73fb6382a15c3c992818379306b1fabfd2afa78e414e795e39764fdd
 Description: A tweak to get Spotify Premium for free, just like Spotilife
 Name: EeveeSpotify (Roothide)
 Author: Eevee
@@ -5506,74 +5550,26 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.snowboard-roothide
 Architecture: iphoneos-arm64e
-Version: 1.6.4-Beta4-Roothide
+Version: 1.5.37-Beta4-roothide
 Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 3188
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, preferenceloader, com.spark.snowboardapplication, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.presetextension, com.spark.snowboard.settingsicons, com.spark.snowboard.statusbar, com.spark.snowboard.ui
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/com.repobvn.snowboard-roothide_1.6.4-Beta4-Roothide_iphoneos-arm64e.deb
-Size: 2814264
-MD5sum: 182efa3d0b5aec6ed8cd9fc223bd3ea8
-SHA1: 05cfa2ebcb21c0f062b6b9f19af8da79d95df7f4
-SHA256: ff258d3f6a995e9255e1402c5e165011a634e843749ec6edec46c8fc717771db
-SHA512: 94e2ab6ba88195183b4cde1ac43a5fe72ce64aae9a6d92ad4d815c7484750f16d986ad0fb59cd6649132ba2d7e59523bba2a8fcd1c88e6cf79c49071d8f15512
-Description: Snowboard theming engine
-Name: SnowBoard VH(Roothide)
-Depiction: https://support-jailbreak.github.io/depictions/SnowBoard.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SnowBoard.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Spark & Dennis D. Bednarz
-
-Package: com.repobvn.snowboard-roothide
-Architecture: iphoneos-arm64e
-Version: 1.6.4-Beta5-Roothide
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 3188
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, preferenceloader, com.spark.snowboardapplication, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.presetextension, com.spark.snowboard.settingsicons, com.spark.snowboard.statusbar, com.spark.snowboard.ui
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/com.repobvn.snowboard-roothide_1.6.4-Beta5-Roothide_iphoneos-arm64e.deb
-Size: 2809168
-MD5sum: af80e38b4928a3f22d6f41c666e60eb6
-SHA1: 493360b81e99d659a4a91a25d76017850b8b6763
-SHA256: 0f5a2f11c163f635988b09ad6a4569d6a7f69ff7ed38e2a665d2ee516ba187f6
-SHA512: 607d84f57ad0befa33ffd4ce4c89b218cded51f2c139dd5a6b1698d868a86966c5d6b660902328dd68a67af23d9e734f0950c9ba6a3be46434ac4c26d4a07c7a
-Description: Snowboard theming engine
-Name: SnowBoard VH(Roothide)
-Depiction: https://bvnsupport.github.io/depictions/SnowBoard.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/SnowBoard.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Spark & Dennis D. Bednarz
-
-Package: com.repobvn.snowboard-roothide
-Architecture: iphoneos-arm64e
-Version: 1.6.4-Beta6-roothide
-Section: Tweaks
-Maintainer: BVN Repo
+Maintainer: BVN
 Installed-Size: 3268
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, com.spark.snowboardapplication, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.presetextension, com.spark.snowboard.settingsicons, com.spark.snowboard.statusbar, com.spark.snowboard.ui
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.spark.snowboard,  com.spark.snowboardapplication, com.spark.snowboard.presetextension, com.spark.snowboard.ui, com.spark.snowboard.effects, com.spark.snowboard.dock, com.spark.snowboard.statusbar, com.spark.snowboard.labels, com.spark.snowboard.fonts, com.spark.snowboard.masks, com.spark.snowboard.settingsicons
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/com.repobvn.snowboard-roothide_1.6.4-Beta6-roothide_iphoneos-arm64e.deb
-Size: 1132668
-MD5sum: c03430e037f9d94a6ce894ba7d1bbb92
-SHA1: 7a3e1061e18a7c90799a5da259a21fea6253834e
-SHA256: 6af37dba34dfdd4bb12d53a6067bbf2588383387f2426dfe4cea3345ae01764c
-SHA512: e58c181a797cfcf9af011320a1aa3b9fd1de0de7362d05eb1120b54e041f0438ff23b58313f282932174697cfa31717efea794e008a3a8d51b10815c2413ffd0
+Filename: ./debs/com.repobvn.snowboard-roothide_1.5.37-Beta4-roothide_iphoneos-arm64e.deb
+Size: 5216864
+MD5sum: 2ac42d00df544902c8a472f7f1f16422
+SHA1: feae3c82723d562cadb9857d29fbeea87058497e
+SHA256: 1b07acac20e8d6671d6e1ce79aabcbb05db342f203e9e6340ae579be131d65f5
+SHA512: ea7d7b35cfb7219d86df16b26e81684bccdb1955899316755327bd90eeee89524de783ea1f6a639b8f96d84e32cd3e7533f1732d69501b30f79caec4589c486f
 Description: Snowboard theming engine
 Name: SnowBoard VH(Roothide)
 Depiction: https://bvnsupport.github.io/depictions/SnowBoard.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SnowBoard.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: Spark & Dennis D. Bednarz
 
 Package: com.repobvn.uyou-roothide
@@ -5754,199 +5750,6 @@ Description: Simple to implement, simple to use colour picker library. Built by 
 Tag: role::developer
 Name: libsparkcolourpicker (Roothide)
 Author: Spark
-
-Package: com.spark.snowboard.dock
-Architecture: iphoneos-arm64e
-Version: 1.1.3~Beta4-roothide
-Section: SnowBoard Extensions
-Maintainer: Spark
-Installed-Size: 440
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate
-Filename: ./debs/com.spark.snowboard.dock_1.1.3~Beta4-roothide_iphoneos-arm64e.deb
-Size: 114826
-MD5sum: 8a0007c967d6d191c753bedfc8b28edd
-SHA1: 48cb9f10f882f86e711b94197a90087e0aec552f
-SHA256: 4a7ccc08b86884184749b9d20106818a2201a3f0cfbda1f36d3d9c307b15b28a
-SHA512: 5bacda62f36e42ab589821fce801aa48668903d9e1fab399cf5d65912d6a4d47ff7ba9c245722128f68564fa51965407e2718dd73f807f279f56423fd1dcf165
-Description: Dock for SnowBoard
-Name: SnowBoard Dock Extension
-Author: Spark
-Icon: file:///var/jb/Library/IconRepo/tienichh1.png
-
-Package: com.spark.snowboard.effects
-Architecture: iphoneos-arm64e
-Version: 1.2.2-Beta2-roothide
-Section: SnowBoard Extensions
-Maintainer: Spark
-Installed-Size: 412
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, com.repobvn.snowboard-roothide (>= 1.2.100)
-Filename: ./debs/com.spark.snowboard.effects_1.2.2-Beta2-roothide_iphoneos-arm64e.deb
-Size: 34944
-MD5sum: bebd8597c8882ee6dcd0cae019973e9c
-SHA1: 2d78035ae1357c4b72c3ec5b366432cf76610776
-SHA256: 733e36b9626fba8c7ce2a2e040657d18e22c1d1e533cb91dc4607b3df3748005
-SHA512: 41f367fdb30ecb475cfdbe27d95ba2213dce92047e0b6b1f192a943b0e9d640e562323b835516e7e290c0aa7f327d342441f97ca2d56f6c1ab3f67d4187f2e52
-Description: Icon Effects for SnowBoard
-Name: SnowBoard Icon Effects Extension
-Author: Spark
-Icon: file:///var/jb/Library/IconRepo/tienichh1.png
-
-Package: com.spark.snowboard.fonts
-Architecture: iphoneos-arm64e
-Version: 1.1.0~Beta4-roothide
-Section: SnowBoard Extensions
-Maintainer: Spark
-Installed-Size: 392
-Provides: com.ipr.bytafont, com.bytafont.bytafont3
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, com.repobvn.snowboard-roothide (>= 1.2.100)
-Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
-Replaces: com.ipr.bytafont, com.bytafont.bytafont3
-Filename: ./debs/com.spark.snowboard.fonts_1.1.0~Beta4-roothide_iphoneos-arm64e.deb
-Size: 22464
-MD5sum: 23eb170ebb7caa8f752a992a752e6f12
-SHA1: f1c065d0cd3b59b9e34220704c09887021dfc3db
-SHA256: 7d0e8a668f4dba508e7d9863bd8fdc408984b6db36b283e0e937fbca15477533
-SHA512: 7591474dd208561bf9b5b5434b3661bd12399d90063cf2b76d7b37f038913a1bc6671e5354258c2cca3187c7330ce3479a770e8f7d94ebb1351579b5b19b95f6
-Description: Fonts for SnowBoard
-Name: SnowBoard Fonts Extension
-Author: Spark
-Icon: file:///var/jb/Library/IconRepo/tienichh1.png
-
-Package: com.spark.snowboard.labels
-Architecture: iphoneos-arm64e
-Version: 1.1.1~Beta4-roothide
-Section: SnowBoard Extensions
-Maintainer: Spark
-Installed-Size: 432
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, com.repobvn.snowboard-roothide (>= 1.2.100)
-Filename: ./debs/com.spark.snowboard.labels_1.1.1~Beta4-roothide_iphoneos-arm64e.deb
-Size: 27424
-MD5sum: e94508dd39552bdcbe2563558747c826
-SHA1: e3e81999566ffdc99bbe778badc8ad9820130742
-SHA256: 9f5179e4628f3d655255ceaae03008c0992a45a879af5e3663249c23484915cc
-SHA512: 4ed6db4fe49529626dbf9e3b350c44803507495b4beeca9e254032df4a3f1c6d43442336bef10a3c0f1b54264ef8f0aa77b40f79ecf95f9a720acbf852bc9783
-Description: Labels for SnowBoard
-Name: SnowBoard Labels Extension
-Icon: file:///var/jb/Library/IconRepo/tienichh1.png
-Author: Spark
-
-Package: com.spark.snowboard.masks
-Architecture: iphoneos-arm64e
-Version: 1.2.2-Beta2-roothide
-Section: SnowBoard Extensions
-Maintainer: Spark
-Installed-Size: 340
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, com.repobvn.snowboard-roothide (>= 1.2.100)
-Filename: ./debs/com.spark.snowboard.masks_1.2.2-Beta2-roothide_iphoneos-arm64e.deb
-Size: 20556
-MD5sum: e858b794b2b91704d4fadac856c10781
-SHA1: fecc63f253f72ba92b1eeece7a913c9eb25b124e
-SHA256: 69fa7949e080df3bb2dff1a99ae737f6f4e35602b00f908c540cf50736c54233
-SHA512: fbf97a070fae7b41a2ba0c8d0b40149862542499b43a8fc12b4744a70a3f0b5af031f7387791e22e14eb903150d48454f5017179628ac839251c83cf71441381
-Description: Icon masks for SnowBoard
-Name: SnowBoard Icon Masks Extension
-Icon: file:///var/jb/Library/IconRepo/tienichh1.png
-Author: Spark
-
-Package: com.spark.snowboard.presetextension
-Architecture: iphoneos-arm64e
-Version: 1.1.0~Beta4-roothide
-Section: SnowBoard Extensions
-Maintainer: Spark
-Installed-Size: 488
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, com.repobvn.snowboard-roothide (>> 1.2.22)
-Filename: ./debs/com.spark.snowboard.presetextension_1.1.0~Beta4-roothide_iphoneos-arm64e.deb
-Size: 45344
-MD5sum: 1dcaabdd2e336f48b2fa9378af1f7bbf
-SHA1: 0bb9ed74005497ac2a3a61c8b4b57766663f3da1
-SHA256: 0fd9b78b483fd47a567149257e80b48b7fbc48037915f27a0239fb0f95ff951a
-SHA512: a6b5e8586c2a6de5c42b1419b5e395c921fe969dd561a826297e55414d1a32a98573ff0d6c5f96bb8d714cf595bf40a2f6415b1330c6687a6649c063378aaf31
-Description: SnowBoard Presets Extension
-Name: SnowBoard Preset Extension
-Author: Spark
-Icon: file:///var/jb/Library/IconRepo/tienichh1.png
-
-Package: com.spark.snowboard.settingsicons
-Architecture: iphoneos-arm64e
-Version: 1.0.26~Beta3-roothide
-Section: SnowBoard Extensions
-Maintainer: Spark
-Installed-Size: 340
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, com.repobvn.snowboard-roothide (>= 1.2.100)
-Filename: ./debs/com.spark.snowboard.settingsicons_1.0.26~Beta3-roothide_iphoneos-arm64e.deb
-Size: 19376
-MD5sum: 1037bda16a8b6695d8ce10b343758ba0
-SHA1: 1a2269628482caf0943f08b3829f6bc26fbdbd20
-SHA256: 176f5f31aa047980646b0bf51cd9d6076d39af9a6170bb1e0b618fe197bb0ba3
-SHA512: 39c2f3a6ccc2312dfa949c892054be17d10341b6b57ed6912407c15625ed498d950a19bf139a2388880e47f455c25e276452ec045865fe92d5719100e8babff1
-Description: Settings Icons for SnowBoard
-Name: SnowBoard Settings Icons Extension
-Icon: file:///var/jb/Library/IconRepo/tienichh1.png
-Author: Spark
-
-Package: com.spark.snowboard.statusbar
-Architecture: iphoneos-arm64e
-Version: 1.1.0-Beta4-roothide
-Section: SnowBoard Extensions
-Maintainer: Spark
-Installed-Size: 364
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, com.repobvn.snowboard-roothide (>= 1.2.100)
-Filename: ./debs/com.spark.snowboard.statusbar_1.1.0-Beta4-roothide_iphoneos-arm64e.deb
-Size: 28824
-MD5sum: ccf150ae592e35d14c61ea379d471c9e
-SHA1: a36d1501c20f777438039d387dd2535f3d14a5c8
-SHA256: b13416613e66b3dff0900ba8fa05103080153ca7ae8595bb83f956fb7a737988
-SHA512: 166ec77517770d8cb2109fc6c2528ba5505208a3c379aee9753e6c95e66e14db1436eed7d7d951c49bed3d14e28f19adf36974d65b7455624602dc9a538b4376
-Description: StatusBar for SnowBoard
-Name: SnowBoard StatusBar Extension
-Author: Spark
-Icon: file:///var/jb/Library/IconRepo/tienichh1.png
-
-Package: com.spark.snowboard.ui
-Architecture: iphoneos-arm64e
-Version: 1.3.0~Beta2-roothide
-Section: SnowBoard Extensions
-Maintainer: Spark
-Installed-Size: 476
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, com.repobvn.snowboard-roothide (>> 1.2.22)
-Filename: ./debs/com.spark.snowboard.ui_1.3.0~Beta2-roothide_iphoneos-arm64e.deb
-Size: 67704
-MD5sum: e1c1433a861dcf075746bc6b3ecfdfc0
-SHA1: 7f3f61e1f18b7f709ee8b3d29cd106d4020b3052
-SHA256: 30ceac39850e30d3d9392f2e33d76ea30e057e02ad38f005fe2dcd0ce26a4c5d
-SHA512: 9e4476ace4cee20073f0d96202b4a701a655449824abd4ab9ff4c8ab34133898564bf3951055b15db2138887fe46618d5084dc895ec14414e85b0828a5e7a8ba
-Description: UI Extension for SnowBoard
-Name: SnowBoard UI Extension
-Author: Spark
-Icon: file:///var/jb/Library/IconRepo/tienichh1.png
-
-Package: com.spark.snowboardapplication
-Architecture: iphoneos-arm64e
-Version: 1.1.0~Beta4-roothide
-Section: Utilities
-Maintainer: Spark
-Installed-Size: 992
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: com.repobvn.snowboard-roothide
-Filename: ./debs/com.spark.snowboardapplication_1.1.0~Beta4-roothide_iphoneos-arm64e.deb
-Size: 613304
-MD5sum: 0ed483257eacad79c24aa4f9ca330b2e
-SHA1: f541eb1a7edc56fc7b8d4344c7ce4de022ba10c5
-SHA256: 50ad042ef873a4a4269a9794adad6d8e8bdcdd2096bfd682fa0fcc4d89f7d538
-SHA512: 78c56392196f46813468091e8faf0574bd4e92a9d35bade8d82dd4b5ca9f85edda4c184e7fe0e2eec82adf310d9cb04fd6a8cb4dd3294d25f519df9e3fc55b3c
-Description: An awesome application!
-Name: SnowBoard Application
-Author: Spark
-Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
 Package: com.udevs.dockx
 Architecture: iphoneos-arm64e
