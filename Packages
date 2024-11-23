@@ -1493,6 +1493,28 @@ Icon: https://media.havoc.app/64ae21880d54f9113bc13a59
 
 Package: com.bvn.appaze3
 Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1802
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
+Conflicts: com.anthopak.appaze, com.anthopak.appaze2
+Filename: ./debs/com.bvn.appaze3_1.0.1_iphoneos-arm64e-1.deb
+Size: 879188
+MD5sum: 7ee379118513ac009f821b11090f82b9
+SHA1: 6fd553cbf808fb5578315cbbf14a3c91111f6174
+SHA256: 7aff9471f34c4919d2f522f25b38a984a6336906001f4d1f657643d5f9d32ea3
+SHA512: b9310f12a184efbfd16e6cc45b68eb41e235667ba682dc88d2442260ff74144c75dd5714025718adce49753473d6c65b201694ae995b7382437cd561cb892aaa
+Description: Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!
+Author: AnthoPak <anthopakdev@gmail.com>
+Name: Appaze 3 VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/appaze3.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/appaze3.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.appaze3
+Architecture: iphoneos-arm64e
 Version: 1.0
 Section: Tweaks
 Maintainer: bvn
@@ -3911,6 +3933,25 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
 Icon: file:///Applications/Cydia.app/Sections/chudee1.png
 Author: Rifai <icons-requests@hotmail.com>
 Name: Solstice Theme
+
+Package: com.bvn.solstice-r2
+Architecture: iphoneos-arm64e
+Version: 3.0.5
+Section: Theme Roothide
+Maintainer: Bvn Repo
+Installed-Size: 63400
+Filename: ./debs/com.bvn.solstice-r2_3.0.5_iphoneos-arm64e.deb
+Size: 60006116
+MD5sum: bf391e87f2b7802829da894a68797979
+SHA1: d2029e45e6e7bfe48fc6c0cf2687de23f1be9198
+SHA256: 650637c132c245dfee9a69ad2389e433b94cac96697c4b2ea10222fdc272eaf7
+SHA512: 82256ac8e6ec0a22cc28df1baaa1e1dcd33cb91e2f12147716665a63adf386c16dd3fd5ba19f0ce4b055ec0d66cc39fe053490b83236f93903f9bf816a85cc43
+Description: Solstice Theme 3550 icons
+Author: Rifai <icons-requests@hotmail.com>
+Name: Themes
+Depiction: http://bvnsupport.github.io/infodeb/Html/solstice.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 
 Package: com.bvn.splitviewpro-roothide
 Architecture: iphoneos-arm64e
