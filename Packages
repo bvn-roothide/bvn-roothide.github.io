@@ -2854,6 +2854,30 @@ Description: Tweak inspired by iOS 16 with live activity timers on your lockscre
 Name: Live Activities (Roothide)
 Author: 0xkuj
 
+Package: com.bvn.locationservicecc
+Architecture: iphoneos-arm64e
+Version: 0.1-7
+Section: Addons (ControlCenter)
+Maintainer: bvn
+Installed-Size: 248
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport (>= 1.2)
+Filename: ./debs/com.bvn.locationservicecc_0.1-7_iphoneos-arm64e.deb
+Size: 49134
+MD5sum: d4c933dd7f4043a66a8ff10e5ed734b6
+SHA1: 6eb352df841a98a5513b9ca7c7feddd70abbba48
+SHA256: bbb27a82bf2ce38cc7477dd7eddb9193e68877635b50373606bf37e18a25188b
+SHA512: baf12a2ca2413c97b3608db913d4a9b923973bf1ae1d99f8048703d5ffc21dd04b96357738bb27ec685b8334b617a49567a79e38d312c7feae9278fb75d49c24
+Homepage: https://ichitaso.com
+Description: Bật/tắt Vị trí từ trung tâm điều khiển.
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.5
+Author: ichitaso
+Name: LocationService (CCSupport)
+Depiction: http://bvnsupport.github.io/infodeb/Html/LocationService.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/LocationService.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+dev: ichitaso
+
 Package: com.bvn.locketpatch-roothide
 Architecture: iphoneos-arm64e
 Version: 0.0.1
