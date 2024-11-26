@@ -1515,6 +1515,28 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.appaze3
 Architecture: iphoneos-arm64e
+Version: 1.0.1~Roothide
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1802
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
+Conflicts: com.anthopak.appaze, com.anthopak.appaze2
+Filename: ./debs/com.bvn.appaze3_1.0.1~Roothide_iphoneos-arm64e.deb
+Size: 879128
+MD5sum: 7cd719d0f4ca3dd81ca3aa0979a8fd1d
+SHA1: 88429e20bb6e730e059f303a32734687f1b10633
+SHA256: e934516814dfefe32780a9c98cdb059ab5c603c87593fc83e86f60ef049d2469
+SHA512: 1140d17164e333e4ad6c1dccf782533388868fc42536f4cc8797c944e8ac550f26a08b079c8e987143bdc67a5ab572939d2570179ad2d69f2845e22f79942036
+Description: Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!
+Author: AnthoPak <anthopakdev@gmail.com>
+Name: Appaze 3 VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/appaze3.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/appaze3.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.appaze3
+Architecture: iphoneos-arm64e
 Version: 1.0
 Section: Tweaks
 Maintainer: bvn
@@ -2579,6 +2601,27 @@ Author: P2KDev <p2kdev@gmail.com>
 Depiction: http://bvnsupport.github.io/infodeb/HomeBarSizer/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/HomeBarSizer.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.immortalizer-r2
+Architecture: iphoneos-arm64e
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: Bvn repo
+Installed-Size: 652
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Filename: ./debs/com.bvn.immortalizer-r2_2.0.0-1_iphoneos-arm64e.deb
+Size: 45852
+MD5sum: 5eba45bd6f6c15a34952170461245271
+SHA1: 3316dfc2fc08b23b73092c842434bf4960cffe99
+SHA256: f8ee5db636ef3e494b4c323758f79b881dbc5bfa272f9ed4e29b2fcaf990fb0f
+SHA512: 92a9b88ec6da3651dc693cfa55d25e8e33fc906657b35c585003811464bfffc9f091ff148e7491b7dbff3cdca2b52c20b07e7ca258627a6e8e75855bc068108c
+Description: Foreground your apps even if they are in the background!
+Name: Immortalizer (Roothide)
+Author: sergy
+Depiction: http://bvnsupport.github.io/infodeb/Html/Immortalizer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Immortalizer.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.instantalbum
 Architecture: iphoneos-arm64e
@@ -3920,6 +3963,30 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/SniperTool.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SniperTool.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.snmessenger-r2
+Architecture: iphoneos-arm64e
+Version: 1.0.0~Roothide
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 844
+Provides: com.haoict.messengernoads
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads, com.bvn.snmessenger
+Replaces: com.haoict.messengernoads
+Filename: ./debs/com.bvn.snmessenger-r2_1.0.0~Roothide_iphoneos-arm64e.deb
+Size: 655456
+MD5sum: 85507e898fccc80f2af6251f3fa85dc8
+SHA1: df226d9a26a1a6030f842dc32d0f77fecec36fa0
+SHA256: 1abcbf6d96d978399b6ed74c139cf84f82b93dde3cc714528450dd15cf8b9133
+SHA512: d7365d975b880cc1ce9f5dc0bc8b1dca95d59f40ccf37a5e314a400b7aeedb3c239d8c48b7bab73699b359c29b9aa116ed4243af5218bbe2b7d1566c0dfaf9ac
+Description: A full-featured tweak for Messenger.
+Name: SNMessenger (Roothide)
+Author: NguyenASang
+Depiction: http://bvnsupport.github.io/infodeb/Html/SNMessenger.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SNMessenger.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.solstice-r2
 Architecture: iphoneos-arm64e
 Version: 2.9.9
@@ -3962,20 +4029,20 @@ Package: com.bvn.solstice-r2
 Architecture: iphoneos-arm64e
 Version: 3.0.5
 Section: Theme Roothide
-Maintainer: Bvn Repo
-Installed-Size: 63400
+Maintainer: BVN REPO
+Replaces: com.bvn.solstice
 Filename: ./debs/com.bvn.solstice-r2_3.0.5_iphoneos-arm64e.deb
-Size: 60006116
-MD5sum: bf391e87f2b7802829da894a68797979
-SHA1: d2029e45e6e7bfe48fc6c0cf2687de23f1be9198
-SHA256: 650637c132c245dfee9a69ad2389e433b94cac96697c4b2ea10222fdc272eaf7
-SHA512: 82256ac8e6ec0a22cc28df1baaa1e1dcd33cb91e2f12147716665a63adf386c16dd3fd5ba19f0ce4b055ec0d66cc39fe053490b83236f93903f9bf816a85cc43
-Description: Solstice Theme 3550 icons
-Author: Rifai <icons-requests@hotmail.com>
-Name: Themes
+Size: 60006076
+MD5sum: 86ef3d82955e199be94a036ed231acbb
+SHA1: 641cb60db3c71942560c7a80d09e2c0d06b64413
+SHA256: 055e49fe4b991b06882560988bf8cd343a73d0b30e67593e999b2442753950c7
+SHA512: 04c1363d5765fe26c5753ef508c70a5c713667de05348e754668be01067b69f02a75b567b2f055d02190c473fca45def9f43f13702cfc818fe3303b86b5c1ada
+Description: Solstice Theme
+Name: Solstice Themes
 Depiction: http://bvnsupport.github.io/infodeb/Html/solstice.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
+Author: Rifai
 
 Package: com.bvn.splitviewpro-roothide
 Architecture: iphoneos-arm64e
@@ -4511,6 +4578,27 @@ Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/ytx.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.ytx
+Architecture: iphoneos-arm64e
+Version: 1.7.6
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 56
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.bvn.ytx_1.7.6_iphoneos-arm64e.deb
+Size: 11532
+MD5sum: 0ac89b1c26c5e38a9c43db043e198b3b
+SHA1: 8755a409a8fbe52589a5a64dc4b6cf7f5a64f268
+SHA256: 789fb324ffacce93f40bf101fc00882a153c9ab3fa212ac7b101bdf7a2cb55c9
+SHA512: b7e7c2ecb33a4e3b2ac058e3b8e0c436ca082b1a533a2fa14ea67197a58b0461143dea03823a5aedf335acf954a91328af0d08bf80d7045d6e70ff0fa35a1d21
+Description: A lightweight YouTube improvement tweak.
+Name: YouTube X (Roothide)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.zeppelinreborn-r2
 Architecture: iphoneos-arm64e
@@ -5753,6 +5841,30 @@ Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/youpip.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.youpip
+Architecture: iphoneos-arm64e
+Version: 1.8.16
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 188
+Provides: com.spicat.youpip
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.ps.yougroupsettings, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debs/com.repobvn.youpip_1.8.16_iphoneos-arm64e.deb
+Size: 62238
+MD5sum: 51131ac00bfb3c11d66a82a84569aaa4
+SHA1: 31a7e1862d3f4072c49d8f5312774f54a3258278
+SHA256: 70811b591faea78e4e24116c1bb16bb401fde4ecc76f5fb26c52d346438be51a
+SHA512: 13ec5f7f10534aad164f8904e8edcb480b8d4fb38f748d88bb8dc9b08e24f9bc305ff6285e5f7269d3073870e05c548bbcdcc768b67c0a74dfca644cd3430a47
+Description: Enable native PiP in iOS YouTube app.
+Name: YouPiP (Roothide)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/youpip.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.repobvn.ytx
 Architecture: iphoneos-arm64e
