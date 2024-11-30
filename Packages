@@ -1596,6 +1596,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/backgrounderaction15.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/backgrounderaction15.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.betteruiswitch-r2
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: Bvn repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.bvn.betteruiswitch-r2_1.1_iphoneos-arm64e.deb
+Size: 59680
+MD5sum: 5c5fdf8af7b7ef7a310857e39af56e4a
+SHA1: 53caeffd3a89bf361914408dddcd781699af6e49
+SHA256: 6959ced495a3d1548bcd6d3f92799b5cf9420d9df432b6fb7ac351f9704b6926
+SHA512: 35ee81457d1a18e400789f6f72a4d8aff907a4c4e16dafeaf42229fc20cffbcf2c8ae183fb755eefa7d2f350b097d337b6b2cc10daaf66e1a88ea1ce174be228
+Description: Plug-in này không có cài đặt và nó sẽ có hiệu lực sau khi cài đặt và Respring! Thêm hiệu ứng đặc biệt cho công tắc chức năng trên điện thoại di động.
+Name: Betteruiswitch (Roothide)
+Author: TiaoTiao
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/Betteruiswitch.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Betteruiswitch.json
+
 Package: com.bvn.bhtiktok++
 Architecture: iphoneos-arm64e
 Version: 1.1-1+debug
@@ -1776,6 +1796,27 @@ SHA512: a00986541aa5b4ed4516c33345b0b1e3a34b4db62cbc76426448b858dc95fd8670a7e5ce
 Description: CC Toggle to block ads on demand!
 Name: CCAdsBeGone (Roothide)
 Author: 0xkuj <0xkujz@gmail.com>
+
+Package: com.bvn.ccadsbegone.rootless
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1076
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.opa334.ccsupport, com.ps.letmeblock (>= 1.3.0)
+Conflicts: com.0xkuj.ccadsbegone, com.0xkuj.ccadsbegone.rootless
+Filename: ./debs/com.bvn.ccadsbegone.rootless_1.4_iphoneos-arm64e.deb
+Size: 121632
+MD5sum: e60752c8e24ceab844aac9e319524de7
+SHA1: 2f76947d8b2b154f4eb9e82e42fad6f2c4162f3f
+SHA256: f759df613fd88d7778d9d321a26cdbc626a02fc814ef3bea261d1cfae2635039
+SHA512: 85d8f7b4443764749ff0f550ff9fafe79f9925dd0acddf205762086bbe3796cf829bdd815af580aa9aaaddfe472ef3499fdce29d3fc4560facc0e7938a0cb375
+Description: CC Chuyển đổi để chặn quảng cáo theo yêu cầu!
+ - CC Toggle to block ads on demand!
+Name: CCAdsBeGone VH(Roothide)
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: 0xkuj
 
 Package: com.bvn.ccborder
 Architecture: iphoneos-arm64e
@@ -3779,6 +3820,28 @@ Name: SafariX (Roothide)
 Author: 0xkuj
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.safarix.r2
+Architecture: iphoneos-arm64e
+Version: 1.9.1~Roothide
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 792
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Conflicts: byg.iosios.net.safarixhook, com.xx.safarixhook, com.bvn.safarix.rl
+Filename: ./debs/com.bvn.safarix.r2_1.9.1~Roothide_iphoneos-arm64e.deb
+Size: 301060
+MD5sum: b4bfa556abd82e1a74cd5d2b994d2c1f
+SHA1: cb6dc748578279d41f7d828b39cb64b443669c02
+SHA256: 501b46a13ae703baa682d52348a0504b49c77aabe407d1c9f162bd72e40efce3
+SHA512: 2014b73df7b64df2644386ef2f88ccbd03855c3237065b86079a83fb2dc1144bf7b37213ce200d3d1abe002c73e71aba8754030fe1560f479e2521098aa6a601
+Description: Safari Essential Features
+Name: SafariX VH(Roothide)
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/Html/SafariX.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariX.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.senri
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -4232,6 +4295,26 @@ Author: iOS Creatix, kasiimh1, p2kdev
 Depiction: http://bvnsupport.github.io/infodeb/Html/SugarCane.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SugarCane.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.susudaynightswitch
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Section: Tweaks
+Maintainer: Bvn repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.susudaynightswitch_1.0.5_iphoneos-arm64e.deb
+Size: 97384
+MD5sum: f31eb497a7e966c7b7522ce76fac6a39
+SHA1: 18f28506152c38e6d004e2ba0bf6b35899665f75
+SHA256: fa74c80849fb1183d0723dbac7a90b18f865908cd1e54cfb03d9817ce0b4e65f
+SHA512: 8e5a507aef8cbc416b7eb7f96f790d1ebac33efd0aa8a94c3bcd2a7b6706938f251e705f610237335d8065461f2c1d37b10616d7e8b444c3a0887cb2bf482be3
+Description: Plug-in này có cài đặt, hãy bật công tắc trong cài đặt hệ thống và Áp dụng cài đặt! Đây là những gì nó làm: Thêm một số phong cách cho công tắc của bạn với các hiệu ứng mặt trời và mặt trăng. Vui lòng xem ảnh chụp màn hình giới thiệu của plug-in để biết hiệu ứng, nó rất tốt! Các chàng trai thích làm đẹp đừng bỏ lỡ nhé! Có thể có lỗi, vui lòng tự kiểm tra!
+Name: DayNightSwitch VH(Roothide)
+Author: 苏苏
+Depiction: http://bvnsupport.github.io/infodeb/Html/susudaynightswitch.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/susudaynightswitch.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.systeminfo
 Architecture: iphoneos-arm64e
@@ -5656,6 +5739,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/SettingsRevamp.json
 Name: SettingsRevamp VH(Roothide)
 Author: SOPPPra
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.settingsrevamp
+Architecture: iphoneos-arm64e
+Version: 3.0.1
+Section: Tweaks
+Maintainer: SOPPPra
+Installed-Size: 888
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/com.repobvn.settingsrevamp_3.0.1_iphoneos-arm64e.deb
+Size: 290996
+MD5sum: 9669508a8a781a2ad0ec9ba78c0d0d75
+SHA1: 59928ab9efd586a3476f61f97f4fd983e76b2f9d
+SHA256: ea1bafbff97cd72f2a9df0df3f3bffb2afe4a7e5e55f6c3e9b64b3093f232784
+SHA512: 24fb36776f664e7d9d4b74725e81c846cbb187a025b162fca0ad4ead3dee363880e3ab38ebfb657ebf6147aaff11b3c4766a6ad866afbfd4699441fdfea1246a
+Description: Customize the ios settings page
+Name: SettingsRevamp VH(Roothide)
+Author: SOPPPra
+Depiction: http://bvnsupport.github.io/infodeb/SettingsRevamp2/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SettingsRevamp.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.repobvn.simplus.roothide
 Architecture: iphoneos-arm64e
