@@ -2983,6 +2983,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Locket Gold (Roothide)
 Author: Dell <dvq273665536@gmail.com>
 
+Package: com.bvn.locketpatch-roothide
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Apps Crack
+Maintainer: BVN Repo
+Installed-Size: 616
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.locketpatch-roothide_0.0.2_iphoneos-arm64e.deb
+Size: 27592
+MD5sum: 5c1b433d3212d392a11ddb7a328fa7da
+SHA1: 345582684ba905791ca88a06869a7c4a193faf3c
+SHA256: 2c774ccb6260b7ac23bc56c4958ed5af708a80abb3ead50bc6ed01ebbddcf9bb
+SHA512: d69b5bcdf2050e13e812d38fad1e25084347f5ff9dc29249c9fe5c75716849843cb6575066116e852d70d0192a70d717406e3c649b7fb00d618c1f4ea1cdcca6
+Description: Locket Widget Unlock
+Name: Locket Gold (Roothide)
+Author: Blatant
+Depiction: http://bvnsupport.github.io/infodeb/Html/Locket.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Locket.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
 Package: com.bvn.lunartime-roothide
 Architecture: iphoneos-arm64e
 Version: 1.0.1-1
@@ -4948,6 +4969,23 @@ Description: Dịch nhanh bất kỳ văn bản nào .Phiên bản này dành ch
 Name: Translomatic
 Author: FoxfortMobile
 Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+
+Package: com.gamegod.igg.roothide
+Architecture: iphoneos-arm64e
+Version: 0.4.4
+Section: Utilities
+Maintainer: iGameGod
+Installed-Size: 207852
+Depends: mobilesubstrate (>= 0.9.5000), ldid, odcctools
+Filename: ./debs/com.gamegod.igg.roothide_0.4.4_iphoneos-arm.deb
+Size: 38475886
+MD5sum: 051376c11dd7182f6b1b51b79d07e62c
+SHA1: 9db49a2ebfda921e31330549ce208c8838bdc30a
+SHA256: 35b71e606006049f1ea826d7cb2af69edf1d112b6d79dd7cbc285c35325b4497
+SHA512: 2d22d73e4bb333996d07adec9f137bb0e89c011b75e72c2a139442be9dff9baaf0f58a9db0eb8d09f56aa98bc599e5fc72099c32c58dd6b67980c0f2f090ffa3
+Description: Be the god of your games!
+Name: iGameGod Roothide
+Author: iGameGod
 
 Package: com.ginsu.gscore
 Architecture: iphoneos-arm64e
