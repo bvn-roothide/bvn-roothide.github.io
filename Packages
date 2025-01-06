@@ -101,136 +101,6 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: bvn.repo.designer-roothide
 Architecture: iphoneos-arm64e
-Version: 1.2.9
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 12736
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, preferenceloader
-Conflicts:
-Filename: ./debs/bvn.repo.designer-roothide_1.2.9_iphoneos-arm64e.deb
-Size: 8990456
-MD5sum: 1edf9e09011395d515de1246a93d2a94
-SHA1: fb13faef543d2958a80d4253f3f813024c4f4a03
-SHA256: 96ffad8cce19f77dc8802ec67a435009f957767ada400ed3d88be299c5640f25
-SHA512: 942ce7315bd1312b5501d14573cbde85454f9b247bd7106a62c69a338b3bb50dda9956ee414c6d32e253a1e8d14aa981109e80c5398ba738fb6e8a86263b11bc
-Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
-Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
-Name: Designer VH(Roothide)
-Author: JunesiPhone <junesgraphics@gmail.com>
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: bvn.repo.designer-roothide
-Architecture: iphoneos-arm64e
-Version: 1.3.1
-Section: Tweaks
-Maintainer: Bvn Repo
-Installed-Size: 16292
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, preferenceloader
-Conflicts:
-Filename: ./debs/bvn.repo.designer-roothide_1.3.1_iphoneos-arm64e.deb
-Size: 21992180
-MD5sum: 31fb2f52dbc7ad12673efa9b8214ee93
-SHA1: e5f30353c5639de1c6d6a96b8d5096f3c51b1cdd
-SHA256: 655044862c81350b43bf51e86578a409b5d37eaaa1cada393ff711eb09f2d97d
-SHA512: 51dff63402dcac76eacf44c720644a70aa18340f48fc2282b9aa3d752a35dacdd619ef754843b4088283898f01133b318cfacbab6636d17c520d8c2c7a97c453
-Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
-Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Name: Designer VH (Roothide)
-Author: JunesiPhone <junesgraphics@gmail.com>
-
-Package: bvn.repo.designer-roothide
-Architecture: iphoneos-arm64e
-Version: 1.4.1
-Section: Addons (Tweaks)
-Maintainer: June <junesgraphics@gmail.com>
-Installed-Size: 17288
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, preferenceloader
-Conflicts:
-Filename: ./debs/bvn.repo.designer-roothide_1.4.1_iphoneos-arm64e.deb
-Size: 22713236
-MD5sum: ba3d672173c7b723b107d14c0224ca83
-SHA1: 96be6ab27e02a236903230dba8e6c1dbbed2260b
-SHA256: 051fd3ec348dafd3a3e36074d87c29a323882b6085ac70b048b60e700f09972b
-SHA512: 803730f5e9a147aa57203d0a3d4f7f70f423e1c38ddfa64048a8579235964db44fad792477d60be66062073e4e52da41f2883acd78fa42d47996a3cafb51a0e8
-Description: Design layouts for lockscreen and homescreen
-Name: Designer VH(Roothide)
-Author: JunesiPhone <junesgraphics@gmail.com>
-Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: bvn.repo.designer-roothide
-Architecture: iphoneos-arm64e
-Version: 1.4.3
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 17340
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/bvn.repo.designer-roothide_1.4.3_iphoneos-arm64e.deb
-Size: 33720560
-MD5sum: ba3f6eb8f91cdd2e66a0446ab8c0d3ef
-SHA1: ffc1c60991ff8f1d0b5b8881cccc98385a7ab14a
-SHA256: 1d7e1b246344577ce766f8685a672ed1baab8bdfded37da83678d70efb5dc1a9
-SHA512: 2adeb18b41f963a66ccfb99970868c8d6d19648ac136272cd4e9523f846fdfa3ad4788886a1f93a3d1328e8165212ab03db047dee6a383edbbddf53e6b37cd48
-Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
-Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Name: Designer VH(Rootless)
-Author: JunesiPhone
-
-Package: bvn.repo.designer-roothide
-Architecture: iphoneos-arm64e
-Version: 1.4.4
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 18212
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, preferenceloader
-Conflicts:
-Filename: ./debs/bvn.repo.designer-roothide_1.4.4_iphoneos-arm64e.deb
-Size: 44423968
-MD5sum: 457abc0486ddbbb7064b216635a89dcd
-SHA1: a0f200976352eccc58839b8900010cf7a46132cd
-SHA256: 0880555661a3766e78d5dfa4fd7a62da1f3d4853e63de206344e9b4af68c0e41
-SHA512: 12baad4143d8202d28d703280d6522f3193fa3db1f37a979f735d96efe151ed9d154be755b49eab85f62e6cb8c6a5eb66a4d212e39d71012d3a053c076a08691
-Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
-Name: Designer VH(Roothide)
-Author: JunesiPhone <junesgraphics@gmail.com>
-Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: bvn.repo.designer-roothide
-Architecture: iphoneos-arm64e
-Version: 1.4.6
-Section: Tweaks
-Maintainer: Bvn Repo
-Installed-Size: 18316
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/bvn.repo.designer-roothide_1.4.6_iphoneos-arm64e.deb
-Size: 38259722
-MD5sum: dc77f62d8b3a9e21d992475b85149933
-SHA1: 4a257858bb37c1433967706feaa1605cd2a5b478
-SHA256: ca766d67e2fdd4a2bad7816d258b724abf5eed4218c6413c97bfe5399499fd8d
-SHA512: a01b9701d31ecfc83fde867265c68b1f38cb78907de418c94bdc99486950aa8b5dc1a139c025c00ec6b4c4a710f528035315104ca78e9a2c2ac6004cd0b544c1
-Description: Design layouts for lockscreen and homescreen
-Author: JunesiPhone <junesgraphics@gmail.com>
-Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Name: Designer VH(Roothide)
-
-Package: bvn.repo.designer-roothide
-Architecture: iphoneos-arm64e
 Version: 1.4.9
 Section: Addons (Tweaks)
 Maintainer: BVN Repo
@@ -249,28 +119,6 @@ Name: Designer VH(Roothide)
 Author: JunesiPhone <junesgraphics@gmail.com>
 Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
-
-Package: bvn.repo.designer-roothide
-Architecture: iphoneos-arm64e
-Version: 1.4
-Section: Tweaks
-Maintainer: Bvn Repository
-Installed-Size: 16600
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, preferenceloader
-Conflicts:
-Filename: ./debs/bvn.repo.designer-roothide_1.4_iphoneos-arm64e.deb
-Size: 22175988
-MD5sum: 40604152f2ad2e15df6d267469a863f8
-SHA1: 83b28b1c9a4970f814cd20537bb9cbaa49772f6b
-SHA256: 162a2b649bd237fc63fc378f0d4308d97e2f944bac6b8ca6c43f76cbdaa23c39
-SHA512: f31e33ebe7b2626b9303a6c9bbae5523d184f58910a9a8a32c221b4f4a3023a2f957e3b84b1648fec7d9cf36c3776ce0c0387130a1fd917f699e319b01823415
-Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
-Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Name: Designer VH(Roothide)
-Author: JunesiPhone <junesgraphics@gmail.com>
 
 Package: bvn.vn.disableshuttersound
 Architecture: iphoneos-arm64e
@@ -5011,23 +4859,6 @@ Description: Dịch nhanh bất kỳ văn bản nào .Phiên bản này dành ch
 Name: Translomatic
 Author: FoxfortMobile
 Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
-
-Package: com.gamegod.igg.roothide
-Architecture: iphoneos-arm64e
-Version: 0.4.4
-Section: Utilities
-Maintainer: iGameGod
-Installed-Size: 207852
-Depends: mobilesubstrate (>= 0.9.5000), ldid, odcctools
-Filename: ./debs/com.gamegod.igg.roothide_0.4.4_iphoneos-arm.deb
-Size: 38475886
-MD5sum: 051376c11dd7182f6b1b51b79d07e62c
-SHA1: 9db49a2ebfda921e31330549ce208c8838bdc30a
-SHA256: 35b71e606006049f1ea826d7cb2af69edf1d112b6d79dd7cbc285c35325b4497
-SHA512: 2d22d73e4bb333996d07adec9f137bb0e89c011b75e72c2a139442be9dff9baaf0f58a9db0eb8d09f56aa98bc599e5fc72099c32c58dd6b67980c0f2f090ffa3
-Description: Be the god of your games!
-Name: iGameGod Roothide
-Author: iGameGod
 
 Package: com.ginsu.gscore
 Architecture: iphoneos-arm64e
