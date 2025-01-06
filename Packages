@@ -4860,6 +4860,23 @@ Name: Translomatic
 Author: FoxfortMobile
 Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
 
+Package: com.gamegod.igg.roothide
+Architecture: iphoneos-arm64e
+Version: 0.4.4
+Section: Utilities
+Maintainer: iGameGod
+Installed-Size: 207852
+Depends: mobilesubstrate (>= 0.9.5000), ldid, odcctools
+Filename: ./debs/com.gamegod.igg.roothide_0.4.4_iphoneos-arm.deb
+Size: 38475886
+MD5sum: 051376c11dd7182f6b1b51b79d07e62c
+SHA1: 9db49a2ebfda921e31330549ce208c8838bdc30a
+SHA256: 35b71e606006049f1ea826d7cb2af69edf1d112b6d79dd7cbc285c35325b4497
+SHA512: 2d22d73e4bb333996d07adec9f137bb0e89c011b75e72c2a139442be9dff9baaf0f58a9db0eb8d09f56aa98bc599e5fc72099c32c58dd6b67980c0f2f090ffa3
+Description: Be the god of your games!
+Name: iGameGod Roothide
+Author: iGameGod
+
 Package: com.ginsu.gscore
 Architecture: iphoneos-arm64e
 Version: 1.0.4-roothide
