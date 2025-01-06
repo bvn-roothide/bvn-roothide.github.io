@@ -440,6 +440,28 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: AIM Pro VH(Roothide)
 Author: alimaulana
 
+Package: com.BIENVANNHAT.aimprorooess
+Architecture: iphoneos-arm64e
+Version: 1.0.7
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 4908
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 2.0), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Filename: ./debs/com.BIENVANNHAT.aimprorooess_1.0.7_iphoneos-arm64e.deb
+Size: 2284632
+MD5sum: 6daf38f0ddb7aa32cbe3907adf3ab735
+SHA1: 8bf1eb7db45c798c7a7cfb6f4df9adf4ce49bdcd
+SHA256: 9096c4ba4e03778181eceffdb6050f385840b57f59d68e6b2585d7f656823081
+SHA512: b95752d8032e8814ed473c9ec43969389874ad2283eec7b8ecdf36ea044fb7db023e0329e29775a1a7863c5b3f944d5bd7cab63434581d0b7fed286ad0329b8b
+Description: Màn hình khóa ngày và giờ phong cách iOS 16
+Name: AIM Pro VH(Roothide)
+Author: alimaulana
+Depiction: http://bvnsupport.github.io/infodeb/AIM/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/aimpro.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.batterypercent
 Architecture: iphoneos-arm64e
 Version: 1.1.2
@@ -3225,6 +3247,26 @@ MD5sum: f2c3f13d1c82d9dccf26d296a1c28f84
 SHA1: d2826f27fdfbf7723c1013d728d593fa30854bc9
 SHA256: 941c36724d810f9c860c0f4b23db13e6621c652771d5f33220b19176aa1cc9b6
 SHA512: ab56822a8389d1c9b4c36b76dc3fcd41bf9f123ad74734251964887a4414c96eba3f599ea6f3dda225fbcc41d9c8e019efec85162b6c905b2446dbd772de769a
+Description: Ultimate iDevice Customization for iOS 14, 15, 16
+Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: Lynx 2 VH(Roothide)
+Author: MTAC
+
+Package: com.bvn.lynxroothide
+Architecture: iphoneos-arm64e
+Version: 2.5.4
+Section: Tweaks
+Maintainer: Bvn Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.lynxroothide_2.5.4_iphoneos-arm64e.deb
+Size: 717732
+MD5sum: a358a6c3bcfa13fe335ed556ce64be82
+SHA1: 68064b8ab0068c5ffc415a61e8ecd34017650401
+SHA256: 5eecf4465488e95a079582e86f2247fa89786452c676875133869734c3c8b82d
+SHA512: 40a1ad70962d10bf026e31c7e28035586f40999c44ed052298dc0ad000e65326a72e22e4e952a9db55bf7df94d9ada0a90b231da71b17fe7330a7e15b5223f8b
 Description: Ultimate iDevice Customization for iOS 14, 15, 16
 Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
