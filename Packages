@@ -2128,6 +2128,27 @@ Description: 1. Tắt cửa sổ bật lên cảnh báo dán iOS16+ và tự đ�
 Name: DisablePasteAlert16
 Author: SquidForce
 
+Package: com.bvn.documents
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Apps Crack
+Maintainer: Bvn repo
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.documents_1.0_iphoneos-arm64e.deb
+Size: 23740
+MD5sum: 7d3dff3526f1df63f921a07417321390
+SHA1: f9ad178cbce84e784f46d83ef19d5d96ad97bf95
+SHA256: 8de4b35f250fb2815050802081eebacb7f92115dda321234ad610e3d2fa7eef3
+SHA512: 3532cade79dfcbca7793f0001acef9ec12fdbaeb9e9fd6aaddac4f106d0d733f4976def660af1912a305bb682b67f7db67792c108c343d2449667a62233b6c29
+Description: Cracked By Blatant
+Name: Documents Plus
+Author: blatant
+Depiction: http://bvnsupport.github.io/infodeb/Html/Documents.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Documents.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
 Package: com.bvn.doodle.r2
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -3897,6 +3918,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/SnapEdit.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SnapEdit.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.snapeditpatch-r2
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Apps Crack
+Maintainer: blatant
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.snapeditpatch-r2_1.0_iphoneos-arm64e.deb
+Size: 23980
+MD5sum: db7a484a16080996488dee2280ff2313
+SHA1: ec12ca47fb3846b146826d5c73271e719696166d
+SHA256: c9930ede9b544a244b9578bccacd462566ab33dc01a890b5425a57fd4fdeb692
+SHA512: bb40b39d309485e315f9faf28acdfb941481b5d0b72d9925474520bd28ad3db96cf502216c877b5ea407eefd5da2e6ae13188313757a8bd65f7d0429300e1829
+Description: Cracked By Blatant
+Name: SnapEdit Pro (RootHide)
+Author: blatant
+Depiction: http://bvnsupport.github.io/infodeb/Html/SnapEdit.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SnapEdit.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
 Package: com.bvn.snapper3-r2
 Architecture: iphoneos-arm64e
 Version: 1.0k
@@ -4247,6 +4289,28 @@ Depiction: http://support-jailbreak.github.io/infodeb/SystemInfo/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SystemInfo.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.teraboxpremium
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Apps Crack
+Maintainer: Bvn Repo
+Installed-Size: 280
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.teraboxpremium_1.0.0_iphoneos-arm64e.deb
+Size: 7116
+MD5sum: da9482cd3f28d288af8003d31e216728
+SHA1: d7c22678f165dcd3771684befbc6e46513086c7d
+SHA256: d6e5dc4f74ea224407268f403eced8d7a84b877244c0c809222a74dc30866d05
+SHA512: fe8109cf6abfb6fd0ba01231fb4e00fa358862a529eeaf4e05596ab5745ae18c0f31498b2c5e0793f8693e7c2215e2f5118a22486f527ebbe50335ec5f0365b9
+Homepage: https://repo.danielpitra.cz
+Description: Enables Premium features.
+Name: TeraBox (Premium)
+Author: strejda603 <strejda603@centrum.cz>
+Depiction: http://bvnsupport.github.io/infodeb/Html/TeraBox.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/TeraBox.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
 Package: com.bvn.uptime
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -4306,6 +4370,27 @@ Author: trizau
 Depiction: http://bvnsupport.github.io/infodeb/Html/VCAM.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/VCAM.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.wallcraftpro
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Apps Crack
+Maintainer: Bvn repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Replaces: com.hw.wallcraft
+Filename: ./debs/com.bvn.wallcraftpro_0.0.1_iphoneos-arm64e.deb
+Size: 71508
+MD5sum: 17d978da1f42ee8c85e87b528f7a4e20
+SHA1: ce22a66c5951f6f4517e3c795cdb9069694549fc
+SHA256: a215302fa06126783e7e90ac045024560c1f3e95e3b532217c1385bb21810c38
+SHA512: 4a07141f0bd8a5a1b9a5dc4da673480a0e078c05e2f18fdad0c6d9e2eb9a4d876b11671efc4a81f52bd1a9b8e572a8089f1754fad808a91c2dc7587a525bc5c0
+Description: Các tính năng chuyên nghiệp đã được mở khóa cho "Wallcraft - Wallpapers, live" từ AppStore
+Depiction: http://bvnsupport.github.io/infodeb/Html/Wallcraft.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Wallcraft.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+Name: Wallcraft Pro
+Author: Hoang_Anhp
 
 Package: com.bvn.watched
 Architecture: iphoneos-arm64e
