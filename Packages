@@ -3240,6 +3240,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/NCT.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/nct.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.nglpro-r2
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Apps Crack
+Maintainer: Bvn repo
+Installed-Size: 156
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.nglpro-r2_0.0.1_iphoneos-arm64e.deb
+Size: 16020
+MD5sum: 1868f4507e7891659dbb8664d18509dd
+SHA1: 0e66e01668465b134b93c66c32e9c02e4e0f687c
+SHA256: e01432abe6723d296f385b79db054a27034d1be2378c9d9484b89ba08d1d19da
+SHA512: 3d9ae03b5169d0a8e070942ff1cf07f7acdc041cf28c080c0efc8abfccdd4d0848b765ed08084654304f6994ecf83391596d7d8a9c5ae6f1184dade481885838
+Description: NGL Pro
+Name: NGL Pro (Roothide)
+Author: hahios <kevinpham250607@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/NGL.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/NGL.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
 Package: com.bvn.nobetaalert-roothide
 Architecture: iphoneos-arm64e
 Version: 4.0
@@ -4207,6 +4228,27 @@ Name: Stalky
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
 
+Package: com.bvn.stella-r2
+Architecture: iphoneos-arm64e
+Version: 1.1.4
+Section: Tweaks
+Maintainer: Bvn
+Installed-Size: 1328
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: ./debs/com.bvn.stella-r2_1.1.4_iphoneos-arm64e.deb
+Size: 363844
+MD5sum: 34fa55a30295e094cfc4ed721e2636eb
+SHA1: 7145f89ba8dc83ca6c2f700a73fcc16fa05fcacf
+SHA256: d1c54316fe825ac1e024024053435387f7fff78a43881331046442b9fb4292ab
+SHA512: 5cf2b43563ef615ef5348afe021ef4861928b84d955c7ffb0d04cafdda9cf599623a2b38a79f599529373d8f07e568b035437442e01fe77162d836f27b2a3a94
+Description: Let it snow on your device!
+Name: Stella VH(Roothide)
+Author: yan
+Depiction: http://bvnsupport.github.io/infodeb/Html/stella.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/stella.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.sugarcane-roothide
 Architecture: iphoneos-arm64e
 Version: 1.2.4.2
@@ -4590,6 +4632,26 @@ SHA256: 6a597490ea1fa4c7fb7200fa892c631407364b9303cb49d4ea31d3fb7fe6664a
 SHA512: 28ec63a2c50928f3aef48b0ee28b92e20ee724ddc48e3408651ff0b6dfe738585ce1bcc4a2458f596cabca7ab76d70907f6463327824964f9ae327137ff2de16
 Description: Lightweight YouTube Enhancer
 Name: Youtube Plus (Roothide)
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.ytlite-r2
+Architecture: iphoneos-arm64e
+Version: 5.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16344
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.ytlite-r2_5.1_iphoneos-arm64e.deb
+Size: 8166518
+MD5sum: 2598a36675a378b18d35dc801814585c
+SHA1: 747f2ffd0edbf745eb60e6b02527f6fc467d3b28
+SHA256: fc34324d497c82fbcb2bfeca15be646899d5fce13631796e68da2140071af154
+SHA512: 0097ce499a887b1c8497f56f2e15ab3e509b138542238366199b662ccda0fe9fe4c2c672ac1f78f05d5e968885e4c91164eabc2dfac531fe99cdba562b6a37d9
+Description: Lightweight YouTube Enhancer
+Name: Youtube Plus VH(Roothide)
 Author: dvntm
 Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
