@@ -76,29 +76,6 @@ Description: hide All Bar
 Name: HideAllBar (Roothide)
 Author: Netskao
 
-Package: bvn.picsartcrack
-Architecture: iphoneos-arm64e
-Version: 1.0
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 940
-Depends: mobilesubstrate
-Filename: ./debs/bvn.picsartcrack_1.0_iphoneos-arm64e.deb
-Size: 14250
-MD5sum: 3f28117212e8738c86b3cad293c08bdf
-SHA1: 42a8764208a55538e702369acf3c47bc5fade0db
-SHA256: 7f86fb6b821793c36e8637fafc6f98110d4ea3b27ec898812958fa7c69e76b9d
-SHA512: bcfb9bae78b1bb0970a21d2123d3a11b0a13f5c12145d66688a3bf33e3110ac780546bdf84b022c4b75125592d357710ae4544fe96818f9439262a8f1ab6f2e2
-Description: 
-  • Mở khóa tất cả các tính năng
-  • Xóa Quảng cáo & Biểu ngữ
-  • Gói cao cấp & VIP
-Name: PicsArt® Gold (Roothide)
-Author: Lãng Khách
-Depiction: http://bvnsupport.github.io/infodeb/Picsart/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/PicsArt.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
 Package: bvn.repo.designer-roothide
 Architecture: iphoneos-arm64e
 Version: 1.4.9
@@ -515,66 +492,24 @@ Author: TTJB Team
 
 Package: com.BIENVANNHAT.truecallergold
 Architecture: iphoneos-arm64e
-Version: 1.0.0
-Section: Tweaks
-Maintainer: BIỆN VĂN NHẬT
-Installed-Size: 280
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate
-Filename: ./debs/com.BIENVANNHAT.truecallergold_1.0.0_iphoneos-arm64e.deb
-Size: 13000
-MD5sum: 313782de0c6647722660912b79f4aa83
-SHA1: dc9cefe52693d8b1e40d5cde103698903198a3cb
-SHA256: 40631b47fde9711e516acbb1c778ad3be634d9c3367e604f046b5818b7d08228
-SHA512: 7ea1cad0af491c38a5501ed49f45fd302c907c96ea7ba8fc108e880c28b6f50b2bf76f6a789a1717b43a605e3ad6e230503ca2ef686b8c8035a27210c9f51757
-Description: Cracked By Ravand
+Version: 1.0.3
+Section: Apps Crack
+Maintainer: Bvn Repo
+Installed-Size: 3312
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.BIENVANNHAT.truecallergold_1.0.3_iphoneos-arm64e.deb
+Size: 1877380
+MD5sum: b7c1dc30f19340ae3acaafa6d5590eb8
+SHA1: be0202ded80a3db27b3da2ee7921944e7dc10f38
+SHA256: a4ab2d3a765fa631c47915859bbbb0b09914c8875b61d960ad5c65da424f5e14
+SHA512: 83cef12f1a475473a77252098d1c7d10773078e455690dfce3d82012748b33088905a094738f729f54495b930506616fd4f20c7a8c46154ad4d88fb56eaadba3
+Description: Cracked By Blatant
 Name: Truecaller Gold (Roothide)
-Author: Ravand
-Depiction: http://support-jailbreak.github.io/infodeb/Truecaller/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Truecaller.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.truecallergold
-Architecture: iphoneos-arm64e
-Version: 1.0.1
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate
-Filename: ./debs/com.BIENVANNHAT.truecallergold_1.0.1_iphoneos-arm64e.deb
-Size: 8964
-MD5sum: bc648e8b741554eadc6b2971779391df
-SHA1: 900b3e16fcf255b08fec9f96a647166e2894aee7
-SHA256: e2f62fb2d8dac0167b5f6770f647646ab696625b4f1c20a0d3e6df335ebe8fd9
-SHA512: 2b785380b73331589d6e9d26f0297a4b061de942d4fd95801717fda7fb1c417f3121ae10924735a4dfa68227583c2d1b38df2c0e8be7e2f263ad79ad4bc1acaf
-Description: Truecaller Gold Crack By Lãng Khách
-Author: LK
+Author: blatant
 Depiction: http://bvnsupport.github.io/infodeb/Truecaller/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Truecaller.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Name: Truecaller Gold (Roothide)
-
-Package: com.BIENVANNHAT.truecallergold
-Architecture: iphoneos-arm64e
-Version: 1.0.2-1
-Section: Tweaks
-Maintainer: Dell <tranthikimchi2601@gmail.com>
-Installed-Size: 7288
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/com.BIENVANNHAT.truecallergold_1.0.2-1_iphoneos-arm64e.deb
-Size: 4577906
-MD5sum: 5e8c0581a36a785449356e8437e292e1
-SHA1: 456f52db4149dcf0319d61f616889b521328615a
-SHA256: 12f0a383160394e8836331d2940386f822e718976b56a2357680145d74df0736
-SHA512: e613607a7ef6f1275f7d560fefea4ce9b695ca90b2de511f4065fdbff7b8322ee3a8c764bc72fd0e1ef8231b02c102c8f9a441487d9e90739d8fd5e282e5903e
-Description: Unlock Premium Gold
-Name: Truecaller Gold (Roothide)
-Author: Dell <tranthikimchi2601@gmail.com>
-Depiction: http://support-jailbreak.github.io/infodeb/Truecaller/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Truecaller.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
 Package: com.BVN.homegesture1316
 Architecture: iphoneos-arm64e
@@ -1874,25 +1809,6 @@ Name: CallMeMaybe VH(Roothide)
 Author: dvntm
 Depiction: http://bvnsupport.github.io/infodeb/Html/CallMeMaybe.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CallMeMaybe.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.colorfulwallpaperx
-Architecture: iphoneos-arm64e
-Version: 4.2k
-Section: Tweaks
-Maintainer: BVN REPO
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.bvn.colorfulwallpaperx_4.2k_iphoneos-arm64e.deb
-Size: 1218136
-MD5sum: 19b812111566dbb08646d04870273450
-SHA1: 01519a5237d6697a0879579a74bad21f211d857f
-SHA256: 348a914fa047b48eac9a89223b41233cebe59205e942f6bec2268cc9a12cb811
-SHA512: 29cdf48e9fb586c96fa826fb43856d28963f5821a9fcb3540ba843409ff21c090daeeaa2dad14e5e44d693a8d2784b5cd4dcbeac0047beef1309e12c0e06ef53
-Description: Hình nền động với hiệu ứng đầy màu sắc.
- - Dynamic wallpaper with colorful effects.
-Name: ColorfulWallpaperX (Roothide)
-Author: Lessica
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.contactsextended
