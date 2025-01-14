@@ -2300,6 +2300,24 @@ Description: iPhone X gestures brought to older iPhones compatible with iOS 15
 Name: GesturesXV (Roothide)
 Author: Ethan Whited
 
+Package: com.bvn.githubweblegacycompat
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 364
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), firmware (<< 15.4)
+Filename: ./debs/com.bvn.githubweblegacycompat_1.0.1_iphoneos-arm64e.deb
+Size: 20072
+MD5sum: 138464c6115c30954d79696158b6ed9c
+SHA1: 879bf38bcd3e7535a9ce961801e2a136c963b9eb
+SHA256: 5dd34275c1ca8a9d2efa87a7347088474cd140f0454ac95178b5ed1c436059a7
+SHA512: 4fd8e00d0823b7567fd9587f9134962ea3f4bbd0cfd9c53a21d5792d0364a650d5b107b66cf7cdf6b064c78af1ea44ea9cf5fc5c741b382060d38126aac16b09
+Description: Make GitHub website more accessible on iOS <15.4
+Name: GitHubWebLegacyCompat (Roothide)
+Author: PoomSmart
+
 Package: com.bvn.griddy-r2
 Architecture: iphoneos-arm64e
 Version: 1.0.3
@@ -2572,6 +2590,26 @@ Author: Alexandra Aurora Göttlicher
 Depiction: http://bvnsupport.github.io/infodeb/Html/Kayoko.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Kayoko.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.lastlook-r2
+Architecture: iphoneos-arm64e
+Version: 4.2.2
+Section: Tweaks
+Maintainer: Bvn Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.lastlook-r2_4.2.2_iphoneos-arm64e.deb
+Size: 463632
+MD5sum: 35d9407aa54feb1e0dcf4a2295bddb87
+SHA1: d7255e934c8116e77f315fb6af307ae5e5b57dfa
+SHA256: 0e2aef129192d107647db925ceb3ef901e451c805b95c77191d9fbf092ec2f25
+SHA512: 661d879b527ff7dfc42ecbb7e8d84d9a1746944f8f6a100923751132b6cbabb0ec390f116c91d2cfb8bf18641dd5f006c1fd7c39968c809c7164ac4498682fb4
+Description: Một tinh chỉnh AOD mang lại cảm giác nguyên bản với khả năng vô tận!
+Depiction: http://bvnsupport.github.io/infodeb/Html/LastLook.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/LastLook.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: AnthoPak
+Name: LastLook VH(Roothide)
 
 Package: com.bvn.latchkey
 Architecture: iphoneos-arm64e
@@ -3467,6 +3505,30 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/RecordPause.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: PoomSmart
 
+Package: com.bvn.recordpause-r2
+Architecture: iphoneos-arm64e
+Version: 2.0.4
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 168
+Provides: org.thebigboss.recordpause, com.spicat.recordpause
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Replaces: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./debs/com.bvn.recordpause-r2_2.0.4_iphoneos-arm64e.deb
+Size: 11376
+MD5sum: e803993b6708f86f465b8f5ddcec17db
+SHA1: 39ed767c1d80b7faf240b6fbefd071c208f6df08
+SHA256: c6338a0738d7f37f1ed47c25772a1821bf820139ed3a193209038101f6b70242
+SHA512: 311216b58326e99a60a91c9d910ab37842f40612f46ad66f64ea712d55c6a020df16e4a0dacf34bffe4a292479094c5d9322592fb5a6b1e3482c255fe8e792fc
+Description: Tạm dừng/tiếp tục quay video trong ứng dụng Máy ảnh iOS.
+Name: RecordPause (Roothide)
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/RecordPause.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/RecordPause.json
+Author: PoomSmart
+
 Package: com.bvn.redblue-roothide
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -4076,6 +4138,27 @@ SHA256: 46d9d9294a7722859e206283df00cf3ff545bdb06b6a72d7d8b999565f536549
 SHA512: b9092f8ec8d9fc8938cfd03abbdf32e27740699eb9c871865817e58af4193cb1fcc5e67b6f06423091be0a509b325fddb0a68f0416e1f3c989d9d51449802c29
 Description: A tweak to get Spotify Premium for free, just like Spotilife
 Name: EeveeSpotify (Roothide)
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.spotify-r2
+Architecture: iphoneos-arm64e
+Version: 5.8.4
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1588
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Filename: ./debs/com.bvn.spotify-r2_5.8.4_iphoneos-arm64e.deb
+Size: 398804
+MD5sum: 1412c340f8a2351c6c1717cc46b84b50
+SHA1: 97267ad8bec2586604cf44dc4c9642f9de5c8b55
+SHA256: 8abb62e6f0a1f53976cdbdf964af05674a97e8967dd5c6447471abdc81fa8308
+SHA512: be19174bbe5ef65c52a744e0daea39323b2c74d133d2433bd4e3ea793099cb7a1f67c1f7759b0aeab91fa191e7f0638766ccab6a9fd09bb4d42a95336f3dc744
+Description: Tinh chỉnh để nhận Spotify Premium miễn phí giống Spotilife
+Name: EeveeSpotify VH (Roothide)
 Author: Eevee
 Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
@@ -5846,6 +5929,30 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.youpip
 Architecture: iphoneos-arm64e
+Version: 1.12.1
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 212
+Provides: com.spicat.youpip
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debs/com.repobvn.youpip_1.12.1_iphoneos-arm64e.deb
+Size: 64634
+MD5sum: 78e76fad734011b73f4c516eef25113f
+SHA1: f4fba21c9383f2c425e65b56e2b72be352ea04bc
+SHA256: 1d4da64163f668d7ad8f38cf4555762edd07be6fc2d73a5f7759b9666c4e5ed7
+SHA512: e8d2e86766c78f327ecac7cb741f33a7e6ec9fe961f5c7c75bf210ed40410708a461b71fe8f53c3e9f3a19a17c09f847ef2cb79244d5e83aad2ca129160b8e0e
+Description: Enable native PiP in iOS YouTube app.
+Name: YouPiP (Roothide)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/youpip.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.repobvn.youpip
+Architecture: iphoneos-arm64e
 Version: 1.7.21
 Section: Tweaks
 Maintainer: Repo BVN
@@ -5939,27 +6046,6 @@ Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/youpip.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.repobvn.ytx
-Architecture: iphoneos-arm64e
-Version: 1.6.10
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 56
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
-Filename: ./debs/com.repobvn.ytx_1.6.10_iphoneos-arm64e.deb
-Size: 5632
-MD5sum: 63bc19f9fd1b6c835503d4d7e612f838
-SHA1: 8359543a3fce43c9e27582de33caf1447bcae301
-SHA256: 958918c2ea3672cfd00afea29527831e55426413f236ad187f2647b21025fdb1
-SHA512: 1845023d289ee4ce85bd384d41d398c7278ccc5bd4feee2538d95eccfbc85c79d66eef77c74b83be7ca02c9d0491d3a87526ffdeac44ebcf65903498a6410e4a
-Description: Chặn quảng cáo và phát lại nền cho Youtubr
-Name: YouTube X(Roothide)
-Author: PoomSmart
-Depiction: https://bvnsupport.github.io/depictions/ytx.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.zetsu-roothide
 Architecture: iphoneos-arm64e
