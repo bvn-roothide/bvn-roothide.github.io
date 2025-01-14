@@ -3778,16 +3778,16 @@ Package: com.bvn.safarix.r2
 Architecture: iphoneos-arm64e
 Version: 1.9.3
 Section: Tweaks
-Maintainer: Bvn
+Maintainer: 0xkuj
 Installed-Size: 824
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.bvn.safarix.r2_1.9.3_iphoneos-arm64e-1.deb
-Size: 312364
-MD5sum: 6b42732ccce2ca2e21d7a96a98afde26
-SHA1: 2525e835444d5705617f25658df251368db7e32f
-SHA256: a007b9564900c0c8dc58f2cf01fb602fe0e2f7877666064c3e93fbe4da2d6439
-SHA512: 9b9925c9b30a80e752ee1b3092d814e61eab8fe6bedbcbce4721d46f0bd5e2cc76c24e44f66a9f8809870f644a8fd986f4cec201818764bd6abd25c9c363192b
+Filename: ./debs/com.bvn.safarix.r2_1.9.3_iphoneos-arm64e.deb
+Size: 719424
+MD5sum: 6b0afd01a71881a3f875b0c1f92a831d
+SHA1: 946358dff22c21f0b80dec452b8e6437dd73683c
+SHA256: 40c2e35bf38064ff26cf3e130dd5913411ec7f36d73bdd7b66486a7534260cca
+SHA512: 883efc489639e794e6f24ce0c3f818f1e7ce27df8d4ea64ade195d78455c274bceba4ebe02e52f3e240ed3e77888398dff0b4ce59689abe416b0d13471c02b6a
 Description: Safari Essential Features
 Name: SafariX VH(Roothide)
 Author: 0xkuj
