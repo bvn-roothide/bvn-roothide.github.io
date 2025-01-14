@@ -393,32 +393,15 @@ Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
 Package: com.BIENVANNHAT.modern6-roothide
 Architecture: iphoneos-arm64e
-Version: 2.1.1
+Version: 2.1.2
 Section: Themes Roothide
 Maintainer: BIỆN VĂN NHẬT
-Pre-Depends: rootless-compat(>= 0.1)
-Filename: ./debs/com.BIENVANNHAT.modern6-roothide_2.1.1_iphoneos-arm64e.deb
-Size: 36250888
-MD5sum: c02f5c4fecfa9bb402ce3790e6eb0297
-SHA1: 5e71a0261e5e1d3465c6dfa5a645c9badb57968e
-SHA256: 527b58218fd1eb90af4a93d091cdfc072c01045de22abee11f01f4217ac75302
-SHA512: bb3d077b2ee001b7cdfdb70d3da173d96a32c9644118cfa63145544f3e615fabb7f57171864584478be8c5b036acb37adb837c69dab90ac23b300947847d537e
-Description: Chủ đề iOS 6 sắc nét.
-Name: Modern 6 (Roothide)
-Author: IceCool Tech
-
-Package: com.BIENVANNHAT.modern6-roothide
-Architecture: iphoneos-arm64e
-Version: 2.1.2
-Section: Theme Rootless
-Maintainer: BIỆN VĂN NHẬT
-Pre-Depends: rootless-compat(>= 0.1)
-Filename: ./debs/com.BIENVANNHAT.modern6-roothide_2.1.2_iphoneos-arm64e-1.deb
-Size: 16358984
-MD5sum: 7701dd85d451f0561dd3ef3699d8160d
-SHA1: 425b0fc2cdbfded629fa83a76550a7a65ee2105c
-SHA256: 965a9b33b78e9ccc8c152f26e74148255ec14dbe7e9b5b5ef7e7a4b95452f4ad
-SHA512: 4b341f4d4ece6b6a5feba69b08e4194ff20b274b94508f68155e09091aa72846f39212f5c97c09cf8cc0b174ad6899bc4da0b456a869b4aa286f0505c1e0ae52
+Filename: ./debs/com.BIENVANNHAT.modern6-roothide_2.1.2_iphoneos-arm64e.deb
+Size: 14284938
+MD5sum: 92e0aaf97fb4d3c251a8909fc8da7231
+SHA1: 3b86b7570a28da43037cc9782b4010a8c6ec45e4
+SHA256: b3788315001adc78974a8aaf890ab98291987ccb4a518ef15ac68433474c6442
+SHA512: 74a407392793c29bc41265076309fa24616e55be2da1943ad9babc655af34c7ca436dbf6db40552755829f42e037467ee2ab2f8b4da79c71221863a2e703c1a4
 Description: Chủ đề iOS 6 sắc nét nhất thế giới.
 Name: Modern 6 (Roothide)
 Author: IceCool Tech
@@ -1136,6 +1119,24 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/LS16-Comforta.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/LS16-Comforta.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: Phuc Do
+
+Package: com.bvn.LSUISnake
+Architecture: iphoneos-arm64e
+Version: 0.1
+Section: Themes Roothide
+Maintainer: BVN Repo
+Filename: ./debs/com.bvn.LSUISnake_0.1_iphoneos-arm64e.deb
+Size: 78576
+MD5sum: 96666472d66c9e4a8175434fa44e289f
+SHA1: 27a9434f42bf6ed681fcf57e548e34c2a7459ca4
+SHA256: 2bea2956f15d27a01a7fd5e789c6988d15afcc5283c60e855eff1cc083e9abfc
+SHA512: a1f042005a582f41a599cb0e8e267a9402fb8cbfadfa82e8d9d0e15c9dce5e0f670eb65d004c468f8f6aacac2fa170de15c5311aecc519ba91298665bdfe968e
+Description: LS UI Snake Thay đổi nền nút đèn pin và camera
+Name: LS UI Snake
+Author: Hưng Nguyễn
+Depiction: http://bvnsupport.github.io/infodeb/Html/Snake.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Snake.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 
 Package: com.bvn.RingTonesManager
 Architecture: iphoneos-arm64e
@@ -3532,15 +3533,14 @@ Author: PoomSmart
 Package: com.bvn.redblue-roothide
 Architecture: iphoneos-arm64e
 Version: 1.0
-Section: Theme Rootless
+Section: Themes Roothide
 Maintainer: Bvn Repo
-Pre-Depends: rootless-compat(>= 0.1)
 Filename: ./debs/com.bvn.redblue-roothide_1.0_iphoneos-arm64e.deb
-Size: 33774448
-MD5sum: 716743b3e4ed651b6d1bd6d528df8c6f
-SHA1: 1f8273cac2aabbc56058741dde763aaa3d867768
-SHA256: a9b9d76a30e54671bb0b48739d98a42470226404578509067c60c543cb4abd67
-SHA512: 26b4aab0f2b042a28167c4f330c8145101378b6f8a7a2a09b11628b6de8907655a9290c60a45f9b588a83b299754442103059b443c5268004ac66ad692b81608
+Size: 18095676
+MD5sum: e86fe1c16132520c32149b1f91df49c7
+SHA1: 4c9047eadadf9079892016f79a602402273dab87
+SHA256: 1a4cea4261ea54f8774d98e217fe49a0388ef0cf61247955ef2ddaeb247125e4
+SHA512: 8d2031839ae4741c7cbe8d44f6f455191640a417080e1e092ab13c4c489d6cddb4a761c7ad6238a2aa922fc56db0dbfc052817abebc40bf677196db440c21e9f
 Description: Gói Theme cho Snowboard
 Name: Red Blue(Roothide)
 Author: Đức Anh
@@ -4004,54 +4004,16 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.solstice-r2
 Architecture: iphoneos-arm64e
-Version: 2.9.9
-Section: Theme Roothide
-Maintainer: bvn repo
-Installed-Size: 57329
-Filename: ./debs/com.bvn.solstice-r2_2.9.9_iphoneos-arm64e.deb
-Size: 54185982
-MD5sum: 7178345d723f0f3f67ba3ed15dc9f996
-SHA1: d3a50ce4840a3fea6749768149362bde2d31b8ab
-SHA256: 70091fbf14b90c00e7937906161689ed2b2529f2829757fae06956b3c2c0721c
-SHA512: 1937197c5509adf3592024eb0ecafa4a071dcbcfba9db60171e8209f6b0356b6d46bdb902cb726e84d822909f72de9d10c35e835fbf8fe62fdb699cf6d0e03fb
-Description: Solstice Theme 3105 icons
-Author: Rifai <icons-requests@hotmail.com>
-Name: Solstice Themes
-Depiction: http://bvnsupport.github.io/infodeb/Html/solstice.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
-
-Package: com.bvn.solstice-r2
-Architecture: iphoneos-arm64e
-Version: 3.0.0
-Section: Theme Roothide
-Maintainer: BVN Repo
-Installed-Size: 58801
-Filename: ./debs/com.bvn.solstice-r2_3.0.0_iphoneos-arm64e.deb
-Size: 55630480
-MD5sum: 2e299f51103e72dc089e0aa290930c9e
-SHA1: 11660c01531cf825593c408719542ec3e3f598c6
-SHA256: c8d3bf818bef00958beaa9bb5e56d1f26cd4dcdc61602b7b8f0dc6d0f98b7a2e
-SHA512: 47f86d1882ad2e9c485f495a7ebfc2f84925124db949ae0252516c2b553f6cda772404921e6abbda2f7358293eb93f3cb39a23ce3f99c300536858f125b1822e
-Description: Solstice Theme 3205 icons
-Depiction: http://bvnsupport.github.io/infodeb/Html/solstice.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
-Icon: file:///Applications/Cydia.app/Sections/chudee1.png
-Author: Rifai <icons-requests@hotmail.com>
-Name: Solstice Theme
-
-Package: com.bvn.solstice-r2
-Architecture: iphoneos-arm64e
 Version: 3.0.5
-Section: Theme Roothide
+Section: Themes Roothide
 Maintainer: BVN REPO
 Replaces: com.bvn.solstice
 Filename: ./debs/com.bvn.solstice-r2_3.0.5_iphoneos-arm64e.deb
 Size: 60006076
-MD5sum: 86ef3d82955e199be94a036ed231acbb
-SHA1: 641cb60db3c71942560c7a80d09e2c0d06b64413
-SHA256: 055e49fe4b991b06882560988bf8cd343a73d0b30e67593e999b2442753950c7
-SHA512: 04c1363d5765fe26c5753ef508c70a5c713667de05348e754668be01067b69f02a75b567b2f055d02190c473fca45def9f43f13702cfc818fe3303b86b5c1ada
+MD5sum: bc8dc703780c70267cd9c691d1a9e250
+SHA1: 3c725bcdcc3027e88777c07398022a53e11b2f69
+SHA256: b95fd8d304350c525e1a94fa66514b78545117f9897b772798033d4202af2716
+SHA512: 710645b97f4c70d8731649ca8ae6028cb9e214d73e2ae5dbd3d188b13e1539ed5a31a50fa26b0a51916f267988b4307130a832a2ff382696f65d72a9923cd279
 Description: Solstice Theme
 Name: Solstice Themes
 Depiction: http://bvnsupport.github.io/infodeb/Html/solstice.html
