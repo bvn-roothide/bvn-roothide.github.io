@@ -2310,14 +2310,15 @@ Installed-Size: 364
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), firmware (<< 15.4)
 Filename: ./debs/com.bvn.githubweblegacycompat_1.0.1_iphoneos-arm64e.deb
-Size: 20072
-MD5sum: 138464c6115c30954d79696158b6ed9c
-SHA1: 879bf38bcd3e7535a9ce961801e2a136c963b9eb
-SHA256: 5dd34275c1ca8a9d2efa87a7347088474cd140f0454ac95178b5ed1c436059a7
-SHA512: 4fd8e00d0823b7567fd9587f9134962ea3f4bbd0cfd9c53a21d5792d0364a650d5b107b66cf7cdf6b064c78af1ea44ea9cf5fc5c741b382060d38126aac16b09
+Size: 79546
+MD5sum: 4f54a96b12b32b7de01c410b9796c27f
+SHA1: 45d6aa867114646fcd60347daaa9959baef432e7
+SHA256: a1e864c013f1721dd9c6108fba87f6715023535e71206f08fedd7b93c3a5319a
+SHA512: a1090ff619faee793b3b565b4f282f22a8b7d9b4bc0ae68f6cf76ca4a8e4b4858fa0bd3658b74b877918fa4624e747a348f3d285b453cc5940e402fd62e7079f
 Description: Make GitHub website more accessible on iOS <15.4
 Name: GitHubWebLegacyCompat (Roothide)
 Author: PoomSmart
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.griddy-r2
 Architecture: iphoneos-arm64e
