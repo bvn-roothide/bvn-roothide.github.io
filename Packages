@@ -6062,26 +6062,25 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.repobvn.youpip
 Architecture: iphoneos-arm64e
-Version: 1.12.4
+Version: 1.12.5
 Section: Tweaks
 Maintainer: PoomSmart
 Installed-Size: 212
 Provides: com.spicat.youpip
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture (>= 1.0.1)
 Conflicts: com.spicat.youpip
 Replaces: com.spicat.youpip
-Filename: ./debs/com.repobvn.youpip_1.12.4_iphoneos-arm64e.deb
-Size: 28464
-MD5sum: bc34c2ce4cfa0bc891fc32dfe3ca5f56
-SHA1: d224e410ac8de7c9752d5988012951af94eb66da
-SHA256: 5594171fd3f7a70aa87648f6d73e367eeaee13dd6cd825f52b8a2a2a4229905a
-SHA512: bd7eedb6e1eb80ca4ffdcbed115a29811f3b24680979ddea85f568754e680378af5d20cdb40d4de736ec77543133dd07865b4f3d96a484dbbfd52034908e601e
+Filename: ./debs/com.repobvn.youpip_1.12.5_iphoneos-arm64e.deb
+Size: 31588
+MD5sum: b4e779a985a6439cb608633cda5940f7
+SHA1: 9df8b371804535df4f3ac04ca8c8f6b0ee3121e6
+SHA256: c0dea83f52280ac230a6f28048ea01eb4889624a0125191c5df201926cfe684f
+SHA512: 2903c9d5bb85ac118b9a93c5ddd803df9cdbe48e7dccecccfd461794245e816a86d980d89cce52ba9be686814fadb654b839edad1159bc3a87c96d6790db3ba2
 Description: Enable native PiP in iOS YouTube app.
 Name: YouPiP (Roothide)
 Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/youpip.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
+SileoDepiction: https:// bvnsupport.github.io/sileodepictions/youpip.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.repobvn.youpip
