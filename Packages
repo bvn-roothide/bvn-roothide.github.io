@@ -6090,15 +6090,15 @@ Conflicts: com.spicat.youpip
 Replaces: com.spicat.youpip
 Filename: ./debs/com.repobvn.youpip_1.12.5_iphoneos-arm64e.deb
 Size: 31588
-MD5sum: b4e779a985a6439cb608633cda5940f7
-SHA1: 9df8b371804535df4f3ac04ca8c8f6b0ee3121e6
-SHA256: c0dea83f52280ac230a6f28048ea01eb4889624a0125191c5df201926cfe684f
-SHA512: 2903c9d5bb85ac118b9a93c5ddd803df9cdbe48e7dccecccfd461794245e816a86d980d89cce52ba9be686814fadb654b839edad1159bc3a87c96d6790db3ba2
+MD5sum: e2b9ec24680e8be08d2dda0725085f53
+SHA1: fefb5fe4b33de251964d0da37ae15b84793e988b
+SHA256: 78126ceb5cf161df0cdefe3094b73f33c3840aac2d13142cf504f2b6175fbf94
+SHA512: bb3f628efcc472d1aff0f9e36e2b61b343c5fb6b571cebc94274dc47942f31bb84ccb26435fddfe803e737c3f8e0dd7fddc4eb0bf6b17597de0a443668c8f42f
 Description: Enable native PiP in iOS YouTube app.
 Name: YouPiP (Roothide)
 Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/youpip.html
-SileoDepiction: https:// bvnsupport.github.io/sileodepictions/youpip.json
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.repobvn.youpip
