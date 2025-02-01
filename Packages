@@ -840,6 +840,27 @@ Depiction: http://support-jailbreak.github.io/infodeb/aim/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/aim.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bienvannhat.aimprorooess
+Architecture: iphoneos-arm64e
+Version: 1.1.1
+Section: Tweaks
+Maintainer: BVN Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 2.0), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Filename: ./debs/com.bienvannhat.aimprorooess_1.1.1_iphoneos-arm64e.deb
+Size: 2329736
+MD5sum: 2e7123f7964d0c8fb339a3667874a441
+SHA1: 532c3f8d0b20b0a97dc272c7b9c37e79359e407e
+SHA256: 92c77ba2cd36f8f7d15e3c543e78437c18edc005edbc860ce1183c06c3dea05c
+SHA512: 8313444b2063f9ddfae02a6a8908601e683c32b9635e58a6858be4ee3a0f2aeab884efb22dfd2c56a85b7795080f908830520dde1858164e3356c035b7949b6d
+Description: Màn hình khoá kiểu iOS 16
+Depiction: http://bvnsupport.github.io/infodeb/AIM/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/aimpro.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: AIM Pro VH(Roothide)
+Author: alimaulana
+
 Package: com.bienvannhat.appdatamanager
 Architecture: iphoneos-arm64e
 Version: 1.8.2-4
@@ -1401,6 +1422,27 @@ Author: 0xkuj
 Depiction: http://bvnsupport.github.io/infodeb/Html/backgrounderaction15.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/backgrounderaction15.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.badgebreathing.r2
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Phuc Do
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.badgebreathing.r2_0.0.1_iphoneos-arm64e.deb
+Size: 5176
+MD5sum: 112d3fb971e1d9b5144839462beb700f
+SHA1: c4449ddb97af045c3412e049860d7003ff87bd59
+SHA256: c3981e64dff4d762700d02c37c54fa753575c7fd0226c794c6cbb9b5157a46f1
+SHA512: 6864a6bf699e4b65a3c268708b03389af6465590d300d54bbcf8149ee199223d9907fc1ccbf2a69976a13347dba141284706b9a3d6c5d42a85f63330a28fddf8
+Description: An awesome MobileSubstrate tweak!
+Name: Badge Breathing (Roothide)
+Author: Phuc Do
+Depiction: http://bvnsupport.github.io/infodeb/Html/Breathing.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Breathing.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.betteruiswitch-r2
 Architecture: iphoneos-arm64e
@@ -3795,6 +3837,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/SafariX.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariX.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.safarix.r2
+Architecture: iphoneos-arm64e
+Version: 1.9.7
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 908
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.safarix.r2_1.9.7_iphoneos-arm64e.deb
+Size: 314860
+MD5sum: 1d485b7e12b569c7411d822639e7a764
+SHA1: 021fa4e9543a7164d0cb24bf71597ff30a6bbaec
+SHA256: 20fb54ad72cdfa04f6e2e0c72ac516a6014125e72ea2fcf67a983780f376eaa4
+SHA512: 43ad0a428024e130778319bc72dd679088cc747477116aa082eb85a63517ed9ad02b1128c6cda271738f46d4c991f9ae74e53d4147c076f55f4ebbcdeae4d3d0
+Description: Safari Essential Features
+Name: SafariX VH(Roothide)
+Author: 0xkuj
+Depiction: http://bvnsupport.github.io/infodeb/Html/SafariX.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariX.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.senri
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -4143,6 +4206,27 @@ SHA256: 8abb62e6f0a1f53976cdbdf964af05674a97e8967dd5c6447471abdc81fa8308
 SHA512: be19174bbe5ef65c52a744e0daea39323b2c74d133d2433bd4e3ea793099cb7a1f67c1f7759b0aeab91fa191e7f0638766ccab6a9fd09bb4d42a95336f3dc744
 Description: Tinh chỉnh để nhận Spotify Premium miễn phí giống Spotilife
 Name: EeveeSpotify VH (Roothide)
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.spotify-r2
+Architecture: iphoneos-arm64e
+Version: 5.8.6
+Section: Tweaks
+Maintainer: Eevee
+Installed-Size: 1596
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Filename: ./debs/com.bvn.spotify-r2_5.8.6_iphoneos-arm64e.deb
+Size: 400012
+MD5sum: 8cab5d3b7139b1ccf6b25432b5050b1b
+SHA1: 8e8bb433c8b8e63aec6427195b4cae71490fb575
+SHA256: f0f6fd0756ed4d3fe45ba2cc88eeb2a9f7a70a280cdc8a532e13ad87db0a6e10
+SHA512: e5ae232ae15242940428d329594b820c4dde1d5db517dc2729719040a8e4ceaa9c23dec690b7072dc8ea4bf9b2bd30179f1ceae6ed4ccb4402f00842ed94ed24
+Description: Một tinh chỉnh để nhận Spotify Premium miễn phí, giống như Spotilife
+Name: EeveeSpotify VH(Roothide)
 Author: Eevee
 Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
@@ -4703,6 +4787,27 @@ Depiction: https://bvnsupport.github.io/depictions/ytx.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.ytx
+Architecture: iphoneos-arm64e
+Version: 1.7.7
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0), com.ps.ytabgoodies
+Filename: ./debs/com.bvn.ytx_1.7.7_iphoneos-arm64e.deb
+Size: 6100
+MD5sum: 038b9bda81f7c887a86ca48fc7bdc491
+SHA1: 6b5f244ed59c11f2fe0fe8655623f9004d9c9100
+SHA256: 743b6c88e8169146f671b246e1de500dc20fc7ff33a3429cd924cad3ce0f60f0
+SHA512: a9a7c6dc876ed48ec861d67f05b80afe663b8b316c0b0efa56265ca7248aced84e4ca9062f01caa52bf92b079efe90641b25d438aac982ec27af0cc8b5452243
+Description: A lightweight YouTube improvement tweak.
+Name: YouTube X (Roothide)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.zeppelinreborn-r2
 Architecture: iphoneos-arm64e
 Version: 1.4.2k
@@ -5192,6 +5297,26 @@ Description: Enforce useful YouTube features that are otherwise 50/50 available 
 Name: YTABGoodies (Roothide)
 Author: PoomSmart
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.ps.ytvideooverlay
+Architecture: iphoneos-arm64e
+Version: 2.2.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 144
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.ps.ytvideooverlay_2.2.0_iphoneos-arm64e.deb
+Size: 13592
+MD5sum: 70b05f783a721805dd5080f7dcb0acac
+SHA1: dd4ab869bdb193560be62350053a44c5ded3f533
+SHA256: d81b7ebe48a0275314c6bc02f1130e48dec0e4885b05c32e77e219f442284f40
+SHA512: 9dd7e05b52ff99cd66d7b2c3d975d835f61edd217f9d457c7a16ee88348518a6971fc7dfcb90bc6973f24c9dd7c5ea823689b21da3d8a863071e5297e52f2bf1
+Description: A helper tweak to add buttons on YouTube video overlay.
+Name: YTVideoOverlay (Roothide)
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytvideooverlay.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytvideooverlay.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.reoobvn.pullover-roothide
 Architecture: iphoneos-arm64e
@@ -5928,6 +6053,30 @@ MD5sum: 78e76fad734011b73f4c516eef25113f
 SHA1: f4fba21c9383f2c425e65b56e2b72be352ea04bc
 SHA256: 1d4da64163f668d7ad8f38cf4555762edd07be6fc2d73a5f7759b9666c4e5ed7
 SHA512: e8d2e86766c78f327ecac7cb741f33a7e6ec9fe961f5c7c75bf210ed40410708a461b71fe8f53c3e9f3a19a17c09f847ef2cb79244d5e83aad2ca129160b8e0e
+Description: Enable native PiP in iOS YouTube app.
+Name: YouPiP (Roothide)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/youpip.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.repobvn.youpip
+Architecture: iphoneos-arm64e
+Version: 1.12.4
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 212
+Provides: com.spicat.youpip
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debs/com.repobvn.youpip_1.12.4_iphoneos-arm64e.deb
+Size: 28464
+MD5sum: bc34c2ce4cfa0bc891fc32dfe3ca5f56
+SHA1: d224e410ac8de7c9752d5988012951af94eb66da
+SHA256: 5594171fd3f7a70aa87648f6d73e367eeaee13dd6cd825f52b8a2a2a4229905a
+SHA512: bd7eedb6e1eb80ca4ffdcbed115a29811f3b24680979ddea85f568754e680378af5d20cdb40d4de736ec77543133dd07865b4f3d96a484dbbfd52034908e601e
 Description: Enable native PiP in iOS YouTube app.
 Name: YouPiP (Roothide)
 Author: PoomSmart
