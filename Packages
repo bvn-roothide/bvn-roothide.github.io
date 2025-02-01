@@ -725,18 +725,18 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.REPOBVN.sneakycam-rootless
 Architecture: iphoneos-arm64e
-Version: 2.0.7
+Version: 2.0.7K
 Section: Tweaks
 Maintainer: BIỆN VĂN NHẬT
 Installed-Size: 560
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, oldabi, com.bvn.fixSneakyCam
-Filename: ./debs/com.REPOBVN.sneakycam-rootless_2.0.7_iphoneos-arm64e.deb
-Size: 106604
-MD5sum: e4fbc8b9fa6addfc0a05199bb7ae22fa
-SHA1: c530c7a6d83f2954036b40e11e9297718a9073c1
-SHA256: d517f774d5fed903b7cefc21b9c047e905735d2e6d981c27c378ed5917d8d37f
-SHA512: f8b219cc28bfb9d79158ddcf6823a67e6d9a1728b72599ce87f0b0cc53a3e2fbc36f100b9d057dbceb3797c7ed823866b5b2e49621ac3ad763ce6073cffef4db
+Depends: mobilesubstrate, preferenceloader, oldabi
+Filename: ./debs/com.REPOBVN.sneakycam-rootless_2.0.7K_iphoneos-arm64e.deb
+Size: 322516
+MD5sum: b09477607c975eeafc813cc647bff8de
+SHA1: 1e2f82a73d7ab866fa5eca6768b877d8abb83cfb
+SHA256: 9e823f4a8470aa52c38bc5b072091645615ebbf543dd7ae2579508f00bb37c24
+SHA512: fcffe2fed56dd3c9b062be19775162809d0fbc230500dfae7d73c0750847f84d60b66ab19e6ed2c7feb7d4c86af3c09dc22df4217740e66ace6e695341cb584d
 Description: Kín đáo chụp ảnh hoặc quay video từ bất cứ đâu, ngay cả khi màn hình của bạn tắt.
 Name: SneakyCam VH(Roothide)
 Author: SparkDev
@@ -2266,26 +2266,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Fiona.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Fiona.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: yan
-
-Package: com.bvn.fixSneakyCam
-Architecture: iphoneos-arm64e
-Version: 0.0.1
-Section: Tweaks
-Maintainer: Bvn Repo
-Installed-Size: 748
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
-Filename: ./debs/com.bvn.fixSneakyCam_0.0.1_iphoneos-arm64e.deb
-Size: 27996
-MD5sum: b182a3129c18f7a8c542a93aa50ed358
-SHA1: f0de7fe8aa3a3f0f3937e7061ef6c69c859a5e61
-SHA256: 14af7d2f30fa10b96d00ca4ab1a63e65a99f543c84c370f3c1e0007abef01d5d
-SHA512: 96327e07ac5b9a30de9e3c09951e467980a1b63e633d6856e292d4cac0936a3fce58bea5e80b813004bb7a4dcde7716fdef0e56822d9738ba94966cbf1e081db
-Description: fix SneakyCam không hoạt động trên iOS 16
- - Fix SneakyCam not working on iOS 16
-Author: BVN
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Name: fix SneakyCam (Roothide)
 
 Package: com.bvn.fixset-roothide
 Architecture: iphoneos-arm64e
