@@ -3481,6 +3481,26 @@ Name: PlampyUIPro VH(Roothide)
 Author: Phuc Do
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.pogr.r2
+Architecture: iphoneos-arm64e
+Version: 0.4.0~prerelease3
+Section: Tweaks
+Maintainer: Bvn repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.pogr.r2_0.4.0~prerelease3_iphoneos-arm64e.deb
+Size: 76176
+MD5sum: b63d37001ece2e519776e92f4740f11e
+SHA1: 161f4bb9f4f0857b307ab0866df395db542280a6
+SHA256: ecf8515c35498c9a48c3330d4f3145881cccd7b1fc49e398811116cad27f9087
+SHA512: 21e87225aa1091a50d52832182dbd4a878823ff53330721e8d5df8b89f1272d5c799bf3e4c1209209a4aa99eeea262b421a9f64e6ed9b3519383f90ab0c111bb
+Description: Treat AirPods Pro 2 correctly
+Name: PodsGrant (Roothide)
+Author: Ruphane
+Depiction: http://bvnsupport.github.io/infodeb/Html/PodsGrant.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PodsGrant.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.popoutbuttons-r2
 Architecture: iphoneos-arm64e
 Version: 1.0.0
@@ -4458,6 +4478,26 @@ Author: strejda603 <strejda603@centrum.cz>
 Depiction: http://bvnsupport.github.io/infodeb/Html/TeraBox.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/TeraBox.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
+Package: com.bvn.touchvis.r2
+Architecture: iphoneos-arm64e
+Version: 2.8.1
+Section: Tweaks
+Maintainer: Bvn Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.bvn.touchvis.r2_2.8.1_iphoneos-arm64e.deb
+Size: 887428
+MD5sum: 75123e40d99bce9dd7e7f7fd2fa5b184
+SHA1: 5b04685f1cf8857f3eb6d5328268b8ddec40bc87
+SHA256: 8f55d27b48c4d2d039ad621f7657bdd06c29ea4d14511c02c58a114d6534b25d
+SHA512: 3aa481c2e8e036a3c6ff7938c44b08e3ab4d08d6b1f56551c746357d2fb1026da8c3c246a073506746c0358664a0092a3b2ae59d14cf3c624687b2c028d6897d
+Description: Hiển thị các tương tác cảm ứng của bạn! Crack bởi CBZ
+Depiction: http://bvnsupport.github.io/infodeb/Html/touchvis.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/touchvis.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: Touch-Viz VH(Roothide)
+Author: Lessica
 
 Package: com.bvn.uptime
 Architecture: iphoneos-arm64e
