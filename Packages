@@ -1872,6 +1872,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/ClassicFolders.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: CoolStar
 
+Package: com.bvn.classicfolders3-roothide
+Architecture: iphoneos-arm64e
+Version: 3.0.6
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 4468
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
+Filename: ./debs/com.bvn.classicfolders3-roothide_3.0.6_iphoneos-arm64e.deb
+Size: 3295712
+MD5sum: 9d71a2a1baa1541c4f9735b8a011417a
+SHA1: e6db9631f6295871f0e4335e3c63c5aef1a69403
+SHA256: c7c6ee35eabcc7afd43899403cf36f7ecddb0db5d36f3bd2fec4b034cc495480
+SHA512: 66c1c87d72003b6fd46e85a633b2d60cd556a9211ba6bf2d6b793debe32816e2d05ddbb7b4f4021131fb7093b8f758087941698d5d6520209a21450d64728d59
+Description: An awesome MobileSubstrate tweak!
+Name: ClassicFolders 3 VH(Roothide)
+Author: CoolStar
+Depiction: http://bvnsupport.github.io/infodeb/Html/ClassicFolders.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ClassicFolders.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.cmm
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -3562,6 +3583,27 @@ Description: Control your appswitcher
 Name: PrimeDeck (Roothide)
 Author: 0xkuj
 
+Package: com.bvn.randomiconsflip.r2
+Architecture: iphoneos-arm64e
+Version: 0.3-20
+Section: Tweaks
+Maintainer:  BVN Repo
+Installed-Size: 216
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 4.0)
+Filename: ./debs/com.bvn.randomiconsflip.r2_0.3-20_iphoneos-arm64e.deb
+Size: 13084
+MD5sum: 9b082181b4f53045fd0ab8e77326aa6f
+SHA1: 67c679306b5761ffe32a8955ad05d8129a7a443f
+SHA256: 703e513b9a29984a22388f3193433a7e3e3a3f4a9238ca71cdcfc4f43cb16cd1
+SHA512: 997ed45d7c9ef04676359ed9e4425fbf0aebf56707ad7412d0659abf30a5621ba127f4e3bc195d29f5dd7bd1f67d46346ae00253c9072d5011dbe386489eae64
+Description: Ngẫu nhiên lật các biểu tượng trên màn hình chính
+Name: Random Icon Flip (Roothide)
+Author: Elias Limneos
+Depiction: http://bvnsupport.github.io/infodeb/Html/Random.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Random.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.recordpause-r2
 Architecture: iphoneos-arm64e
 Version: 2.0.2
@@ -4286,6 +4328,27 @@ SHA256: f0f6fd0756ed4d3fe45ba2cc88eeb2a9f7a70a280cdc8a532e13ad87db0a6e10
 SHA512: e5ae232ae15242940428d329594b820c4dde1d5db517dc2729719040a8e4ceaa9c23dec690b7072dc8ea4bf9b2bd30179f1ceae6ed4ccb4402f00842ed94ed24
 Description: Một tinh chỉnh để nhận Spotify Premium miễn phí, giống như Spotilife
 Name: EeveeSpotify VH(Roothide)
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.spotify-r2
+Architecture: iphoneos-arm64e
+Version: 5.8.7
+Section: Tweaks
+Maintainer: Eevee
+Installed-Size: 1596
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Filename: ./debs/com.bvn.spotify-r2_5.8.7_iphoneos-arm64e.deb
+Size: 399836
+MD5sum: 40b6bf4a35b0d4817cfc1d2aa9dcc183
+SHA1: dc7756d07d8fecf9c02938c0cd7ee72bfb9437b7
+SHA256: 28bc14fdafcb6bc3b232cb1f4d99098dbd6c58249b621f572cd9af205c046805
+SHA512: 24eb9b12edd9fd248c472587506b77b0453bb68b9e5c1775cc651dc83da094be0751e71a135f26c5222e3ae856034cdb01c24a697cf661b7855ebb5fe5c00571
+Description: Một tinh chỉnh để nhận Spotify Premium miễn phí, giống như Spotilife
+Name: EeveeSpotify (Roothide)
 Author: Eevee
 Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
@@ -6681,6 +6744,25 @@ MD5sum: b8d6da4b60769579e18e522179457af6
 SHA1: 81f02245d4e07da1598c40560a327c26d9a9d2c2
 SHA256: 5bb1c85840b98efdbbe6579f211ac8e3bfa90005c976020af2804dc831605802
 SHA512: 4e1e45af14ec1b0e6090846beb6d0bb1c752ca91efa3df7ec60011245bb75e3e601e63db15289506d94577e596d1f4ec8491eb5afeb0131a1a33b8600cbd0792
+Description: Plugin and runtime library for using protobuf with Swift
+Tag: role::developer
+Name: SwiftProtobuf (Roothide)
+Author: eevee
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/hethongg1.png
+
+Package: org.swift.protobuf.swiftprotobuf
+Architecture: iphoneos-arm64e
+Version: 1.28.2
+Section: System
+Maintainer: eevee
+Installed-Size: 10056
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.28.2_iphoneos-arm64e.deb
+Size: 2255976
+MD5sum: eb16bb1bfbe4af30aaf763787609b129
+SHA1: 3458f74c213fd53a7bbef8aac8bad6d54ab0381a
+SHA256: 155a4cbdd00b624fe1489040f260e24c640731be973e89eefae901ebc50ae511
+SHA512: 2cadf346e452c7e0029ff113eea6a93a42146ed227ef9666341f986b915a126174c2a1106dbd8006d6152936c20590f6a630538de513522cfbc97687955ded51
 Description: Plugin and runtime library for using protobuf with Swift
 Tag: role::developer
 Name: SwiftProtobuf (Roothide)
