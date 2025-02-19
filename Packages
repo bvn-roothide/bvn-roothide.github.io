@@ -1198,6 +1198,24 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Meizu.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Meizu.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 
+Package: com.bvn.Meizu3D
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Themes
+Maintainer: Bvn Repo
+Filename: ./debs/com.bvn.Meizu3D_1.2_iphoneos-arm64.deb
+Size: 52293190
+MD5sum: 5617d6da253dbf5de3650793d34cfbd4
+SHA1: 3116634752635d95688fc6343add371a29d63648
+SHA256: 6e900d23b49308aa5c1e576c7b21fc181065329047bb1b1cbb1e588e7423cde5
+SHA512: 2d65219e51390e94fca8c1c550895a3f8957dd0019a924ddc84e1110787c214dbe23235321a053cdb68905a582712a9c31765485945770f67a6b659b4b34eeec
+Description: Chủ đề Meizu 3D
+Name: Meizu 3D Theme
+Author: Miss
+Depiction: http://bvnsupport.github.io/infodeb/Html/Meizu.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Meizu.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
+
 Package: com.bvn.RingTonesManager
 Architecture: iphoneos-arm64e
 Version: 1.1-4
@@ -2306,6 +2324,27 @@ Name: FixSet (Roothide)
 Author: @bswbw
 Sponsor: gblw
 
+Package: com.bvn.flopatchr2
+Architecture: iphoneos-arm64e
+Version: 1
+Section: Apps Crack
+Maintainer: BVN Repo
+Installed-Size: 488
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.flopatchr2_1_iphoneos-arm64e.deb
+Size: 94824
+MD5sum: 79654f95ce68a3c08be6b0571f67d7d2
+SHA1: 83b3d92cf633c797bf266634606ca1c73014c229
+SHA256: d91dcb363d69aca0d5d074370c2b002e6fa03acb30c237b0653e1483f48cac85
+SHA512: 0a27d82c9af55db599021b4ccae86c47e8e79d58d91d3699cac22114f73acb28978c922c8f3a65d1377123e5a48120a8a62114dff63c64b61549aa36be1a7156
+Description: Mở khóa Flo Premium
+Name: Flo Premium
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/Flo.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Flo.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
 Package: com.bvn.folderlist
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -2384,6 +2423,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/futura.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/futura.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: unclear
+
+Package: com.bvn.geniepatch.r2
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Apps Crack
+Maintainer: BVN Repo
+Installed-Size: 504
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.geniepatch.r2_0.0.1_iphoneos-arm64e.deb
+Size: 97416
+MD5sum: 9b4c69b1c40f6cb76486e395a563188a
+SHA1: f164895faac8a9b913940c32c9e53986f3f7cc3a
+SHA256: 15018eec232949d45ae28e13caf546e3f67e1e157dedc3f78ed72b90c34617d5
+SHA512: 3aa48d388d3a501709f67b020e2c1fc3b8907cba92928443d5e2fa2c98cecf925db9e22b9aced83600475fc362b2bae3755df054b467be49a208bccd13953390
+Description: Unlock Yearly Unlimited
+Name: Genie Pro
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/Genie.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Genie.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
 Package: com.bvn.gesturesxv
 Architecture: iphoneos-arm64e
@@ -3238,6 +3298,27 @@ Description: Chặn quảng cáo & tắt đã xem tin nhắn  cho Ứng dụng M
 Name: Messed (Roothide)
 Author: 34306
 
+Package: com.bvn.migiihskpatch.r2
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Apps Crack
+Maintainer: Dell <tranthikimchi2601@gmail.com>
+Installed-Size: 488
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.migiihskpatch.r2_0.0.1_iphoneos-arm64e.deb
+Size: 93644
+MD5sum: 6aa6c185888025545c0bc6e8c3afd3c7
+SHA1: 3e8c325133fbc8b684684c8b18ad0f185d199a1b
+SHA256: 0dcba81d096b3a2f97ed8998e2c17daf9a091748b95702755ce47f127b2615ce
+SHA512: ccab5b2cec093d3092f2fa5e19237da0a0f374a6e70090a7594a4fb2796b7bc17ea868052237efbb349bee8898383218f2aba239041a750a7b873923eae15536
+Description: Mở khóa Migii HSK Lifetime Premium
+Name: Migii HSK Premium
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/Migii.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Migii.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
 Package: com.bvn.miuminuipro
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -3358,6 +3439,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/nointerruptwhenplayingmusic.
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/nointerruptwhenplayingmusic.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Ginsu
+
+Package: com.bvn.nopreferencetips.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.bvn.nopreferencetips.r2_1.0.4_iphoneos-arm64e.deb
+Size: 6400
+MD5sum: 0b429225d526008751b0165b84a226f9
+SHA1: 206860c3c87c4ff8cd5aaa0c02e91fe7ab32e96b
+SHA256: 8da75315c93c0bbd3c52e5dd2d744a73c345b9c26b39a50f1bc5dab6450c314a
+SHA512: 4956415750bb3e738df0b96c861a0119cf601cbd71e90ec6ef3d48ba7e7c224416ee62bec1c1ee1888e7f1d6c368d164a318e8681d10f6db90139ac01b314799
+Description: Loại bỏ thông báo khi thay pin không chính hãng,hiển thị lại % Pin
+Depiction: http://bvnsupport.github.io/infodeb/Html/NoPreferencesTips.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/NoPreferencesTips.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: NoPreferencesTips (Roothide)
+Author: 苏苏
 
 Package: com.bvn.notificationsgroupcount.r2
 Architecture: iphoneos-arm64e
@@ -4805,6 +4907,27 @@ Name: WhoozItPro (RootHide iOS 16 to 15)
 Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: https://iarrays.com/sileo-depiction/whoiscalling/icon.png
+
+Package: com.bvn.wink.vip.r2
+Architecture: iphoneos-arm64e
+Version: 0.1
+Section: Apps Crack
+Maintainer: BVN Repo
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.wink.vip.r2_0.1_iphoneos-arm64e.deb
+Size: 4044
+MD5sum: 41d92eb808ef0f76b4fe401c53903a25
+SHA1: 72128244db99a56684dba70d619bbf3d55c321cd
+SHA256: e38385d6b9192b9e5849fe60b8199892379f25d832501519be29222063e02195
+SHA512: cfcda9e58919ad061fff67e6f677eaa945ad50049489e17272bfb9d1582b104830c6998fd29d46de406c66581516c81174a08afb7c3cdb15af35328e97d3b448
+Description: Wink unlock VIP
+Depiction: http://bvnsupport.github.io/infodeb/Html/Wink.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Wink.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+Name: Wink VIP
+Author: iOSign
 
 Package: com.bvn.wolf-roothide
 Architecture: iphoneos-arm64e
