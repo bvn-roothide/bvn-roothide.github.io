@@ -1202,6 +1202,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Snake.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Snake.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 
+Package: com.bvn.Lightroom
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Apps Crack
+Maintainer: BVN
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.Lightroom_1.0_iphoneos-arm64e.deb
+Size: 453376
+MD5sum: 3fb95c8a828ac77914be5098aa944971
+SHA1: 83c69e903c347a6d77604d2111e53d8ba20ba66c
+SHA256: 81a3260cde58bf1aa2e66982e3bb121b718e88ec41c6e5eee00668a23d6e90b2
+SHA512: 30040fe19c6df04aad12fcd7085eb327efae0ef2829d565e04062399e4720f51bc0d5c00f59e1c52e4db0b01feda83d3a6f67d69ef9eaeaa8dc08c738e1fa365
+Description: Lightroom crack by Blatan
+Name: Lightroom Premium
+Author: blatant
+Depiction: http://bvnsupport.github.io/infodeb/Html/Lightroom.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lightroom.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
 Package: com.bvn.Meizu3D
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -2654,6 +2675,27 @@ Depiction: http://bvnsupport.github.io/infodeb/HomeBarSizer/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/HomeBarSizer.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.iScreen
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Apps Crack
+Maintainer: BVN
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.iScreen_1.0_iphoneos-arm64e.deb
+Size: 460372
+MD5sum: 59c8d05f6bfd8fe1c655f19227ca58b0
+SHA1: d6f71a3f44e2d6b7df57f0c8e07463e893c01127
+SHA256: 372094f3dc4acb42aba417c285cdcc8568e4ce753cfbd816150bf3e3881e9417
+SHA512: 1257c8a3277705eb36c438486c9aa8a45a19d7008ab15c945e314c045e11d4e404541f45b80009e316c4cb8a1af98e8ef629d7b89353747ded9a8cb81ed3b8c0
+Description: iScreen crack by Blatan
+Name: iScreen VIP
+Author: blatant
+Depiction: http://bvnsupport.github.io/infodeb/Html/iScreen.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/iScreen.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
 Package: com.bvn.immortalizer-r2
 Architecture: iphoneos-arm64e
 Version: 2.0.0-1
@@ -3034,6 +3076,27 @@ Author: Blatant
 Depiction: http://bvnsupport.github.io/infodeb/Html/Locket.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Locket.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
+Package: com.bvn.locktouchx.h2
+Architecture: iphoneos-arm64e
+Version: 1.3-15+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.locktouchx.h2_1.3-15+debug_iphoneos-arm64e.deb
+Size: 23144
+MD5sum: b47f6af017fe79a0ac711dc075beeb5c
+SHA1: 99863472cc73e45803187192bea59ff6bb9dbe77
+SHA256: b7bfa8bdcc73f67fd13c442d11abc7ba5d7c34ac792b37fdcb4bc7e50b59230b
+SHA512: 16d282d888bc1eba10a805e9f8dc8a5bd12cb71e21faa72b54f84126d9695c07327331941d6284422e170a2ad5c0bfb9abd1a94d409ee45a1a7ee9b93a8a9363
+Description: Thêm xác thực Touch ID,FaceID cho các ứng dụng, giống như các tính năng bảo mật trong iOS 18
+Name: LockTouchX (Roothide)
+Author: MrDeNsor
+Depiction: http://bvnsupport.github.io/infodeb/Html/LockTouchX.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/LockTouchX.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.lunartime-roothide
 Architecture: iphoneos-arm64e
@@ -3706,6 +3769,27 @@ SHA512: 0cdff9f7ef826bc2ef463b97e76a739366147f92ac1ad25f5326b74e3239043c59a6eb7d
 Description: Control your appswitcher
 Name: PrimeDeck (Roothide)
 Author: 0xkuj
+
+Package: com.bvn.quarkvpn
+Architecture: iphoneos-arm64e
+Version: 0.0.1-1+debug
+Section: Apps Crack
+Maintainer: iPlus
+Installed-Size: 200
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.quarkvpn_0.0.1-1+debug_iphoneos-arm64e.deb
+Size: 5480
+MD5sum: 4076f2dd550e77e49983487feb88e577
+SHA1: 6e99dbcd2bd2bc4aecfb30ae006ec732a9d1bee8
+SHA256: 697b5e85acfc0721d65741f9d5cdd4066192851b45eaba0d06f9049e7da9f792
+SHA512: 3b7ece6b97c84a329106b6d88cfa6abcc074b31c14ad3f6c8a5dfcf029777ace609c6fe7f591aa1a14acf5a6f9a768f44605d40008f999f1526c8957d752e6a5
+Description: Mở khoá tính năng cho ứng dụng Quark VPN
+Name: Quark VPN Vip
+Author: iPlus
+Depiction: http://bvnsupport.github.io/infodeb/Html/Quark.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Quark.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
 Package: com.bvn.randomiconsflip.r2
 Architecture: iphoneos-arm64e
@@ -4704,47 +4788,47 @@ Description: Mô-đun Trung tâm điều khiển để xem thời gian kể từ
 Name: Uptime (Roothide)
 Author: MTAC
 
-Package: com.bvn.vcam.r2
+Package: com.bvn.vivacutpatch
 Architecture: iphoneos-arm64e
-Version: 1.0.0-108+debug
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 320
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bvn.vcam.r2_1.0.0-108+debug_iphoneos-arm64e.deb
-Size: 38072
-MD5sum: 2255112ef7d1262bbd825dfb3b43184d
-SHA1: d04a1ef27500a9e5ee9358310c697bbcf7f48075
-SHA256: 45b93cb827fbdc18c84b1902282b67f2ca9b6c4fcb4979464ef3ca3dca321edb
-SHA512: 82df3241501dd9affcbf00a6878a34ddf7b139ea194aac09f4fb7f40ec33b4d9a5be346627b6b627842453eddc693ebf61addb94165b654fbb8e0241adf944e4
-Description: VCAM4iOS
- - Cách dùng: Nhấn nhanh cộng trừ (nút âm lượng + -, Volumn + -)
-Name: VCAM4iOS (RootHide)
-Author: trizau
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.bvn.vcam.r2
-Architecture: iphoneos-arm64e
-Version: 1.0.2
-Section: Tweaks
+Version: 1.0
+Section: Apps Crack
 Maintainer: BVN
-Installed-Size: 320
+Installed-Size: 204
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bvn.vcam.r2_1.0.2_iphoneos-arm64e.deb
-Size: 52880
-MD5sum: fb4b2a655d34a83457eb7aaed315e6bf
-SHA1: 1ac802e90f50670bcefdb0b6a4b63a2112d98a35
-SHA256: 1596e00c993bbdc9ee842cce19f79dff72957e281e678a1c5d378d5ece599dfe
-SHA512: 4bfc815e64f8a32d1613c9099602019f012c9e0a5f6c81b9b4b077ae289800182af2105c037398381fce3400fedf0f46da4d57f7058f060f6553b7b3a97cc243
-Description: VCAM4iOS
- - Cách dùng: Nhấn nhanh cộng trừ (nút âm lượng + -, Volumn + -)
-Name: VCAM iOS (Roothide)
-Author: trizau
-Depiction: http://bvnsupport.github.io/infodeb/Html/VCAM.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/VCAM.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Filename: ./debs/com.bvn.vivacutpatch_1.0_iphoneos-arm64e.deb
+Size: 434512
+MD5sum: 82f17fa04becaea482a0bf5d3d36da9a
+SHA1: 1ed3adf8fbab41b137412c24e97154954df77b9c
+SHA256: 8c56e212f915cfead7ed6a1316736155a4fe8314f444e8f1b558977be260f8fd
+SHA512: 38cefe3c322bb25665946351a382c91be3b20c8a93b2578564207c8e837ea9d95c18a2f46a876f500c44df22b6136db0131dd77053b300a9095d2d95884b265b
+Description: VivaCut crack by Blatan
+Name: VivaCut Pro
+Author: blatant
+Depiction: http://bvnsupport.github.io/infodeb/Html/VivaCut.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/VivaCut.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
+Package: com.bvn.vsco
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Apps Crack
+Maintainer: BVN
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.vsco_1.0_iphoneos-arm64e.deb
+Size: 27608
+MD5sum: cb54ed0f11d729c05e8ce7a3912416f6
+SHA1: 7ff190b8bd31a9042b16254b1d527a81fef59d00
+SHA256: 861707933df98eb1ae8463411ca48826b5d4ea1187f20a0055a13cad93b09d1b
+SHA512: 78d45ad8600dc98d8fdf1482672a3372c87b7b53655f54deb561a380e205e6ef2ffb82f89f3b12cd2ec8fdc16b4b528f44b3de4f9a6f30f834e6dcf9d645958b
+Description: VSCO crack by Blatan
+Name: VSCO Pro
+Author: blatant
+Depiction: http://bvnsupport.github.io/infodeb/Html/VSCO.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/VSCO.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
 Package: com.bvn.wallcraftpro
 Architecture: iphoneos-arm64e
@@ -6087,6 +6171,28 @@ Name: CarBridge VH(Roothide)
 Author: leftyfl1p <carbridge@havoc.app>
 Depiction: https://bvnsupport.github.io/depictions/CarBridge.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CarBridge.json
+
+Package: com.repobvn.carbridge13-roothide
+Architecture: iphoneos-arm64e
+Version: 2.0.15K
+Section: Tweaks
+Maintainer: leftyfl1p
+Installed-Size: 7344
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs/com.repobvn.carbridge13-roothide_2.0.15K_iphoneos-arm64e.deb
+Size: 442404
+MD5sum: 68efea6fb4abef68c5b9c42259cb4999
+SHA1: 459e6bc5f563bdb407b3ce5e031d1086a5d4f0b0
+SHA256: e6dc1065f7d5e58c9350f618fed5258915fe1653ef126cf731012ab4f7e15d2b
+SHA512: 31190d70932dd90861f271e4e0ea24aaaf55cbd95fd60d6f5f7ba1a63afe9000e3e563bcb7ecb9c35d6b0093f65aff75b5fc67ad2f25fe5f7c665249b048ba9e
+Description: Mở bất kỳ ứng dụng nào trong CarPlay!
+Name: CarBridge VH(Roothide)
+Author: leftyfl1p <carbridge@havoc.app>
+Depiction: https://bvnsupport.github.io/depictions/CarBridge.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CarBridge.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.repobvn.cask3-roothide
 Architecture: iphoneos-arm64e
