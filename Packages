@@ -1225,33 +1225,15 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
 Package: com.bvn.Meizu3D
 Architecture: iphoneos-arm64e
-Version: 1.1
-Section: Themes Roothide
-Maintainer: Bvn Repo
-Filename: ./debs/com.bvn.Meizu3D_1.1_iphoneos-arm64e.deb
-Size: 49046114
-MD5sum: ad1cbe929c23a47a62b67c311d1475c7
-SHA1: 57408a44c2ceed83efc1236fe908e41d01274d41
-SHA256: 8ef8751adcd7d4a57ed8629827281e25d6a3f72e2fc9a37831cefb722a2f9124
-SHA512: cc769df7fb5b938d3fb262ad36141b23170f6312d4765a370df717e4af8996a329553c60ef2a63eeac46703f89d45a1622b22cd5e50ac7c3f412974be69a765f
-Description: Chủ đề Meizu 3D
-Name: Meizu 3D Theme
-Author: Miss
-Depiction: http://bvnsupport.github.io/infodeb/Html/Meizu.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Meizu.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
-
-Package: com.bvn.Meizu3D
-Architecture: iphoneos-arm64
 Version: 1.2
-Section: Themes
+Section: Theme Roothide
 Maintainer: Bvn Repo
-Filename: ./debs/com.bvn.Meizu3D_1.2_iphoneos-arm64.deb
-Size: 52293190
-MD5sum: 5617d6da253dbf5de3650793d34cfbd4
-SHA1: 3116634752635d95688fc6343add371a29d63648
-SHA256: 6e900d23b49308aa5c1e576c7b21fc181065329047bb1b1cbb1e588e7423cde5
-SHA512: 2d65219e51390e94fca8c1c550895a3f8957dd0019a924ddc84e1110787c214dbe23235321a053cdb68905a582712a9c31765485945770f67a6b659b4b34eeec
+Filename: ./debs/com.bvn.Meizu3D_1.2_iphoneos-arm64e.deb
+Size: 52293194
+MD5sum: 6ad9ed7e32d0256d875c1e85c5ca9526
+SHA1: fb2f569933ce943718219dd3b42c3a6ac7f3dafb
+SHA256: 1e2298bf8e6a35b67edbf60d9ade3403456c446d2c61a9bc75fa838cd649fe19
+SHA512: 2d5b152d5b690280d486bd032187259f29757f55f1af0f67fc0ba9301d3aeee28980796aa13f3970feaec2091e30780ed01c40cad29519ce578a591cdaab0c2d
 Description: Chủ đề Meizu 3D
 Name: Meizu 3D Theme
 Author: Miss
