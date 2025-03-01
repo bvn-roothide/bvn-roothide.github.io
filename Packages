@@ -925,6 +925,30 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppsManager.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: TIGI Software
 
+Package: com.bienvannhat.appdatamanager
+Architecture: iphoneos-arm64e
+Version: 1.8.2-5
+Priority: optional
+Section: Utilities
+Maintainer: BVN Repo
+Installed-Size: 9121
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 7.0), ldid
+Filename: ./debs/com.bienvannhat.appdatamanager_1.8.2-5_iphoneos-arm64e.deb
+Size: 4651304
+MD5sum: 4070a1ed67b4182cdae3bc79043f6555
+SHA1: 6bfa7c87979864460e90b2c501117477c9f913f3
+SHA256: 1c859d89a670926e5f0dbfbbda00afa80a42491452d30709b0ca65376df437b6
+SHA512: 021762f547040a8eab8f142e3d83bb0f551c88e0297d8cb3b6eb710d3916eafed77586c786d6dc5652133283dcfd9eac71818409807d3d13d8f9970b16184ba9
+Description: Công cụ này cung cấp cách XÓA, SAO LƯU, KHÔI PHỤC AppData cho các Ứng dụng đã cài đặt
+Tag: purpose::uikit
+Name: Apps Manager (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/AppsManager/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppsManager.json
+Author: TIGI Software <satashi2009@gmail.com>
+dev: satashi2009
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tienichh1.png
+
 Package: com.bienvannhat.april
 Architecture: iphoneos-arm64e
 Version: 3.0
@@ -984,6 +1008,26 @@ Description: Bật Tình trạng pin trên các thiết bị không được h�
 Name: BatteryHealth (Roothide)
 Author: PoomSmart
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.16player.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1420
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, firmware (>= 14), firmware (<< 16), preferenceloader
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget, com.laughingquoll.quart, com.tako3s.printemps, com.teslaman3092.16player, xyz.cypwn.16player
+Filename: ./debs/com.bvn.16player.r2_1.0.5_iphoneos-arm64e.deb
+Size: 385160
+MD5sum: 4256bcf71e3d79ac5996d4b6ee1da616
+SHA1: 61fe53a487ba22c64557d008072a689de6bb8b08
+SHA256: 4c0a04edb24aa4bba81aaf3ec97316fd3b1080686d163ae80340097517894999
+SHA512: b27846ce7cdff1e1adbc490b78845969cc0c34dcc4bf293f68981515891d1a08d98ea08c53f392ecd1bc11d2b8383abbfcb940d3626a03a508f5842ce62dddf4
+Description: 16Player - the best tweak to bring the iOS 16 lock screen music player to your iOS 14 or iOS 15 iPhone or iPad.
+Author: tesla_man, Bibi Fire <computerman939+16playersupport@gmail.com>
+Name: 16Player (Roothide)
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.3dappversionspoofer
 Architecture: iphoneos-arm64e
