@@ -1792,6 +1792,28 @@ Name: CCAdsBeGone VH(Roothide)
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: 0xkuj
 
+Package: com.bvn.ccborder15+.r2
+Architecture: iphoneos-arm64e
+Version: 1.1.2
+Section: Tweaks
+Maintainer: fiore
+Installed-Size: 464
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.bvn.sugarcane, com.ioscreatix.sugarcane, com.bvn.ccborder
+Filename: ./debs/com.bvn.ccborder15+.r2_1.1.2_iphoneos-arm64e.deb
+Size: 138696
+MD5sum: 79474b05b85fe4a43d5c250d0c5cd94c
+SHA1: 9d964c2bba457c384c241a18b17d9a209c3f7cea
+SHA256: 3897ce9afc18c14f7593f9ec39b4c6d72487e3c8a6caabc7f672847d0f7a6eb3
+SHA512: e4a880a128beaa84089a6cee3de9238846e21b14e8f21071293eef972fd357b9321b29eeb86f5ce72d4a509740583918e97ecedd97bc871c94677f753bcefecc
+Description: Tinh chỉnh đơn giản loại bỏ nền mô -đun và thêm một đường viền, giống như CoolCC!
+Name: CCBorder Roothide(iOS15/16)
+Author: fiore
+Depiction: http://bvnsupport.github.io/infodeb/Html/CCBorder.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CCBorder.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.ccborder
 Architecture: iphoneos-arm64e
 Version: 1.1.5
