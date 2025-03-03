@@ -5477,22 +5477,22 @@ Author: FoxfortMobile
 
 Package: com.foxfort.foxforttools
 Architecture: iphoneos-arm64e
-Version: 1.4.15~Roothide
+Version: 1.4.15
 Section: Development
 Maintainer: FoxfortMobile
 Installed-Size: 2068
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.4.9)
 Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.foxforttools, r-o-o-t-l-e-s-s-, com.r-o-o-t-l-e-s-s-.manager
-Filename: ./debs/com.foxfort.foxforttools_1.4.15~Roothide_iphoneos-arm64e.deb
-Size: 469676
-MD5sum: 421c0a409b1ba53a9221969f8b706941
-SHA1: 06ccaa13f58db915a9a910625dd681bd512c2068
-SHA256: 2813c3be72601d522750e6751e1bfcca69bee47472ab987acbf906ba8aae1232
-SHA512: d8d74dc9a331a571fe580c6836064703065bcc6ae8f2f14f4e8a73c9870eeeb0df5b8d169a8817db5786fdea7a122495cc37d6342bf9fa46e115243144553794
+Filename: ./debs/com.foxfort.foxforttools_1.4.15_iphoneos-arm64e.deb
+Size: 468896
+MD5sum: 10f12b73357d2e02179f098b9eaf17a1
+SHA1: ae3103b039775484366fde994bddc60d5bc9233e
+SHA256: 5615f4eb7d8cd26944fbb09217d3b6af7f1555fed2a87e3c8a6af1d52f2094f3
+SHA512: e9bf0528f553d95e2b1441b3ce72250c8ddeb76c6a1f8a2c56ee0d03c4c496a5a8ebffcabf729be6420f8f5e3a1f2f84a7a81911ff7ec5e76f977917ec1a9938
 Description: Helper tools for Foxfort tweaks
 Tag: role::developer
-Name: FoxFort Tools (Roothide)
+Name: FoxFort Tools
 Author: FoxfortMobile
 
 Package: com.foxfort.libfoxfortutils
@@ -5517,22 +5517,22 @@ Author: FoxfortMobile
 
 Package: com.foxfort.libfoxfortutils
 Architecture: iphoneos-arm64e
-Version: 1.4.9~Roothide
+Version: 1.4.9
 Section: Development
 Maintainer: FoxfortMobile
 Installed-Size: 1304
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 11.0), com.opa334.libsandy
 Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.libfoxfortutils, r-o-o-t-l-e-s-s-
-Filename: ./debs/com.foxfort.libfoxfortutils_1.4.9~Roothide_iphoneos-arm64e.deb
-Size: 281480
-MD5sum: 4c246522886875b643d42231ce331b8a
-SHA1: e71c2dc434883a4a73e69abd7e747b5e03c07f4a
-SHA256: a2d8bfa07c7d9bcece40d0b7e9ddf630c8dfce1a3f79299f6df73ce570e4c039
-SHA512: 2465e69daee558b82c08018ebad63ffc52a844f96aa1b1b2a5e3d73b1ce73283ae75cb6a431d2fe5c95b82e2be0d95762f3d928424a04f89476d79252467488b
+Filename: ./debs/com.foxfort.libfoxfortutils_1.4.9_iphoneos-arm64e.deb
+Size: 281788
+MD5sum: 5ac238c2380b79e94252faa8a3e74976
+SHA1: 9321219a2afdf91473dcacbada4abaf4320bb36a
+SHA256: aac329298c2f97cf1c143590376787a222ac4ee8a9a7a34f1b87e075c229af63
+SHA512: 144d4c2c0b7ca5f7a71440d950edd2719661fa7c6c2172c83b052a4b04299e755a78709b89a466149b55c40561a84796478f0714a52f2f659d7b090977a82910
 Description: library for Foxfort tweaks
 Tag: role::developer
-Name: libfoxfortutils (Roothide)
+Name: libfoxfortutils
 Author: FoxfortMobile
 
 Package: com.foxfort.translomatic
