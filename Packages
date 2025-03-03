@@ -2296,6 +2296,28 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/DumpDecrypter.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/DumpDecrypter.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.dynamicnotlands.r2
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nathan.dynamicnotland
+Filename: ./debs/com.bvn.dynamicnotlands.r2_1.0_iphoneos-arm64e.deb
+Size: 5212
+MD5sum: 3e736637d26fcba0ec8e910c1e608db8
+SHA1: 311d32594e98127272c9e75458cca06708468161
+SHA256: 27ff932fd6106785937b03dcd673dbef190b3a8f8b514a5266b67272615c5f3e
+SHA512: a0e62770c66e32bd67c636fc33c968f0bd59e0df02daaa2c5907fb8e6c4d0cea8008f428067873cf0ac8ca1397df35310a65cced55c05c85c30a82d2b2e6addf
+Description: Một điều chỉnh để che giấu hòn đảo động trên 14 pro,14Promax khi nó không được sử dụng
+Name: DynamicNotLand (Roothide)
+Author: Nathan
+Depiction: http://bvnsupport.github.io/infodeb/Html/DynamicNotLand.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DynamicNotLand.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.exacttime
 Architecture: iphoneos-arm64e
 Version: 2.0.2
