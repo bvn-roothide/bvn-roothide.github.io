@@ -2518,6 +2518,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Quicksand85.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: Alex (@Alexman1979)
 
+Package: com.bvn.fouad.cr
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 2332
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.fouad.cr_1.0.1_iphoneos-arm64e.deb
+Size: 2531476
+MD5sum: cc5f59e49b146adb2c906cba441806bb
+SHA1: 3ac1f0436d556baa0c75e8c627355eb7095ba1ae
+SHA256: e292d83535b576f1350154ddedc6d2b13fd12b46a215bd6e938cd2dc95ac9ad2
+SHA512: f8c9e8bac617faab206d51f28eba537b5da79e3f78296c988c72e0d7588f6770696385fd2fccdb4f0f84841238cd42341d21cab5612ecf7a3aaea98e1475d2f0
+Description: Crack Tweak by Repo Fouad's
+Name: Fouad Crack All
+Author: Blatant
+Depiction: http://bvnsupport.github.io/infodeb/Html/Fouad.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Fouad.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.futura-roothide
 Architecture: iphoneos-arm64e
 Version: 1.0
