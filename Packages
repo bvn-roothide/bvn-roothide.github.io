@@ -4655,6 +4655,27 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.spotify-r2
 Architecture: iphoneos-arm64e
+Version: 5.8.8
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1596
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Filename: ./debs/com.bvn.spotify-r2_5.8.8_iphoneos-arm64e.deb
+Size: 399624
+MD5sum: 29ba6de559676d3183cce745c23e5e6b
+SHA1: 568adaac862f68cd9f1529e59885121a2399ba1c
+SHA256: eb0c6cb2b0e979010f9ac945b76abb044cf3cd0438f8753d35764305433cedf0
+SHA512: bb973ac6c78348e7e8828f3b1e0362698df2c35bdf922b68ca27b4b215b929996a26420a264d3eb360cbde05273bca5a7b87e578b8ca4ad03e6148fceeda1001
+Description:
+Name: EeveeSpotify (Roothide)
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.spotify-r2
+Architecture: iphoneos-arm64e
 Version: 5.8
 Section: Tweaks
 Maintainer: Eevee
@@ -7165,6 +7186,25 @@ MD5sum: eb16bb1bfbe4af30aaf763787609b129
 SHA1: 3458f74c213fd53a7bbef8aac8bad6d54ab0381a
 SHA256: 155a4cbdd00b624fe1489040f260e24c640731be973e89eefae901ebc50ae511
 SHA512: 2cadf346e452c7e0029ff113eea6a93a42146ed227ef9666341f986b915a126174c2a1106dbd8006d6152936c20590f6a630538de513522cfbc97687955ded51
+Description: Plugin and runtime library for using protobuf with Swift
+Tag: role::developer
+Name: SwiftProtobuf (Roothide)
+Author: eevee
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/hethongg1.png
+
+Package: org.swift.protobuf.swiftprotobuf
+Architecture: iphoneos-arm64e
+Version: 1.29.0
+Section: System
+Maintainer: eevee
+Installed-Size: 10116
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm64e.deb
+Size: 2283340
+MD5sum: 3623114417c48f65bd1fef36e9d85f5c
+SHA1: 99d846e170c1aa436d4066526a5262f02c9397ce
+SHA256: 668c25f1b763b193beef370670bc99791d693ad65e4d932a8caf1e03aa6a6185
+SHA512: d553abed61ee43c28c46a325bdadf648d63c72d8c9262bac3b972cc97dc4796bafbc71999f4d174aed9e4f742d2e18c4e35254be18d9b40335c32874772f0403
 Description: Plugin and runtime library for using protobuf with Swift
 Tag: role::developer
 Name: SwiftProtobuf (Roothide)
