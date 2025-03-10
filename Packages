@@ -5339,6 +5339,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.ytx
 Architecture: iphoneos-arm64e
+Version: 1.7.11
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0), com.ps.ytabgoodies
+Filename: ./debs/com.bvn.ytx_1.7.11_iphoneos-arm64e.deb
+Size: 13314
+MD5sum: 0088523f98a0f3d8085a88a557715ba2
+SHA1: 43baf9482ce31c676b6840339cfdcfbbd97b51d3
+SHA256: b191aa3e4cd0ee8923ee99738eab4eea137ad7006841b644e240e4450540df9e
+SHA512: c602aa9415204eb395e4f41d624bb6306a98f66078ac9e2c4fa08ac9b670f6ea39d294bdd58362e9cc485c0862108b4cbd9365c9deb7dfaf5e6407be5fc8c13c
+Description: A YouTube improvement tweak.
+Name: YouTube X (Roothide)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.ytx
+Architecture: iphoneos-arm64e
 Version: 1.7.6
 Section: Tweaks
 Maintainer: PoomSmart
@@ -6830,27 +6851,6 @@ Name: YouPiP (Roothide)
 Author: PoomSmart
 Depiction: https://bvnsupport.github.io/depictions/youpip.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.repobvn.ytx
-Architecture: iphoneos-arm64e
-Version: 1.7.11
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 72
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0), com.ps.ytabgoodies
-Filename: ./debs/com.repobvn.ytx_1.7.11_iphoneos-arm64e.deb
-Size: 6820
-MD5sum: f2a3d4abe8cb615dc46c3a6d62058e5f
-SHA1: ee2fb8c7713981211d0cdf523e35b2ef1f11501e
-SHA256: 49d8c63ae885c939f39f1520e4f2ef00a98a3e1abdf542ef7f0848ec9d03f135
-SHA512: f4f0bc2fa19220752a46d646a41f741cfcae2d794b4ce79ff4ca16cf284bbb5cfd21cd3d130f616d1a62f4f4e12a41b7c4214d7e31d524cdba01af07a18e7224
-Description: A YouTube improvement tweak.
-Name: YouTube X (Roothide)
-Author: PoomSmart
-Depiction: https://bvnsupport.github.io/depictions/ytx.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.repobvn.zetsu-roothide
