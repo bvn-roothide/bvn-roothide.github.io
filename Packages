@@ -659,6 +659,28 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Crane.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: opa334
 
+Package: com.REPOBVN.crane-rootless
+Architecture: iphoneos-arm64e
+Version: 1.3.16-4K
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 3232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.REPOBVN.crane-rootless_1.3.16-4K_iphoneos-arm64e.deb
+Size: 611716
+MD5sum: 9c9580cde3d0f2e4a47d591d9dbbdc28
+SHA1: b150723047a844dae3a5c62252ae8c7b950e62e7
+SHA256: 679271834ce1f8f9be5c1100d70330728f69fb9d226b269af9fdcf07184c1d41
+SHA512: f30f1a1d8930253f4a0027d0d8fade4df5e8653bcffde57795b332c1aaf197c4ddfcc4b625823c7429226d55e388d4bd39020369e37d2f0056a207522d0c169d
+Description: Multiple containers for your applications!
+Name: Crane VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Crane/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Crane.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: opa334
+
 Package: com.REPOBVN.enekoalt
 Architecture: iphoneos-arm64e
 Version: 1.2-rootless
@@ -2320,6 +2342,27 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.dynamicnotlands.r2
 Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.dynamicnotlands.r2_1.0.2_iphoneos-arm64e.deb
+Size: 5100
+MD5sum: 4c3120cc764cad6ef995c0f3c3c810ae
+SHA1: 5177e4c6bbf6ddc3fb91b779084a33c65ccfa2fb
+SHA256: bd67c3935ef04665be3b71edfeea2df1918ca6dc0a449d3c038a330acdc39d91
+SHA512: 2c4a100fdab11a54f10df6bf5a2d73bdd83ad022470d72b57cbbfaf9990d869da7e66f69262a8785cd6dd4f5629b5fbeec4e5355e51410eebaebca2da2726ea3
+Description: Một tinh chỉnh để che giấu hòn đảo năng động trên loạt 14 Pro khi nó không được sử dụng!
+Name: DynamicNotLand (Roothide)
+Author: Nathan
+Depiction: http://bvnsupport.github.io/infodeb/Html/DynamicNotLand.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DynamicNotLand.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.dynamicnotlands.r2
+Architecture: iphoneos-arm64e
 Version: 1.0
 Section: Tweaks
 Maintainer: BVN Repo
@@ -2614,6 +2657,27 @@ SHA512: a1090ff619faee793b3b565b4f282f22a8b7d9b4bc0ae68f6cf76ca4a8e4b4858fa0bd36
 Description: Make GitHub website more accessible on iOS <15.4
 Name: GitHubWebLegacyCompat (Roothide)
 Author: PoomSmart
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.githubweblegacycompat
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 364
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), firmware (<< 15.4)
+Filename: ./debs/com.bvn.githubweblegacycompat_1.0.4_iphoneos-arm64e.deb
+Size: 20312
+MD5sum: 68229d47ed8b555056673308cb4913b0
+SHA1: 113f82d41fc2a4ca6ac7e84ce186a4ef41e097be
+SHA256: 0c5be565ce3a78929b3a4de625df067c5fc5e9a08da9d0ba30e77c4e6a9bf9ef
+SHA512: 362fa6bcdc1b410a36fbbf43b55206ad07a90f0cce896c06da02e85271bce341c89b91a341f917ed80db835a6cd9daff7ad1b09077cb9ce5a4abe47b96b305fe
+Description: Make GitHub website more accessible on iOS <15.4
+Name: GitHubWebLegacyCompat (Roothide)
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/githubweblegacycompat.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/githubweblegacycompat.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.griddy-r2
@@ -3972,6 +4036,30 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/Html/RecordPause.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/RecordPause.json
 Author: PoomSmart
+
+Package: com.bvn.recordpause
+Architecture: iphoneos-arm64e
+Version: 2.0.6
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 200
+Provides: org.thebigboss.recordpause, com.spicat.recordpause
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Replaces: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./debs/com.bvn.recordpause_2.0.6_iphoneos-arm64e.deb
+Size: 12828
+MD5sum: 01f1fa9e18c1012f385618488ec0e2b9
+SHA1: 06eb86515ae73196372f7d1cb2267b1826a3fca1
+SHA256: 7bb9c395a79f9a13ff68c9defdde32a787bc7cc61df5f25d1b9202bcf92af170
+SHA512: 23d0841861b76cb8926a1729a9af9a46283b910b315da1fd316883bdd4170f117b76df73da8049f99e075774dc2b13235dc2ca37c560274d64969b815051770c
+Description: Pauses/resumes video recording in iOS Camera app.
+Name: RecordPause (Roothide)
+Author: PoomSmart
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/RecordPause.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/RecordPause.json
 
 Package: com.bvn.redblue-roothide
 Architecture: iphoneos-arm64e
