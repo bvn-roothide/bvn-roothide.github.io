@@ -883,6 +883,28 @@ Depiction: http://bvnsupport.github.io/infodeb/VideoAdsSpeed/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/VideoAdsSpeed.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bienvannhat.adsspee
+Architecture: iphoneos-arm64e
+Version: 1.1.3
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 620
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.bvn.fixset-roothide
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/com.bienvannhat.adsspee_1.1.3_iphoneos-arm64e.deb
+Size: 113504
+MD5sum: bebad1c591aafa4864a3c09deff74439
+SHA1: e6a9e9070daf9f33f23f17e305208d86e7c3f84b
+SHA256: 70ff98eb9800443f6cd253cd83327672de27f6c230e3331d510a733dffe62deb
+SHA512: 8fef854407e96bc0c266405343f5d9ca7e2d1134ef26471965bcdacfe43ee6079020e770130dad1a23227b2c73428a57897bd958bae19481326c774826005112
+Description: Nhanh chóng bỏ qua quảng cáo video khuyến khích và nhận phần thưởng bình thường.
+Name: VideoAdsSpeed VH(Roothide)
+Author: lenglengyu
+Depiction: http://bvnsupport.github.io/infodeb/VideoAdsSpeed/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/VideoAdsSpeed.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bienvannhat.aim
 Architecture: iphoneos-arm64e
 Version: 1.3
@@ -2364,6 +2386,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/DynamicNotLand.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/DynamicNotLand.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.dynamicnotlands.r2
+Architecture: iphoneos-arm64e
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 348
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.dynamicnotlands.r2_1.2.1_iphoneos-arm64e.deb
+Size: 13412
+MD5sum: cc1b16ba127d0cac40d77522844a075b
+SHA1: 67980a2c56dc0921c3b2804958a9027f05597f64
+SHA256: ae8f260f7659fee73115b7a65df695d6cc71bc89acd40d82bae75cfd669c2024
+SHA512: 7efc154b27e124ce7f9b20fdb4be5ed87eb9f6f1cb372534f0a33269af4cdf8c1fcf428ac91a464f6f5a59bae1424b5dfdf85fe51d813f81ddccf3fc8c97b219
+Description: Một tinh chỉnh để che giấu hòn đảo năng động trên loạt 14 Pro khi nó không được sử dụng!
+Name: DynamicNotLand VH(Roothide)
+Author: Nathan
+Depiction: http://bvnsupport.github.io/infodeb/Html/DynamicNotLand.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DynamicNotLand.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.exacttime
 Architecture: iphoneos-arm64e
 Version: 2.0.2
@@ -2890,6 +2933,27 @@ Author: Nightwind and thetimeloop
 Depiction: http://bvnsupport.github.io/infodeb/jade/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/jade.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.jaderhd
+Architecture: iphoneos-arm64e
+Version: 1.0.5k
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1502
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.bvn.jaderhd_1.0.5k_iphoneos-arm64e.deb
+Size: 314524
+MD5sum: ffdf0cefbcd47b31e265911b40d0383c
+SHA1: 362981329434bc549d415329a1fd6c79fbc15c34
+SHA256: efd956f460f3f3b160dbfcba2330937fbda4c188d9cf24392f951bb4ebca427a
+SHA512: 435813db631ce7bf6d673ab46707df6c0045de8a6cfcfb13008ec7bb359887760abe17eba47447072bbf4e1ba283aad8fb19f96e6dd9aa1ed760965ff52353f3
+Description: Your control center, brought anew.
+Author: Nightwind and thetimeloop <nightwinddev@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/jade/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/jade.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: Jade VH(Roothide)
 
 Package: com.bvn.jaderhd
 Architecture: iphoneos-arm64e
@@ -4764,6 +4828,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.spotify-r2
+Architecture: iphoneos-arm64e
+Version: 5.9
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1620
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Filename: ./debs/com.bvn.spotify-r2_5.9_iphoneos-arm64e.deb
+Size: 407032
+MD5sum: fd709c8e789f16aa29ef47fc63568135
+SHA1: 2586c91ad7ae869e1ad3845231e632592caf4841
+SHA256: 2bec8bc07aa35ecb65a7c257db3b4f2cb8cfe2f3ca5acc94bba9e622beffb4d7
+SHA512: e5c2e08d1b1c62bef2d340bdbc7d3e5cbe5560c5c6abec195b1cce932be2f0203a0a4cb3e2608e5ea40dcd014627a8b1cd9317b6b41304d1f3bca190f322af4f
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify (Roothide)
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.stalky
 Architecture: iphoneos-arm64e
 Version: 4.1.26
@@ -5271,6 +5356,26 @@ SHA256: fc34324d497c82fbcb2bfeca15be646899d5fce13631796e68da2140071af154
 SHA512: 0097ce499a887b1c8497f56f2e15ab3e509b138542238366199b662ccda0fe9fe4c2c672ac1f78f05d5e968885e4c91164eabc2dfac531fe99cdba562b6a37d9
 Description: Lightweight YouTube Enhancer
 Name: Youtube Plus VH(Roothide)
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.ytlite-r2
+Architecture: iphoneos-arm64e
+Version: 5.2b1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16252
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.ytlite-r2_5.2b1_iphoneos-arm64e.deb
+Size: 6049920
+MD5sum: 9085eb4ce8c493106f950dbc7b2f7b5e
+SHA1: e6e5910b14cc452fc0209b46bb99eab3414a5867
+SHA256: 10f0f56ed704fa7c2e3e507a6311e1074a5cb352b0566edb35776b79016ed021
+SHA512: f4922e05212dbeb7978e51547d09e058adfd4e29aa32bccc5f899d3fdaf5ae488f2a0f8556afde9945432780f51d34e2f3444b1601588fba2d302f973c0be1c4
+Description: Lightweight YouTube Enhancer
+Name: Youtube Plus (Roothide)
 Author: dvntm
 Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
@@ -6515,6 +6620,25 @@ Description: Hiện vật mua hàng trong ứng dụng Fugu15, nhấp vào thanh
 Name: IAPStore (Roothide)
 Author: lenglengyu
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.iapstorefugu-roothide
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 384
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), com.bvn.fixset-roothide
+Filename: ./debs/com.repobvn.iapstorefugu-roothide_0.0.2_iphoneos-arm64e.deb
+Size: 44652
+MD5sum: d0eb4473a3ee45ac13e796559d532636
+SHA1: a5cc2c8b9beeb9ce8338aa1fe860e34c1941da7f
+SHA256: 60518acf98d670919a1c80bc933178073ff8db75378c4a9e76bdcb8c63855953
+SHA512: 85803b772fa15ad26d4ad592d30a1a5e1d75ca915056173ee95241edb3f119424d874ece4b17b69702b1073034a210189456e0dee7a16014dc5686e755395c21
+Description: Bẻ khóa một phần mua trong ứng dụng.Khi mua, cửa sổ pop-up yêu cầu thanh toán, chỉ cần nhấn hủy.Chỉ áp dụng cho ứng dụng đã chọn
+Name: IAPStore VH(Roothide)
+Author: lenglengyu
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.repobvn.latesttranslate
 Architecture: iphoneos-arm64e
