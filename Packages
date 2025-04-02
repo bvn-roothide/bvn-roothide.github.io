@@ -1173,6 +1173,27 @@ Description: Gói AE Floating Tết.Kích hoạt qua Snowboard
 Name: AE Floating Tết
 Author: unclear
 
+Package: com.bvn.FontsAIStickers.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Apps Crack
+Maintainer: BVN Repo
+Installed-Size: 11648
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.FontsAIStickers.r2_1.0.0_iphoneos-arm64e.deb
+Size: 433800
+MD5sum: a3804f1fe95d079433a83fc09f6038a2
+SHA1: 585bffb6a2bc1cad2ce8a0f5a1c1299c4e520d26
+SHA256: 3c10c8bd50c2729fdf2631a29b4e05e12f5eba2246eac6d995766cfb8109d891
+SHA512: ca742556778eff16f48447de60921c0695faab487dcd362d6f68a2f3739749c8989fb73738190b8d8405a4213295edc3671f75c65bb5070f2621cdd93216666e
+Description: kích hoạt tính năng Pro cho Fonts - AI Stickers
+Name: Fonts - AI Stickers Pro
+Author: blatants
+Depiction: http://bvnsupport.github.io/infodeb/Html/Stickers.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Stickers.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
 Package: com.bvn.ITCBauhausR
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -1350,6 +1371,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Meizu.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Meizu.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 
+Package: com.bvn.Photoleap.r2
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Apps Crack
+Maintainer: BVN
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.Photoleap.r2_1.0_iphoneos-arm64e.deb
+Size: 433304
+MD5sum: 591f043ad9fc49ee538cb2341d95b8bd
+SHA1: 77f4f3a25c98c349a708870212a4419ad7750168
+SHA256: 1b89f744d4643c971f1bbae02b6a138aed001c65bf6d7d4807ae282c5e284ef9
+SHA512: 00484895234f57cb8de44d81ebe547253882a1f7a558483d85af870bc11a372d290e3c0a02cf4e25802cddb9afc5ebd7c1e4a4916f89e3e1fe7003496631efa3
+Description: Photoleap crack by Blatan
+Name: Photoleap Pro
+Author: blatant
+Depiction: http://bvnsupport.github.io/infodeb/Html/Photoleap.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Photoleap.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
 Package: com.bvn.RingTonesManager
 Architecture: iphoneos-arm64e
 Version: 1.1-4
@@ -1411,6 +1453,27 @@ Description: Thêm 1 số tiện ích cho Safari
 Name: SafariX (Roothide)
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: 0xkuj
+
+Package: com.bvn.StressWatch.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Apps Crack
+Maintainer: BVN Repo
+Installed-Size: 11648
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.StressWatch.r2_1.0.0_iphoneos-arm64e.deb
+Size: 21684
+MD5sum: ee76c9bd163d4b38b7d4e2da1779bb95
+SHA1: 486128008e2829265fdd16108e117ef413d33fee
+SHA256: 8eeb374ca5e1209724e95117877250f20b7eddc9133fb6bc944d29c1210c9aab
+SHA512: 761254ef4fea6e267b76b43c274d150ed1b361c743d45b91538b075820a7b879a0575ee926bd5199771591fb28c5c509f08e6a8df8764f9d2eb89484d6270bb2
+Description: kích hoạt tính năng Pro cho StressWatch
+Name: StressWatch Pro
+Author: blatants
+Depiction: http://bvnsupport.github.io/infodeb/Html/StressWatch.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/StressWatch.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
 Package: com.bvn.Swipelefttoback.rootless
 Architecture: iphoneos-arm64e
