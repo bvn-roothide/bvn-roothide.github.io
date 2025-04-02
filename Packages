@@ -5829,6 +5829,23 @@ Description: Be the god of your games!
 Name: iGameGod Roothide
 Author: iGameGod
 
+Package: com.gamegod.igg.roothide
+Architecture: iphoneos-arm64e
+Version: 0.4.5
+Section: Utilities
+Maintainer: iGameGod
+Installed-Size: 100412
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.gamegod.igg.roothide_0.4.5_iphoneos-arm64e.deb
+Size: 17907010
+MD5sum: a9516e1f4f8827daac4ec0fc4a4f836a
+SHA1: 2ae7ec60eaf06018299bd6e49800194ff98f5f53
+SHA256: fd8b24fc89f3192fe7e36d6e43cb37e6f62984a5d2845e335cafdcf512a4e182
+SHA512: 20448f83b226405a09ba09eed5240ded9da998aff8d7fe3a6ef3573a1a94d40be0ef4c378276adf692527041298991329c1c825e8c565d25326a4de760d0a5c7
+Description: Be the god of your games!
+Name: iGameGod Roothide
+Author: iGameGod
+
 Package: com.ginsu.gscore
 Architecture: iphoneos-arm64e
 Version: 1.0.4-roothide
