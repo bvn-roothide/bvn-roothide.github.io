@@ -1311,6 +1311,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Lightroom.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lightroom.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
+Package: com.bvn.MediaConverter.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Apps Crack
+Maintainer: BVN Repo
+Installed-Size: 11648
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.MediaConverter.r2_1.0.0_iphoneos-arm64e.deb
+Size: 16680
+MD5sum: f188da8c1e696fce69bfaf678155a747
+SHA1: c51c4de22c21ca8dccb578664cd64223b1884c33
+SHA256: 305a734b100497e3358003d663eee726bfdfb3fa56efb5b2b0c75424fd0d0b2d
+SHA512: 518349263468d9373c0a3d0cef0cd694147893fe0d8fd5b75a0ed2307fca874fc209c0fc7241d0e76203e58b7e9e9ec57b3c48db2540d0177139817c06a4150c
+Description: kích hoạt tính năng Pro cho MediaConverter
+Name: MediaConverter Pro
+Author: blatants
+Depiction: http://bvnsupport.github.io/infodeb/Html/MediaConverter.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/MediaConverter.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
 Package: com.bvn.Meizu3D
 Architecture: iphoneos-arm64e
 Version: 1.2
