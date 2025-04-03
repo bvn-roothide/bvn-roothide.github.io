@@ -7162,6 +7162,25 @@ Author: udevs
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
 
+Package: com.yan.anitime
+Architecture: iphoneos-arm64e
+Version: 1.0K
+Section: Tweaks
+Maintainer: yan
+Installed-Size: 1488
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: ./debs/com.yan.anitime_1.0K_iphoneos-arm64e.deb
+Size: 1188972
+MD5sum: 3114327e3fc5d6af92854bd43c305ff4
+SHA1: d5446c435558a5dbb110ee5f3d8b59cba698467b
+SHA256: 0352b7a873f65e6ec07507e012ca28fc608c54851b3419062fe74de108e474cc
+SHA512: 63b0d1f78e0ad78525116d697348f1abd4b7385271885457b05b3d19cc526fec0c2ab9f89ea25bc25430538a1efead12d0a5a00cc96a74cb70e81fcf4ea17d66
+Description: Các ký tự anime hoạt hình như trên chữ số đồng hồ của bạn.Crack By Repo BVN
+Name: AniTime (Roothide)
+Author: yan
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: dev.bvn.liddell-roothide
 Architecture: iphoneos-arm64e
 Version: 1.4.3
