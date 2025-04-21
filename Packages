@@ -3630,6 +3630,26 @@ Author: MTAC
 
 Package: com.bvn.lynxroothide
 Architecture: iphoneos-arm64e
+Version: 2.5.4-1
+Section: Tweaks
+Maintainer: Bvn Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.bvn.lynxroothide_2.5.4-1_iphoneos-arm64e-1.deb
+Size: 705596
+MD5sum: b7d4433d0c1ebbb309e07416cb33cb8e
+SHA1: 1fa593dabe74b9a336b7d3623d77e49efe28074a
+SHA256: 59e9eb147c77165dbf98fc3440016fb8f555507dadeebcc1205bc42e6f0641d5
+SHA512: 2ea219ba9924b426266c94666b8d0c3e10b142e5de77e2da171142c8af6f4208b6a6c252645f369143e5d8a14331ec2b9ae301505d690723dfbeb323fd1e130e
+Description: Ultimate iDevice Customization for iOS 14, 15, 16
+Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: Lynx 2 VH(Roothide)
+Author: MTAC
+
+Package: com.bvn.lynxroothide
+Architecture: iphoneos-arm64e
 Version: 2.5.4
 Section: Tweaks
 Maintainer: Bvn Repo
