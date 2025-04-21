@@ -5180,6 +5180,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/TeraBox.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/TeraBox.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
+Package: com.bvn.tiktokphotocomments-r2
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.tiktokphotocomments-r2_0.0.1_iphoneos-arm64e.deb
+Size: 3556
+MD5sum: c28842b1f68a3c25cbf5d7b131a66de1
+SHA1: 04139aca0bb826adb20b71a3111126464af7ecbf
+SHA256: 97284537de21d395c1da07e23d2aa1018bee53c7ccfa6034bf6406dee4b2691c
+SHA512: 361185a661c486152468fd16fe9f64b7cea5d110cad11496a33f4b4d16cd189f93138b053974a46f46655617ec313777f9ae71815df65c5f745fa3b0ed63d708
+Description: Chỉnh sửa để bật chức năng Ảnh trong bình luận trên TikTok nếu bạn chưa có! (Cũng bật nhãn dán trong bình luận nhưng không hoạt động nếu bạn không ở trong khu vực bạn được cho là có chức năng này)
+Name: TikTokPhotoComments (Roothide)
+Author: Nathan Senter
+Depiction: http://bvnsupport.github.io/infodeb/Html/TikTokPhotoComments.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/TikTokPhotoComments.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.touchvis.r2
 Architecture: iphoneos-arm64e
 Version: 2.8.1
