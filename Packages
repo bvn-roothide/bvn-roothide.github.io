@@ -2545,6 +2545,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/DynamicNotLand.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/DynamicNotLand.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.dynamicnotlands.r2
+Architecture: iphoneos-arm64e
+Version: 1.2.4
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 348
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.dynamicnotlands.r2_1.2.4_iphoneos-arm64e.deb
+Size: 14200
+MD5sum: eaff5ae776bc1886e6d8c5ee7170f7be
+SHA1: 9291139d4b763fd40fccd1a0e0b5f5fa5916aac0
+SHA256: caa0cc144a9f2d759a1eeb48ed4b9474a27756f15878466567e3217d99ff1b72
+SHA512: 51d1382a3441f14b26104ccd6a88b2eaece58d55ba0338e7f4982c551c476e8b56c1cffbdc79ff9fe26986e36b9c2aa4ed917984f598c383c168b64320694c69
+Description: Một tinh chỉnh để che giấu hòn đảo năng động trên loạt 14 Pro khi nó không được sử dụng!
+Name: DynamicNotLand (Roothide)
+Author: Nathan
+Depiction: http://bvnsupport.github.io/infodeb/Html/DynamicNotLand.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DynamicNotLand.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.exacttime
 Architecture: iphoneos-arm64e
 Version: 2.0.2
@@ -3773,6 +3794,27 @@ MD5sum: b7d4433d0c1ebbb309e07416cb33cb8e
 SHA1: 1fa593dabe74b9a336b7d3623d77e49efe28074a
 SHA256: 59e9eb147c77165dbf98fc3440016fb8f555507dadeebcc1205bc42e6f0641d5
 SHA512: 2ea219ba9924b426266c94666b8d0c3e10b142e5de77e2da171142c8af6f4208b6a6c252645f369143e5d8a14331ec2b9ae301505d690723dfbeb323fd1e130e
+Description: Ultimate iDevice Customization for iOS 14, 15, 16
+Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: Lynx 2 VH(Roothide)
+Author: MTAC
+
+Package: com.bvn.lynxroothide
+Architecture: iphoneos-arm64e
+Version: 2.5.4-2
+Section: Tweaks
+Maintainer: Bvn Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Conflicts: com.mtac.lynxapp, xyz.cypwn.lynxapp
+Filename: ./debs/com.bvn.lynxroothide_2.5.4-2_iphoneos-arm64e.deb
+Size: 1260964
+MD5sum: 44dbdeafa21ff9892719e38d8c3143cb
+SHA1: 26a29cf63cd6513112aba2af0fddfc3e2da6b0d3
+SHA256: b3f58e3b4d5881bfa91dccf7e4e0bab57bcf3724b95516d86259cea94755c9b3
+SHA512: 383e9850903a9c79e9022f429f97f49f87189b1469084f9fc2749e1d1d0b99b54cabffd83f16a7923aad3b465ba8bbfdf8b53080339d9898801f2d76f9729d4c
 Description: Ultimate iDevice Customization for iOS 14, 15, 16
 Depiction: http://bvnsupport.github.io/infodeb/Lynxrl/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Lynxrl.json
@@ -5411,6 +5453,27 @@ SHA512: 341295e3b7eae81caec653371916c7505f64bae0774be636a530eaf75ff6dfe1696f9c7c
 Description: Mô-đun Trung tâm điều khiển để xem thời gian kể từ khi khởi động
 Name: Uptime (Roothide)
 Author: MTAC
+
+Package: com.bvn.vibetok.r2
+Architecture: iphoneos-arm64e
+Version: 1.2-11+debug
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 616
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.vibetok.r2_1.2-11+debug_iphoneos-arm64e.deb
+Size: 85776
+MD5sum: 0b6de10adf31a62519baf2171cee5423
+SHA1: 1ae49e3c41a9227b113c1d64dafa6ad9f6b93372
+SHA256: baa8fc4f687d9208bbc4a6d2eb397d50c579e940955faa17723528095edf4cbe
+SHA512: de06f14b8c826c76499b9c5b62939e2ac475503c3d5fa277d7c2a40cef2bad48f090c2d0cbcd60344078e3d7e6f3904debdec1981dcbcd4c4570f9c13c5716e6
+Description: Làm cho TikTok tốt hơn!
+Name: VibeTok (Roothide)
+Author: DeNsor
+Depiction: http://bvnsupport.github.io/infodeb/Html/VibeTok.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/VibeTok.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.vivacutpatch
 Architecture: iphoneos-arm64e
