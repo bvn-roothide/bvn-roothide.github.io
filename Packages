@@ -1073,6 +1073,24 @@ Author: tesla_man, Bibi Fire <computerman939+16playersupport@gmail.com>
 Name: 16Player (Roothide)
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.30.4
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Themes
+Maintainer: BVN Repo
+Filename: ./debs/com.bvn.30.4_1.0_iphoneos-arm64e.deb
+Size: 44286
+MD5sum: 173b1635aa2382190d54e416812eb78c
+SHA1: c727686c920bc72a30a130c69ba08cd4b9c1de5c
+SHA256: 688e3474c1ae2a6ba588768cc239e1772a9b9a8299632f473bb32b7bbe5da59a
+SHA512: 4379d9512bad6c6ceea816a05c541d680250c0a9d4d34ba6ff711a210b6491986da288fc00b80ef73af7d1a62c711cf6517819f5f8517f9fa1bd8e6a788ab572
+Description: Gói AE 30/4 cho Theme
+Depiction: http://bvnsupport.github.io/infodeb/Html/30-4.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/30-4.json
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+Name: Chủ đề 30/4 - 1/5
+Author: Vũ Quang
+
 Package: com.bvn.3dappversionspoofer
 Architecture: iphoneos-arm64e
 Version: 1.3.1
