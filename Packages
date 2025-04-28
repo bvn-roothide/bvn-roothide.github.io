@@ -1894,6 +1894,24 @@ Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.bong.r2
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Fonts
+Maintainer: BVN
+Filename: ./debs/com.bvn.bong.r2_1.0_iphoneos-arm64e.deb
+Size: 4730800
+MD5sum: bd76fd117acbbb587b2fbd92c316c135
+SHA1: b23c6981359cee4e5b4b223c2d195e65c3b17733
+SHA256: fc3b53a5a07fcb2fc1d101de4f0c0e591be2ba3d2bf65d550235a8f91d268956
+SHA512: ab79bf81e2c6c89fa27dcca86c12a0f181bcb63290075b3aab2beb75d306cb1c16f0880b236de6470777c258775a922f1dab8987511d8175ca39b9960f4d1ed1
+Description: Phông chữ Bông iOS14-16.
+Name: Rixlovefool (Bông)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Bing.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Bong.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: unclear
+
 Package: com.bvn.calllogpro.roothide
 Architecture: iphoneos-arm64e
 Version: 15.0-beta-3
@@ -2667,6 +2685,60 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/FolderList.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: shepgoba
 
+Package: com.bvn.fontainsliesans.r2
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Fonts
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.bvn.fontainsliesans.r2_1.1_iphoneos-arm64e.deb
+Size: 5599848
+MD5sum: 99bfc11bbcee4d5fa8326ed520fd5a06
+SHA1: 86d990714ef2031018c9fe3ee7dfdcb57400955f
+SHA256: b11fc99f35ce5e32b96d7a687a10b35aa0b0a1037c021c058df03c004cdf8600
+SHA512: 921a5dfc3a4116ba970358da8cf9c3c44895699b3746757b1b1838a30dded90d89806946a848bc1e9bf259df4841291245e809e0c53f3d878b78da015605c148
+Description:  Ainslie Sans (Font). Dành cho iOS14-16.
+Name: Ainslie Sans
+Depiction: http://bvnsupport.github.io/infodeb/Html/Ainslie.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Ainslie.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: Evelyn (ev_ynw)
+
+Package: com.bvn.fontcenter14.r2
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Fonts
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.bvn.fontcenter14.r2_1.1_iphoneos-arm64e.deb
+Size: 8002700
+MD5sum: 2ee49b688ae169730f528d0cf25485e4
+SHA1: c9eff6eada0de88263425a12c498747afb2cbd9c
+SHA256: 08d23d1e187e610f11a6d3290b58b714eb636a343757cb70d46078a7b25c4aec
+SHA512: 5a0704f0e16478aca89b52aa60636a18d4386c3f3587d47f4b02ac024c95f55954bd96402632dec9747a46f7b97e600e4279f6e16f3ea43f462c48c1a27517b2
+Description: Grotesque style sans. 100% size. For iOS14-16.
+ Depiction: http://bvnsupport.github.io/infodeb/Html/Center.html
+Name: Center
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Center.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: Evelyn (ev_ynw)
+
+Package: com.bvn.fontcenter8514.r2
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Fonts
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.bvn.fontcenter8514.r2_1.1_iphoneos-arm64e.deb
+Size: 8508684
+MD5sum: de6b2155795ae5b18f523d35f6848e92
+SHA1: 0aedc280d65cedccd0a33da8bf326a3438cf887f
+SHA256: 1d1e9e423a50f5cc9e667bdf19a11cb928e9f9063d72385e1446435d048f23f3
+SHA512: 988d8584164e39efb2ef7ceafaf3451372b1fd2d8c72f0e33ace288d505e2bfc6647be71b0f6406a976256a90fbf1f797718e847713e23917ce4eb9826627415
+Description: Grotesque style sans. 85% size. For iOS14-16.
+Name: Center_85%
+Depiction: http://bvnsupport.github.io/infodeb/Html/Center1.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Center1.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: Evelyn (ev_ynw)
+
 Package: com.bvn.fontquicksand14
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -2704,6 +2776,48 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Quicksand85.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Quicksand85.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: Alex (@Alexman1979)
+
+Package: com.bvn.fonts.meloso100-r2
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Fonts
+Maintainer: BVN Repo
+Depends: firmware (>=14.0)
+Filename: ./debs/com.bvn.fonts.meloso100-r2_1.0_iphoneos-arm64e.deb
+Size: 11423776
+MD5sum: 8e37340eb0e9aa943bab2e627122e174
+SHA1: cd7722a0a15a053bf73fd0dbc622c9a1f4cb4e36
+SHA256: a229fa3fc6ef499299562ce281286f3f81af067e2a65c137a660ea4ccd8a2cec
+SHA512: a009bd4f8d368285308628b0d5739c716cb72b38e3d842ab60fc841b3d12b42571c792b3b55ab2ebdf1095a0c3feccc72f9bd07af4b94b72dc5346f40977ef11
+Homepage: https://alo.works/
+Description: Meloso là một phông chữ mang lại cảm giác vui tươi và tự nhiên, có nét vẽ tay quyến rũ riêng. Tỷ lệ 100%. Dành cho iOS 14-16
+Name: Meloso 100%
+Depiction: http://bvnsupport.github.io/infodeb/Html/Meloso.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Meloso.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Tags: compatible_min::ios14.0, compatible_max::ios16.6.1
+Author: Alexman <bbscydia@gmail.com>
+
+Package: com.bvn.fonts.meloso85-r2
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Fonts
+Maintainer: BVN Repo
+Depends: firmware (>=14.0)
+Filename: ./debs/com.bvn.fonts.meloso85-r2_1.0_iphoneos-arm64e.deb
+Size: 12475032
+MD5sum: d522453651147e3f1b8cf8fac5c6a3ec
+SHA1: a845c7d8fd2e812dd3770ef9efb62c9023052cdd
+SHA256: e29dac40f5298024bf4a61f58a9039847881cab567bb2a9e724bda7743bc326c
+SHA512: 11539bd44d69c0a5d6d547c1362f4dcf8fe2dbbac1d42fba09980284a15c9f6c37af95ea43a55162edf4b977611f4ed7221e5bc3eb5c86a6421a0928427f7b8a
+Homepage: https://alo.works/
+Description: Meloso là một phông chữ mang lại cảm giác vui tươi và tự nhiên, có nét vẽ tay quyến rũ riêng. Tỷ lệ 85%. Dành cho iOS 14-16
+Name: Meloso 85%
+Depiction: http://bvnsupport.github.io/infodeb/Html/Meloso.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Meloso.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Tags: compatible_min::ios14.0, compatible_max::ios16.6.1
+Author: Alexman <bbscydia@gmail.com>
 
 Package: com.bvn.fouad.cr
 Architecture: iphoneos-arm64e

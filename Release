@@ -7,5 +7,5 @@ Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Apple/Support/Jailbreak
 MD5Sum:
- 7ee1f882a518c718ad8e4b497bd3f0ad 381610 Packages
- 974c90592bc056ae8c3d701f6536a23c 88910 Packages.bz2
+ 06306bc31a16f5ba93687184d3952d81 386894 Packages
+ 6544af0f2d69d4f5092cb9958d5978cb 89943 Packages.bz2
