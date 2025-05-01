@@ -2384,6 +2384,24 @@ Depiction: http://bvnsupport.github.io/infodeb/CustomizeCC/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CustomizeCC.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvn.cylinder-roothide
+Architecture: iphoneos-arm64e
+Version: 1.1.2
+Section: Tweaks
+Installed-Size: 604
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Conflicts: com.ryannair05.cylinder
+Filename: ./debs/com.bvn.cylinder-roothide_1.1.2_iphoneos-arm64e.deb
+Size: 108024
+MD5sum: a8b7c8bc53043d26fb05f8aedd462d6a
+SHA1: d674cd3e2e36043302c46838834fa14641c33032
+SHA256: b0104cbe79b9ef46b084b7c7f6846de6c5cfba899aa24c016300af9ae44b2802
+SHA512: dbfeb4e65d9d4f82cbb069d344a831ef6daa25d6228c2e022ca3a0c9b320c3369a6d06302fd835a76e62a7dfadbf3f731f4d6c699627d94d9b8cbdd88df9abdd
+Description: Make your icons dance
+Name: Cylinder Reborn VH(A9-A11)Roothide
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.dark
 Architecture: iphoneos-arm64e
 Version: 2.6
