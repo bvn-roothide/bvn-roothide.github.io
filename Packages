@@ -5533,6 +5533,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/VibeTok.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/VibeTok.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.visibleisland-arm64e
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: firmware (>=16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: ./debs/com.bvn.visibleisland-arm64e_2.0_iphoneos-arm64e.deb
+Size: 44336
+MD5sum: f04a45217c3d052f7dd4cca1b7784c11
+SHA1: f1810ddbedec5b04262190a3e39657395272145f
+SHA256: 7d294c4446b13a45ef16cf9671b2df7d6535b889b2fec1ade8eb354ed43eae89
+SHA512: 8cb016a4679bcac2adf017cbf75acfee7413587864f94b5643aa4181307b029460918365d829b505704a33483c18862c0223ddc2aef6dd624c6934880b7bdaa5
+Description: Enable, fix, and customize the Dynamic Island on older devices.
+Name: VisibleIsland VH(Roothide)
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
+Author: ethxnn88 <ethxnn88@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/VisibleIsland.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/VisibleIsland.json
+
 Package: com.bvn.vivacutpatch
 Architecture: iphoneos-arm64e
 Version: 1.0
