@@ -8328,6 +8328,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/FloatingDockXVI.jso
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Ethan Whited
 
+Package: ws.hbang.common
+Architecture: iphoneos-arm64e
+Version: 2.0-30K
+Section: Development
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 5632
+Depends: firmware (>= 15.0)
+Filename: ./debs/ws.hbang.common_2.0-30K_iphoneos-arm64e.deb
+Size: 1206752
+MD5sum: 739b2a38610ecfea647aa23f807b357e
+SHA1: d4e218471cf948b365f0a00b3f5be4d3dc6d2083
+SHA256: 9d7c570bcd6cfccd0a2137ee4d45d2db622604bf0a009b625660d67f49054194
+SHA512: 7284b23203e2c5f454cd11d4a80c1f2fee9fc8fbc62e08412439986bc07b0efede4965568173e85f8d2b41ef094bf044b76d119b5aea7e8e4a862e28ff6f81de
+Description: Support library for tweaks
+Tag: role::developer, compatible_min::ios15.0
+Name: Cephei Tweak Support
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
+Depiction: https://chariz.com/get/cephei
+Support: https://hashbang.productions/support/
+
 Package: xyz.cypwn.misaki
 Architecture: iphoneos-arm64e
 Version: 2.0.4K
