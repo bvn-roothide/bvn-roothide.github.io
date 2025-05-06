@@ -4889,6 +4889,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Mute.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Mute.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.smallboards-r2
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.smallboards-r2_1.1_iphoneos-arm64e.deb
+Size: 4768
+MD5sum: ea0b70b7b930289d8dceeff6b0c08238
+SHA1: ba41a5f5937a23c5187d308897560bec328796b8
+SHA256: d59af9cf08816f387eb6eb0e7edf0483d01cff5bb2e4db7a94b352413f24d2b1
+SHA512: b38bc8ec9779e33908896464d2b208b59f36359a32e6332a8b17e15ae574936e25fd3fe2cb3090469359843e49bfd44cde4d6f960155eb3788162ea909680c55
+Description: Sửa lỗi bàn phím bị cao khi fake cử chỉ iPhone X
+Name: SmallBoard (Roothide)
+Author: iCraze
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/SmallBoard.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SmallBoard.json
+
 Package: com.bvn.snapeditpatch-r2
 Architecture: iphoneos-arm64e
 Version: 0.0.1
