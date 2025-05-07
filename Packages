@@ -1934,6 +1934,26 @@ Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.blur.r2
+Architecture: iphoneos-arm64e
+Version: 1.0-8+debug
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.blur.r2_1.0-8+debug_iphoneos-arm64e.deb
+Size: 10212
+MD5sum: 66a1e1548e72731495978693d649fb44
+SHA1: a90af2dbf8cacc1f8df5f5fca3be507327a4ca92
+SHA256: dced82c45ed1c6a3280aa4a948ac65c98aab82bfb7cf7e423cdce43f4ca2ead4
+SHA512: eb38a9d3bad8daed63f4078a1515ba4b7b0e3140dc710f9c81c1fe417e334a43171e8be7e7a7e5843d6f3e8d2ac29d80eeb036b38053adbd015e8b992587e6d5
+Description: Ẩn ảnh riêng trong thư viện của bạn. Mở khóa bằng ID mặt, ID cảm ứng hoặc mật mã
+Name: Blurify6 (Roothide)
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/Blurify6.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Blurify6.json
+Author: MrDeNsor
+
 Package: com.bvn.bong.r2
 Architecture: iphoneos-arm64e
 Version: 1.0
