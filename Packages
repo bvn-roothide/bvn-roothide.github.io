@@ -8090,18 +8090,18 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: ru.rejail.dleasy
 Architecture: iphoneos-arm64e
-Version: 2.14.7K
+Version: 2.14.7-1K
 Section: Tweaks
 Maintainer: BVN Repo
 Installed-Size: 15584
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/ru.rejail.dleasy_2.14.7K_iphoneos-arm64e.deb
-Size: 11014588
-MD5sum: 4a60e911dd93b0ba8ffd828267026f6f
-SHA1: c4f1b68f072a40ad323f880f9a764bfbba4c6b7c
-SHA256: 2d633776c3886ce768e1f10c47c534cc3ebf76743c44ef8a9c1648dd1dbaf8c8
-SHA512: ad07a510fa3baadfc7ef1e796ecf285a9457b1762d04146fe11a910f568d95991644e45a185458089e934f75e97935ee7ecc762386dbefc04aa4ff88633d971a
+Filename: ./debs/ru.rejail.dleasy_2.14.7-1K_iphoneos-arm64e.deb
+Size: 14687402
+MD5sum: 086abdeff77f5df14a6849b32654bd6a
+SHA1: ef07b704a1cb162849f55e4f3d8b7ad7c9040e76
+SHA256: 2c50fcb2048f8692cc73b3097758b4f8ffbbf8c3d4c2cb08e4a95cd70f9fffb9
+SHA512: b1dde0c4306b838d3aae27dd96b4d2e9d3f8c59529a8ad4937ed9e291ee748311ac0dc5812cde35951ed7f268e01ee8f3f36a3e0aabfee7372b16d001e599be1
 Description: Tải xuống/chia sẻ hình ảnh & video từ các ứng dụng xã hội một cách dễ dàng!
 Name: DLEasy CRK(Roothide)
 Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
