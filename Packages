@@ -8088,6 +8088,27 @@ Name: DLEasy CRK(Roothide)
 Author: AhmedBafkir
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: ru.rejail.dleasy
+Architecture: iphoneos-arm64e
+Version: 2.14.7K
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 15584
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/ru.rejail.dleasy_2.14.7K_iphoneos-arm64e.deb
+Size: 11014588
+MD5sum: 4a60e911dd93b0ba8ffd828267026f6f
+SHA1: c4f1b68f072a40ad323f880f9a764bfbba4c6b7c
+SHA256: 2d633776c3886ce768e1f10c47c534cc3ebf76743c44ef8a9c1648dd1dbaf8c8
+SHA512: ad07a510fa3baadfc7ef1e796ecf285a9457b1762d04146fe11a910f568d95991644e45a185458089e934f75e97935ee7ecc762386dbefc04aa4ff88633d971a
+Description: Tải xuống/chia sẻ hình ảnh & video từ các ứng dụng xã hội một cách dễ dàng!
+Name: DLEasy CRK(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: AhmedBafkir <prooxy0@gmail.com>
+
 Package: vietnam.bvnrepo.masktet
 Architecture: iphoneos-arm64e
 Version: 1.0
