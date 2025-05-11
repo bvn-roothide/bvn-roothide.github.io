@@ -8109,6 +8109,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: AhmedBafkir <prooxy0@gmail.com>
 
+Package: ru.rejail.dleasy
+Architecture: iphoneos-arm64e
+Version: 2.14.8K-Roothide
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 15616
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/ru.rejail.dleasy_2.14.8K-Roothide_iphoneos-arm64e.deb
+Size: 11021416
+MD5sum: d3367f0ce0e44d609f0cb2cc5bb2c09a
+SHA1: 93d30d42efdd672d3633ccb7011677a2e7b6a56b
+SHA256: 050f3109bb463533760ad247a22eaae1095a00b183c4384cdc4c0d32c2930afd
+SHA512: e644981e48ceef8aa9a2a3e6a1ad09cd8faaf43878187a48ee4a4f1f671e8b6f97bfe95f6da144876e340e6bfafdca9bf4a069e0e5d0a83029a0a635427a41bf
+Description: Tải xuống/chia sẻ hình ảnh & video từ các ứng dụng xã hội một cách dễ dàng!
+Name: DLEasy CRK(Roothide)
+Author: AhmedBafkir <prooxy0@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: vietnam.bvnrepo.masktet
 Architecture: iphoneos-arm64e
 Version: 1.0
