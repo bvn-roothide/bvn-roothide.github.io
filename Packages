@@ -1447,6 +1447,24 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Meizu.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Meizu.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 
+Package: com.bvn.Meizu3D
+Architecture: iphoneos-arm64e
+Version: 1.5
+Section: Theme Roothide
+Maintainer: Bvn Repo
+Filename: ./debs/com.bvn.Meizu3D_1.5_iphoneos-arm64e.deb
+Size: 61671668
+MD5sum: e0c12deaafb366b59348bf4c2e496e42
+SHA1: d8d565fb978244425ec0fcaca2388c1a77d511ea
+SHA256: 6772304cf54d6224575576266596d5ad3ccbce2d7781b4f94192b927d42529e4
+SHA512: 623b5ae9e424232d4245ae7c868fc11322735bbe9c18d3e150db76ed7a98539f0084bfddbc0beefa93269115ad6f1e1fd0785754fbd81c28a76a97d5f85f2f4d
+Description: Chủ đề Meizu 3D
+Name: Meizu 3D Theme
+Author: Miss
+Depiction: http://bvnsupport.github.io/infodeb/Html/Meizu.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Meizu.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
+
 Package: com.bvn.Photoleap.r2
 Architecture: iphoneos-arm64e
 Version: 1.0
