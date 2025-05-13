@@ -2220,6 +2220,27 @@ Depiction: http://bvnsupport.github.io/infodeb/ChromaHomeBarX/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ChromaHomeBarX.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvn.chromahomebarx
+Architecture: iphoneos-arm64e
+Version: 1.1-0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 484
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: ./debs/com.bvn.chromahomebarx_1.1-0_iphoneos-arm64e.deb
+Size: 82776
+MD5sum: 264a8fe373698e3806601f5b3ce22673
+SHA1: 141177c69ed1573a7726726c0afd1b7e721782ca
+SHA256: 2e4218e7dabcaf60a5eb50147c3bb99ab420a78d33212542b7aec0a0067c15b1
+SHA512: ac2f79afd192a570e4739ce81dec9dd9fd05997d4c60b5bf4ec467c92cd7895dc105f1a37330545b823a62d2d1947799068ab7c80817186d366cf4faa5c66ed2
+Description: Làm đẹp thanh Home của bạn
+Name: ChromaHomeBarX VH(Roothide)
+Author: Afnan Ahmad & SINI
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/ChromaHomeBarX/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ChromaHomeBarX.json
+
 Package: com.bvn.classicfolders3-roothide
 Architecture: iphoneos-arm64e
 Version: 3.0.2
