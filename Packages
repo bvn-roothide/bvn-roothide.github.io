@@ -1465,6 +1465,24 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Meizu.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Meizu.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 
+Package: com.bvn.Meizu3D
+Architecture: iphoneos-arm64e
+Version: 1.6
+Section: Theme Roothide
+Maintainer: Bvn Repo
+Filename: ./debs/com.bvn.Meizu3D_1.6_iphoneos-arm64e.deb
+Size: 61671652
+MD5sum: c1d683013c6cb8e99a17f54e91a51e85
+SHA1: 1a93a20659d0ff8b44f5c2b501e7544dc3f245b8
+SHA256: b34be481555a8e25b2ad4625ebdbdb3ead128e97772e5e8e26f7af21b16fe4d3
+SHA512: 567be2f55e7ff9ae95eba6ff1497d0750d38eb0cc049e0dbd1934fc07aee58507518b9b4a1cc2db28f5125b7e9ac7ec56141a8887f3119e73bdc8082a305759c
+Description: Chủ đề Meizu 3D
+Name: Meizu 3D Theme
+Author: Miss
+Depiction: http://bvnsupport.github.io/infodeb/Html/Meizu.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Meizu.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
+
 Package: com.bvn.Photoleap.r2
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -1791,6 +1809,26 @@ Author: Phuc Do
 Depiction: http://bvnsupport.github.io/infodeb/Html/Breathing.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Breathing.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.batteryinfo.r2
+Architecture: iphoneos-arm64e
+Version: 1.1.8
+Section: Tweaks
+Maintainer: developlab
+Installed-Size: 464
+Depends: firmware (>= 12.2) | org.swift.libswift (>= 5.0)
+Filename: ./debs/com.bvn.batteryinfo.r2_1.1.8_iphoneos-arm64e.deb
+Size: 121268
+MD5sum: 86aeaaf6e5165879bd1b74413eb22b58
+SHA1: 238cf9155b9a380f0d13634d8664c3b10edaa5c0
+SHA256: d53017d7b89d296227a9690caa295682c075a5ff9e4125452bce8f2ac9492c35
+SHA512: aa2af520c97522071364297c5edfd5cc67446e0e9d394ab3f4bcc0076216ec60b619d7f2aee744720abe8dddfc9491914db85b40abcc938e538d4a26e1425fde
+Description: Hiển thị chi tiết pin
+Author: developlab
+Depiction: http://bvnsupport.github.io/infodeb/Html/infobat.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/infobat.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: Battery Info VH(Roothide)
 
 Package: com.bvn.betteruiswitch-r2
 Architecture: iphoneos-arm64e
@@ -2241,6 +2279,27 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/ChromaHomeBarX/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ChromaHomeBarX.json
 
+Package: com.bvn.chromahomebarx
+Architecture: iphoneos-arm64e
+Version: 1.2-2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 484
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: ./debs/com.bvn.chromahomebarx_1.2-2_iphoneos-arm64e.deb
+Size: 82776
+MD5sum: 048b131e2db739f5b50b53d947d659d2
+SHA1: 683cba6e29746aeb0b7c23796f69b45e56c355ee
+SHA256: cf93bb7a26c7ee239ffac121646232c55d3fb5fad84ab215c256552de32233df
+SHA512: b981358d7cf978c854dea3b2786857e15bbc17dc5246bed6c65104839bf5fbf4d817f8c8ea50f8f0606e0531e38a7b787f2c5626ce4ecdcd7f922249d143e578
+Description: Tuỳ chỉnh màu sắc thanh Home
+Name: ChromaHomeBarX VH(Roothide)
+Author: Afnan Ahmad & SINI
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/ChromaHomeBarX/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ChromaHomeBarX.json
+
 Package: com.bvn.classicfolders3-roothide
 Architecture: iphoneos-arm64e
 Version: 3.0.2
@@ -2303,6 +2362,27 @@ Author: dvntm
 Depiction: http://bvnsupport.github.io/infodeb/Html/CallMeMaybe.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CallMeMaybe.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.cod.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.50
+Section: Game Hack
+Maintainer: BVN Repo
+Installed-Size: 29428
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.bvn.cod.r2_1.0.50_iphoneos-arm64e.deb
+Size: 14156684
+MD5sum: b93b42ed0ce61c5dd8b9531265383638
+SHA1: e83f75d61b3653b3d6afb1f6ccc5f24a2f2f8364
+SHA256: 44cf61afa2fff548491c07117c66a24289674979b539f85e4f6d8c3b19e52074
+SHA512: a19a2db2ecdfd353e9680b80033903c64303de064b0abd1c91b1b40eb52e9c7f3c1475afe81cc6a68768edec985a60e2bd503f5f6a11f24299e1a45e38e369f1
+Description: Call Of Duty Hack
+Name: Call Of Duty Hack
+Author: shark
+Depiction: http://bvnsupport.github.io/infodeb/Html/Duty.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Duty.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/Duty.png
 
 Package: com.bvn.contactsextended
 Architecture: iphoneos-arm64e
@@ -2740,6 +2820,25 @@ Description: Chặn Quảng cáo cho Ứng dụng Facebook.
  - No Ads in the Facebook App!
 Name: Facebook No Ads (Roothide)
 Author: P2KDev <p2kdev@gmail.com>
+
+Package: com.bvn.fakedualsim
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.fakedualsim_1.0.1_iphoneos-arm64e.deb
+Size: 3828
+MD5sum: ee4ba08594b3ed5c6c80ad9c7b959428
+SHA1: e10a8c7a19c06969b230da61cec8e64c4200e6bc
+SHA256: 6b5447e08319ceb46e25ba7a246a4ca35866643eabd98087ad14857734b318db
+SHA512: f000b7ef8384852a3fcbcb7a39190163d3e8ae295663e9a7c25d2c932803a090c813fc78efccc36b69bde3a254e2d8d762a71db8d6b3af79f7ceca0dc3fc7f71
+Description: Giả mạo 2 sim
+Name: FakeDualSIM (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/FakeDualSIM.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/FakeDualSIM.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: CydiaGeek <lucaluca86@aol.com>
 
 Package: com.bvn.fiona-roothide
 Architecture: iphoneos-arm64e
@@ -3246,6 +3345,26 @@ Author: blatant
 Depiction: http://bvnsupport.github.io/infodeb/Html/iScreen.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/iScreen.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
+Package: com.bvn.icatch.r2
+Architecture: iphoneos-arm64e
+Version: 1.1-120+debug
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.icatch.r2_1.1-120+debug_iphoneos-arm64e.deb
+Size: 28916
+MD5sum: 1c93065ed7155ba6ab14094fbf982827
+SHA1: e5fa511ea5dc2c27f72d43872a4b102d72ff0f3e
+SHA256: 2667f4a1faf8ddcc59bb181c741a3b2ee5f0c2033259b5abc46aedc77892ec46
+SHA512: b056a02f6dc05d9c6b81f5d72aeece7a1a18861c985f615959f417b05ce6b21e1ad00d012af8a500f27aedd035b5baaec72732a6e393a0477bccab394b69e812
+Description: ICATCH Phát hiện mỗi tệp .deb bạn tải xuống từ Sileo & Zebra
+Name: iCatch (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/iCatch.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/iCatch.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: DeNsor
 
 Package: com.bvn.immortalizer-r2
 Architecture: iphoneos-arm64e
@@ -4724,6 +4843,25 @@ Author: 34306
 Depiction: http://bvnsupport.github.io/infodeb/Html/replaced.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/replaced.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.roundprefs.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.9
+Section: Tweaks
+Maintainer: BVN Repo
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.roundprefs.r2_1.0.9_iphoneos-arm64e.deb
+Size: 56488
+MD5sum: 9b29583f8994fbe136ecfc989696242c
+SHA1: 13927836eafc45d5349de9054af42b45afe3595c
+SHA256: 8323aa79fcfaa1013e0a15939896ede4beaef9979b09e54af5ac487ee125fefb
+SHA512: 7d13ff02c682ffa04b431eaa55087ee57992e3721c652a7a626d34b9fbccb73be634faaba860f5b98c2f37eddb958527c701184a6767124d4587773c53e3ae20
+Description: Làm tròn các bảng cài đặt!
+Name: roundPrefs VH(Roothide)
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/roundPrefs.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/roundPrefs.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.safariblocker-roothide
 Architecture: iphoneos-arm64e
