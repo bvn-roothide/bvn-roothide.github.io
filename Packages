@@ -1095,6 +1095,31 @@ Author: tesla_man, Bibi Fire <computerman939+16playersupport@gmail.com>
 Name: 16Player (Roothide)
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.2dock.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 104
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: com.bvn.2dockx, com.bvn.2dock
+Filename: ./debs/com.bvn.2dock.r2_1.0.0_iphoneos-arm64e.deb
+Size: 7396
+MD5sum: 5434b46d51410fef067323487cdd5640
+SHA1: c95948fc6bbcea7db89ef305e1005d883a15ca64
+SHA256: ddd1e5706be70a38fb4b9dd421e6e9fcfee1bee24b8f77b93bf2d84c0a0540dd
+SHA512: fa0eb33d1b7bc8acba61b641ca77a8032e29cd42a4643efc443b83e1757d5f19913ce1043d7c86226ca70cdec9b3f5d9ff23f52e5b8459f4de6921a93ec66a5c
+Description: Dock 2 hàng
+Tag: purpose::extension, compatible::ios15
+Name: 2Dock (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/2Dockk.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/2Dockk.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Minazuki <minazukidev@gmail.com>
+dev: minazuki
+
 Package: com.bvn.30.4
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -1525,6 +1550,24 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Netskao
 Tags: compatible_min::ios15
 
+Package: com.bvn.Ringmasker.r2
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: Theme Roothide
+Maintainer: Bvn Repo
+Filename: ./debs/com.bvn.Ringmasker.r2_1.4_iphoneos-arm64e.deb
+Size: 5642088
+MD5sum: 183449b3a44040bae7a63c5400bcb5be
+SHA1: 7b54d8e429a735965440dd671ed1c114c6f925be
+SHA256: 6f6a51659895e5882f4fbeb62a25b06d4c77c461fc1b352ae349b35c940f9c5c
+SHA512: 75ffc3eed7f9ef685d756b5660369c07de0d9796c9dc83bff63045fdc7f2a71f41767207cc58d50bf61edd240b10cedb578d95a843b7c05f43b284ccb1b0ef43
+Description: Chủ đề Ringmasker
+Name: Ringmasker Theme
+Author: thazsar & rio-doro <support@rio-doro.eu>
+Depiction: http://bvnsupport.github.io/infodeb/Html/Ringmasker.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Ringmasker.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
+
 Package: com.bvn.SafariX.r2
 Architecture: iphoneos-arm64e
 Version: 1.5.0K
@@ -1641,6 +1684,29 @@ Name: AdGuard Premium (Roothide)
 Author: Dell <dvq273665536@gmail.com>
 Depiction: http://bvnsupport.github.io/infodeb/Html/AdGuard.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/AdGuard.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.aemulo.r2
+Architecture: iphoneos-arm64e
+Version: 1.2.5
+Section: Tweaks
+Maintainer: Amy While <support@anamy.gay>
+Installed-Size: 2224
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: com.amywhile.aemulotrial
+Filename: ./debs/com.bvn.aemulo.r2_1.2.5_iphoneos-arm64e.deb
+Size: 631036
+MD5sum: 34e830152e56920e7eeac9d6d46111a2
+SHA1: b4971dcfb6794d5249e933460e049daab5de6be6
+SHA256: aa117856cc26cc122e78318d9559e1eeb7d470054bc31b242d54bf212bf52f74
+SHA512: dcce1ce5a8a7ee06880673389db5169a0e1b1282d9f2db65e24d452d32d5fc3b6ff2a107ec913b6e538fc8e040cbc1352ed6fc49b8348ea1cefeb2b07069cb4c
+Description: NFC Frickery
+Name: Aemulo VH (Roothide)
+Author: Amy While <support@anamy.gay>
+Depiction:
+Header: https://elihwyma.github.io/Aemulo/assets/Depiction-Header.png
+Native-Depiction: https://elihwyma.github.io/Aemulo/NativeDepiction.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.albummanager
@@ -5503,6 +5569,27 @@ SHA1: 34ff178ab3fa8855f5d0a8551d827f01df483c1a
 SHA256: e3322c5269606db75448f8c36e9670e05cfb8e88b639c082b53048f325e2ef4f
 SHA512: 92867284249393431e55f5a4613215b7d1db8d0fb6e6048d2d96ac585ba53d8e1c8d46fbee782f0cbabbc61b6c43a50fca1a6761eb94b2c760ec53ea5687266c
 Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify VH(Roothide)
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.spotify-r2
+Architecture: iphoneos-arm64e
+Version: 5.9.7
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 1612
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Filename: ./debs/com.bvn.spotify-r2_5.9.7_iphoneos-arm64e.deb
+Size: 400536
+MD5sum: 6a92e29ac2429088101c0391345cc19a
+SHA1: 864c285eee506244f1e061750ff29a17b6df79d1
+SHA256: e41c46613e069340fe6b1a1b5ea17029d292bde25ea140f4c2c3cd5362f28906
+SHA512: 4dc566c422aeca8d0db1919769aaeacf6badc0fbc1d3009086b91d1d81eb5c7993d71f7e813f71ea2ec03b4a57fcc5aaaf2ebdff2161b24856d210779e7044b7
+Description: Một tinh chỉnh để nhận Spotify Premium miễn phí, giống như Spotilife
 Name: EeveeSpotify VH(Roothide)
 Author: Eevee
 Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
