@@ -3834,6 +3834,29 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Locket.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Locket.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
+Package: com.bvn.lockscreenbatterymagsafe.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 175
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.1), mobilesubstrate
+Filename: ./debs/com.bvn.lockscreenbatterymagsafe.r2_1.0.4_iphoneos-arm64e.deb
+Size: 7996
+MD5sum: 5dd82d434e63d39d1d21bdd5c6c6ffac
+SHA1: 10cea621dd7ea5eeb4fabd604ee851f3ec88b8ed
+SHA256: 516f9fa45783313a3ca549992b0fd2badb2752ffbcc844b0efe9d8d84285b212
+SHA512: 610b76e60b47d472bc7f076d5060eaffb27ba2adc7c3a331a32e5e86479653d07e5e5c35bd816aa702825676fb612b5efc4f12f104edc66bbfe41eeee80e5f12
+Description: Bật chế độ xem sạc MagSafe gốc mới trên màn hình khóa khi kết nối thiết bị với nguồn điện
+Tag: purpose::extension
+Name: MagSafe Enabler (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/MagSafe1.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/MagSafe1.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+dev: tomaszpoliszuk
+
 Package: com.bvn.locktouchx.h2
 Architecture: iphoneos-arm64e
 Version: 1.3-15+debug
@@ -5342,6 +5365,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/split.json
 Name: Split View Pro VH(Roothide)
 Author: sunshinesong
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.spotify-2
+Architecture: iphoneos-arm64e
+Version: 5.9.8
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1548
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Filename: ./debs/com.bvn.spotify-2_5.9.8_iphoneos-arm64e.deb
+Size: 394608
+MD5sum: 7d73f4020d749aa4efbfd3efe746de6d
+SHA1: 7bd9dd8213bca6acbb1b13a47f2a0995f3a01493
+SHA256: 9aba5412c1044f18b0ac029a288418dfb1eb88a09ab7eea9f60f76305d075c4e
+SHA512: 9a074ff06f6485429b956e4f556269c9183a4a195219ad0ab6843029cd8e23e18b9cd9e27c76e842cbbc4c0e0418cc96cb7a30d929af5b1e3fde3e9bf2dbd89c
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Eevee
 
 Package: com.bvn.spotify-r2
 Architecture: iphoneos-arm64e
