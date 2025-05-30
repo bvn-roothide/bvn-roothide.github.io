@@ -7296,15 +7296,16 @@ Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-
 Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
 Filename: ./debs/com.repobvn.audiorecorderxs-rootless_5.1-12_iphoneos-arm64e.deb
-Size: 1870602
-MD5sum: de35662a06bf1d88d50df3d570e05dca
-SHA1: 5c169dc048f64c80640c2dc604a24af6ec201674
-SHA256: 276bd90efda7d9848f179b1a06acdb096c2a7152c9a7b3119e357e0d17b65843
-SHA512: d7168b90149fe31f80cbb68853f8763804c5ba6d3dbbee368e28eb3ed1dc0912e1f97b30d77c57a59c5398662be9b671de3e8dd96b79ad4c36a95e7265581113
+Size: 1870650
+MD5sum: 8329969e6f75a18b043ae71d468b99d0
+SHA1: 0fa867f2108de23d5eedf9266c7505c997ab68d1
+SHA256: 46a214323561d4060ad21257ea11efd0129772a5fbffb0394bb49993388ddbd5
+SHA512: 3dc933d744278e7a645aa758388ce8757fceb484267582bb0da54000c1188f8e2f871c0c3aa94db613780e2b70134612f78721e5f1b92790c2c97450bfad6897
 Description: Most Advanced iOS Call Recorder Ever!
 Name: AudioRecorder VH(Roothide iOS 15 to 17)
-Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.audiorecorderxs
-SileoDepiction: https://limneos.net/cydia/sileo-depiction.php?package=net.limneos.audiorecorderxs
+Depiction: http://bvnsupport.github.io/infodeb/Html/AudioRecorder-rl.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AudioRecorder.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 2bd89895e747af47790b0eb2f6bac296
 
