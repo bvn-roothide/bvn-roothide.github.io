@@ -1338,6 +1338,25 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/KroppenRound.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/KroppenRound.json
 Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
+Package: com.bvn.LLSwitch.r2
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Bvn Repo
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.LLSwitch.r2_1.0_iphoneos-arm64e.deb
+Size: 15788
+MD5sum: 8840cab124ade93aae95b74443de8cf8
+SHA1: b80a460547836864e56e9aba9883e707ccea8d07
+SHA256: c524c36acf9b7c576951519375495a5a6333bf68d024791c8dd8cc5766943afb
+SHA512: 2529cca93f7b4609b6fc3cafbccd788060df9b5f2479ec79757b8a97076be6112738917e0def51331bab317f513570dd5df13980b83f27d5200adb211194acc1
+Description: Mặt Cười On Off
+Name: LLSwitch (Roothide)
+Author: Simon <qiaozhani000@163.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/LLSwitch.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/LLSwitch.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.LS16-Comforta
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -4636,6 +4655,26 @@ SHA512: 0cdff9f7ef826bc2ef463b97e76a739366147f92ac1ad25f5326b74e3239043c59a6eb7d
 Description: Control your appswitcher
 Name: PrimeDeck (Roothide)
 Author: 0xkuj
+
+Package: com.bvn.prokeys.r2
+Architecture: iphoneos-arm64e
+Version: 1.1.2k
+Section: Tweaks
+Maintainer: BVN Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis, firmware (>= 15.0)
+Filename: ./debs/com.bvn.prokeys.r2_1.1.2k_iphoneos-arm64e.deb
+Size: 97228
+MD5sum: 2f3139a01e1b1172214f34854da4b9b2
+SHA1: f1056051f8a97226ebc6a70c243112d498a0acd3
+SHA256: 75d933ddb90ffef8d8b5242ef05da5cc0d2dd1585bee48dfe4d0210b19277798
+SHA512: eb17eb2156dcb5fdd30eae69310059d1f186bbbd1ad0521cd11d1715d7d1b1a2535cd232aae6a9637b08c293d69c9cdc0caa966267cc6438310b0b3f497f706e
+Description: A Tactile RGB Keyboard for your iPhone
+Depiction: http://bvnsupport.github.io/infodeb/Html/ProKeys.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ProKeys.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: ProKeys VH(Roothide)
+Author: Justin Proulx
 
 Package: com.bvn.quarkvpn
 Architecture: iphoneos-arm64e
