@@ -5846,6 +5846,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/susudaynightswitch.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/susudaynightswitch.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.switchtheme.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 304
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.switchtheme.r2_1.0.0_iphoneos-arm64e.deb
+Size: 44384
+MD5sum: fc63f53ac3909018adce1e22fb631ea3
+SHA1: 864fd5bd6436b4a1b5cd07882fff66e50ec195f9
+SHA256: ce49175be514ede0ab6f09adeca05ad128de10ded72dba046e2bc5e7ac52b3f9
+SHA512: eee01cc169d1593d1b081b96c6a17f3ed57f02d08a0c00aad0d663c7fb73f4b6ce1d70362fe798ee0289e5849458973df58d3adc04e7cf407843195892391f01
+Description: Thay đổi nút công tắc bật /Tắt
+Name: SwitchTheme (Roothide)
+Author: 白衣
+Depiction: http://bvnsupport.github.io/infodeb/Html/SwitchTheme.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SwitchTheme.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.systeminfo
 Architecture: iphoneos-arm64e
 Version: 2.7.2-3
