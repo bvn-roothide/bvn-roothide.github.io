@@ -3043,6 +3043,28 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Flo.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Flo.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
+Package: com.bvn.flow.r2
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 532
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.flow
+Replaces: com.dvntm.flow
+Filename: ./debs/com.bvn.flow.r2_1.0_iphoneos-arm64e.deb
+Size: 259942
+MD5sum: 73957d174d8546477f9289da5fc4abdf
+SHA1: 5d4c47a15fb02fb324c642e6d98d5ac69eebaffa
+SHA256: 6ed66c3dd5cba6cc4bf22eb555096590b54689f38ee5f715e4452eaa96a35e4f
+SHA512: b705447214cb713ad7f8686e38b6256e763a92e480b7fbb7c119fb7cf901bb2c44ce32e50dbb2de54a346e7531d1a52721bcbfdd506a3cc564cd152b61e25731
+Description: A lightweight Messenger enhancer
+Name: Flow Cho Messenger
+Author: dvntm, nowesr1
+Depiction: http://bvnsupport.github.io/infodeb/Html/Flow.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Flow.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.folderlist
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -3316,6 +3338,28 @@ Name: GitHubWebLegacyCompat (Roothide)
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/githubweblegacycompat.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/githubweblegacycompat.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.glow.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 1248
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.glow
+Replaces: com.dvntm.glow
+Filename: ./debs/com.bvn.glow.r2_1.0.1_iphoneos-arm64e.deb
+Size: 759578
+MD5sum: e1cb045ae71ab61655ceef8d1681cd58
+SHA1: dfdb24c4514db3e89e4722ecf12a5383ddc95d8a
+SHA256: aced1cff1c55691b923ad85f1238e54b94f6559b3edf11ae492046fca33356e4
+SHA512: d48ee30443e836ee88da12ec20e24503c90fe30cd91fbf13d0194a49329c168dcb3442d870f0d47fdb712cb41443c563e5d2d3529dde57f44bb4f44a83131c35
+Description: Cleaner. Smarter. Yours.
+Name: Glow Cho Facebook
+Author: dvntm, nowesr1
+Depiction: http://bvnsupport.github.io/infodeb/Html/Glow.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Glow.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.griddy-r2
