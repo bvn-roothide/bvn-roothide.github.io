@@ -3362,6 +3362,28 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Glow.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Glow.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.glow.r2
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 20028
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.glow
+Replaces: com.dvntm.glow
+Filename: ./debs/com.bvn.glow.r2_1.1_iphoneos-arm64e.deb
+Size: 10205904
+MD5sum: bfa053db49ec51e3bc23546d5b588432
+SHA1: 838d73aaad7311a7124f1658ef5c00d7fafb1367
+SHA256: 900cfa8275dfba9c39f5093ef6206358ed95942294d7aa97ba39faec797742ac
+SHA512: fa5a620684e9b83175af54703a9091772221a36ea045a23d81c33e80f5626030b799daca75535970f8f39357eb85a0e74ed8ee40e5df6aa33da3085d3fc8b6e4
+Description: Bổ sung các tính năng hữu ích cho Facebook
+Name: Glow for Facebook (Roothide)
+Author: dvntm, nowesr1
+Depiction: http://bvnsupport.github.io/infodeb/Html/Glow.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Glow.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.griddy-r2
 Architecture: iphoneos-arm64e
 Version: 1.0.3
