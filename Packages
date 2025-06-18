@@ -7008,6 +7008,27 @@ Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.gswe
 Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gsweather/icon.png
 SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gsweather.json
 
+Package: com.hitori.misaki
+Architecture: iphoneos-arm64e
+Version: 2.2-1K
+Section: Tweaks VH(Roothide)
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1049
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.2-1K_iphoneos-arm64e.deb
+Size: 792570
+MD5sum: 162d53580a4c0c591723323a0c5aae44
+SHA1: bdf5e9247c2b0c9c3fbe8ec04e406658864ae8a2
+SHA256: a04b7eb4217cc572101680448438c10082d1dca6b502ab2558da48723cdb48a9
+SHA512: b756947e5e7ec763c21bcbbdc0cd03615ac13978cd04188febb3ff284605f71dc074e4cf27aa92cddec77507b3d34cbc6d7f8c489172588a344c1652bd08532c
+Description: Misaki là một công cụ tùy chỉnh jailbreak toàn diện cho iOS 15 và 16, giúp bạn biến iPhone của mình trở nên độc đáo.
+Author: Hitori <mikasa-san@outlook.jp>
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: Misaki
+Depiction: https://chariz.com/buy/misaki
+Taq: cydia::commercial, compatible_min::ios15.0
+
 Package: com.iarrays.libiarrays.roothide
 Architecture: iphoneos-arm64e
 Version: 1.0.16-beta-14
@@ -9091,27 +9112,4 @@ Author: HASHBANG Productions <support@hbang.ws>
 Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
 Depiction: https://chariz.com/get/cephei
 Support: https://hashbang.productions/support/
-
-Package: xyz.cypwn.misaki
-Architecture: iphoneos-arm64e
-Version: 2.0.4K
-Section: Tweaks
-Maintainer: Bvn Repo
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debs/xyz.cypwn.misaki_2.0.4K_iphoneos-arm64e-1.deb
-Size: 266916
-MD5sum: 7f8c920f4cbcdf3ee8ace6118ddbb3f0
-SHA1: 7580fdfd4a156f565ed9774bc23cd10d5a176984
-SHA256: c869cdcb8d852393382418a8b559c55e7b257902ad3dd831176269d69884bbf8
-SHA512: 4f872b857c58711396a539719b25c35798d0e547df6b768efc818f8c072d12d1cf1aa131eb6f85c21788d7973ff580f918e833fba38c70b306a8c39ec3b64445
-Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
-Author: Hitori
-Name: Misaki VH(Roothide)
-Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
-Wutdis1: 123.456789.012345
-Wusdat2: 12345678901234567890123456789.012
-Wutdis3: 1234567890123456.78901234567890
-Wusdat4: 123456789012345678901234567890123456.7
-Whutrthoze: 123456 7890123456789012345.678
 
