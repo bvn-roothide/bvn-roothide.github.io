@@ -7011,21 +7011,41 @@ SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gsweather.jso
 Package: com.hitori.misaki
 Architecture: iphoneos-arm64e
 Version: 2.2-1K
-Section: Tweaks VH(Roothide)
+Section: Tweaks
 Maintainer: Hitori <mikasa-san@outlook.jp>
 Installed-Size: 1049
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
 Filename: ./debs/com.hitori.misaki_2.2-1K_iphoneos-arm64e.deb
-Size: 792570
-MD5sum: 162d53580a4c0c591723323a0c5aae44
-SHA1: bdf5e9247c2b0c9c3fbe8ec04e406658864ae8a2
-SHA256: a04b7eb4217cc572101680448438c10082d1dca6b502ab2558da48723cdb48a9
-SHA512: b756947e5e7ec763c21bcbbdc0cd03615ac13978cd04188febb3ff284605f71dc074e4cf27aa92cddec77507b3d34cbc6d7f8c489172588a344c1652bd08532c
-Description: Misaki là một công cụ tùy chỉnh jailbreak toàn diện cho iOS 15 và 16, giúp bạn biến iPhone của mình trở nên độc đáo.
+Size: 316400
+MD5sum: 5f2ada1409b0ff00bb66ae58d9e46fc0
+SHA1: 77e27e9e9035e8fd15699d9a1c1e65795eb42379
+SHA256: 65cbad5946a6209942b4684d29c7d7bcada94761f65808b9fd820cdc6d815653
+SHA512: 4c370eac60f6e24e1b0fd3909afb21eb63c24efffaac9337e55966aadbeb8dce7af98dbb23b7f8932d1259acc0c0c4f6a01dabfb76733de61e5dc44474b659f1
+Description: Misaki là một công cụ tùy chỉnh jailbreak toàn diện cho iOS 15 và 16, giúp bạn biến iPhone của mình trở nên độc đáo. Dưới đây là một số tính năng và tùy chọn mà Misaki cung cấp:
+ - *Tùy chỉnh Màn hình khóa*:
+ - Ẩn thời gian, biểu tượng Face ID và khóa
+ - Tùy chỉnh nút Quick Action để tăng cường khả năng truy cập
+ - Ẩn thông báo không mong muốn
+ - *Tùy chỉnh Màn hình chính*:
+ - Ẩn nhãn ứng dụng, dấu trang và thanh tìm kiếm
+ - Tùy chỉnh giao diện và bố cục ứng dụng
+ - *Tùy chỉnh Trung tâm điều khiển*:
+ - Tùy chỉnh bố cục và giao diện
+ - Thêm chỉ số phần trăm cho các thanh trượt
+ - *Tùy chỉnh Thanh trạng thái*:
+ - Tùy chỉnh văn bản nhà mạng và thời gian
+ - Ẩn các biểu tượng không mong muốn
+ - *Tùy chỉnh Trung tâm thông báo*:
+ - Tùy chỉnh giao diện và bố cục
+ - Ẩn văn bản không mong muốn
+ * Misaki cũng cung cấp nhiều tính năng khác như:
+ - *Tùy chỉnh thư mục*: ẩn tiêu đề, nền và hiệu ứng mờ
+ - *Tùy chỉnh ứng dụng điện thoại*: ẩn tab không mong muốn
+ - *Tùy chỉnh App Switcher*: ẩn biểu tượng và nhãn ứng dụng
 Author: Hitori <mikasa-san@outlook.jp>
+Name: Misaki VH(Roothide)
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Name: Misaki
 Depiction: https://chariz.com/buy/misaki
 Taq: cydia::commercial, compatible_min::ios15.0
 
