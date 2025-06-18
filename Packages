@@ -1855,6 +1855,51 @@ Author: AnthoPak <anthopakdev@gmail.com>
 Name: Appaze 3 VH(Roothide)
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.applecard.r2
+Architecture: iphoneos-arm64e
+Version: 3.3.3-end
+Section: Tweaks
+Maintainer: BVN Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/com.bvn.applecard.r2_3.3.3-end_iphoneos-arm64e.deb
+Size: 412232
+MD5sum: e7a251c7f4060a245b7945e5df5c9247
+SHA1: c3a55fa5b7b9137fb5db29bb42664a1f81a51f30
+SHA256: 3e446b157c250dbb6b6f4b9a1e638490827fc160c7f38f67a73afbde7efeed79
+SHA512: eefa81a15bbd71875f905858212f6209dca9d6e81a7c6e05f61993bcc041686d0d31f09bb9c88031d6171f37bb153ddad9304877db2072ef3004147904d79447
+Description: Vượt qua O2 với khả năng phản hồi tức thời!!
+ 1. *Bắt đầu*:
+ - Triệu hồi Đĩa: Vuốt từ cạnh màn hình (từ phải sang trái hoặc từ trái sang phải) khoảng 1 inch trên đáy màn hình.
+ - Truy cập Cài đặt: Kéo nhanh đĩa đến cạnh đối diện của màn hình.
+ - Thêm Ứng dụng: Trong Cài đặt, chạm vào biểu tượng ngôi sao ở trung tâm đĩa để chọn ứng dụng cho đĩa.
+ - Ứng dụng trong đĩa có thể được mở dưới dạng cửa sổ nổi hoặc ở trên màn hình dưới dạng biểu tượng hình tròn nhỏ
+ 2. *Kiểm soát Nhanh*:
+ - Vuốt nhanh sang bên để hiển thị/ẩn tất cả cửa sổ và biểu tượng hình tròn.
+ 3. *Sử dụng Đĩa*:
+ - Kéo từ cạnh màn hình đến trung tâm, sau đó kéo ngón tay đến ứng dụng để mở nó trong cửa sổ nổi.
+ - Trong Chế độ Cài đặt:
+ - Xoay đĩa nhanh để thay đổi kích thước đĩa và khả năng chứa ứng dụng.
+ - Xoay đĩa bình thường để điều chỉnh vị trí ứng dụng trong đĩa.
+ 4. *Kiểm soát Cửa sổ*:
+ - Đóng Cửa sổ: Vuốt nhanh lên trên thanh dưới cùng.
+ - Toàn màn hình: Vuốt nhanh xuống dưới thanh dưới cùng.
+ - Chế độ Nền: Chạm nhanh vào thanh dưới cùng để biểu tượng hình tròn.
+ - Di chuyển Cửa sổ: Kéo bất kỳ cạnh cửa sổ nào.
+ - Thay đổi kích thước Cửa sổ: Giữ cạnh hoặc kéo góc.
+ 5. *Chế độ Biểu tượng Hình tròn*:
+ - Chạm nhanh để mở lại cửa sổ nổi.
+ - Nhấn lâu để xóa khỏi màn hình.
+ 6. *Tính năng Thông minh*:
+ - Cửa sổ kích hoạt bởi thông báo.
+ - Kích thước cửa sổ thông minh.
+ - Hỗ trợ xoay màn hình.
+ - Vị trí bàn phím thông minh.
+ - Và nhiều tính năng khác để khám phá...
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: App Lecard (Roothide)
+Author: Crassna
+
 Package: com.bvn.arima
 Architecture: iphoneos-arm64e
 Version: 1.0
