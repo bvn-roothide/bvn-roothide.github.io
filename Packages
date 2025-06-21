@@ -2186,13 +2186,12 @@ Version: 1.0
 Section: Tweaks
 Maintainer: Bvn
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: com.xybp888.callassist15.fugu15
 Filename: ./debs/com.bvn.callassist15.gtv.r2_1.0_iphoneos-arm64e.deb
-Size: 25400
-MD5sum: c8e03bc2f9450b10e88f0f05a0d2f95d
-SHA1: 9c6b88e504248b49046c72e6df34f9faf5c97910
-SHA256: 40e0d02cf06343a347e32681e5e7a8744d3206bde4abe4a9280f659c0791504b
-SHA512: 1609ecbb8c0054e2e19e3366ddf46b709b59b209f1c247271a91a38ea366c4dc1bd6f5dc6baeeacd889a3d7c68bb111e51ea53f563a3427de355e94c6c9e5a74
+Size: 30466
+MD5sum: bc810d8a4f55de239197badd2f45aeec
+SHA1: f89dc3d3fd0bf30819d01bcd35e759e88464f13a
+SHA256: 986d85d8f67fa8720907f73ecafb105ad6068be1b134287435dcda8a179df56d
+SHA512: 8a47520588163ae0d294d0ed5a60a59723eb203118f187d378ed93e409b5f0fc363071a446cc939b316820ef91d8a43ba9e7c6798f7e51546096343ea4b5e669
 Description: Gói Tiếng Việt cho Tweaks CallAssist iOS 15
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/dich.png
 Name: CallAssist iOS15(Gói Tiếng Việt)
@@ -2204,13 +2203,12 @@ Version: 1.0
 Section: Tweaks
 Maintainer: Bvn
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: com.xybp888.callassist16.dopamine
 Filename: ./debs/com.bvn.callassist16.gtv.r2_1.0_iphoneos-arm64e.deb
-Size: 25400
-MD5sum: c17db554c3ca16722a487cfa39318b0c
-SHA1: 64a2acca402252e8b1983ab4b9101da8818f3f97
-SHA256: c82e57a6fdec95f7e53fd048ff3a16fb26e4674c86ae312c6e14ef5b2c5a6c3a
-SHA512: 0e224397cf32ad954be20aa38bf2774b11d3627e7ffe562cfe78b094d07631b0b9b12f86ccb44ed8c5897f29fae4ab2cef4630753e639ec789fe886decfa0c99
+Size: 30462
+MD5sum: 4709d78456d3b49cf890426c5d8a22e1
+SHA1: aad1eeb06c3cb3b69cf8bb049496a5397705e8e0
+SHA256: 7717cb6b648c232098082ade459c3bb44fa24e3b55690781bcccda9852f032ec
+SHA512: b06e19875ff58561cbc0400fe6b13ab1ddea67872a364bb5618263dc7498c963e2c7b15969f246a5fa1ce82ce9bab421865ce7a8459415dd78bd203b42e65a39
 Description: Gói Tiếng Việt cho Tweaks CallAssist
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/dich.png
 Name: CallAssist iOS16(Gói Tiếng Việt)
@@ -5907,6 +5905,27 @@ SHA256: 2bec8bc07aa35ecb65a7c257db3b4f2cb8cfe2f3ca5acc94bba9e622beffb4d7
 SHA512: e5c2e08d1b1c62bef2d340bdbc7d3e5cbe5560c5c6abec195b1cce932be2f0203a0a4cb3e2608e5ea40dcd014627a8b1cd9317b6b41304d1f3bca190f322af4f
 Description: A tweak to get Spotify Premium for free, just like Spotilife
 Name: EeveeSpotify (Roothide)
+Author: Eevee
+Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.spotify-r2
+Architecture: iphoneos-arm64e
+Version: 6.0
+Section: Tweaks
+Maintainer: Eevee
+Installed-Size: 1612
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Filename: ./debs/com.bvn.spotify-r2_6.0_iphoneos-arm64e.deb
+Size: 415632
+MD5sum: c7b837992780741f65589cc72adb9b98
+SHA1: 7cc085c5e0da40e5827c57129f3c8d55a58e3702
+SHA256: 1968d2cf402358eb047938a5fca38378d8a3a97708737b41a296af8144a42fe3
+SHA512: 6c735bb826648519f2678fd2ccb7596fb559ceb84684bc8f45cfa6257faaa13c9caad3b15232165e7996fbd97dc5870550f69a522fe52f627c0b3e2678aa6771
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Name: EeveeSpotify VH(Roothide)
 Author: Eevee
 Depiction: http://bvnsupport.github.io/infodeb/Html/EeveeSpotify.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/EeveeSpotify.json
