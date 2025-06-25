@@ -2444,48 +2444,6 @@ Depiction: http://bvnsupport.github.io/infodeb/ChromaHomeBarX/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/ChromaHomeBarX.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
-Package: com.bvn.chromahomebarx
-Architecture: iphoneos-arm64e
-Version: 1.1-0
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 484
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, ws.hbang.alderis
-Filename: ./debs/com.bvn.chromahomebarx_1.1-0_iphoneos-arm64e.deb
-Size: 82776
-MD5sum: 264a8fe373698e3806601f5b3ce22673
-SHA1: 141177c69ed1573a7726726c0afd1b7e721782ca
-SHA256: 2e4218e7dabcaf60a5eb50147c3bb99ab420a78d33212542b7aec0a0067c15b1
-SHA512: ac2f79afd192a570e4739ce81dec9dd9fd05997d4c60b5bf4ec467c92cd7895dc105f1a37330545b823a62d2d1947799068ab7c80817186d366cf4faa5c66ed2
-Description: Làm đẹp thanh Home của bạn
-Name: ChromaHomeBarX VH(Roothide)
-Author: Afnan Ahmad & SINI
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Depiction: http://bvnsupport.github.io/infodeb/ChromaHomeBarX/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/ChromaHomeBarX.json
-
-Package: com.bvn.chromahomebarx
-Architecture: iphoneos-arm64e
-Version: 1.2-2
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 484
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, ws.hbang.alderis
-Filename: ./debs/com.bvn.chromahomebarx_1.2-2_iphoneos-arm64e.deb
-Size: 82776
-MD5sum: 048b131e2db739f5b50b53d947d659d2
-SHA1: 683cba6e29746aeb0b7c23796f69b45e56c355ee
-SHA256: cf93bb7a26c7ee239ffac121646232c55d3fb5fad84ab215c256552de32233df
-SHA512: b981358d7cf978c854dea3b2786857e15bbc17dc5246bed6c65104839bf5fbf4d817f8c8ea50f8f0606e0531e38a7b787f2c5626ce4ecdcd7f922249d143e578
-Description: Tuỳ chỉnh màu sắc thanh Home
-Name: ChromaHomeBarX VH(Roothide)
-Author: Afnan Ahmad & SINI
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Depiction: http://bvnsupport.github.io/infodeb/ChromaHomeBarX/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/ChromaHomeBarX.json
-
 Package: com.bvn.classicfolders3-roothide
 Architecture: iphoneos-arm64e
 Version: 3.0.2
@@ -4432,6 +4390,26 @@ Author: Dell <tranthikimchi2601@gmail.com>
 Depiction: http://bvnsupport.github.io/infodeb/Html/Migii.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Migii.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
+Package: com.bvn.milkyway2.r2
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: BVN Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, oldabi, preferenceloader, com.opa334.ccsupport, firmware (>= 15.0)
+Filename: ./debs/com.bvn.milkyway2.r2_1.0_iphoneos-arm64e.deb
+Size: 51884
+MD5sum: 03318777b9d0f048f6446ca54f9ce488
+SHA1: 40f333be54b01b5593053b82246715089660a629
+SHA256: 9d22a246cada4e02c13a90bde96cbb39a50ee403c7a082c324718d216b9db0fa
+SHA512: 8e7bc3ed940e1a78621728f91ff7ebcb3106d3dfa44ed7cc30b620264701f7862f080dec3ab90de59c4b166585bac105fc54edba505609b8772849584c3c6621
+Description: Sửa đổi dựa trên phiên bản gốc, sửa hỗ trợ đa nhiệm trên iOS/iPados 16+.
+Depiction: http://bvnsupport.github.io/infodeb/Html/MilkyWay2.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/MilkyWay2.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: MilkyWay2 iOS15+(Roothide)
+Author: akusio
 
 Package: com.bvn.miuminuipro
 Architecture: iphoneos-arm64e
