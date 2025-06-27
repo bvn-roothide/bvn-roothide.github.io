@@ -6097,6 +6097,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/SwitchTheme.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SwitchTheme.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.switchthemeday.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 272
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.switchthemeday.r2_1.0.0_iphoneos-arm64e.deb
+Size: 135298
+MD5sum: 85a896dc3dfbd532c367b38bcd320122
+SHA1: 3adc8c92438ba032c7241d47041c8f18f14db680
+SHA256: c6f887af50a27d6597dbe049d5ecd667a7b54a58185f4dd18facc9d94ee814a6
+SHA512: a41605f60a604495c8b1f655e406d41bb2b0be1be046dc800c42523c7c24aeb563fdd27d2845f31da11421f75e61f6ef74efcfaede8328b6c5656d8b88376e67
+Description: "Đây là một chủ đề công tắc hoàn toàn mới, mang lại trải nghiệm thay thế cực kỳ mượt mà
+Name: Day-Night Switch (Roothide)
+Author: 白衣
+Depiction: http://bvnsupport.github.io/infodeb/Html/Day-Night.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Day-Night.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.systeminfo
 Architecture: iphoneos-arm64e
 Version: 2.7.2-3
