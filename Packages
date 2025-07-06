@@ -2237,6 +2237,29 @@ Author: IArrays <contact@iarrays.com>
 Sponsor: IArrays
 Icon: https://iarrays.com/sileo-depiction/calllogpro/icon.png
 
+Package: com.bvn.cc26
+Architecture: iphoneos-arm64e
+Version: 0.4.9.9b
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 220
+Provides: com.cureux.cc26
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debs/com.bvn.cc26_0.4.9.9b_iphoneos-arm64e.deb
+Size: 24716
+MD5sum: 881dcfc5d0a246dd939c372b376b5eec
+SHA1: 991104a4dd246b5f0d50cfacc3d055fa74bad33b
+SHA256: 9741c0b0ed99ca6630ff38586860a5753628692b7c04c068e4d8f21c5e48ac16
+SHA512: 619902eb8436c2cfb3b2241ced4072baae38fd349a8cf9e921bf50c561015ea8e2c87a2c1f39ee47c8b7334a22fda770f1cbd15090c2180692e47d818cd26d9f
+Description: Trung tâm điều khiển kiểu iOS 26
+Name: CC26 (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/CC26.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CC26.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: therealhoodboy
+
 Package: com.bvn.ccadsbegone.rootless
 Architecture: iphoneos-arm64e
 Version: 1.1
