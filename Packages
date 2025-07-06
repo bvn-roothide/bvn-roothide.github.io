@@ -202,6 +202,25 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/player.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/player.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.0xkuj.bettercccrashprotect
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.0xkuj.bettercccrashprotect_1.0.0_iphoneos-arm64e.deb
+Size: 9922
+MD5sum: 686618be6ad8e9741329fc2a41328296
+SHA1: 5829af17b275a2733f3d70aac29363d0543684cf
+SHA256: 40149a2dc5a3836472a47784c39e8c30741472ed7abb48da91e4684fbfad03b6
+SHA512: ec2273d52cc23631f380aa1271d6ee01e16c9d5f2ac291b49bb4136a924f5f3f81c53bb8ebd154af71f1022a4ee6cda1c90cdb4c0b8cff32981767f0f16f9ae6
+Description: Prevent Weather Module with BetterCC crash your idevice
+Name: BetterCCCrashProtect (Roothide)
+Author: 0xkuj
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.SearchDots
 Architecture: iphoneos-arm64e
 Version: 1.1.5
@@ -1981,6 +2000,30 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/infobat.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/infobat.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Name: Battery Info VH(Roothide)
+
+Package: com.bvn.bettercc
+Architecture: iphoneos-arm64e
+Version: 0.0.51
+Section: Tweaks
+Maintainer: 来了老弟
+Installed-Size: 1828
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport, com.0xkuj.bettercccrashprotect
+Filename: ./debs/com.bvn.bettercc_0.0.51_iphoneos-arm64e.deb
+Size: 295506
+MD5sum: afa361ba01eb8378b0348992a48365aa
+SHA1: 734a80239f0a9937fc2011dfcd9da7824ec81018
+SHA256: 4fd301f915b23698612f5effdf832f89effeb77ad2441ef9568bb5cedc09153a
+SHA512: f185da064360d39861f8d9b631f0a4f67f92629f384e0467fd2b8000a4957f16d094a1c7a0d392843062d38d9922009d94e6cca9224609e40a35cd2c13a1225d
+Description: Customize your Control Center!
+ Invisible Modules.
+ Rearrange Connectivity Toggles.
+ Change Modules Size.
+ Weather Widget.
+Name: BetterCC VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/BetterCC.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BetterCC.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Miguelaka95 <miguelaka95@gmail.com>
 
 Package: com.bvn.betteruiswitch-r2
 Architecture: iphoneos-arm64e
