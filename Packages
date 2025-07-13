@@ -2223,6 +2223,50 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Bong.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: unclear
 
+Package: com.bvn.calculatorconverter.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 404
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.fiore.calculatorconverter, com.bvn.calculatorconverter
+Filename: ./debs/com.bvn.calculatorconverter.r2_1.0.1_iphoneos-arm64e.deb
+Size: 60196
+MD5sum: 31f8733700c0360e532d86a8c6eeb560
+SHA1: ab0fd88a5f0f4934838dd6aca33341ae23520719
+SHA256: 6d6be17886ba81c66ae97053cf511374cc5cdc91e07ca1a79f00c17552853881
+SHA512: 517551fc8afc7e8ff205021362fba093eca10ab914166dfe9cadc009731399b40778952d815e79cbed76b6b82b76b4fe0f66d9f8e02e3b51e236961eef21d599
+Description: Thêm chuyển đổi đơn vị iOS 18 vào ứng dụng máy tính.
+Name: CalculatorConverter (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/CalculatorConverter.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CalculatorConverter.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: fiore
+
+Package: com.bvn.calculatorhistory.r2
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.fiore.calculatorhistory, xyz.cypwn.calculatorhistory
+Filename: ./debs/com.bvn.calculatorhistory.r2_1.2_iphoneos-arm64e.deb
+Size: 25276
+MD5sum: 1e54ee4dbe4a41cdd86bdfa78c4aa118
+SHA1: 2dedbcacf2a95146b74985fe5c2c4ff36d3706c7
+SHA256: 83c6d7e4ff42fcaa4dd09219d0747e325cf65700e961601bb045c5b93c3c658b
+SHA512: 992e5597061f597a232c4c941238f4b833c5ed0c5c4a0363b609028af3fb88bd4e44726f513158021878f16de56720f3d750fc6567480de44f3e0a0d9bbe0655
+Description: Calculator gains history!
+Depiction: http://bvnsupport.github.io/infodeb/Html/CalculatorHistory.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CalculatorHistory.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: CalculatorHistory (Roothide)
+Author: fiore
+
 Package: com.bvn.callassist15.gtv.r2
 Architecture: iphoneos-arm64e
 Version: 1.0
