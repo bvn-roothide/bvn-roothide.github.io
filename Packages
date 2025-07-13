@@ -9130,6 +9130,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Tinge.json
 Author: P2KDev
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: vn.bvn.tinge-roothide
+Architecture: iphoneos-arm64e
+Version: 1.2.2
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 436
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/vn.bvn.tinge-roothide_1.2.2_iphoneos-arm64e.deb
+Size: 43624
+MD5sum: cc4a61f174b3ad3ab6d452eff9aa9e24
+SHA1: 44515e88d3238bad3c35b5d56828caaf43730473
+SHA256: 740da05b588d439582f33f270b2d6cfe9b70802377e8d2ec014a304b1c1f7a5b
+SHA512: ecae3ba2af55b35a1c99c60cac2377a33b863de423993daf0ff356a91a4bc262c863e2c221aaf8a660b0924ffcc06d645eea5689db04d335ea23fd554f6b44e4
+Description: Color your badges with Perfection!
+Name: Tinge VH(Roothide)
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/Tinge.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Tinge.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: vn.bvnrepo.a-font
 Architecture: iphoneos-arm64e
 Version: 1.10-Roothide
