@@ -3702,6 +3702,24 @@ Description: Your documents in one place
 Name: Docbox (Roothide)
 Author: 0xkuj
 
+Package: com.bvn.ios26theme
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Themes Roothide
+Maintainer: Bvn Repo
+Filename: ./debs/com.bvn.ios26theme_0.0.1_iphoneos-arm64e.deb
+Size: 4460322
+MD5sum: e19d11578b31d767098c772b9f2da279
+SHA1: a700ec27461a12c5f9bac42b805f82f38fe1bcaf
+SHA256: d6cb01912450f79d32c8b16eef35c62779c9f63dbf0d177e725c610c06cb37bb
+SHA512: 7baf9d39ddb3113e26e276f2842a867090dd6ae5c7e6b6ca293e2da68acee10638f62143d0f4b63d08070cbe5247966a55648d155eae5deaede20b318dc1b3bb
+Description: Chủ đề iOS 26
+Name: iOS26 Theme
+Author: Hoang.MD
+Depiction: http://bvnsupport.github.io/infodeb/Html/iOS26.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/iOS26.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
+
 Package: com.bvn.jaderhd
 Architecture: iphoneos-arm64e
 Version: 1.0.3
