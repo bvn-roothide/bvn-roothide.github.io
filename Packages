@@ -1556,47 +1556,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Ringmasker.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Ringmasker.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 
-Package: com.bvn.SafariX.r2
-Architecture: iphoneos-arm64e
-Version: 1.5.0K
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 744
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Replaces: com.bvn.safarix-roothide
-Filename: ./debs/com.bvn.SafariX.r2_1.5.0K_iphoneos-arm64e.deb
-Size: 644700
-MD5sum: d150bd670a51953fcc873a8d441e1daf
-SHA1: d341cd1249be3972206b53eede6ba18bb1ef6f27
-SHA256: e1099fb2046e8a85fa22cbb62e5a73f3450c5fb332c13e492a1395f2a6911ebf
-SHA512: e1f7b16f5b388134e858c7ebb6fac3bebdd7e2fff37544a7e171364df76cbb76c85a06c3df418c5ef6d02672e89948d097cabe85adf0785a5e9980959da07c4e
-Description: Safari Essential Features
-Name: SafariX (Roothide)
-Author: 0xkuj
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.SafariX.r2
-Architecture: iphoneos-arm64e
-Version: 1.5.2K
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 744
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Replaces: com.bvn.safarix, com.0xkuj.safarix
-Filename: ./debs/com.bvn.SafariX.r2_1.5.2K_iphoneos-arm64e.deb
-Size: 277476
-MD5sum: c6ed4a30ffe5105d0a3cc0476df9ec0b
-SHA1: a50702f3de46880a8be0f26b60306509e1722928
-SHA256: da1b5db0c2ed80e512a3004058637220f140a40ed2bf6e5b74ca0f6d9f7b64f9
-SHA512: 1862a620f6c7c55486d4e272d341218ac304d5ed2b89e56139a2dfec326069a9bbe0d3840179c642d4cfa69c4c2b129959bb4100011bb26daadbe50da81c9731
-Description: Thêm 1 số tiện ích cho Safari
- - Safari Essential Features
-Name: SafariX (Roothide)
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Author: 0xkuj
-
 Package: com.bvn.StressWatch.r2
 Architecture: iphoneos-arm64e
 Version: 1.0.0
@@ -3377,28 +3336,6 @@ Name: GitHubWebLegacyCompat (Roothide)
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/githubweblegacycompat.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/githubweblegacycompat.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.glow.r2
-Architecture: iphoneos-arm64e
-Version: 1.0.1
-Section: Tweaks
-Maintainer: dvntm, nowesr1
-Installed-Size: 1248
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.dvntm.glow
-Replaces: com.dvntm.glow
-Filename: ./debs/com.bvn.glow.r2_1.0.1_iphoneos-arm64e.deb
-Size: 759578
-MD5sum: e1cb045ae71ab61655ceef8d1681cd58
-SHA1: dfdb24c4514db3e89e4722ecf12a5383ddc95d8a
-SHA256: aced1cff1c55691b923ad85f1238e54b94f6559b3edf11ae492046fca33356e4
-SHA512: d48ee30443e836ee88da12ec20e24503c90fe30cd91fbf13d0194a49329c168dcb3442d870f0d47fdb712cb41443c563e5d2d3529dde57f44bb4f44a83131c35
-Description: Cleaner. Smarter. Yours.
-Name: Glow Cho Facebook
-Author: dvntm, nowesr1
-Depiction: http://bvnsupport.github.io/infodeb/Html/Glow.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Glow.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.glow.r2
@@ -5237,110 +5174,6 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariBlocker.json
 
 Package: com.bvn.safarix.r2
 Architecture: iphoneos-arm64e
-Version: 1.8.1
-Section: Tweaks
-Maintainer: BVN REPO
-Installed-Size: 780
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.bvn.safarix.r2_1.8.1_iphoneos-arm64e.deb
-Size: 286300
-MD5sum: 01008dc576d4a27d25850dce421aa7c5
-SHA1: 9c58dcdd4a05d5de4135daff28f3f06094b3a7f0
-SHA256: 4c86194c9e89879f27fb8bf62651efee0687cdbe087f9e310719b9a619515589
-SHA512: 7667be811dc03df1aa434607abc05d3d86a950fff00499fcad2c6c1ee8e3658bf1a5fab9baa38366f80a66a99540752094da2cd1e4890375826129a32799cf4d
-Description: Thêm 1 số tiện ích cho Safari
- - Safari Essential Features
-Name: SafariX (Roothide)
-Author: 0xkuj
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.safarix.r2
-Architecture: iphoneos-arm64e
-Version: 1.9.0
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 792
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.bvn.safarix.r2_1.9.0_iphoneos-arm64e.deb
-Size: 289692
-MD5sum: c94309b0baf249b69535c3c948d003fc
-SHA1: f2f153b01cb61bd31236dd44e8ed4110328bdf30
-SHA256: b7bdcfbdb5c2d3808a60cd01b830b12b8c182ce3453697cc9b6c7001fa20b564
-SHA512: 90e60934b96ca3cacef17790705c1c722f33a1b88d9122c183a85cfe30de9ed7298bf542d5bcac773cd92c280965d0ac12b4b31c1b0eee39db5f462beefc2316
-Description: Thêm 1 số tiện ích cho Safari
- - Safari Essential Features
-Name: SafariX (Roothide)
-Author: 0xkuj
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.safarix.r2
-Architecture: iphoneos-arm64e
-Version: 1.9.1~Roothide
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 792
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Conflicts: byg.iosios.net.safarixhook, com.xx.safarixhook, com.bvn.safarix.rl
-Filename: ./debs/com.bvn.safarix.r2_1.9.1~Roothide_iphoneos-arm64e.deb
-Size: 301060
-MD5sum: b4bfa556abd82e1a74cd5d2b994d2c1f
-SHA1: cb6dc748578279d41f7d828b39cb64b443669c02
-SHA256: 501b46a13ae703baa682d52348a0504b49c77aabe407d1c9f162bd72e40efce3
-SHA512: 2014b73df7b64df2644386ef2f88ccbd03855c3237065b86079a83fb2dc1144bf7b37213ce200d3d1abe002c73e71aba8754030fe1560f479e2521098aa6a601
-Description: Safari Essential Features
-Name: SafariX VH(Roothide)
-Author: 0xkuj
-Depiction: http://bvnsupport.github.io/infodeb/Html/SafariX.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariX.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.safarix.r2
-Architecture: iphoneos-arm64e
-Version: 1.9.3
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 824
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.bvn.safarix.r2_1.9.3_iphoneos-arm64e.deb
-Size: 719424
-MD5sum: 6b0afd01a71881a3f875b0c1f92a831d
-SHA1: 946358dff22c21f0b80dec452b8e6437dd73683c
-SHA256: 40c2e35bf38064ff26cf3e130dd5913411ec7f36d73bdd7b66486a7534260cca
-SHA512: 883efc489639e794e6f24ce0c3f818f1e7ce27df8d4ea64ade195d78455c274bceba4ebe02e52f3e240ed3e77888398dff0b4ce59689abe416b0d13471c02b6a
-Description: Safari Essential Features
-Name: SafariX VH(Roothide)
-Author: 0xkuj
-Depiction: http://bvnsupport.github.io/infodeb/Html/SafariX.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariX.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.safarix.r2
-Architecture: iphoneos-arm64e
-Version: 1.9.7
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 908
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.bvn.safarix.r2_1.9.7_iphoneos-arm64e.deb
-Size: 314860
-MD5sum: 1d485b7e12b569c7411d822639e7a764
-SHA1: 021fa4e9543a7164d0cb24bf71597ff30a6bbaec
-SHA256: 20fb54ad72cdfa04f6e2e0c72ac516a6014125e72ea2fcf67a983780f376eaa4
-SHA512: 43ad0a428024e130778319bc72dd679088cc747477116aa082eb85a63517ed9ad02b1128c6cda271738f46d4c991f9ae74e53d4147c076f55f4ebbcdeae4d3d0
-Description: Safari Essential Features
-Name: SafariX VH(Roothide)
-Author: 0xkuj
-Depiction: http://bvnsupport.github.io/infodeb/Html/SafariX.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariX.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.safarix.r2
-Architecture: iphoneos-arm64e
 Version: 1.9.9K
 Section: Tweaks
 Maintainer: Bvn Repo
@@ -5753,27 +5586,6 @@ Author: yan
 Depiction: http://bvnsupport.github.io/infodeb/Html/stella.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/stella.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.sugarcane-roothide
-Architecture: iphoneos-arm64e
-Version: 1.2.4.2
-Section: Tweaks
-Maintainer: BVN Trpo
-Installed-Size: 156
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate,firmware (>= 15.0)
-Filename: ./debs/com.bvn.sugarcane-roothide_1.2.4.2_iphoneos-arm64e.deb
-Size: 9364
-MD5sum: 203af755cfa9fd656ace867cec5fca07
-SHA1: a91098ca7934d1b652f7e28a5ef07afc97d3970a
-SHA256: 78edfeb6d07560a4ebd7fb0868faddb2fecdca17817d4a306b81616bc1ad0aa0
-SHA512: 6c6c52d5a91b66ccbc1e05d2196697a3fc028f35fb7663b767986c5c38de52250bd505001dd6a63e88f05fe72c7bcece342affc1a171621f81715a4c1f470327
-Description: Hiển thị phần trăm trong thanh trượt độ sáng và Âm lương
-Name: SugarCane VH(Roothide)
-Author: iOS Creatix, kasiimh1, p2kdev
-Depiction: http://bvnsupport.github.io/infodeb/Html/SugarCane.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/SugarCane.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.sugarcane-roothide
 Architecture: iphoneos-arm64e
@@ -8366,47 +8178,6 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/hethongg1.png
 
 Package: ru.rejail.dleasy
 Architecture: iphoneos-arm64e
-Version: 2.14.3
-Section: Tweaks
-Maintainer: AhmedBafkir <prooxy0@gmail.com>
-Installed-Size: 15520
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/ru.rejail.dleasy_2.14.3_iphoneos-arm64e.deb
-Size: 14616490
-MD5sum: 6663ccc0824d5874fee92bfff6ccdf65
-SHA1: 90037e137b049280bc1c349af9d9c880146a4541
-SHA256: 5b339d84a6e1dea7ff0d49e3bc1df7316fb3b6aa5abaf41592b4e85d21b56396
-SHA512: 9c41b6f51f8284672c071986e8b772c68865938089f4c2c30879d019e02603ec6ea4db9b87729c78320846152f108f62c508648b74c1b313233d58c44b4fe798
-Description: Tải xuống/Chia sẻ hình ảnh và video từ các ứng dụng xã hội một cách dễ dàng!
-Name: DLEasy CRK(Roothide)
-Author: AhmedBafkir <prooxy0@gmail.com>
-Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
-Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
-
-Package: ru.rejail.dleasy
-Architecture: iphoneos-arm64e
-Version: 2.14.4K
-Section: Tweaks
-Maintainer: Bvn Repository
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/ru.rejail.dleasy_2.14.4K_iphoneos-arm64e.deb
-Size: 14614214
-MD5sum: e8230711cea5a08f5ec8b5128ba68cc7
-SHA1: 2a36f5b07e6ff400c797aee10fb3d69b73292520
-SHA256: 7cb5a44acb785f3ef87f9a1e07967276853a25959de6f1f843ecf6d8cab691c5
-SHA512: 2076adc55856b54021fa4c2ff5022354171a73a66ae0bf6790bbdf345d5241db24aec0fbe0086d6e456a9fda09bcfa9f855a1a5ce261bac711be0602367bd6f8
-Description: Tải xuống hình ảnh và video trên mạng xã hội.
-Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
-Name: DLEasy CRK(Roothide)
-Author: AhmedBafkir
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: ru.rejail.dleasy
-Architecture: iphoneos-arm64e
 Version: 2.14.5
 Section: Tweaks
 Maintainer: Bvn Repository
@@ -8424,27 +8195,6 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
 Name: DLEasy CRK(Roothide)
 Author: AhmedBafkir
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: ru.rejail.dleasy
-Architecture: iphoneos-arm64e
-Version: 2.14.7-1K
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 15584
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/ru.rejail.dleasy_2.14.7-1K_iphoneos-arm64e.deb
-Size: 14687402
-MD5sum: 086abdeff77f5df14a6849b32654bd6a
-SHA1: ef07b704a1cb162849f55e4f3d8b7ad7c9040e76
-SHA256: 2c50fcb2048f8692cc73b3097758b4f8ffbbf8c3d4c2cb08e4a95cd70f9fffb9
-SHA512: b1dde0c4306b838d3aae27dd96b4d2e9d3f8c59529a8ad4937ed9e291ee748311ac0dc5812cde35951ed7f268e01ee8f3f36a3e0aabfee7372b16d001e599be1
-Description: Tải xuống/chia sẻ hình ảnh & video từ các ứng dụng xã hội một cách dễ dàng!
-Name: DLEasy CRK(Roothide)
-Depiction: http://bvnsupport.github.io/infodeb/DLEasy/?p=info
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/DLEasy.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Author: AhmedBafkir <prooxy0@gmail.com>
 
 Package: ru.rejail.dleasy
 Architecture: iphoneos-arm64e
