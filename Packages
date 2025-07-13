@@ -6800,6 +6800,27 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.ytx
 Architecture: iphoneos-arm64e
+Version: 1.7.15
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.bvn.ytx_1.7.15_iphoneos-arm64e.deb
+Size: 13206
+MD5sum: 7ed480fff7264050d766d02a11cd424d
+SHA1: 76dc6a150905d0f6599124fe128c11db3cedbee7
+SHA256: 1f85562946e13633e734823631634ffb046ab7d839314d03cc94e4d61091b46e
+SHA512: d0e52ed947dbd763ba197edb8c2283a0abb179e06483d1590628c47d58a9f68490a1e245d114a5ef74f4e6f85729316e8628c322eaec4efe8c06f016cedd5fee
+Description: A YouTube improvement tweak.
+Name: YouTube X (Roothide)
+Author: PoomSmart
+Depiction: https://bvnsupport.github.io/depictions/ytx.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.ytx
+Architecture: iphoneos-arm64e
 Version: 1.7.6
 Section: Tweaks
 Maintainer: PoomSmart
