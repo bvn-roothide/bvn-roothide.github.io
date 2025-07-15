@@ -5443,6 +5443,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/SNMessenger.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SNMessenger.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.sodapatch.r2
+Architecture: iphoneos-arm64e
+Version: 1.0-Roothide
+Section: Apps Crack
+Maintainer: Dell <tranthikimchi2601@gmail.com>
+Installed-Size: 373820
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.sodapatch.r2_1.0-Roothide_iphoneos-arm64e.deb
+Size: 333384
+MD5sum: 757e67ef183e91dedfbeab89936c6c81
+SHA1: a0ee976ef8563760e3a451212576ed9f86e51948
+SHA256: 2c126c46b09f333a2777ff874647a21b09c3b71b7bc801d0c9229337143b9376
+SHA512: 3a78cfa8d5d417e946ad2300316bfcb00edf35b24d16b34f730b89efc7d4ff1284ef43d4ff432b641629bcbdd045aff36dff17d56735dcbc6b7511d6b10b05c8
+Description: Unlock VIP
+Name: SODA VIP
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/SODA.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SODA.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
 Package: com.bvn.solstice-r2
 Architecture: iphoneos-arm64e
 Version: 3.0.5
