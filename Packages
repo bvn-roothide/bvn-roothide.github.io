@@ -7000,6 +7000,25 @@ Depiction: http://bvnsupport.github.io/infodeb/AppData/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/AppData.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.repobvn.Bauhaus-r2
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Fonts
+Maintainer: Repo BVN
+Installed-Size: 992
+Filename: ./debs/com.repobvn.Bauhaus-r2_1.0.0_iphoneos-arm64e.deb
+Size: 20152368
+MD5sum: e0f30cac78e4e22cbb599bd7f5f95f18
+SHA1: 2bdca7b4e0484752de2874e332d9e3f674513213
+SHA256: 79543fb04964b892625780d1aadfd88d9ed58fe93b8cbd4003e835c0290007dd
+SHA512: efea7c3eb5877967b81ad02998070b02b99f50b05157732bb7b09df82651d722ac261f905bc1daa857300808b189f60029b85c13c569e023a396813c6ca61b20
+Description: Phông chữ sử dụng qua tiện ích Snowboard
+Name: Bauhaus
+Author: unknow
+Depiction: http://bvnsupport.github.io/infodeb/Bauhaus/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Bauhaus.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+
 Package: com.repobvn.Coolwcat
 Architecture: iphoneos-arm64e
 Version: 1.4
