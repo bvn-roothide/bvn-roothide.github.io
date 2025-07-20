@@ -7939,6 +7939,29 @@ Author: r_plus <anasthasia.r+aa@gmail.com>
 dev: rplus
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=slidecutDp
 
+Package: me.bvn.autotouch.ios8
+Architecture: iphoneos-arm64e
+Version: 8.5.5
+Priority: optional
+Section: Utilities
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 135212
+Depends: firmware (>= 12.2) | org.swift.libswift (>= 5.0), ellekit
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: ./debs/me.bvn.autotouch.ios8_8.5.5_iphoneos-arm64e.deb
+Size: 60406132
+MD5sum: 045319d1ecdfe01b2980f090499e9795
+SHA1: 424238de3a5a24d8b3f1a0294d9ce6ad29a5fa36
+SHA256: 390e8bb0a37615fcf2652b5301100af7936b9cb866b9f103d660a5c00d8c51b2
+SHA512: 7241b07416d718447d5ef34c83aa18267bb15e255afa1511e9e62542cc3f8b389b0c858fb28edb61877923bc966521f99974d58f2d62f0b69ed71506f4ee3e6f
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Name: AutoTouch VH(Roothide)
+Author: Kent Krantz <kentkrantz@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/AutoTouch/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/AutoTouch.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: me.nepeta.axon-roothide
 Architecture: iphoneos-arm64e
 Version: 1.4
