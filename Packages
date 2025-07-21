@@ -19,26 +19,6 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/T9Dialer.json
 Tags: compatible_min::ios11.1.2, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
-Package: bvn.cylinderremade-roothidr
-Architecture: iphoneos-arm64e
-Version: 0.0.3-beta
-Section: Tweaks
-Maintainer: Repo Cydia BVN
-Installed-Size: 488
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, cy+cpu.arm64e
-Conflicts: com.ryannair05.cylinder
-Filename: ./debs/bvn.cylinderremade-roothidr_0.0.3-beta_iphoneos-arm64e.deb
-Size: 102708
-MD5sum: 95471237b456738ff9211aff2a3c204b
-SHA1: 3b023033df3c9b643c4c92b120816222efc41448
-SHA256: cee5686e7556609865e7e959e168d5903aa4f750a4ab15e3aa737df58c5a02db
-SHA512: bd5f7239dea5effd2098d56e9ff86dcabc98081b37cc3d89d38388fdf77b7c51c9a7986290b2272cea1a17c5f0e6cab5a23e7df400dcc1aa1f73933813af6fa8
-Description: Hiệu ứng cuộn trang màn hình chính như Barrel.Hỗ trợ từ Ios 15.0 tới ios 16.x
-Name: Cylinder Remade (Roothide)
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Author: Ryan Nair
-
 Package: bvn.filzacrack-roothide
 Architecture: iphoneos-arm64e
 Version: 1.1-8
@@ -2704,22 +2684,27 @@ Depiction: http://bvnsupport.github.io/infodeb/CustomizeCC/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CustomizeCC.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
-Package: com.bvn.cylinder-roothide
+Package: com.bvn.cylinderreborn
 Architecture: iphoneos-arm64e
-Version: 1.1.2
+Version: 1.1.3
 Section: Tweaks
-Installed-Size: 604
+Maintainer: Bvn Repo
+Installed-Size: 1253
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.6011), preferenceloader
-Conflicts: com.ryannair05.cylinder
-Filename: ./debs/com.bvn.cylinder-roothide_1.1.2_iphoneos-arm64e.deb
-Size: 108024
-MD5sum: a8b7c8bc53043d26fb05f8aedd462d6a
-SHA1: d674cd3e2e36043302c46838834fa14641c33032
-SHA256: b0104cbe79b9ef46b084b7c7f6846de6c5cfba899aa24c016300af9ae44b2802
-SHA512: dbfeb4e65d9d4f82cbb069d344a831ef6daa25d6228c2e022ca3a0c9b320c3369a6d06302fd835a76e62a7dfadbf3f731f4d6c699627d94d9b8cbdd88df9abdd
+Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader
+Replaces: bvn.cylinderremade-roothidr, com.bvn.cylinder-roothide
+Filename: ./debs/com.bvn.cylinderreborn_1.1.3_iphoneos-arm64e.deb
+Size: 228328
+MD5sum: 8a5fae733e09828a382c8bbf2fc89c32
+SHA1: d65847632751d16239b8ee3caa3248f62bc2a9df
+SHA256: e647feb3a578ea3d769855ea76118a6f404b8cde724c79f5a2a562597de8341d
+SHA512: e5a850faa3d3c66c69671bf92261f96219b2c561454abebd1d8bc2b283c9c414d198960cc2ad0024e303fc43522fb2e6218317139e179db7475debe65c208003
 Description: Make your icons dance
-Name: Cylinder Reborn VH(A9-A11)Roothide
+Tag: compatible_min::ios11.0
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Name: Cylinder Reborn VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Cylinder.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Cylinder.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.dark
