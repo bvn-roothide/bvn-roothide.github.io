@@ -7964,6 +7964,25 @@ Depiction: http://bvnsupport.github.io/infodeb/AutoTouch/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/AutoTouch.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: me.bvn.stageduo
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: tomt000
+Installed-Size: 4900
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: ./debs/me.bvn.stageduo_1.2_iphoneos-arm64e.deb
+Size: 6846592
+MD5sum: 63756139b175456aa3c8227df6be5c68
+SHA1: 9b1c2bd28621e9ed3c07b50e89d281a766ffa304
+SHA256: 9951f74631f7e640e12e41b147e5e280b424754cd3f93489a32bd05231dcf0e9
+SHA512: ad12184952eb82987ded98827349a318c06836a693bcf098f8169cc7a5b03735a72cfed7913ad394a8a75a530741cae7062532c6ed406be5a01155bf41108790
+Description: Stage Manager Reimagined for iPhone
+Name: Dynamic Stage VH(Roothide)
+Author: tomt000
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: me.nepeta.axon-roothide
 Architecture: iphoneos-arm64e
 Version: 1.4
