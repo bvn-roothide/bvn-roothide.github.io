@@ -8045,25 +8045,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Stage.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Stage.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
-Package: me.tomt000.stageduo
-Architecture: iphoneos-arm64e
-Version: 1.3k
-Section: Tweaks
-Maintainer: tomt000
-Installed-Size: 4900
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
-Filename: ./debs/me.tomt000.stageduo_1.3k_iphoneos-arm64e.deb
-Size: 6846604
-MD5sum: 0ac460f9acb6b62a9a04b96a1caa2d6a
-SHA1: 344ced1435c9e437e30efe4cc1505f5f6a3375eb
-SHA256: 5212f5399fadc057835b9a2cb94349009cbc7424e1d0480a67196d723276e626
-SHA512: 224c45052ad0cb4887dd0ece1da5511efd9c77b5913d1b7c66f1845d110b89a03a4780af0666a59eb15ab5bcfea3d2ba4c38fa3394ec78ec58332053c4eb344f
-Description: Stage Manager Reimagined for iPhone
-Name: Dynamic Stage VH(Roothide)
-Author: tomt000
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
 Package: net.BIENVANNHAT.dynamicpeninsula-roothide
 Architecture: iphoneos-arm64e
 Version: 0.6-19k
