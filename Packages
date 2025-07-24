@@ -1636,6 +1636,27 @@ Header: https://elihwyma.github.io/Aemulo/assets/Depiction-Header.png
 Native-Depiction: https://elihwyma.github.io/Aemulo/NativeDepiction.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.airaw-r2
+Architecture: iphoneos-arm64e
+Version: 1.6.7K
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 13502
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common,com.opa334.ccsupport
+Filename: ./debs/com.bvn.airaw-r2_1.6.7K_iphoneos-arm64e.deb
+Size: 20683748
+MD5sum: 4d200901791c89042d684b88df958507
+SHA1: ad94ddac6003deed3f5da713da266acda8f36be9
+SHA256: 7b5241b22048312824504eeee2572df2f255884a3a4c637616d64845b3ecd2bc
+SHA512: dc97f6a07e0e2b1d7c06e646327bcaa9096d047c4042366a2100887ad3aeb3d0cfbcac7cfef3ea2afccd0964697bbcba2f3813dc08615f3888bfc81b458d7292
+Description: Một tinh chỉnh CarPlay tuyệt vời.
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/Airaw.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Airaw.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: Airaw VH(Roothide)
+
 Package: com.bvn.albummanager
 Architecture: iphoneos-arm64e
 Version: 1.0.2
