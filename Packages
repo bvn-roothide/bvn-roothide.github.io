@@ -2090,6 +2090,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/Bong.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Author: unclear
 
+Package: com.bvn.bridge-r2
+Architecture: iphoneos-arm64e
+Version: 1.2.1K
+Section: Tweaks
+Maintainer: BvN Repo
+Installed-Size: 7104
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common
+Filename: ./debs/com.bvn.bridge-r2_1.2.1K_iphoneos-arm64e.deb
+Size: 11987208
+MD5sum: 7436d965988d2814335dcb66032408cc
+SHA1: 92667651cb753c08dae00608083e57f44d5ef65e
+SHA256: 9604d74b13600700e19a353620f105f1c060f0a9e7a44459142252a7fdb1b004
+SHA512: bc2cd040c4f2bfe1dd729100d477ec57800bc2912274795f39a5f82bd8500c4b64c93425f1e18706fff272ad0df231e143e6737a5c7e62f28b28bbd47099daaa
+Description: Trải nghiệm Homescreen của Apple Watch được mang đến iOS
+Name: Bridge VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Bridge.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Bridge.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: MTAC • ETHN
+
 Package: com.bvn.calculatorconverter.r2
 Architecture: iphoneos-arm64e
 Version: 1.0.1
