@@ -7678,31 +7678,7 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.youpip
 Architecture: iphoneos-arm64e
-Version: 1.12.1
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 212
-Provides: com.spicat.youpip
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
-Conflicts: com.spicat.youpip
-Replaces: com.spicat.youpip
-Filename: ./debs/com.repobvn.youpip_1.12.1_iphoneos-arm64e.deb
-Size: 64634
-MD5sum: 78e76fad734011b73f4c516eef25113f
-SHA1: f4fba21c9383f2c425e65b56e2b72be352ea04bc
-SHA256: 1d4da64163f668d7ad8f38cf4555762edd07be6fc2d73a5f7759b9666c4e5ed7
-SHA512: e8d2e86766c78f327ecac7cb741f33a7e6ec9fe961f5c7c75bf210ed40410708a461b71fe8f53c3e9f3a19a17c09f847ef2cb79244d5e83aad2ca129160b8e0e
-Description: Enable native PiP in iOS YouTube app.
-Name: YouPiP (Roothide)
-Author: PoomSmart
-Depiction: https://bvnsupport.github.io/depictions/youpip.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.repobvn.youpip
-Architecture: iphoneos-arm64e
-Version: 1.12.5
+Version: 1.12.7
 Section: Tweaks
 Maintainer: PoomSmart
 Installed-Size: 212
@@ -7710,108 +7686,12 @@ Provides: com.spicat.youpip
 Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture (>= 1.0.1)
 Conflicts: com.spicat.youpip
 Replaces: com.spicat.youpip
-Filename: ./debs/com.repobvn.youpip_1.12.5_iphoneos-arm64e.deb
-Size: 31588
-MD5sum: e2b9ec24680e8be08d2dda0725085f53
-SHA1: fefb5fe4b33de251964d0da37ae15b84793e988b
-SHA256: 78126ceb5cf161df0cdefe3094b73f33c3840aac2d13142cf504f2b6175fbf94
-SHA512: bb3f628efcc472d1aff0f9e36e2b61b343c5fb6b571cebc94274dc47942f31bb84ccb26435fddfe803e737c3f8e0dd7fddc4eb0bf6b17597de0a443668c8f42f
-Description: Enable native PiP in iOS YouTube app.
-Name: YouPiP (Roothide)
-Author: PoomSmart
-Depiction: https://bvnsupport.github.io/depictions/youpip.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.repobvn.youpip
-Architecture: iphoneos-arm64e
-Version: 1.7.21
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 284
-Provides: com.spicat.youpip
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
-Conflicts: com.spicat.youpip
-Replaces: com.spicat.youpip
-Filename: ./debs/com.repobvn.youpip_1.7.21_iphoneos-arm64e.deb
-Size: 31840
-MD5sum: 538af05482d401de65930781a56edf0a
-SHA1: a883ef69d33350beb3d0ab537384c7b67763e801
-SHA256: de74082a9e1ee27a428f0595b6d8449623b1fa7dd87353dc60aec8942a32490e
-SHA512: 573d1476de81388fd5300429e9428e89997c35263b7d21c51ec40706fe55b143bfe0812dea87ab715b5cad65b282b5073681d01d17ad6271ccecad7f32f94bbf
-Description: Tinh chỉnh cho phép bật tính năng hình trong trong hình (Picture In Picture) trong ứng dụng Youtube
-Name: YouPiP (Roothide)
-Author: PoomSmart
-Depiction: https://bvnsupport.github.io/depictions/youpip.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.repobvn.youpip
-Architecture: iphoneos-arm64e
-Version: 1.8.10
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 204
-Provides: com.spicat.youpip
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
-Conflicts: com.spicat.youpip, com.ps.youpip
-Replaces: com.spicat.youpip
-Filename: ./debs/com.repobvn.youpip_1.8.10_iphoneos-arm64e.deb
-Size: 28000
-MD5sum: 5568319f9b0d12ae8822894cb2393730
-SHA1: 252121a8cd3d7a1db8e4219a973fd72142021b85
-SHA256: aeff3cf6f82b691ddf584263a82af47ae650d3219040c8b689aa6ca704174ec0
-SHA512: 94a76d8227ec08a98cb92e732c065f545bf1a5a6d12241a0267a12552ba9c07590916bd6893a89594172d7bfb4a051d132135df27fba3f777a72712d69e9a9e7
-Description: Tinh chỉnh cho phép bật tính năng hình trong trong hình (Picture In Picture) trong ứng dụng Youtube
-Name: YouPiP (Roothide)
-Author: PoomSmart
-Depiction: https://bvnsupport.github.io/depictions/youpip.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.repobvn.youpip
-Architecture: iphoneos-arm64e
-Version: 1.8.13
-Section: Tweaks
-Maintainer: BVN Repo
-Installed-Size: 188
-Provides: com.spicat.youpip
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
-Conflicts: com.spicat.youpip
-Replaces: com.spicat.youpip
-Filename: ./debs/com.repobvn.youpip_1.8.13_iphoneos-arm64e.deb
-Size: 27584
-MD5sum: e4e41121ef3eabec2086a85b00174b53
-SHA1: 2d074bf190a728855c3b94fb6bc8fbeb4a9ac5bd
-SHA256: 12e9bc7c49499e278809ece09372274d7a24a4ed13413774b6a985cbfe68d0d3
-SHA512: 278d9f1dce2164f9264826e3658480f5ba674000af5c9592c0b6a545dbd33df38b9cb836fb494673d19580d0092675c7320472cad362504340e458579638ea73
-Description: Tinh chỉnh cho phép bật tính năng hình trong trong hình (Picture In Picture) trong ứng dụng Youtube
-Name: YouPiP (Roothide)
-Author: PoomSmart
-Depiction: https://bvnsupport.github.io/depictions/youpip.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/youpip.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.repobvn.youpip
-Architecture: iphoneos-arm64e
-Version: 1.8.16
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 188
-Provides: com.spicat.youpip
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, com.ps.yougroupsettings, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
-Conflicts: com.spicat.youpip
-Replaces: com.spicat.youpip
-Filename: ./debs/com.repobvn.youpip_1.8.16_iphoneos-arm64e.deb
-Size: 62238
-MD5sum: 51131ac00bfb3c11d66a82a84569aaa4
-SHA1: 31a7e1862d3f4072c49d8f5312774f54a3258278
-SHA256: 70811b591faea78e4e24116c1bb16bb401fde4ecc76f5fb26c52d346438be51a
-SHA512: 13ec5f7f10534aad164f8904e8edcb480b8d4fb38f748d88bb8dc9b08e24f9bc305ff6285e5f7269d3073870e05c548bbcdcc768b67c0a74dfca644cd3430a47
+Filename: ./debs/com.repobvn.youpip_1.12.7_iphoneos-arm64e.deb
+Size: 31496
+MD5sum: e2bad350d1e0a18ffa52dbd0b5ab4a5d
+SHA1: a6adfc4e71b22be82f905da4ac8468d928a7c327
+SHA256: 73bd1db70db865eb4909d26eac0d47c4bf0951728be8d023db9b917e6dab0caf
+SHA512: 12e6cd350ab0b867f43d349ca9acaffeb912cb1b615b47e9e53073c3502b021279be595214e5d0a3582d17a0e6b9610e540846b40c5e0bb1f70805d73e4fa63e
 Description: Enable native PiP in iOS YouTube app.
 Name: YouPiP (Roothide)
 Author: PoomSmart
