@@ -1912,18 +1912,18 @@ Name: Battery Info VH(Roothide)
 
 Package: com.bvn.bettercc
 Architecture: iphoneos-arm64e
-Version: 0.0.51
+Version: 0.0.52
 Section: Tweaks
 Maintainer: 来了老弟
-Installed-Size: 1828
-Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport, com.0xkuj.bettercccrashprotect
-Filename: ./debs/com.bvn.bettercc_0.0.51_iphoneos-arm64e.deb
-Size: 295506
-MD5sum: afa361ba01eb8378b0348992a48365aa
-SHA1: 734a80239f0a9937fc2011dfcd9da7824ec81018
-SHA256: 4fd301f915b23698612f5effdf832f89effeb77ad2441ef9568bb5cedc09153a
-SHA512: f185da064360d39861f8d9b631f0a4f67f92629f384e0467fd2b8000a4957f16d094a1c7a0d392843062d38d9922009d94e6cca9224609e40a35cd2c13a1225d
-Description: Customize your Control Center!
+Installed-Size: 1822
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
+Filename: ./debs/com.bvn.bettercc_0.0.52_iphoneos-arm64e.deb
+Size: 295556
+MD5sum: d769a6113d2574b1bcb0b6bbfb24b938
+SHA1: d9763eb81c51049b79aa850ad5434c297a381ca4
+SHA256: 5302104e9c6d129df2a932009928f28f660afc08f02f66cc1d70b49369a65c6e
+SHA512: d1fbd61dde105e47ab85d959cae602020d16d57df993681c98e17e0e7abd92c0926ba217dae207deb3d6b4c831b89a71c6955f0f93d73b6a96187b60796312ea
+Description: Customize your Control Center!_________仅测试用,有问题卸载---roothide
  Invisible Modules.
  Rearrange Connectivity Toggles.
  Change Modules Size.
