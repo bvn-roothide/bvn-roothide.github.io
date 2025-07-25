@@ -4680,6 +4680,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/OCD.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/OCD.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.oledkeyboard
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.oledkeyboard_0.0.3_iphoneos-arm64e.deb
+Size: 6904
+MD5sum: 10922986e05f44f004f92d7eac2c9d25
+SHA1: 9ed9fa8c0d40bb1828f97a9f9b4683c4e7d79e6c
+SHA256: c46a48ac0465175bba8800fc3d3819bdf3a3363d4ada542357f4d38759ec07d6
+SHA512: 6be51893a1b3777ca438475d84561fcf4171342b8f077e3765ab1227c6ae2d6058782a738cc9b10c5fb01d95ed0ff457045d3777d34613a38100c3ea76338157
+Description: OLED Dark Mode for iOS System Keyboard
+Name: OledKeyboard (Roothide)
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/OledKeyboard.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/OledKeyboard.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.onlinenotify
 Architecture: iphoneos-arm64e
 Version: 3.4.4
