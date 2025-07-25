@@ -8066,6 +8066,28 @@ Description: Clipboard history manager for iOS!
 Name: CopyLog (Roothide)
 Author: TomT000
 
+Package: me.tomt000.copylog
+Architecture: iphoneos-arm64e
+Version: 1.7.2
+Section: Tweaks
+Maintainer: TomT000
+Installed-Size: 2240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.copylogfix16, com.bvn.copylogfix16-roothidr
+Filename: ./debs/me.tomt000.copylog_1.7.2_iphoneos-arm64e.deb
+Size: 2382052
+MD5sum: 030a1ce264dd26ed42e0ba190023a4c3
+SHA1: 011f9c969a9b766aa7532d2223f7cb6e7e100a40
+SHA256: aa3cb628c351f97b9ff2ba80f1780340a1d7707653bc818a0a48fb620c131a97
+SHA512: ae0dfdcc56e4f8c3ce20fa5534b18a1b073f9c3d8386dd78a0d0e7296d07bdd88397ace218842198a168ab6b498ff6331c04e1144e1634fcc3032525a864a5d8
+Description: Quản lý lịch sử clipboard cho iOS!
+Name: CopyLog VH(Roothide)
+Author: TomT000
+Depiction: http://bvnsupport.github.io/infodeb/Html/CopyLog.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CopyLog.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: me.tomt000.stageduo
 Architecture: iphoneos-arm64e
 Version: 1.3K
