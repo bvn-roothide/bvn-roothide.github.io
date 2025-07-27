@@ -2264,11 +2264,11 @@ Pre-Depends: firmware (>=15.0)
 Depends: mobilesubstrate, com.iarrays.libiarrays.roothide (>= 1.0.16), vn.bvn.iarrayshack
 Conflicts: com.iarrays.CallLogPro10, com.iarrays.CallLogPro81, com.iarrays.CallLogPro8, com.iarrays.calllogpro.rootless
 Filename: ./debs/com.bvn.calllogpro.roothide_15.0-beta-7_iphoneos-arm64e.deb
-Size: 3135226
-MD5sum: a1f550cf19e0b40ad3888b83178fba02
-SHA1: 4f80bb889424fed1014cad274fa3becd8a5f1a75
-SHA256: 3be1f60752c4d420c638805e58932a3c46e8adcb37ef279d9bd92ede6bfd1eb9
-SHA512: 646b7b412fe6ab4cf1c17cfbb278f64940606bbafb175777b1b3107308ff9fefff337fdc34d189317b73dba8487f4d3c1ccade393b714cda42231c2336c22f6a
+Size: 3138890
+MD5sum: c2c80c1596555a7166ea0972e95f904d
+SHA1: ef3756c9b0c20b9f1d9e1c14c27d142b05eb354b
+SHA256: 75b537a5e75dee2e1e74e825bc2d79fa0a5faf159c845783884549a80ebf6b5d
+SHA512: 69e158f755c7c1286addb171b4b3adc23b12b87fdaebdc5aff354cdf85774d3d30525767882aaa0b91f2689c24c921bb6d80e07812188004cc8cdcf25324549b
 Description: Now with iOS 16.x support. CallLogPro allows to manage your calls history and to delete call records one by one or all.
 Name: CallLogPro VH(Roothide 15/16)
 Depiction: http://bvnsupport.github.io/infodeb/CallLogPro+/?p=info
