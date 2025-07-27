@@ -4476,19 +4476,22 @@ Author: akusio
 Package: com.bvn.miuminuipro
 Architecture: iphoneos-arm64e
 Version: 1.0
-Section: Tweaks
-Maintainer: BVN Repo
+Section: Control Center UI
+Maintainer: Phuc Do
 Installed-Size: 4676
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Filename: ./debs/com.bvn.miuminuipro_1.0_iphoneos-arm64e.deb
-Size: 3546204
-MD5sum: 7dd8881ff07268e042b3fbc83fe202e5
-SHA1: bdaa6ad76f9b8a5596234e90dfe21c3d5dc77c7f
-SHA256: b46d20d53efbface3b01af082b69c816d59148fb38374f21cedc22ac9daf9ad4
-SHA512: a0f5cce17c418a1fc14a1be4e4d83daae8166da5496639b6a7b44eaf788e5bccee97d3aa6e442d1f12aef66b791f9ae24c1c6116d016cbf985caade902896eb7
+Size: 7238550
+MD5sum: b3bda770f6a4627b81147fa3284043b3
+SHA1: 500ed3c46e052de6dc14253a07eed4e9d0b1d88d
+SHA256: 763c852be9128bd9b455a0b30a80996d928f0cd16402318ab661344b10358631
+SHA512: 063a9bfdb76c0ab6c5404e8848000c49864659b809c9d5349d51e958144858a14b14565f6bdadd38a7a76085e084fabbe4d17ea63acc29c16eee82735fb3202d
 Description: Miumin UI Pro is custumize CC on Jailbroken devices for iOS 15 & 16.
 Name: Miumin UI Pro (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/Miumin.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Miumin.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: Phuc Do
 
 Package: com.bvn.n95-roothide
