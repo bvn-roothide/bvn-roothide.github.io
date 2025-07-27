@@ -4688,19 +4688,19 @@ Author: opa334
 
 Package: com.bvn.ocd.r2
 Architecture: iphoneos-arm64e
-Version: 5.4.1.1
+Version: 5.4.1.2
 Section: Tweaks
 Maintainer: BVN Repo
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis
-Filename: ./debs/com.bvn.ocd.r2_5.4.1.1_iphoneos-arm64e.deb
-Size: 331116
-MD5sum: 98d216c4970d5d31974cc0ac5dfa5d78
-SHA1: 104d0fe4d3bf110d85715ba483d3e52b5e6d0d4f
-SHA256: 518ca68a478eb798135c1c7394691e818522e89768ba5bcd496de53b3645386d
-SHA512: a581ea817a34376ff0cc70e1f4b2505b15982daa1287beacb71bbcc6b0636f0301c5eef30adc37a10135e8925a1e839a968909577095297db8f40a334b2991b5
+Filename: ./debs/com.bvn.ocd.r2_5.4.1.2_iphoneos-arm64e.deb
+Size: 331468
+MD5sum: 2635a9a48268bfa08bf81958eb7b43a2
+SHA1: ee71dd567f2d93b5732f705542068e44980d3d35
+SHA256: 24f06b57d8b7510eb4061e0678a90f46d27d89d9ee9b6345bf0c7a3859e5597c
+SHA512: 855b54d3e1ce91288a66983b3f3e9973db36fd6153607d64c1bf88204b22cecc7d8c0a543b338389f6675fa92a29118191caa32b33473ebdd618e90469935ee6
 Description: OCD will let the option to color icon lables & badges background based on app color!
-Name: OCD VH(Roothide)
+Name: OCD VH(Rootless)
 Author: b4db1r3
 Depiction: http://bvnsupport.github.io/infodeb/Html/OCD.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/OCD.json
