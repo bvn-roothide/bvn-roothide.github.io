@@ -6170,6 +6170,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.whoozit.roothide
 Architecture: iphoneos-arm64e
+Version: 2.15.0-beta-15
+Section: Utilities
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 4372
+Pre-Depends: firmware (>=9.0)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays.roothide (>= 1.0.16), vn.bvn.iarrayshack
+Conflicts: com.iarrays.whoozit, com.iarrays.whoozit.rootless
+Filename: ./debs/com.bvn.whoozit.roothide_2.15.0-beta-15_iphoneos-arm64e.deb
+Size: 1382852
+MD5sum: c8a107b2a7b8640ef5a1968640d4e9e0
+SHA1: f8ced740c5b29276fb800bd6bcc97fd6aabe5eaf
+SHA256: da5657bdd2039441ebe2d2ce2b051317147cbdc77a7ce4cd3f06b3e8d54d631c
+SHA512: df83a1107666ce1757bdfe2d1fd2f2ea77b8b452a6b85e78e7d4488a4cebbfe3513135293f2d7d38b724ed39d6fdb1ba23367e72c61dd61b7999fc60bcf0f929
+Description: Không biết ai đang gọi cho bạn và không biết bạn đã bỏ lỡ ai? Đừng lo lắng, giờ đây giải pháp ID người gọi hoàn hảo này sẽ giúp cuộc sống của bạn trở nên đơn giản hơn. Chỉ cần cài đặt cái này và TrueCaller hoặc NumBuster! hoặc ShowCaller trên thiết bị của bạn và chỉ cần bắt đầu tìm kiếm các cuộc gọi từ các ứng dụng xếp chồng như Điện thoại, Tin nhắn & Trung tâm thông báo và thậm chí từ CallLogPro.
+Name: WhoozItPro VH(RootHide 15/17)
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tienichh1.png
+
+Package: com.bvn.whoozit.roothide
+Architecture: iphoneos-arm64e
 Version: 2.15.0-beta-6
 Section: Utilities
 Maintainer: IArrays <support@iarrays.com>
