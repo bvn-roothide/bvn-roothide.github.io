@@ -7676,6 +7676,28 @@ Author: MiRO <tweaks_support@miro92.com>
 
 Package: com.repobvn.velvet2-roothide
 Architecture: iphoneos-arm64e
+Version: 2.1.2-3
+Section: Tweaks
+Maintainer: NoisyFlake <support@noisyflake.com>
+Installed-Size: 629
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet
+Filename: ./debs/com.repobvn.velvet2-roothide_2.1.2-3_iphoneos-arm64e.deb
+Size: 101616
+MD5sum: b7fbc66900916013589a80d750afbae1
+SHA1: 3b013e72cffd8e608ca6e7a4653ddd9900f0d589
+SHA256: 9374c4229f9d5bc51d6c01128f81255337a9025b394a745246fb1dd683a252ca
+SHA512: 1d7ec90e71b1a11d7e262b899e48d46d37e73adc1dc0ddb7ff6621e9d840fa2aba3bf9b5e40cdd77fbde211f83b3a98d545f6f9e97764f712b89b6fc17eb8972
+Description: Trải nghiệm thông báo có thể tùy chỉnh hoàn toàn
+Author: NoisyFlake <support@noisyflake.com>
+Name: Velvet 2 VH (Roothide)
+Depiction: https://bvnsupport.github.io/depictions/Velvet.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Velvet.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.velvet2-roothide
+Architecture: iphoneos-arm64e
 Version: 2.1.2
 Section: Tweaks
 Maintainer: Repo BVN
