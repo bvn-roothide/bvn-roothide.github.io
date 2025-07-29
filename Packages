@@ -5565,15 +5565,16 @@ Section: Tweaks
 Maintainer: NguyenASang
 Installed-Size: 792
 Provides: com.haoict.messengernoads
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 12.4)
 Conflicts: com.haoict.messengernoads
 Replaces: com.haoict.messengernoads
 Filename: ./debs/com.bvn.snmessenger-r2_2.0.0_iphoneos-arm64e.deb
-Size: 465908
-MD5sum: 15ca5e7f97738051d67830c32e94684b
-SHA1: cac037fa23717ee0a27ed101aa6328633cc9bc76
-SHA256: 89e476a2920f64fcc334b0351cd3d1f76957b20b19306446b20835049c6bc5a8
-SHA512: e490ba279357f88ce2f887148be3dd2f0a6ba07bbc44379c898b7f8310ea3c737876b3104ceeb5895c1dbee5793a89431c5afcaa7afdc8116d1d468823659fc0
+Size: 932140
+MD5sum: 1c87b1cc5de3a3e5c3defc17dcd5730d
+SHA1: d268fae9f0fdb2e9f61058ec30650773773171ed
+SHA256: 79e69b75abac6054a1455317e30b2e18215909afadc68ee49c86955ba6806914
+SHA512: 5696723d36b3bfa0c00dcdd0d1f5b32fd2bc82f8fe91a712f220bfd4ef36e14f5e036c14803441e226e5b9b0793cb759765884393e02d3d066d09e4aa22fa760
 Description: A full-featured tweak for Messenger.
 Name: SNMessenger VH(Roothide)
 Author: NguyenASang
