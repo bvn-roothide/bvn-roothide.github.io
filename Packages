@@ -351,6 +351,28 @@ Depiction: http://bvnsupport.github.io/infodeb/AIM/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/aimpro.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.aimprorooess
+Architecture: iphoneos-arm64e
+Version: 1.1.4k
+Section: Tweaks
+Maintainer: alimaulana
+Installed-Size: 5160
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 2.0), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Filename: ./debs/com.BIENVANNHAT.aimprorooess_1.1.4k_iphoneos-arm64e.deb
+Size: 5742608
+MD5sum: 581c0687a06fdec8e88cdc96b30dddc7
+SHA1: a631c62eeae40497f94431566080854c83a2ce2b
+SHA256: 98949ceb21e3f602c7775ed728311e961dced7a9ba28955b5f7bbf9e0dbbd159
+SHA512: 945fd4b94a652cd28f7c45496e267282070143f0958a52ceba88b8d9e7db086bf9c1bb3b6773c96c5895e9c76ecfa91f73d5c81e65bc70c04b5970fbbcf251df
+Description: iOS 16 Style Time & Date Lockscreen
+Name: AIM Pro VH(Roothide)
+Author: alimaulana
+Depiction: http://bvnsupport.github.io/infodeb/AIM/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/aimpro.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.batterypercent
 Architecture: iphoneos-arm64e
 Version: 1.1.2
