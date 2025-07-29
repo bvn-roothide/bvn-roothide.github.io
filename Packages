@@ -5558,6 +5558,29 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/SNMessenger.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SNMessenger.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.snmessenger-r2
+Architecture: iphoneos-arm64e
+Version: 2.0.0
+Section: Tweaks
+Maintainer: NguyenASang
+Installed-Size: 792
+Provides: com.haoict.messengernoads
+Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads
+Replaces: com.haoict.messengernoads
+Filename: ./debs/com.bvn.snmessenger-r2_2.0.0_iphoneos-arm64e.deb
+Size: 465908
+MD5sum: 15ca5e7f97738051d67830c32e94684b
+SHA1: cac037fa23717ee0a27ed101aa6328633cc9bc76
+SHA256: 89e476a2920f64fcc334b0351cd3d1f76957b20b19306446b20835049c6bc5a8
+SHA512: e490ba279357f88ce2f887148be3dd2f0a6ba07bbc44379c898b7f8310ea3c737876b3104ceeb5895c1dbee5793a89431c5afcaa7afdc8116d1d468823659fc0
+Description: A full-featured tweak for Messenger.
+Name: SNMessenger VH(Roothide)
+Author: NguyenASang
+Depiction: http://bvnsupport.github.io/infodeb/Html/SNMessenger.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SNMessenger.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.sodapatch.r2
 Architecture: iphoneos-arm64e
 Version: 1.0-Roothide
