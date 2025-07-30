@@ -5630,16 +5630,16 @@ Maintainer: Rifai <icons-requests@hotmail.com>
 Installed-Size: 65137
 Depends: com.anemonetheming.anemone, com.spark.snowboard
 Filename: ./debs/com.bvn.solstice-r2_3.0.7K_iphoneos-arm64e.deb
-Size: 61699428
-MD5sum: e05dafcdb1113347d588935df22fc17d
-SHA1: 5b5982362c4cecf622bbfe1722815fe78a033bde
-SHA256: b304d379bb20b5692e543c4ce1533cdd3b46d00cb09c7e1ecd9a3dea8f33494c
-SHA512: 4e6a80bf2974ad1d102694e7d33bdc95227487b092adafae332952bc7996344e3419f3e566462c92abd006bb04485196ed115b437a09c9323bd88018da36b271
+Size: 61699430
+MD5sum: 34dcbd5599f29a4d49b8acdc053b13a3
+SHA1: e5eb6e803d8da4c2b8b2883b1413d611c4e4b041
+SHA256: d3d2d8b306c295b0bf7aa72bbe146f549019a122920df10f03ba59f5e205bbad
+SHA512: 434cea84b735b903ab9a2637ba8ddcae6e38bc7c2bc8da98413b408ffd322b6ad9f4ea2b6598fe3d6a435d6282a3f44a9034c42e9a037e0b93abc0c2bce1e789
 Description: Solstice Theme 3650 icons
 Author: Rifai <icons-requests@hotmail.com>
 Name: Solstice Theme
 Depiction: http://bvnsupport.github.io/infodeb/Html/solstice.html
- SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 
 Package: com.bvn.splitviewpro-roothide
