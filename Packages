@@ -5622,6 +5622,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 Author: Rifai
 
+Package: com.bvn.solstice-r2
+Architecture: iphoneos-arm64e
+Version: 3.0.7K
+Section: Themes Roothide
+Maintainer: Rifai <icons-requests@hotmail.com>
+Installed-Size: 65137
+Depends: com.anemonetheming.anemone, com.spark.snowboard
+Filename: ./debs/com.bvn.solstice-r2_3.0.7K_iphoneos-arm64e.deb
+Size: 61699428
+MD5sum: e05dafcdb1113347d588935df22fc17d
+SHA1: 5b5982362c4cecf622bbfe1722815fe78a033bde
+SHA256: b304d379bb20b5692e543c4ce1533cdd3b46d00cb09c7e1ecd9a3dea8f33494c
+SHA512: 4e6a80bf2974ad1d102694e7d33bdc95227487b092adafae332952bc7996344e3419f3e566462c92abd006bb04485196ed115b437a09c9323bd88018da36b271
+Description: Solstice Theme 3650 icons
+Author: Rifai <icons-requests@hotmail.com>
+Name: Solstice Theme
+Depiction: http://bvnsupport.github.io/infodeb/Html/solstice.html
+ SileoDepiction: https://bvnsupport.github.io/sileodepictions/solstice.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
+
 Package: com.bvn.splitviewpro-roothide
 Architecture: iphoneos-arm64e
 Version: 0.0.3-1-19
