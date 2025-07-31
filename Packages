@@ -5628,13 +5628,12 @@ Version: 3.0.7K
 Section: Themes Roothide
 Maintainer: Rifai <icons-requests@hotmail.com>
 Installed-Size: 65137
-Depends: com.anemonetheming.anemone, com.spark.snowboard
 Filename: ./debs/com.bvn.solstice-r2_3.0.7K_iphoneos-arm64e.deb
-Size: 61699430
-MD5sum: 34dcbd5599f29a4d49b8acdc053b13a3
-SHA1: e5eb6e803d8da4c2b8b2883b1413d611c4e4b041
-SHA256: d3d2d8b306c295b0bf7aa72bbe146f549019a122920df10f03ba59f5e205bbad
-SHA512: 434cea84b735b903ab9a2637ba8ddcae6e38bc7c2bc8da98413b408ffd322b6ad9f4ea2b6598fe3d6a435d6282a3f44a9034c42e9a037e0b93abc0c2bce1e789
+Size: 61699398
+MD5sum: c61b19d3c7bc6a05a4484e59f119969e
+SHA1: 43e8af5af0b10b12fb8b9ebe4bb636d9f9b445ee
+SHA256: f98cdd5ebe42288fba807550cf2690c08b87ba3377ca02a3f1f556429a6088a5
+SHA512: ad72b32001f235967d80ebeb3df0aeceeb0d5f70e5b291798e9585e3b23e2a91ecc685e0ef6fd79e09885db0672936cdf2a04d4f40fce1588202a056ac412af8
 Description: Solstice Theme 3650 icons
 Author: Rifai <icons-requests@hotmail.com>
 Name: Solstice Theme
