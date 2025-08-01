@@ -3310,6 +3310,25 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Tags: compatible_min::ios14.0, compatible_max::ios16.6.1
 Author: Alexman <bbscydia@gmail.com>
 
+Package: com.bvn.foodie.r2
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Apps Crack
+Maintainer: Bvn Repo
+Installed-Size: 2952
+Filename: ./debs/com.bvn.foodie.r2_1.0_iphoneos-arm64e.deb
+Size: 449664
+MD5sum: cfe4f8f2de9a9e183daf333cf4f6308e
+SHA1: 9dc18b3b5e0d0f02ec168e3a93a8dc2f6615f113
+SHA256: 5f7d36b40e8f0a3b0ee6104a00f105810e45d42bf7ff8a1e3f8cf955b662cf3e
+SHA512: 893acb03e3231d11974d1d067ec4b0f97787649cdfbab7dc0c99378a05697d0d48505b2cb568967f8ea0fcacf6370d4755a2e33d8d9e168da512444af3f0bbe6
+Description: Cracked By Blatant
+Name: Foodie Pro
+Author: blatant
+Depiction: http://bvnsupport.github.io/infodeb/Html/Foodie.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Foodie.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
 Package: com.bvn.fouad.cr
 Architecture: iphoneos-arm64e
 Version: 1.0.1
