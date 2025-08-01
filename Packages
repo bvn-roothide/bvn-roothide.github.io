@@ -4417,6 +4417,27 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Name: Lynx 2 VH(Roothide)
 Author: MTAC
 
+Package: com.bvn.marie-r2
+Architecture: iphoneos-arm64e
+Version: 1.0.6
+Section: Tweaks
+Maintainer: BvN
+Installed-Size: 940
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.bvn.marie-r2_1.0.6_iphoneos-arm64e.deb
+Size: 556148
+MD5sum: 3a5a1cf2e8b240396d0eb2b950e15af0
+SHA1: ecbafbd4474b4a05286e40b9f8a6d4507ee43a48
+SHA256: 32b89456a2096293502889ae6883e5dfab291186ec81b6130d14fa0bf68378f8
+SHA512: 56725107c922082a2aa4edf2103698f0c141569887fcf9554c8a0e786b157b85be1d3848d8ec4b72e31ab66835865dbf5289d3f31053f25473b2fe9d2051a3a8
+Description: Đặt hình ảnh cho trình quay số, mật mã hoặc nền bảng chia sẻ một cách nhanh chóng
+Name: Marie VH(Roothide)
+Author: Luki
+Depiction: http://bvnsupport.github.io/infodeb/Marie/?p=info
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Marie.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.messnoads
 Architecture: iphoneos-arm64e
 Version: 2.0
@@ -5581,6 +5602,27 @@ Author: NguyenASang
 Depiction: http://bvnsupport.github.io/infodeb/Html/SNMessenger.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/SNMessenger.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.snowai.r2
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Apps Crack
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2856
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.snowai.r2_1.0_iphoneos-arm64e.deb
+Size: 441940
+MD5sum: 9e46be2a83e27d2459bc3719985f4245
+SHA1: 518b59501a7c08e0860b51a55feddeb06a620951
+SHA256: a8c287ad5a34dd2cd2089a3252c7c3543dbdae1ec7064a5ebdf9afb559e4e5e0
+SHA512: 301aa045f70419dcb90898ccec5a150b8f1e96661c03ab53f138e0c3975f47ee38d99330b4ae26f5d3f31d45843f4ff7be973d9af2d71a9f1f90636ae0303b13
+Description: Cracked By Blatant
+Name: SNOW AI VIP
+Author: blatant
+Depiction: http://bvnsupport.github.io/infodeb/Html/SNOW.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/SNOW.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
 Package: com.bvn.sodapatch.r2
 Architecture: iphoneos-arm64e
