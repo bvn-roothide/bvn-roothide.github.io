@@ -2301,6 +2301,29 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tienichh1.png
 
 Package: com.bvn.cc26
 Architecture: iphoneos-arm64e
+Version: 0.4.9.10
+Section: Tweaks
+Maintainer: Bvn
+Installed-Size: 204
+Provides: com.cureux.cc26
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debs/com.bvn.cc26_0.4.9.10_iphoneos-arm64e.deb
+Size: 62110
+MD5sum: b721ffebc1ed8006432ccc5d9161cb58
+SHA1: b28711601c9c297f4aceeb15e7eef66c0bb0ae22
+SHA256: b5c29b00f90224598a7f0373042a29c94d88ae8b09b6f366315ddf5278652c62
+SHA512: 68ff936a4084e392d4f6276fc4515ea021dd00f44f733ef0ff390607c55bb3a7df63a8bbb472fedd9eca890b68f6a82c13e6f417aa764939d0837d5fce51c9cf
+Description: A sleek reimagination of Control Center
+Name: CC26 (Roothide)
+Author: therealhoodboy
+Depiction: http://bvnsupport.github.io/infodeb/Html/CC26.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/CC26.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.bvn.cc26
+Architecture: iphoneos-arm64e
 Version: 0.4.9.9b
 Section: Tweaks
 Maintainer: BVN Repo
