@@ -6484,6 +6484,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.ytlite-r2
+Architecture: iphoneos-arm64e
+Version: 5.2b3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16696
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.ytlite-r2_5.2b3_iphoneos-arm64e.deb
+Size: 8401892
+MD5sum: 5d2fc3ad3ad82a44fdac241680b102bd
+SHA1: 95ff0e9a7c81523f57689ac5806e4223f3c73006
+SHA256: 9d16020ab171ad0ca9b71042847609e175d7e037bde9d38a628ec73010cdb5c1
+SHA512: 784ec0ad5ee1cea55229e347751dced03915a304495f14a214d1c10ac239e903c25640c733e3a9f0dc91d8e03c8c28443adefd49668739dcd39081fbe6e0b583
+Description: Lightweight YouTube Enhancer
+Name: Youtube Plus (Roothide)
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.ytx
 Architecture: iphoneos-arm64e
 Version: 1.7.15
