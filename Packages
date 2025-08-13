@@ -4210,6 +4210,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Looky.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Looky.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.looky
+Architecture: iphoneos-arm64e
+Version: 1.0.4k
+Section: Tweaks
+Maintainer: EllaSP
+Installed-Size: 456
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.bvn.looky_1.0.4k_iphoneos-arm64e.deb
+Size: 171022
+MD5sum: 2fec4fec2f5ac4f77f92ba3737c5e675
+SHA1: 131f7166a39de303bbb1ab7081531d6b525260be
+SHA256: 2f00848a91c827f2ff444c8d0655c141c9efa24123a1a4f0ff80442a4de121cf
+SHA512: 1dbb205fcc710cea46649abb066e7c679ac87724468c5419e098f082c4604b8775866f77b4b94e3acbd1c6680dabf9f3885eb3368f86a68e239f2689be91a9a3
+Description: Effortless Elegant lock screen notification experience!
+Name: Looky VH(Roothide)
+Author: EllaSP
+Depiction: http://bvnsupport.github.io/infodeb/Html/Looky.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Looky.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.lunartime-roothide
 Architecture: iphoneos-arm64e
 Version: 1.0.1-1
