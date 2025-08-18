@@ -8865,6 +8865,28 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Rocket For Instagram(Roothide)
 Author: Majd Alfhaily
 
+Package: vn.bvn.rocket-ig-roothide
+Architecture: iphoneos-arm64e
+Version: 3.8.36k
+Priority: optional
+Section: Tweaks
+Maintainer: Rocket App <support@getrocketapp.io>
+Installed-Size: 6684
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs/vn.bvn.rocket-ig-roothide_3.8.36k_iphoneos-arm64e.deb
+Size: 1475636
+MD5sum: 010d30d531cb2b0a1b4bd3faab9edef7
+SHA1: ad1f032726848f4be408401603353785ab882c7a
+SHA256: b3747e38a09b4cb7126efae6393b7cb85848cadd341e091c8143bb5eaeaeac0d
+SHA512: 1d9116303a7b788f72e875d2a4a63b0ea4816c36bf2b01376b18a1509117a6495a068b5446bead6b4e40a88c3e9b39e32b873bcf231910da442119c96cd1fed4
+Description: Save posts and view stories anonymously and do much more
+Name: Rocket Cho Instagram (Roothide)
+Author: Rocket App
+Depiction: http://bvnsupport.github.io/infodeb/Html/rocket.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/rocket.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: vn.bvn.tinge-roothide
 Architecture: iphoneos-arm64e
 Version: 1.0
