@@ -1498,6 +1498,24 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/LiquidGlAss.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/LiquidGlAss.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 
+Package: com.bvn.LiquidGlAss
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Themes Roothide
+Maintainer: Bvn Repo
+Filename: ./debs/com.bvn.LiquidGlAss_0.0.2_iphoneos-arm64e.deb
+Size: 8029398
+MD5sum: 927d854867cfc1a1af482f4d44744769
+SHA1: 6ce7fcf22a30d9c8098710b458810a3634643fa6
+SHA256: 5c6438cd5a104c10443cfb5095859874436b4032f4b87965a9e0cd887b6546bc
+SHA512: 4f1d1f2a2352d1e9264f3cce56c767a049b9fcd595e28c1940744040cdcaf9066f04b1d9f3765cefc595695660f25b9634869d28da3fd62bbd2c53d5e6329b61
+Description: Chủ đề Liquid GlAss
+Name: Liquid GlAss Theme
+Author: Ông Nguyên
+Depiction: http://bvnsupport.github.io/infodeb/Html/LiquidGlAss.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/LiquidGlAss.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
+
 Package: com.bvn.MediaConverter.r2
 Architecture: iphoneos-arm64e
 Version: 1.0.0
