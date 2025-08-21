@@ -4210,48 +4210,6 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.looky
 Architecture: iphoneos-arm64e
-Version: 1.0.3k
-Section: Tweaks
-Maintainer: BVN
-Installed-Size: 456
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: ./debs/com.bvn.looky_1.0.3k_iphoneos-arm64e.deb
-Size: 170364
-MD5sum: 18437afe6d2fe04851ff5f05c48dc96e
-SHA1: cdc8d246909306a7bde713f757ea540eaefbca65
-SHA256: b2d402630ae62e3499a6ffb1ec2229f992d5185b7506119c6eaacb8eba82d694
-SHA512: d8d8d949166a2075c7330bbb041286c1a7a6cafeb9fc667fcc81ebada0eeb3a09b2f1acfb8715b4147dcbcb06aa223be8854e7a3dbd8ba81e34e7b1d5872a2c5
-Description: Effortless Elegant lock screen notification experience!
-Name: Looky VH(Roothide)
-Author: EllaSP
-Depiction: http://bvnsupport.github.io/infodeb/Html/Looky.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Looky.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.looky
-Architecture: iphoneos-arm64e
-Version: 1.0.4k
-Section: Tweaks
-Maintainer: EllaSP
-Installed-Size: 456
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: ./debs/com.bvn.looky_1.0.4k_iphoneos-arm64e.deb
-Size: 171022
-MD5sum: 2fec4fec2f5ac4f77f92ba3737c5e675
-SHA1: 131f7166a39de303bbb1ab7081531d6b525260be
-SHA256: 2f00848a91c827f2ff444c8d0655c141c9efa24123a1a4f0ff80442a4de121cf
-SHA512: 1dbb205fcc710cea46649abb066e7c679ac87724468c5419e098f082c4604b8775866f77b4b94e3acbd1c6680dabf9f3885eb3368f86a68e239f2689be91a9a3
-Description: Effortless Elegant lock screen notification experience!
-Name: Looky VH(Roothide)
-Author: EllaSP
-Depiction: http://bvnsupport.github.io/infodeb/Html/Looky.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Looky.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.looky
-Architecture: iphoneos-arm64e
 Version: 1.0.5k
 Section: Tweaks
 Maintainer: Bvn
@@ -6549,46 +6507,6 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.ytlite-r2
 Architecture: iphoneos-arm64e
-Version: 5.2b1
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 16252
-Depends: mobilesubstrate
-Filename: ./debs/com.bvn.ytlite-r2_5.2b1_iphoneos-arm64e.deb
-Size: 6049920
-MD5sum: 9085eb4ce8c493106f950dbc7b2f7b5e
-SHA1: e6e5910b14cc452fc0209b46bb99eab3414a5867
-SHA256: 10f0f56ed704fa7c2e3e507a6311e1074a5cb352b0566edb35776b79016ed021
-SHA512: f4922e05212dbeb7978e51547d09e058adfd4e29aa32bccc5f899d3fdaf5ae488f2a0f8556afde9945432780f51d34e2f3444b1601588fba2d302f973c0be1c4
-Description: Lightweight YouTube Enhancer
-Name: Youtube Plus (Roothide)
-Author: dvntm
-Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.ytlite-r2
-Architecture: iphoneos-arm64e
-Version: 5.2b2
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 16696
-Depends: mobilesubstrate
-Filename: ./debs/com.bvn.ytlite-r2_5.2b2_iphoneos-arm64e.deb
-Size: 8401518
-MD5sum: 3ec92eaba0e577658044dfa713a44e44
-SHA1: 6960d5f42e5d5493fa8358a880379ddf28fd39c7
-SHA256: 15382541372792d94039b034db8a50dc6905a29520148b346832eea0af8ba425
-SHA512: f2cdbda9b5ffcd74245987180fcd7b95e91f359a232b3bad275b4ea49dc3e1ee7fd1a125c6d2c3fa6d2d7d70b9099f76966499d8950537af127b819ba11aa702
-Description: Lightweight YouTube Enhancer
-Name: Youtube Plus (Roothide)
-Author: dvntm
-Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.ytlite-r2
-Architecture: iphoneos-arm64e
 Version: 5.2b3
 Section: Tweaks
 Maintainer: dvntm
@@ -6605,27 +6523,6 @@ Name: Youtube Plus (Roothide)
 Author: dvntm
 Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-
-Package: com.bvn.ytx
-Architecture: iphoneos-arm64e
-Version: 1.7.15
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 72
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
-Filename: ./debs/com.bvn.ytx_1.7.15_iphoneos-arm64e.deb
-Size: 13206
-MD5sum: 7ed480fff7264050d766d02a11cd424d
-SHA1: 76dc6a150905d0f6599124fe128c11db3cedbee7
-SHA256: 1f85562946e13633e734823631634ffb046ab7d839314d03cc94e4d61091b46e
-SHA512: d0e52ed947dbd763ba197edb8c2283a0abb179e06483d1590628c47d58a9f68490a1e245d114a5ef74f4e6f85729316e8628c322eaec4efe8c06f016cedd5fee
-Description: A YouTube improvement tweak.
-Name: YouTube X (Roothide)
-Author: PoomSmart
-Depiction: https://bvnsupport.github.io/depictions/ytx.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/ytx.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.ytx
