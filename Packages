@@ -1539,6 +1539,25 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Meizu.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Meizu.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
 
+Package: com.bvn.Os26.dark.r2
+Architecture: iphoneos-arm64e
+Version: 0.1~beta
+Section: Themes Roothide
+Maintainer: Bvn
+Installed-Size: 152
+Filename: ./debs/com.bvn.Os26.dark.r2_0.1~beta_iphoneos-arm64e.deb
+Size: 6292664
+MD5sum: fdbce01816c121592efa9bd135848aee
+SHA1: 0aa596ef88f07e76753c21745a0304c6a654c614
+SHA256: a4f4df1ebfff237579f85bf4d2ec522a610d67f787ba1b846b4aada33858ba8e
+SHA512: 382984c14b0ea0576a1055b6d61e3912d7a9c49b687d4d4c1322e6fef26b4ba2d5e4e6c62f8c3cf419ca5eace5541e92fa667d3267170df7e10528df1426d78f
+Description: Chủ đề OS26 Dark
+Depiction: http://bvnsupport.github.io/infodeb/Html/OS26.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/OS26.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/chudee1.png
+Name: OS26 Dark (Roothide)
+Author: Nguyên Pro
+
 Package: com.bvn.Photoleap.r2
 Architecture: iphoneos-arm64e
 Version: 1.0
