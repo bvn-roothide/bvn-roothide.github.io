@@ -5452,18 +5452,18 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/SafariBlocker.json
 
 Package: com.bvn.safarix.r2
 Architecture: iphoneos-arm64e
-Version: 1.9.9K
+Version: 1.9.9.2k
 Section: Tweaks
-Maintainer: Bvn Repo
+Maintainer: 0xkuj
 Installed-Size: 928
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.bvn.safarix.r2_1.9.9K_iphoneos-arm64e.deb
-Size: 329644
-MD5sum: a42b438a9af6040de035094b49c8262c
-SHA1: f3689d841c277285b9703ba41ccb867a966c789b
-SHA256: c2804e569a655e666249e79904458486e24808149843082c13392c20a75e4cbc
-SHA512: 8cafa33ebc8448cdf3427ed9ee01084f24dfdd25d55ad66a2b7de364287b9fafc6dd14edd9ead161090c97cb22ff987d1d51ec1e91228c372803557d713cc20d
+Filename: ./debs/com.bvn.safarix.r2_1.9.9.2k_iphoneos-arm64e.deb
+Size: 238728
+MD5sum: a3b7a3e980663aa3da78185dbd21a3fe
+SHA1: c1c4c3fdfbda050e10316de9a5c25dba34db7421
+SHA256: 27d30008e1bfae449ce2498c58bcc649923b18b71d4e4133183e6d3d5e045aa8
+SHA512: dc974d45bd68050ee188b304f11bb37b59b3720096e18f6ac0bafe247bc0a0a7cf641493ba9ca0a3b1e2b03748114ca77d2d649313887017206e2f638a09a5f6
 Description: Safari Essential Features
 Name: SafariX VH(Roothide)
 Author: 0xkuj
