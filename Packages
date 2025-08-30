@@ -5410,24 +5410,23 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/replaced.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/replaced.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
-Package: com.bvn.roundfont
+Package: com.bvn.roundfont.apple
 Architecture: iphoneos-arm64e
 Version: 1.0
 Section: Fonts
-Maintainer: Hitori
-Depends: firmware (>=16.0)
-Filename: ./debs/com.bvn.roundfont_1.0_iphoneos-arm64e.deb
-Size: 11109666
-MD5sum: e7c0dca942710cf6adf57e7c69b7db1f
-SHA1: 76733601e84249416be5e1bf367a0a0ef0e675ce
-SHA256: 0618b8bf8de01021836e2399150865d273395d4d29ecc847326d6e1e626d7dd6
-SHA512: da177b381d4424baa51017a8eadc8a4b1bd561b2c1bfb4541fa3d1cbfcaf0159c8bdf1a9b5d126d466154c9b79a773369682335ac7c5857234002505f62100fb
-Description:
-Name: Apple Round Font iOS 16
+Maintainer: hitori
+Filename: ./debs/com.bvn.roundfont.apple_1.0_iphoneos-arm64e.deb
+Size: 11109636
+MD5sum: 75a5147c4e817705bfa450cdcc977281
+SHA1: 4cb55a880276a590d82f69db374bb1afcab74104
+SHA256: 3808f675e01cca328b42a8f12a16fd0cfb5a7b06b196fb5ea882bf68f7e214b3
+SHA512: 1117fc7eced4efd797b996d6b535966db9bdf32d1581238ce88133d251ba270d8535587ef31968949c9908009c01390e3086510141af277cebe07710169067f4
+Description: Apple Round Font iOS 16
+Name: Apple Round Font (16+)
 Depiction: http://bvnsupport.github.io/infodeb/Html/Apple.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Apple.json
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Author: Hitori
+Author: hitori
 
 Package: com.bvn.roundprefs.r2
 Architecture: iphoneos-arm64e
