@@ -3173,6 +3173,27 @@ Name: FixSet (Roothide)
 Author: @bswbw
 Sponsor: gblw
 
+Package: com.bvn.floaty.r2
+Architecture: iphoneos-arm64e
+Version: 1.2k
+Section: Tweaks
+Maintainer: Bvn Repo
+Installed-Size: 512
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.bvn.floaty.r2_1.2k_iphoneos-arm64e.deb
+Size: 61636
+MD5sum: 78731f82acf590ac0b968e8d4bc49e86
+SHA1: 1f69baa2351b1cbda41b2d20aabdbfc1008c00e7
+SHA256: 5fdda0a62cc550aee0679a05889352b3cc76f8a893b203ee8f3f254c61909037
+SHA512: 8d4cd5a3c2f994537a47c73463a28473a6c8ffcab3b5fd4418557ba48417d8a0e8a2508aa9b4dec3e0b70c1624e435f7795ba662b19dc0a0fea4559294961b5f
+Description: Your Banners, Reimagined!
+Name: Floaty VH(Roothide)
+Author: EllaSP
+Depiction: http://bvnsupport.github.io/infodeb/Html/Floaty.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Floaty.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.flopatchr2
 Architecture: iphoneos-arm64e
 Version: 1
