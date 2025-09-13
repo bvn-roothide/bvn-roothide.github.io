@@ -1,0 +1,387 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>TrollFoos-File Tiêm</title>
+<style>
+  body {
+    font-family: "Segoe UI", Roboto, sans-serif;
+    background: linear-gradient(135deg, #0f172a, #1e293b);
+    color: #e2e8f0;
+    margin: 0;
+  }
+  header {
+    text-align: center;
+    padding: 30px 16px 10px;
+    background: rgba(15,23,42,0.9);
+    box-shadow: 0 2px 10px rgba(0,0,0,0.4);
+  }
+  header h1 {
+    margin: 0;
+    font-size: 28px;
+    color: #38bdf8;
+  }
+  header p {
+    margin: 8px 0 0;
+    color: #94a3b8;
+  }
+  .marquee {
+    margin-top: 10px;
+    color: #facc15;
+    font-weight: bold;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  .marquee span {
+    display: inline-block;
+    padding-left: 100%;
+    animation: marquee 12s linear infinite;
+  }
+  @keyframes marquee {
+    0%   { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+  }
+
+  main {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 0 16px;
+  }
+
+  /* ô tìm kiếm */
+  .search-box {
+    text-align: center;
+    margin-bottom: 24px;
+  }
+  .search-box input {
+    width: 220px;              
+    padding: 6px 12px;
+    border-radius: 6px;
+    border: none;
+    outline: none;
+    font-size: 16px;            /* fix Safari zoom */
+    background: rgba(255,255,255,0.1);
+    color: #e2e8f0;
+    box-shadow: 0 0 6px rgba(56,189,248,0.4);
+    box-sizing: border-box;     /* chống to ra khi focus */
+  }
+  .search-box input::placeholder {
+    color: #94a3b8;
+  }
+
+  .file, .contact {
+    position: relative;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 24px;
+    overflow: hidden;
+    background: rgba(30,41,59,0.85);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.5);
+    transition: transform 0.2s ease;
+  }
+  .file:hover, .contact:hover {
+    transform: translateY(-4px);
+  }
+
+  /* LED 7 màu viền */
+  .file::before, .contact::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    padding: 2px;
+    border-radius: 12px;
+    background: linear-gradient(90deg, red, orange, yellow, green, cyan, blue, violet, red);
+    background-size: 300% 300%;
+    -webkit-mask:
+      linear-gradient(#000 0 0) content-box, 
+      linear-gradient(#000 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    animation: ledmove 6s linear infinite;
+    pointer-events: none;
+  }
+  @keyframes ledmove {
+    0% { background-position: 0% 50%; }
+    100% { background-position: 300% 50%; }
+  }
+
+  .file h2, .contact h2 {
+    margin: 0 0 10px;
+    font-size: 20px;
+    color: #f8fafc;
+    text-align: center;
+  }
+
+  /* Mô tả dạng danh sách, căn giữa + dấu chấm */
+  .desc {
+    color: #cbd5e1;
+    font-size: 15px;
+    line-height: 1.6;
+    margin: 0 0 16px;
+    text-align: center;
+    list-style-position: inside;
+    padding: 0;
+  }
+  .desc li {
+    margin-bottom: 6px;
+  }
+
+  .actions {
+    text-align: center;
+  }
+  .btn {
+    display: inline-block;
+    padding: 12px 26px;
+    border-radius: 30px;
+    background: linear-gradient(135deg, #38bdf8, #3b82f6);
+    color: #0f172a;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 15px;
+    letter-spacing: 0.3px;
+    box-shadow: 0 4px 14px rgba(56,189,248,0.6);
+    transition: all 0.25s ease;
+  }
+  .btn:hover {
+    background: linear-gradient(135deg, #3b82f6, #2563eb);
+    box-shadow: 0 6px 18px rgba(37,99,235,0.7);
+    transform: scale(1.05);
+  }
+  .meta {
+    margin-top: 10px;
+    font-size: 13px;
+    color: #94a3b8;
+    text-align: center;
+  }
+
+  footer {
+    text-align: center;
+    padding: 20px;
+    color: #64748b;
+    font-size: 13px;
+    margin-top: 40px;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>📥 Kho Dylib Free</h1>
+  <p>Kho lưu trữ Dylib Crack ứng dụng</p>
+  <div class="marquee"><span>✨ Kho lưu trữ Dylib Crack & thêm tính năng cho các ứng dụng ✨</span></div>
+</header>
+
+<main>
+  <!-- Tìm kiếm -->
+  <div class="search-box">
+    <input type="text" id="search" placeholder="🔍 Tìm kiếm nhanh..." onkeyup="searchFiles()">
+  </div>
+
+   <!-- File 0 -->
+  <div class="file">
+    <h2>TrollFools</h2>
+    <ul class="desc">
+      <li>Hỗ trợ tiêm các Dylib ,Deb vào ứng dụng</li>
+      <li>Hỗ trợ iOS14 trở lên</li>
+      <li>Cài đặt qua TrollStore</li>
+    </ul>
+    <div class="actions">
+      <a class="btn" href="https://www.mediafire.com/file/7rwfivm70j5jyhp/TrollFools_4.2-227.tipa/file" download onclick="addDownload('file0')">⬇️ Tải xuống</a>
+    </div>
+    <div class="meta">Lượt tải: <span id="file0">0</span></div>
+  </div>
+
+  <!-- File 1 -->
+  <div class="file">
+    <h2>WALeagacy</h2>
+    <ul class="desc">
+      <li>Hỗ trợ iOS 14+</li>
+      <li>Sửa lỗi không đăng nhập được whatsApp trên iOS14</li>
+      <li>Tiêm file qua TrollFools</li>
+    </ul>
+    <div class="actions">
+      <a class="btn" href="https://www.mediafire.com/file/fkcy6puk4d3gxuq/WALegacy.zip/file" download onclick="addDownload('file1')">⬇️ Tải xuống</a>
+    </div>
+    <div class="meta">Lượt tải: <span id="file1">0</span></div>
+  </div>
+
+  <!-- File 2 -->
+  <div class="file">
+    <h2>Truecaller VIP</h2>
+    <ul class="desc">
+      <li>Mở khoá tính năng VIP cho ứng dụng Truecaller</li>
+      <li>Tiêm file qua TrollFools</li>
+      <li>Hỗ trợ iOS14 trở lên</li>
+    </ul>
+    <div class="actions">
+      <a class="btn" href="https://www.mediafire.com/file/lyk8dc29edr0mqi/truecall_unlock.zip/file" download onclick="addDownload('file2')">⬇️ Tải xuống</a>
+    </div>
+    <div class="meta">Lượt tải: <span id="file2">0</span></div>
+  </div>
+ 
+  <!-- File 3 -->
+  <div class="file">
+    <h2>Youtube Plus</h2>
+    <ul class="desc">
+      <li>Bổ sung các tính năng hữu ích cho Youtube</li>
+      <li>Chặn quảng cáo&phát lại nền.v.v</li>
+      <li>Hỗ trợ iOS14 trở lên</li>
+    </ul>
+    <div class="actions">
+      <a class="btn" href="https://www.mediafire.com/file/tyh403w1hkyld0j/Youtube_Plus_5.2b3.zip/file" download onclick="addDownload('file3')">⬇️ Tải xuống</a>
+    </div>
+    <div class="meta">Lượt tải: <span id="file3">0</span></div>
+  </div>
+   
+    <!-- File 4 -->
+  <div class="file">
+    <h2>Capcut Pro</h2>
+    <ul class="desc">
+      <li>Mở khoá tính năng Pro cho Capcut</li>
+      <li>Tiêm file qua TrollFools</li>
+      <li>Hỗ trợ iOS14 trở lên</li>
+      <li>Cre:Huy Nguyen</li>
+    </ul>
+    <div class="actions">
+      <a class="btn" href="https://www.mediafire.com/file/jjt2mdzvfg11mhp/capcutpro.dylib/file" download onclick="addDownload('file4')">⬇️ Tải xuống</a>
+    </div>
+    <div class="meta">Lượt tải: <span id="file4">0</span></div>
+  </div>
+  
+    <!-- File 5 -->
+  <div class="file">
+    <h2>Foodie Pro</h2>
+    <ul class="desc">
+      <li>Mở khoá tính năng Pro cho Foodie</li>
+      <li>Tiêm file qua TrollFools</li>
+      <li>Hỗ trợ phiên bản mới nhất</li>
+    </ul>
+    <div class="actions">
+      <a class="btn" href="https://www.mediafire.com/file/bc01xqdyfzpfnxw/Foodie_Unlock_Pro.zip/file" download onclick="addDownload('file5')">⬇️ Tải xuống</a>
+    </div>
+    <div class="meta">Lượt tải: <span id="file5">0</span></div>
+  </div>
+  
+   <!-- File 6 -->
+  <div class="file">
+    <h2>Snow AI VIP</h2>
+    <ul class="desc">
+      <li>Mở khoá tính năng VIP cho Snow AI</li>
+      <li>Tiêm file qua TrollFools</li>
+      <li>Hỗ trợ phiên bản mới nhất</li>
+    </ul>
+    <div class="actions">
+      <a class="btn" href="https://www.mediafire.com/file/412tqd5h1gp6bhx/SNOW_AI_VIP.zip/file" download onclick="addDownload('file6')">⬇️ Tải xuống</a>
+    </div>
+    <div class="meta">Lượt tải: <span id="file6">0</span></div>
+  </div>
+
+   <!-- File 7 -->
+  <div class="file">
+    <h2>Glow Cho Facebook</h2>
+    <ul class="desc">
+      <li>Bổ dung các tính năng hữu ích cho Facebook</li>
+      <li>Chặn quảng cáo & Tải Video</li>
+      <li>Còn rất nhiều các tính năng khác b có thể xem ở cài đặt</li>
+      <li>Tiêm File qua TrollFools</li>
+      <li>Hỗ trợ iOS 14 trở lên</li>
+    </ul>
+    <div class="actions">
+      <a class="btn" href="https://www.mediafire.com/file/cg7hxphiax9rc9i/Glow_Facebook_v1.3.zip/file" download onclick="addDownload('file7')">⬇️ Tải xuống</a>
+    </div>
+    <div class="meta">Lượt tải: <span id="file7">0</span></div>
+  </div>
+
+     <!-- File 8 -->
+  <div class="file">
+    <h2>Flow Cho Messenger</h2>
+    <ul class="desc">
+      <li>Bổ dung các tính năng hữu ích cho Messenger</li>
+      <li>Chặn quảng cáo & Tắt đã xem tin nhắn</li>
+      <li>Còn rất nhiều các tính năng khác b có thể xem ở cài đặt</li>
+      <li>Tiêm File qua TrollFools</li>
+      <li>Hỗ trợ iOS 14 trở lên</li>
+    </ul>
+    <div class="actions">
+      <a class="btn" href="https://www.mediafire.com/file/53ll4t86y2ds30u/Flow_Messenger.zip/file" download onclick="addDownload('file8')">⬇️ Tải xuống</a>
+    </div>
+    <div class="meta">Lượt tải: <span id="file8">0</span></div>
+  </div>
+
+   <!-- File 9 -->
+  <div class="file">
+    <h2>BHTiktok++</h2>
+    <ul class="desc">
+      <li>Bổ dung các tính năng hữu ích cho Tiktok</li>
+      <li>Chặn quảng cáo & Tải xuống Video,hình ảnh</li>
+      <li>Còn rất nhiều các tính năng khác b có thể xem ở cài đặt</li>
+      <li>Tiêm File qua TrollFools</li>
+      <li>Hỗ trợ iOS 14 trở lên</li>
+    </ul>
+    <div class="actions">
+      <a class="btn" href="https://www.mediafire.com/file/cy2818h89sjqp1v/bhtiktok++.zip/file" download onclick="addDownload('file9')">⬇️ Tải xuống</a>
+    </div>
+    <div class="meta">Lượt tải: <span id="file9">0</span></div>
+  </div>
+
+   <!-- File 10 -->
+  <div class="file">
+    <h2>Locket Gold</h2>
+    <ul class="desc">
+      <li>Mở khoá tính năng Gold cho Locket</li>
+      <li>Hỗ trợ iOS 14 trở lên</li>
+      <li>Tiêm File qua TrollFools</li>
+    </ul>
+    <div class="actions">
+      <a class="btn" href="https://www.mediafire.com/file/7x09fyf3kvurslv/locketgold_New_update.zip/file" download onclick="addDownload('file10')">⬇️ Tải xuống</a>
+    </div>
+    <div class="meta">Lượt tải: <span id="file10">0</span></div>
+  </div>
+<!-- File 11 -->
+  <div class="file">
+    <h2>Wink VIP</h2>
+    <ul class="desc">
+      <li>Mở khoá tính năng VIP cho ứng dụng Wink</li>
+      <li>Hỗ trọ phiên bản mới nhất</li>
+      <li>Tiêm File qua TrollFools</li>
+      <li>Hỗ trợ iOS 14 trở lên</li>
+    </ul>
+    <div class="actions">
+      <a class="btn" href="https://www.mediafire.com/file/f42pmaidp2ccjr4/WinkVIP.zip/file" download onclick="addDownload('file11')">⬇️ Tải xuống</a>
+    </div>
+    <div class="meta">Lượt tải: <span id="file11">0</span></div>
+  </div>
+  <!-- Liên hệ -->
+  <div class="contact">
+    <h2>📞 Liên hệ & Hỗ trợ</h2>
+    <ul class="desc">
+      <li>Email: <a href="mailto:repobvn@gmail.com" style="color:#38bdf8;text-decoration:none">repobvn@gmail.com</a></li>
+      <li>Telegram: <a href="https://t.me/repobvn" target="_blank" style="color:#38bdf8;text-decoration:none">@repobvn</a></li>
+      <li>Donate: <a href="https://bvnsupport.github.io/donate/" target="_blank" style="color:#38bdf8;text-decoration:none">Ủng hộ tôi 1 ly ☕</a></li>
+    </ul>
+  </div>
+</main>
+
+<footer>
+  Copyright © 2020-2025 By: BVN. All rights reserved.
+</footer>
+
+<script>
+  // Đếm lượt tải xuống (client-side)
+  function addDownload(id){
+    let el=document.getElementById(id);
+    el.textContent=parseInt(el.textContent)+1;
+  }
+
+  // Tìm kiếm file
+  function searchFiles(){
+    let input = document.getElementById("search").value.toLowerCase();
+    let files = document.querySelectorAll(".file");
+    files.forEach(f => {
+      let text = f.innerText.toLowerCase();
+      f.style.display = text.includes(input) ? "" : "none";
+    });
+  }
+</script>
+</body>
+</html>
