@@ -3134,6 +3134,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/FakeDualSIM.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: CydiaGeek <lucaluca86@aol.com>
 
+Package: com.bvn.fastlock.r2
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 836
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.fastlock.r2_1.0_iphoneos-arm64e.deb
+Size: 409054
+MD5sum: cf0b67a61c3a2b5b2f84c34a32ac5ef8
+SHA1: 8c7fa43a08c743ef0dde44562747c495921b2f92
+SHA256: d2bad93f5347f41148ce06a9b17d240f264fea5e1ad3413614cd0af64ebd535e
+SHA512: 2cf58286144bdfed19ddd8767e981b0b250ec0a140d2906e32625d3ce4fac27780743260b5f6e025998fc6aefb3bc618f469c01fc6eaff102b3ff5cc17919f24
+Description: Lock your screen using gestures on SpringBoard
+Name: FastLock VH(Roothide)
+Author: dvntm
+Depiction: http://bvnsupport.github.io/infodeb/Html/FastLock.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/FastLock.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.fiona-roothide
 Architecture: iphoneos-arm64e
 Version: 1.0.6R
