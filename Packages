@@ -1266,6 +1266,26 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/ChargeLimiter.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: chaoge
 
+Package: com.bvn.DoubleTap.r2
+Architecture: iphoneos-arm64e
+Version: 1.0-1+debug
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.DoubleTap.r2_1.0-1+debug_iphoneos-arm64e.deb
+Size: 8392
+MD5sum: 6344330823876b65953ef7c23d9665e4
+SHA1: c4ff25d300d4f678955f15aa597742437a41df66
+SHA256: ff470c68e3a926bc9f84287137f40adc7b803b76729675a37ed14a23ea0c1137
+SHA512: 8e71b428f196a74d4f717d40b3a3a740c27db7b48c7f4decb3105328a7b4cef2e653fc1b6b1f74b6145482b779334fec1f6c47cd8523b2ec7546cb86a8042989
+Description: Double tap to lock with haptic feedback
+Name: DoubleTap To Lock (Roothide)
+Author: BVN
+Depiction: http://bvnsupport.github.io/infodeb/Html/DoubleTap.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/DoubleTap.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.Exodar-r2
 Architecture: iphoneos-arm64e
 Version: 1.0
