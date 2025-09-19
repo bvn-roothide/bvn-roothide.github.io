@@ -6052,23 +6052,24 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvn.susudaynightswitch
 Architecture: iphoneos-arm64e
-Version: 1.0.5
+Version: 1.2
 Section: Tweaks
-Maintainer: Bvn repo
+Maintainer: Axs
+Installed-Size: 584
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/com.bvn.susudaynightswitch_1.0.5_iphoneos-arm64e.deb
-Size: 97384
-MD5sum: f31eb497a7e966c7b7522ce76fac6a39
-SHA1: 18f28506152c38e6d004e2ba0bf6b35899665f75
-SHA256: fa74c80849fb1183d0723dbac7a90b18f865908cd1e54cfb03d9817ce0b4e65f
-SHA512: 8e5a507aef8cbc416b7eb7f96f790d1ebac33efd0aa8a94c3bcd2a7b6706938f251e705f610237335d8065461f2c1d37b10616d7e8b444c3a0887cb2bf482be3
-Description: Plug-in này có cài đặt, hãy bật công tắc trong cài đặt hệ thống và Áp dụng cài đặt! Đây là những gì nó làm: Thêm một số phong cách cho công tắc của bạn với các hiệu ứng mặt trời và mặt trăng. Vui lòng xem ảnh chụp màn hình giới thiệu của plug-in để biết hiệu ứng, nó rất tốt! Các chàng trai thích làm đẹp đừng bỏ lỡ nhé! Có thể có lỗi, vui lòng tự kiểm tra!
-Name: DayNightSwitch VH(Roothide)
-Author: 苏苏
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.bvn.susudaynightswitch_1.2_iphoneos-arm64e.deb
+Size: 71924
+MD5sum: 76bee80fec83e999647731ab7eb1077d
+SHA1: 5a837b81a1d181f27b039f2eb7b24bf88cb44e94
+SHA256: cb30d5a7d8783ed141d6ff6aa4f3b1a2bda9344d5f4ec1a000bc6e37613ea6a0
+SHA512: ee3461e7e5764e4e33d9f3ce97ab8ac02726f6e21d8cbaf848c3975cb2f061f7b440565733ef286510080ca761c19952ddc097656515f8d511cc374f559e3649
+Description: Add some style to your switches
+Name: DayNightSwitch (Roothide)
 Depiction: http://bvnsupport.github.io/infodeb/Html/susudaynightswitch.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/susudaynightswitch.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: Finn Gaida
 
 Package: com.bvn.switchtheme.r2
 Architecture: iphoneos-arm64e
