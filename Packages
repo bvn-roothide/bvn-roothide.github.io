@@ -3531,6 +3531,27 @@ Description: iPhone X gestures brought to older iPhones compatible with iOS 15
 Name: GesturesXV (Roothide)
 Author: Ethan Whited
 
+Package: com.bvn.gifroothide
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: liuf <kk99588077@gmail.com>
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, oldabi
+Conflicts: com.jtis.autoscroll15, xyz.cypwn.autoscroll15
+Filename: ./debs/com.bvn.gifroothide_1.0.0_iphoneos-arm64e.deb
+Size: 61252
+MD5sum: 8a9e8dc7730b38fafe1209161a7dcea8
+SHA1: d6a0d0240d226c7d5d828ad37d4a654cbe1bd72e
+SHA256: db09b0475cbb7936757d0802307930cc4a406de6ec89018aefe66bff038f0cbb
+SHA512: 8cacf0fdb70a790bd3fff4cb39918db289658bc3725057283087d77584e6325062cc16f7b16ae096d28a8de36ddb5f31acd0dd6739a9fb58aa34b3b4ccad9a22
+Description: Thêm Gif vào dynamic island
+Name: Gif island
+Author: liuf <kk99588077@gmail.com>
+Depiction: http://bvnsupport.github.io/infodeb/Html/Gif.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Gif.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.githubweblegacycompat
 Architecture: iphoneos-arm64e
 Version: 1.0.1
