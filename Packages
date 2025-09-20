@@ -3540,13 +3540,13 @@ Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate, oldabi
 Conflicts: com.jtis.autoscroll15, xyz.cypwn.autoscroll15
 Filename: ./debs/com.bvn.gifroothide_1.0.0_iphoneos-arm64e.deb
-Size: 61252
-MD5sum: 8a9e8dc7730b38fafe1209161a7dcea8
-SHA1: d6a0d0240d226c7d5d828ad37d4a654cbe1bd72e
-SHA256: db09b0475cbb7936757d0802307930cc4a406de6ec89018aefe66bff038f0cbb
-SHA512: 8cacf0fdb70a790bd3fff4cb39918db289658bc3725057283087d77584e6325062cc16f7b16ae096d28a8de36ddb5f31acd0dd6739a9fb58aa34b3b4ccad9a22
+Size: 61256
+MD5sum: 14acebd0ca7b13688bf6652c5ff84e71
+SHA1: 94fcb220ca3f572d605a1795cefe7229bfd4cca3
+SHA256: 7910fbbb408f8668ad8ee0e269c9e62ca221034353868cb950ef341be5e05002
+SHA512: e7ddc863172c8bb37192cff20fbb6da4bd8b74c577bb21174985eb1d96dbcf97e97003a85b83db796c4d2ba21ce125becdd983ca1bd93b5991a45c9c22f1de18
 Description: Thêm Gif vào dynamic island
-Name: Gif island
+Name: Gif island (Roothide)
 Author: liuf <kk99588077@gmail.com>
 Depiction: http://bvnsupport.github.io/infodeb/Html/Gif.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Gif.json
