@@ -3533,18 +3533,18 @@ Author: Ethan Whited
 
 Package: com.bvn.gifroothide
 Architecture: iphoneos-arm64e
-Version: 1.0.0
+Version: 1.0.1
 Section: Tweaks
 Maintainer: liuf <kk99588077@gmail.com>
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate, oldabi
 Conflicts: com.jtis.autoscroll15, xyz.cypwn.autoscroll15
-Filename: ./debs/com.bvn.gifroothide_1.0.0_iphoneos-arm64e.deb
-Size: 61256
-MD5sum: 14acebd0ca7b13688bf6652c5ff84e71
-SHA1: 94fcb220ca3f572d605a1795cefe7229bfd4cca3
-SHA256: 7910fbbb408f8668ad8ee0e269c9e62ca221034353868cb950ef341be5e05002
-SHA512: e7ddc863172c8bb37192cff20fbb6da4bd8b74c577bb21174985eb1d96dbcf97e97003a85b83db796c4d2ba21ce125becdd983ca1bd93b5991a45c9c22f1de18
+Filename: ./debs/com.bvn.gifroothide_1.0.1_iphoneos-arm64e.deb
+Size: 61326
+MD5sum: 6e7ca60c95c5c3264170990db6089fec
+SHA1: 30cb0bd8c1c465672b5d04a6eb45dbe1377fa871
+SHA256: c588787f65a28d888fb135c58e0c94cd859341d728602b2220094903526dd454
+SHA512: 50fdb3ce4de0fc3531487ab3f51b0c93b245e8e5e99de2ad3b59dbf99913b67072611c9dbd95d1c0518fe8d467f52b557d5efaf97f1eeaf3363dbc9a42c20474
 Description: Thêm Gif vào dynamic island
 Name: Gif island (Roothide)
 Author: liuf <kk99588077@gmail.com>
