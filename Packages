@@ -3097,6 +3097,28 @@ Description: Hiển thị chính xác thời gian của thông báo, tin nhắn,
 Name: ExactTime VH(Roothide)
 Author: gilshahar7
 
+Package: com.bvn.exiwall.r2
+Architecture: iphoneos-arm64e
+Version: 2.1.7
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 25584
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.foxfort.foxforttools (>= 1.4.16), firmware (>= 14.0)
+Conflicts: com.p2kdev.vartaman, com.julioverne.autowall, com.spark.freshwall, com.shinvou.wallmart, com.yourepo.cydiageek.lsvibrantclockdate, ru.rj.exiwallhack, com.bvn.exiwall
+Filename: ./debs/com.bvn.exiwall.r2_2.1.7_iphoneos-arm64e.deb
+Size: 46171592
+MD5sum: 672e20eb934109efaeba084b838e92df
+SHA1: 69e3574bb3a656f78d1f3b25b377519ecd805543
+SHA256: a345f6c13a858c371073ad83dbcb4bb00a52ac62989e1caa4bfe7eff2dc1fa3a
+SHA512: 042837eda3850365c87e54b5d0bc71d5b68ac1d2b407568e2fdfd26e73ce5c54a73be31996681e6c628661a6c0e69df5c4e7a2131542d5f772d169122e9ea5a4
+Description: Depth effect for lockscreen wallpaper
+Name: Exiwall VH(Roothide)
+Author: FoxfortMobile
+Depiction: http://bvnsupport.github.io/infodeb/Html/Exiwall.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Exiwall.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.facebooknoads
 Architecture: iphoneos-arm64e
 Version: 1.2
@@ -6934,6 +6956,46 @@ SHA512: e9bf0528f553d95e2b1441b3ce72250c8ddeb76c6a1f8a2c56ee0d03c4c496a5a8ebffca
 Description: Helper tools for Foxfort tweaks
 Tag: role::developer
 Name: FoxFort Tools
+Author: FoxfortMobile
+
+Package: com.foxfort.foxforttools
+Architecture: iphoneos-arm64e
+Version: 1.4.16k
+Section: Development
+Maintainer: FoxfortMobile
+Installed-Size: 2068
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.4.10)
+Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.foxforttools, r-o-o-t-l-e-s-s-, com.r-o-o-t-l-e-s-s-.manager
+Filename: ./debs/com.foxfort.foxforttools_1.4.16k_iphoneos-arm64e.deb
+Size: 1710582
+MD5sum: 3f4d29fdb349e78b8575b9796a5e406b
+SHA1: b6ac5b43c13dd236e997b119a619345f6dfe5372
+SHA256: 3bf5319dcfa9150c496de5bb05c0893c559edcdd0217b761e976e064d5a1defc
+SHA512: 39f97c5edce0cf87497c4bcf82012221fb4be03e2f0f7b09a76efdfdfdd80bcb8df0f0ab7b6392a116b4b8774eff98debae0f3fb34f488b90a157bb31f1c28c2
+Description: Helper tools for Foxfort tweaks
+Tag: role::developer
+Name: FoxFort Tools (Roothide)
+Author: FoxfortMobile
+
+Package: com.foxfort.libfoxfortutils
+Architecture: iphoneos-arm64e
+Version: 1.4.10k
+Section: Development
+Maintainer: FoxfortMobile
+Installed-Size: 1304
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), com.opa334.libsandy
+Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.libfoxfortutils, r-o-o-t-l-e-s-s-
+Filename: ./debs/com.foxfort.libfoxfortutils_1.4.10k_iphoneos-arm64e.deb
+Size: 281100
+MD5sum: 19758141cde0b6e8c26b3a72c8a3844e
+SHA1: 89467774310f0db17cd1e01ded389a73b2b1a6d6
+SHA256: f9331291ea0524ac47e3aa1f0a0acb1f6e5d7483b8515c64eb5c093d423a67a3
+SHA512: 01f9f45ac7faf8a580dd4613f96f7785f7cc2682447dbfb239eca37afddedefadfd6a68c2640f5523ba57b637e0f825666acb0ad5ce5c7258b37064a8a88f249
+Description: library for Foxfort tweaks
+Tag: role::developer
+Name: libfoxfortutils (Roothide)
 Author: FoxfortMobile
 
 Package: com.foxfort.libfoxfortutils
