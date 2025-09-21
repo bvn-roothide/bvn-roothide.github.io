@@ -3533,21 +3533,22 @@ Author: Ethan Whited
 
 Package: com.bvn.gifroothide
 Architecture: iphoneos-arm64e
-Version: 1.0.1
+Version: 1.0.2
 Section: Tweaks
-Maintainer: liuf <kk99588077@gmail.com>
-Pre-Depends: rootless-compat (>= 0.9)
+Maintainer: Bvn
+Installed-Size: 356
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, oldabi
-Conflicts: com.jtis.autoscroll15, xyz.cypwn.autoscroll15
-Filename: ./debs/com.bvn.gifroothide_1.0.1_iphoneos-arm64e.deb
-Size: 61326
-MD5sum: 6e7ca60c95c5c3264170990db6089fec
-SHA1: 30cb0bd8c1c465672b5d04a6eb45dbe1377fa871
-SHA256: c588787f65a28d888fb135c58e0c94cd859341d728602b2220094903526dd454
-SHA512: 50fdb3ce4de0fc3531487ab3f51b0c93b245e8e5e99de2ad3b59dbf99913b67072611c9dbd95d1c0518fe8d467f52b557d5efaf97f1eeaf3363dbc9a42c20474
+Conflicts: com.bvn.Gifisland
+Filename: ./debs/com.bvn.gifroothide_1.0.2_iphoneos-arm64e.deb
+Size: 170008
+MD5sum: 52b00a6a480dac07b1a0064b95a40ae3
+SHA1: 6cb673cefc92c7af2627d26b626d00151b0fef22
+SHA256: 25eff487e5af7a19d4c3c6bd725a5261e8f131d5d14c65b11168aa2b124dabcb
+SHA512: f6f142bab22ab99bb4b98454c8d42548c8c17637d9dd009aa3a1fb0bc0de1620fc71f684f1440d8dc2d5dbb3538772f37cdac3a62ab45da1d3df37d5f7fd37f3
 Description: Thêm Gif vào dynamic island
-Name: Gif island (Roothide)
-Author: liuf <kk99588077@gmail.com>
+Name: Gif island VH(Roothide)
+Author: liuf
 Depiction: http://bvnsupport.github.io/infodeb/Html/Gif.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Gif.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
