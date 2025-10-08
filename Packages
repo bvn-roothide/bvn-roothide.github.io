@@ -98,6 +98,27 @@ Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Name: Designer VH(Roothide)
 Author: JunesiPhone
 
+Package: bvn.repo.designer-roothide
+Architecture: iphoneos-arm64e
+Version: 1.5.5k
+Section: Tweaks
+Maintainer: BVN Repo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Filename: ./debs/bvn.repo.designer-roothide_1.5.5k_iphoneos-arm64e.deb
+Size: 11567676
+MD5sum: c85ce207d0e8ed3ae6e37ba6bd0fb7b2
+SHA1: e8b5ce84b52fb56a079db38803c27c5dd0451280
+SHA256: f4d3236d3f98aa78daab144278c291d4885975db24a3b95532f224c2dfbb8ebd
+SHA512: b68885c540b731ae6dbea34384071f3421e4d52428d6af921654d30838127ca4e1793af39e1ecc779fe678817fa2d835e0e0fdea11c8d4d8d890ae2c35eb3c9d
+Description: Thiết kế bố cục cho màn hình khóa và màn hình chính
+Depiction: http://bvnsupport.github.io/infodeb/Html/designer.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/designer.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: Designer VH(Roothide)
+Author: JunesiPhone
+
 Package: bvn.vn.disableshuttersound
 Architecture: iphoneos-arm64e
 Version: 1.0
