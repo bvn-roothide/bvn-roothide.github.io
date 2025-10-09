@@ -4020,11 +4020,11 @@ Installed-Size: 440
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/com.bvn.killall.r2_1.3.1-1_iphoneos-arm64e.deb
-Size: 40332
-MD5sum: 3cd417694828c87a32ce569beaea717a
-SHA1: d41d5d3ee0d4d1477752f2889ccc464ab8be64b7
-SHA256: b68db0f3109d48b867206afe3b9a970e5856d0d220efea913cd79e51cf3ab469
-SHA512: 26293a42f31ca855fee3f01a427715824927a7cd3be6c1e0fab652c975c512f906dcb882c9e086d258781f7263e0696e79cdee578adf65b25567dbfe522c7dac
+Size: 116458
+MD5sum: deb898cc3f978d01a2d05fd0b3bcbce0
+SHA1: f2c076293ceb7f1df8be4934950c4bf84997ca79
+SHA256: 832959794f776d4ad54ea7bda326e55063801c502606949967fba2443d18ea93
+SHA512: 264ca1705fe374579016c3f81f7e33949a87c2300b3997c540c5cc51ab8283472b7cd56b883820fd885c48be08308473e20a3bb2ca258a8ecb250beb27a0309c
 Description: Vuốt xuống thẻ chuyển đổi ứng dụng để tắt tất cả ứng dụng!
 Name: KillAll Apps VH(Roothide)
 Depiction: http://bvnsupport.github.io/infodeb/Html/killapp.html
