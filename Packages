@@ -4011,6 +4011,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Kayoko.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Kayoko.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.killall.r2
+Architecture: iphoneos-arm64e
+Version: 1.3.1-1
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 440
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.killall.r2_1.3.1-1_iphoneos-arm64e.deb
+Size: 40332
+MD5sum: 3cd417694828c87a32ce569beaea717a
+SHA1: d41d5d3ee0d4d1477752f2889ccc464ab8be64b7
+SHA256: b68db0f3109d48b867206afe3b9a970e5856d0d220efea913cd79e51cf3ab469
+SHA512: 26293a42f31ca855fee3f01a427715824927a7cd3be6c1e0fab652c975c512f906dcb882c9e086d258781f7263e0696e79cdee578adf65b25567dbfe522c7dac
+Description: Vuốt xuống thẻ chuyển đổi ứng dụng để tắt tất cả ứng dụng!
+Name: KillAll Apps VH(Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/killapp.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/killapp.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Author: p2kdev , BVN
+
 Package: com.bvn.lastlook-r2
 Architecture: iphoneos-arm64e
 Version: 4.2.2
