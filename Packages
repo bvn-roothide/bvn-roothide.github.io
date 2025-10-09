@@ -5065,13 +5065,16 @@ Installed-Size: 172
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/com.bvn.photopurge.r2_1.0_iphoneos-arm64e.deb
-Size: 7032
-MD5sum: 56c5741049ca23948558696a35a8ac77
-SHA1: 5e8133e777d12183f6b09dd3af9256aeaa7d03a9
-SHA256: 4e7386cf251c5c2e0d786d0c590dd2400b6104c426462e2e05d8b90b7d5f7dc9
-SHA512: 697eb03faa1d27f7396b4ed4b07a9385441f8b5fb31591c5b8fa089868948d656640b9d84dbf41e95b70603a753e90456f28b22388ea931e4b720fd285d1b258
+Size: 7248
+MD5sum: 9c511f19a0750fc245805228068e4194
+SHA1: 974fda26833466c787345d16bba1f45e2ad98081
+SHA256: 6f3d404276feab979b8bc2ae4bd4c5222c0f322c75d81fde66306a769f30f3d5
+SHA512: 12d392cbca969e1112b03f86309e963a5333f6114cbcb8461389fdb25d4a79c716aa749b0321996e75bcba57559133fd46247024118233eaad4bf0c7266e1bef
 Description: Xoá hoàn toàn hình ảnh của bạn
 Name: PhotoPurge (Roothide)
+Depiction: http://bvnsupport.github.io/infodeb/Html/PhotoPurge.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/PhotoPurge.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Author: BVN
 
 Package: com.bvn.picsartcrack
