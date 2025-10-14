@@ -8249,6 +8249,26 @@ Depiction: http://bvnsupport.github.io/infodeb/Zetsu/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Zetsu.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.rophim.lk.r2
+Architecture: iphoneos-arm64e
+Version: 0.0.1-5+debug
+Section: Apps Crack
+Maintainer: BVN Repo
+Installed-Size: 80
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.rophim.lk.r2_0.0.1-5+debug_iphoneos-arm64e.deb
+Size: 8112
+MD5sum: 010115a47228124bfa4969062c2d3c25
+SHA1: f97641b87e41121cfd24040b3eb79a00ca85b8ea
+SHA256: 453ff7a059e5240dd6a5312e15e7c8d90c256ff266c8dd7881c0b2afeba0b002
+SHA512: ad8122945db04c08af6b3e58c05c9069277d77155aad4b7efa6d588517bcf2f4ff2249eb211d7df0d677aec2a7cff713f41114b65b15fb6e7729d461670a7231
+Description: Unlock Rox
+Name: Rổ Phim Unlock (Roothide)
+Author: LK
+Depiction: http://bvnsupport.github.io/infodeb/Html/ro.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ro.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
 Package: com.spark.libsparkcolourpicker
 Architecture: iphoneos-arm64e
 Version: 1.0.3-rootless
