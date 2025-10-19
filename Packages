@@ -1821,6 +1821,27 @@ Name: Alpine (Roothide)
 Author: MTAC
 Icon: https://media.havoc.app/64ae21880d54f9113bc13a59
 
+Package: com.bvn.ampere.r2
+Architecture: iphoneos-arm64e
+Version: 1.4-2+debug
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 780
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.bvn.ampere.r2_1.4-2+debug_iphoneos-arm64e.deb
+Size: 139152
+MD5sum: ac4c3b7e8f75c8a25e43d7a605aa40c8
+SHA1: ab85fda1679724876de950ee7cec61e8633cc29e
+SHA256: 46845a1110c460e82693576fbdf752209549e7b49e2f1427bacaf132f8189f4a
+SHA512: 30b2cb82766f3920a1b833af05c7f204317399d65b1b5b57d15a1631b6a9167e8e08714dc5bbaba4ffd6545bb889031f974422659a3a2bc82438dd84d33bb4fa
+Description: iOS 16 Style Battery Indicator
+Name: Ampere VH(Roothide)
+Author: MTAC
+Depiction: http://bvnsupport.github.io/infodeb/Html/Ampere.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Ampere.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.appaze3
 Architecture: iphoneos-arm64e
 Version: 1.0.1
