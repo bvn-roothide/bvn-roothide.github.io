@@ -3743,22 +3743,22 @@ Icon: https://raw.githubusercontent.com/uz-ra/uz-ra.github.io/main/HALO.PNG
 
 Package: com.bvn.hideserialnumber
 Architecture: iphoneos-arm64e
-Version: 0.0.4
+Version: 0.0.4-1
 Section: Tweaks
 Maintainer: BVN Repo
 Installed-Size: 472
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
-Filename: ./debs/com.bvn.hideserialnumber_0.0.4_iphoneos-arm64e.deb
-Size: 189096
-MD5sum: c83d1865eda5d4ef4d69c9b96a3fce78
-SHA1: 02b5e9c64a3611fe652fa3308ccfa20b840369d3
-SHA256: d33eef16ab61175657de9560b8a837bde5e05e2adddce77a19e307b66cdacea9
-SHA512: 87bc0eac19722f37edeaf3bd90984a582019d4bc88348030d0c692bde7e81869012e3a56657785c41fcaba04507944eca17319e8223155bf9ed541f828f055ab
+Filename: ./debs/com.bvn.hideserialnumber_0.0.4-1_iphoneos-arm64e.deb
+Size: 63604
+MD5sum: 5355afc784e8de0617b62f7e74661dee
+SHA1: fa8a178cdd7d3ee85b251dd16033145bba12f7b3
+SHA256: 73fab28248748e2b0600a10361f5427124c7049142ac07fcb34caa7a4b5cf63d
+SHA512: f062bd5eab470d4b59c03363ff33c6f98486b212265722d511be5bde1d1422ddb02ccae9bcdc8850453e1a017acc7d811a75b93327d483fd7f9f5b1c98294a0d
 Description: Hide Serial Number in Settings About page.
 Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
 Author: ichitaso
-Name: HideSerialNumber (Roothide)
+Name: HideSerialNumber VH(Roothide)
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Depiction: http://bvnsupport.github.io/infodeb/HideSerialNumber/?p=info
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/hideseri.json
