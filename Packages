@@ -4834,11 +4834,11 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/com.bvn.muteplay.r2_1.0_iphoneos-arm64e.deb
-Size: 4852
-MD5sum: af1ee8fb9394940d9b0ad0da6c628c2c
-SHA1: ef105c5c9c3d13931c4b32810c570d982e48fe3d
-SHA256: a6a33826896186dd7fbf6921ce52a6d71df60dd37254190480b6400d73b503cb
-SHA512: 227d37f574eb3b9f0ed38a3cabca699226713232a39e0d74510cf4509d050a9b88cbcfd2d6e431527f4bb7dd37c13732f5a49f9144a6737b3e0dd2242bf3fc5c
+Size: 5460
+MD5sum: a4162245a9226e7a8ce1bd1a5aa67cc2
+SHA1: 351c2dc11edd0b14d512973ececfd133319bcde9
+SHA256: 2a10d09023af6fd0fb7028dce19019dd878861936e5f7eb7280b7331a44eceb1
+SHA512: 3f0b25544a0118f4f71c6042d9d4c969fe8e0a12e067c6860d3f5bd3f1279f4861141d2bfb4cf8478c7f3669ea4225ad19da099df30a1acf1f04885581bf6618
 Description: Mute notifications while playing music。
 Name: MutePlay (Roothide)
 Author: uz.ra
