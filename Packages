@@ -6405,21 +6405,21 @@ Author: MTAC
 
 Package: com.bvn.uptime
 Architecture: iphoneos-arm64e
-Version: 1.0.2
+Version: 1.0.2-1
 Section: Tweaks
-Maintainer: BVN
+Maintainer: MTAC
 Installed-Size: 188
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/com.bvn.uptime_1.0.2_iphoneos-arm64e.deb
-Size: 27688
-MD5sum: e9b29cd9eaaf4efeed4b476c1d82ede9
-SHA1: b5c4a105a69a359e4bd0845bf887e414e5590c10
-SHA256: 3b04e419279049f1cd28483aec412b19e3664784e988384be51c83f160f6fff9
-SHA512: 62b472b0ad9fd42e575fb023087883796380d302abb81ad32eb779bce42176eaf44eb1381e1f49883a1cf1251cbd56a145c204f57fc72caab02a0844fe67824f
-Description: Mô-đun Trung tâm điều khiển để xem thời gian kể từ khi khởi động
-Name: Uptime VH (Roothide)
-Author: MTAC,BVN
+Filename: ./debs/com.bvn.uptime_1.0.2-1_iphoneos-arm64e.deb
+Size: 30100
+MD5sum: 7477786fbb34cf1cd43b644b9a61536b
+SHA1: 8f1589619cae6c404297ec1bb0a46f97327604e4
+SHA256: 1376942c2d1f6ed83fda48f9594dd0288d253f9fccc7d22c63c3ee18a4803314
+SHA512: 67ef7bfddac4ffacd38cfbc404291ef128fb8dcdc0ecfadfbf58f6eccc39bc7495c512437b24ee1d3071d319c0e97cb564a91f64b4f38b9107d475455c08feaa
+Description: Control Center module to view time since boot
+Name: Uptime VH(Roothide)
+Author: MTAC
 Depiction: http://bvnsupport.github.io/infodeb/Html/Uptime.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Uptime.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
