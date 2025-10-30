@@ -2013,6 +2013,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Breathing.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Breathing.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.batterycricle.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 104
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.batterycricle.r2_1.0.1_iphoneos-arm64e.deb
+Size: 10220
+MD5sum: f8c96b5052d81035195dcd659c7a0864
+SHA1: 9737ef2d73e0c4f6a0c537aaddf7d7f4e85c32a4
+SHA256: ff69c9fc14d30d8a2da36fcd7bbcc02e57caa9ceed44076b22ebb824b1618170
+SHA512: d8debcf6bfda38d72c5fb43249d5dd5c6440606deea996a787043c42e9732dd252661c8cd705986c33a814d3c32cc18d510c8c55676a43985e16067a38bdfe8f
+Description: Show Current Percentage Inside Cricle Battery Icon!
+Name: BatteryCircle (Roothide)
+Author: nqt1195
+Depiction: http://bvnsupport.github.io/infodeb/Html/BatteryCircle.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/BatteryCircle.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.bvn.batteryinfo.r2
 Architecture: iphoneos-arm64e
 Version: 1.1.8
@@ -6363,6 +6384,27 @@ SileoDepiction: https://bvnsupport.github.io/sileodepictions/touchvis.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 Name: Touch-Viz VH(Roothide)
 Author: Lessica
+
+Package: com.bvn.trollstorevn.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 92
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.trollstorevn.r2_1.0.1_iphoneos-arm64e.deb
+Size: 12052
+MD5sum: aa28ea835275889577194d83a2930c61
+SHA1: e3b5291f9133270fedc2a236634071f0b3e4448f
+SHA256: 9c1f4f212bd4eca47128e55c7c45d50c8e7dceb173cf82ab2ef8fbc2bcc5c9c4
+SHA512: e0cfdd04d0833365e9b1eb365bffcc4d7efecdf378aee876206bd81bc6c6b3b7febefdbaa30deb37888e4bde9903c53c1cfb023d377cc914bfd1dd0511595c88
+Description: Việt hóa Trollstore
+Name: TrollStore (Gói Tiếng Việt)
+Author: BVN
+Depiction: http://bvnsupport.github.io/infodeb/Html/TrollStorevh.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/TrollStorevh.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/dich.png
 
 Package: com.bvn.ulike.r2
 Architecture: iphoneos-arm64e
