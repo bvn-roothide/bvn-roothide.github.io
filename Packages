@@ -3055,6 +3055,27 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/DumpDecrypter.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/DumpDecrypter.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.bvn.dynamicislandanimation.r2
+Architecture: iphoneos-arm64e
+Version: 1.1.8
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 432
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.bvn.fixvn
+Filename: ./debs/com.bvn.dynamicislandanimation.r2_1.1.8_iphoneos-arm64e.deb
+Size: 39612
+MD5sum: b8b3b3969c60cfc0c3a37244a1e265e6
+SHA1: 2a0a51b95de085563c0db429e8ae061e9a2bafc6
+SHA256: caa43e72416f2b96a730b2dece48ff5f7f905d550c2bf9c0876ec2d45917d6e3
+SHA512: 64431eeeca4c441ddb52962c610a68b0af4c55946f2bfa0e8eb4fe81b1275677650266f57c9a2fc0d8cee813845ad5acaa37ae75ef9c7ff29f825359bc169e97
+Description: Dùng để tích hợp các hiệu ứng nhảy múa sống động từ album Đảo Linh Đông và bản ghi màn hình.
+Name: DynamicIsland Animation (Roothide)
+Author: Simon
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/Animation.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Animation.json
+
 Package: com.bvn.dynamicnotlands.r2
 Architecture: iphoneos-arm64e
 Version: 1.0.2
@@ -3275,6 +3296,25 @@ Description: Đã khắc phục sự cố trong đó một số Tweaks được 
 Name: FixSet (Roothide)
 Author: @bswbw
 Sponsor: gblw
+
+Package: com.bvn.fixvn
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: bvn
+Installed-Size: 16732
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.fixvn_1.0_iphoneos-arm64e.deb
+Size: 154872
+MD5sum: 0977f5ecb2a0e2d24e468d08aea61c38
+SHA1: 7bd2dec74aceb337942d97b0da772e2170662e4d
+SHA256: 77ea0da5f56cf1f2e5a920bb2c80ebf1445969641932c0409327d4ef0c8d43db
+SHA512: c43796d35f40313714f16925a82e49a135ec3db4bd52801a6049365a9245c0fb5bdf6a5277d0f881e8764e5f80eb957554a966ab79afd704d4980514f986bc42
+Description: Fixtrans
+Name: Fixtrans
+Author: bvn
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.floaty.r2
 Architecture: iphoneos-arm64e
