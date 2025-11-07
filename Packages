@@ -243,6 +243,27 @@ Name: BetterCCCrashProtect (Roothide)
 Author: 0xkuj
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
+Package: com.Axs.ccmusic
+Architecture: iphoneos-arm64e
+Version: 1.0.5K
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 428
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0), com.bvn.fixvn, com.bvn.ccmusic.vh
+Filename: ./debs/com.Axs.ccmusic_1.0.5K_iphoneos-arm64e.deb
+Size: 30160
+MD5sum: 6cdb1b4a6d8ff3a7808f77bea48f5c63
+SHA1: dc814ef7042f0ec45507d784ec1c47a8544ca386
+SHA256: 13d7d53d681232def65272d438e1141c8364566a069f61517c61d0b01c51cf76
+SHA512: 21e3ac58a42a73c621c649251f4b6ecc3b1ea49e667e56b5a980f6b98fc09adb1cd129abdb614e28d37b01d4fa35e68204df6c0815a8b0b9c84755556b837e35
+Description: Thêm hoạt ảnh vào mô-đun âm nhạc trong trung tâm điều khiển
+Name: CC Music VH(Roothide)
+Author: simon
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Depiction: http://bvnsupport.github.io/infodeb/Html/ccmusic.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/ccmusic.json
+
 Package: com.BIENVANNHAT.SearchDots
 Architecture: iphoneos-arm64e
 Version: 1.1.5
@@ -1363,6 +1384,28 @@ Author: blatants
 Depiction: http://bvnsupport.github.io/infodeb/Html/Stickers.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Stickers.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
+Package: com.bvn.Gifroothide
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Bvn
+Installed-Size: 356
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, oldabi, com.bvn.fixvn
+Conflicts: com.bvn.gifr-o-o-t-l-e-s-s-
+Filename: ./debs/com.bvn.Gifroothide_1.0.4_iphoneos-arm64e.deb
+Size: 17816
+MD5sum: 1b9f30208d09b5912577bb7eab48b031
+SHA1: 60006cf52cb438f32fd49a9a3ee83e5d9fdb694a
+SHA256: 763057aa630aef41946aae6fde3e8b65ce60f439bab3bf141c9db89542b14ec1
+SHA512: 46fa98ea26d86ccf24d70743196172c092a6eb82c77383097669318266e05984000b8b1b1b98b3b6e7874dfd28fad9dce85856905e5d120ba3d863fb517fb9d2
+Description: Thêm Gif vào dynamic island
+Name: Gif island VH(Roothide)
+Author: liuf
+Depiction: http://bvnsupport.github.io/infodeb/Html/Gif.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Gif.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.bvn.ITCBauhausR
 Architecture: iphoneos-arm64e
@@ -2612,6 +2655,24 @@ Author: fiore & p2kdev & 妖刀
 Depiction: http://bvnsupport.github.io/infodeb/Html/CCBorder16.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/CCBorder16.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bvn.ccmusic.vh
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Maintainer: bvn
+Installed-Size: 176
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.ccmusic.vh_1.0.1_iphoneos-arm64e.deb
+Size: 15052
+MD5sum: b3cf858e375ee888ed6cbb340903ced9
+SHA1: 82f1343e41e4e4a78bd8bf0163b8bd94cb3539af
+SHA256: 4fd3f78f1a245e69c75b5b12f1550493875f097cf9c239bacbdd21d6a62a7f42
+SHA512: 8cbbc89dfa30af2bb28dead7b7bbf16853f91a5fd5e485838bc809f75ade94f83051b2b565a5abd89403ca4fe2a7274d025dd022fbb314938e0ceb523a6b04fc
+Description: Gói Tiếng Việt cho CC Music
+Name: CC Music (Gói Tiếng Việt)
+Author: BVN
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/dich.png
 
 Package: com.bvn.ccmusicartwork
 Architecture: iphoneos-arm64e
