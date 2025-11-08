@@ -6899,6 +6899,26 @@ Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: https://iarrays.com/sileo-depiction/whoiscalling/icon.png
 
+Package: com.bvn.widgy.r2
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Apps Crack
+Maintainer: BVN
+Installed-Size: 10916
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bvn.widgy.r2_1.0_iphoneos-arm64e.deb
+Size: 3244940
+MD5sum: 178e061e79b7b6e6328dd06f42f6f3c8
+SHA1: 8f428a2205e27bc596291abc624aa7de3d7bd997
+SHA256: 4ef97183db8712c969fbd6fbb22d501e3dc8d2f8e8a2bebdb20fe28aecdfa27a
+SHA512: d2d7f297e0a5382f1179d095720add329eabd0f45065a30cc36c59fab88e9653d7e8ee3c316ce34f8051fafcd650cb5e2e0e8c4f1b081fe0d3354a3f19f533b5
+Description: Cracked By Blatant
+Name: Widgy Unlock
+Author: blatant
+Depiction: http://bvnsupport.github.io/infodeb/Html/Widgy.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Widgy.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
 Package: com.bvn.wink.vip.r2
 Architecture: iphoneos-arm64e
 Version: 0.1
