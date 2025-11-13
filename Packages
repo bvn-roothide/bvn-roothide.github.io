@@ -9121,6 +9121,27 @@ Description: Gói Mask tết .Kích Hoạt qua Snowboard
 Name: Mask Tết(Roothide)
 Author: Vũ Qunag
 
+Package: vn.bvn.aerial.r2
+Architecture: iphoneos-arm64e
+Version: 1.0K
+Section: Tweaks
+Maintainer: BVN
+Installed-Size: 672
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/vn.bvn.aerial.r2_1.0K_iphoneos-arm64e.deb
+Size: 105552
+MD5sum: aa67fc33f961c9a10e6a731256ac22ba
+SHA1: bf7b9e88ee92f865844c0cb1d97bf23cf2215007
+SHA256: 8f69fefac02fba86ca702cc841c0363756c9ccb47788e0b200472baebd51e6ba
+SHA512: dfa567399bd084adbe56d473fea94f86c88b78db2c9b643c59ad033b5d69ade5064030ccf2efac792ada14a8c8c790e97f9facf43b0bf173645a8dd0b2a73fe7
+Description: Stage Manager, redesigned for iOS.Crack By BvN
+Name: Aerial VH(Roothide)
+Author: uz.ra
+Depiction: http://bvnsupport.github.io/infodeb/Html/Aerial.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Aerial.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: vn.bvn.bigsurcenter
 Architecture: iphoneos-arm64e
 Version: 1.4.4K
