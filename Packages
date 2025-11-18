@@ -9163,27 +9163,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Aerial.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Aerial.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
-Package: vn.bvn.aerial.r2
-Architecture: iphoneos-arm64e
-Version: 1.1K
-Section: Tweaks
-Maintainer: BVN
-Installed-Size: 692
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/vn.bvn.aerial.r2_1.1K_iphoneos-arm64e.deb
-Size: 111556
-MD5sum: 2a4eadf2f18a249701c3ecd94dda2b79
-SHA1: 38cfae34fe4dbc45b278a27aebd9d8562b2478f0
-SHA256: 192bc25599fc59ece80e276810bcd28fd8aba39d2e3d5b9c895296872bb8551c
-SHA512: 5eeee188b75053d3ddc21b1e95bb29adb5c8f1df7809922a3fe7000bf810a59cb53aedc9950ff1b4269ee28532173966040482f0cb9d2528a98cf8b51e670f37
-Description: Stage Manager, redesigned for iOS
-Name: Aerial VH(Roothide)
-Depiction: http://bvnsupport.github.io/infodeb/Html/Aerial.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/Aerial.json
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
-Author: uz.ra
-
 Package: vn.bvn.bigsurcenter
 Architecture: iphoneos-arm64e
 Version: 1.4.4K
