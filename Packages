@@ -9172,11 +9172,11 @@ Installed-Size: 692
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/vn.bvn.aerial.r2_1.2K_iphoneos-arm64e.deb
-Size: 114664
-MD5sum: 973357b3f1ca1c4d36a55f27ff851cbb
-SHA1: 87c12cdf89819d876839d3e1b6595a69ecea49ee
-SHA256: 889984f82314fabe86096431db481d9b564e286a3eefe195d5d04ca20551306d
-SHA512: 2d091826b9a77859cb317b9c0559d6cfd13652d7fad66a48039ed3daa8d81d08c278ac4136751f23863955f368c4ba1eb0c5d630a596a874e7c2575270692f89
+Size: 114524
+MD5sum: e2ce0953f13c52f1eb3e50ea5a376f52
+SHA1: 21fcd24f13738b72154642d3cbf5c368e199f8d1
+SHA256: ae9ebc8108546eecf56271d2c074b35cdefb8e936fa32b50a2f80d1bda0e5807
+SHA512: abb37e3e9cb583a586eb3cecc23b579afdb514e9d0272e5aa01c12cb82a6be6d846ff7cbafc885564a72cd7e096634e2227db3b983bfc1b628f1eb070fbfbc27
 Description: Stage Manager, redesigned for iOS
 Name: Aerial VH(Roothide)
 Depiction: http://bvnsupport.github.io/infodeb/Html/Aerial.html
